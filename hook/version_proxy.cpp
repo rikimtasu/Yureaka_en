@@ -348,7 +348,6 @@ using PalFontGetType_t = int (__cdecl*)();
 using PalFontBegin_t = int (__cdecl*)();
 using PalFontSetFontSize_t = int (__cdecl*)(int);
 using PalFontGetSize_t = int (__cdecl*)(LPCSTR, SIZE*);
-using PalSpriteLoad_t = void* (__cdecl*)(void*, LPCSTR, int);
 using CreateWindowExA_t = HWND (WINAPI*)(DWORD, LPCSTR, LPCSTR, DWORD, int, int, int, int, HWND, HMENU, HINSTANCE, LPVOID);
 using SetWindowTextA_t = BOOL (WINAPI*)(HWND, LPCSTR);
 using LoadLibraryA_t = HMODULE (WINAPI*)(LPCSTR);
@@ -361,7 +360,6 @@ static PalFontGetType_t     g_orig_PalFontGetType = nullptr;
 static PalFontBegin_t       g_orig_PalFontBegin = nullptr;
 static PalFontSetFontSize_t g_orig_PalFontSetFontSize = nullptr;
 static PalFontGetSize_t     g_orig_PalFontGetSize = nullptr;
-static PalSpriteLoad_t      g_orig_PalSpriteLoad = nullptr;
 static CreateWindowExA_t    g_orig_Exe_CreateWindowExA = nullptr;
 static SetWindowTextA_t     g_orig_Exe_SetWindowTextA = nullptr;
 static CreateWindowExA_t    g_orig_Pal_CreateWindowExA = nullptr;
@@ -500,14 +498,6 @@ static int __cdecl hook_PalFontGetSize(LPCSTR str, SIZE* out_sz) {
     return ret;
 }
 
-static void* __cdecl hook_PalSpriteLoad(void* a1, LPCSTR filename, int a3) {
-    void* ret = g_orig_PalSpriteLoad(a1, filename, a3);
-    if (!ret && g_cfg.enable_log) {
-        log_msg("[PalSpriteLoad] miss: filename=\"%s\" a1=%p a3=%d", filename ? filename : "(null)", a1, a3);
-    }
-    return ret;
-}
-
 static bool is_pal_dll_name(LPCSTR name) {
     if (!name) return false;
     const char* base = std::strrchr(name, '\\');
@@ -561,11 +551,6 @@ static FARPROC WINAPI hook_GetProcAddress(HMODULE hModule, LPCSTR lpProcName) {
             g_orig_PalFontGetSize = reinterpret_cast<PalFontGetSize_t>(real);
             log_msg("[GetProcAddress] intercepted PalFontGetSize");
             return reinterpret_cast<FARPROC>(&hook_PalFontGetSize);
-        }
-        if (std::strcmp(lpProcName, "PalSpriteLoad") == 0) {
-            g_orig_PalSpriteLoad = reinterpret_cast<PalSpriteLoad_t>(real);
-            log_msg("[GetProcAddress] intercepted PalSpriteLoad");
-            return reinterpret_cast<FARPROC>(&hook_PalSpriteLoad);
         }
     }
     return real;
