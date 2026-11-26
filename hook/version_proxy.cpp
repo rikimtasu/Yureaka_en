@@ -484,15 +484,24 @@ static int __cdecl hook_PalFontSetFontSize(int size) {
 
 static int __cdecl hook_PalFontGetSize(LPCSTR str, SIZE* out_sz) {
     int ret = g_orig_PalFontGetSize(str, out_sz);
-    if (ret && str && out_sz && str[0] != '\0' && str[1] == '\0') {
-        unsigned char c = static_cast<unsigned char>(str[0]);
-        if (c == ' ') {
-            int sp = (g_cur_font_height * g_cfg.space_width_percent + 50) / 100;
-            if (sp < 4) sp = 4;
-            out_sz->cx = sp;
-        } else if (c >= 0x21 && c <= 0x7E) {
-            long adj = out_sz->cx + g_cfg.char_spacing_delta;
-            out_sz->cx = adj > 1 ? adj : 1;
+    if (ret && str && out_sz && str[0] != '\0') {
+        unsigned char c0 = static_cast<unsigned char>(str[0]);
+        if (str[1] == '\0') {
+            if (c0 == ' ') {
+                int sp = (g_cur_font_height * g_cfg.space_width_percent + 50) / 100;
+                if (sp < 4) sp = 4;
+                out_sz->cx = sp;
+            } else if (c0 >= 0x21 && c0 <= 0x7E) {
+                long adj = out_sz->cx + g_cfg.char_spacing_delta;
+                out_sz->cx = adj > 1 ? adj : 1;
+            }
+        } else if (str[2] == '\0' && c0 == 0x81) {
+            unsigned char c1 = static_cast<unsigned char>(str[1]);
+            // Apply same compact spacing to CP932 curly double quotes “ (0x8167) and ” (0x8168)
+            if (c1 == 0x67 || c1 == 0x68) {
+                long adj = out_sz->cx + g_cfg.char_spacing_delta;
+                out_sz->cx = adj > 1 ? adj : 1;
+            }
         }
     }
     return ret;
@@ -589,11 +598,92 @@ static void load_config() {
     GetPrivateProfileStringA("Window", "Title", g_cfg.window_title, g_cfg.window_title, sizeof(g_cfg.window_title), ini_path);
 }
 
+// Auto-heal save\favoice.dat if an earlier run saved nested ASCII '"' inside the 5th CSV column
+// (e.g. 000000,0,"Asahi","VO03_00095",""Now that's infuriating!""), which crashes Softpal on launch.
+static void sanitize_favoice_dat() {
+    char fav_path[MAX_PATH] = {};
+    std::snprintf(fav_path, sizeof(fav_path), "%s\\save\\favoice.dat", g_exe_dir);
+    FILE* fp = std::fopen(fav_path, "rb");
+    if (!fp) return;
+    std::fseek(fp, 0, SEEK_END);
+    long sz = std::ftell(fp);
+    std::fseek(fp, 0, SEEK_SET);
+    if (sz <= 0 || sz > 4 * 1024 * 1024) {
+        std::fclose(fp);
+        return;
+    }
+    std::vector<char> buf(static_cast<size_t>(sz));
+    if (std::fread(buf.data(), 1, buf.size(), fp) != buf.size()) {
+        std::fclose(fp);
+        return;
+    }
+    std::fclose(fp);
+
+    std::vector<char> out;
+    out.reserve(buf.size() + 64);
+    bool modified = false;
+    size_t i = 0;
+    while (i < buf.size()) {
+        size_t line_start = i;
+        while (i < buf.size() && buf[i] != '\n') ++i;
+        size_t line_end = i;
+        bool has_lf = (i < buf.size() && buf[i] == '\n');
+        if (has_lf) ++i;
+        size_t content_end = line_end;
+        bool has_cr = (content_end > line_start && buf[content_end - 1] == '\r');
+        if (has_cr) --content_end;
+
+        // Format: id,flag,"speaker","voice","<text>"
+        // Find the 4th comma to locate the 5th field ("<text>")
+        int commas = 0;
+        size_t f5_start = content_end;
+        for (size_t j = line_start; j < content_end; ++j) {
+            if (buf[j] == ',') {
+                ++commas;
+                if (commas == 4) {
+                    f5_start = j + 1;
+                    break;
+                }
+            }
+        }
+        if (f5_start + 2 <= content_end && buf[f5_start] == '"' && buf[content_end - 1] == '"') {
+            out.insert(out.end(), buf.begin() + line_start, buf.begin() + f5_start + 1);
+            bool open_q = true;
+            for (size_t j = f5_start + 1; j < content_end - 1; ++j) {
+                if (buf[j] == '"') {
+                    // Replace nested ASCII '"' with CP932 curly double quote (0x8167 / 0x8168)
+                    out.push_back(static_cast<char>(0x81));
+                    out.push_back(static_cast<char>(open_q ? 0x67 : 0x68));
+                    open_q = !open_q;
+                    modified = true;
+                } else {
+                    out.push_back(buf[j]);
+                }
+            }
+            out.push_back('"');
+        } else {
+            out.insert(out.end(), buf.begin() + line_start, buf.begin() + content_end);
+        }
+        if (has_cr) out.push_back('\r');
+        if (has_lf) out.push_back('\n');
+    }
+
+    if (modified) {
+        FILE* wfp = std::fopen(fav_path, "wb");
+        if (wfp) {
+            std::fwrite(out.data(), 1, out.size(), wfp);
+            std::fclose(wfp);
+            log_msg("[FavVoice] sanitized nested ASCII quotes in %s", fav_path);
+        }
+    }
+}
+
 static void install_hooks() {
     if (g_hooks_installed || !g_cfg.enabled) return;
     g_hooks_installed = true;
 
     log_msg("=== yureaka_en v2 hook init (dir=%s) ===", g_exe_dir);
+    sanitize_favoice_dat();
 
     // 1. Register bundled Google Font TTF privately
     if (g_cfg.font_file[0]) {

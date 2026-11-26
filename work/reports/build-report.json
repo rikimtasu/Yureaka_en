@@ -8,13 +8,13 @@
   "overlay": {
     "path": "d:\\Documents\\yureaka_en\\dist\\yureaka_en.dat",
     "entries": 47317,
-    "size": 2835298,
-    "sha256": "4db4d4be1d294b29d39340c1bc9f73bf0198f8a5ecec558373538eede79aebd1"
+    "size": 2873296,
+    "sha256": "f08314a260f06f2c9da3c5054e3456b4b7180781f390ce6e6fc995babb4113cb"
   },
   "csv_pac": {
     "output": "d:\\Documents\\yureaka_en\\dist\\csv.pac",
-    "size": "40044",
-    "sha256": "4bb81dc0250b8be9e07c2c64fb6e561bfebed8aef9c4e96f833e6eeee4f66290",
+    "size": "40046",
+    "sha256": "9ad80d8495a56d47b8ce4bfedf3021e6fecdcf96585056ca745b586b4a65bb7f",
     "entries": "14"
   },
   "patch_pac": {

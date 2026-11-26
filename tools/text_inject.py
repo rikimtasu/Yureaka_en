@@ -38,8 +38,8 @@ PROTECTED_TAG_RE = re.compile(r"</?(?:d\d{4}|d|s\d+|s|center|c(?:#[^<>]+)?)>")
 UNICODE_NORMALIZE_MAP = str.maketrans({
     "\u2018": "'",
     "\u2019": "'",
-    "\u201c": '"',
-    "\u201d": '"',
+    "\u201c": "\u201c",  # keep CP932 “ (0x8167) so Softpal favoice.dat CSV never breaks on ASCII 0x22!
+    "\u201d": "\u201d",  # keep CP932 ” (0x8168)
     "\u2014": "--",
     "\u2015": "--",
     "\u2013": "-",
@@ -49,12 +49,12 @@ UNICODE_NORMALIZE_MAP = str.maketrans({
     "\u200b": "",
     "\ufeff": "",
     "\u3000": " ",
-    "\u00ab": '"',   # «
-    "\u00bb": '"',   # »
-    "\u226a": '"',   # ≪
-    "\u226b": '"',   # ≫
-    "\u300c": '"',   # 「
-    "\u300d": '"',   # 」
+    "\u00ab": "\u201c",  # «
+    "\u00bb": "\u201d",  # »
+    "\u226a": "\u201c",  # ≪
+    "\u226b": "\u201d",  # ≫
+    "\u300c": "\u201c",  # 「
+    "\u300d": "\u201d",  # 」
     "\u300e": "'",   # 『
     "\u300f": "'",   # 』
     "\uff08": "(",   # （
@@ -102,6 +102,18 @@ def normalize_english_text(text: str, *, allow_cp932_symbols: bool = False) -> s
     else:
         text = text.translate(UNICODE_NORMALIZE_MAP)
     text = text.replace("\r\n", "\n").replace("\r", "\n")
+    # Convert any remaining straight ASCII double quotes to CP932 curly quotes (“/”)
+    # so Softpal's save/favoice.dat CSV never gets corrupted by nested ASCII 0x22 quotes!
+    if '"' in text:
+        out_chars: list[str] = []
+        open_q = True
+        for ch in text:
+            if ch == '"':
+                out_chars.append("\u201c" if open_q else "\u201d")
+                open_q = not open_q
+            else:
+                out_chars.append(ch)
+        text = "".join(out_chars)
     # Fix spacing artifacts around normalized punctuation (e.g. `"I'm here! "` or `,  `)
     text = re.sub(r"[ \t]{2,}", " ", text)
     text = re.sub(r' "\s+', ' "', text)
@@ -167,6 +179,10 @@ class PixelWordWrapper:
                 # Matches Pal.dll (+3) + version.dll hook (char_spacing_delta)
                 w = max(1, int(gm.gmCellIncX) + 3 + self.char_spacing_delta)
                 widths[chr(code)] = w
+            for ch, cp932_code in [("\u201c", 0x8167), ("\u201d", 0x8168)]:
+                gm = GLYPHMETRICS()
+                gdi32.GetGlyphOutlineA(hdc, cp932_code, 6, ctypes.byref(gm), 0, None, ctypes.byref(mat))
+                widths[ch] = max(1, int(gm.gmCellIncX) + 3 + self.char_spacing_delta)
             gdi32.SelectObject(hdc, old)
             gdi32.DeleteObject(hf)
             gdi32.DeleteDC(hdc)
