@@ -48,25 +48,10 @@ static HookConfig g_cfg;
 static int g_cur_font_height = 32;
 static char g_exe_dir[MAX_PATH] = {};
 static char g_log_path[MAX_PATH] = {};
-static char g_err_log_path[MAX_PATH] = {};
-static char g_last_sprites[8][128] = {};
-static int g_last_sprite_idx = 0;
 static HMODULE g_real_version = nullptr;
 static HMODULE g_pal_module = nullptr;
 static bool g_pal_iat_hooked = false;
 static bool g_hooks_installed = false;
-
-static void log_err(const char* fmt, ...) {
-    if (!g_err_log_path[0]) return;
-    FILE* fp = std::fopen(g_err_log_path, "a");
-    if (!fp) return;
-    va_list ap;
-    va_start(ap, fmt);
-    std::vfprintf(fp, fmt, ap);
-    std::fputc('\n', fp);
-    va_end(ap);
-    std::fclose(fp);
-}
 
 static void log_msg(const char* fmt, ...) {
     if (!g_cfg.enable_log || !g_log_path[0]) return;
@@ -516,13 +501,9 @@ static int __cdecl hook_PalFontGetSize(LPCSTR str, SIZE* out_sz) {
 }
 
 static void* __cdecl hook_PalSpriteLoad(void* a1, LPCSTR filename, int a3) {
-    if (filename) {
-        std::snprintf(g_last_sprites[g_last_sprite_idx & 7], sizeof(g_last_sprites[0]), "%s", filename);
-        g_last_sprite_idx++;
-    }
     void* ret = g_orig_PalSpriteLoad(a1, filename, a3);
-    if (!ret) {
-        log_err("[PalSpriteLoad] FAILED: filename=\"%s\" a1=%p a3=%d", filename ? filename : "(null)", a1, a3);
+    if (!ret && g_cfg.enable_log) {
+        log_msg("[PalSpriteLoad] miss: filename=\"%s\" a1=%p a3=%d", filename ? filename : "(null)", a1, a3);
     }
     return ret;
 }
@@ -601,7 +582,6 @@ static void load_config() {
     char ini_path[MAX_PATH] = {};
     std::snprintf(ini_path, sizeof(ini_path), "%s\\yureaka_en.ini", g_exe_dir);
     std::snprintf(g_log_path, sizeof(g_log_path), "%s\\yureaka_en.log", g_exe_dir);
-    std::snprintf(g_err_log_path, sizeof(g_err_log_path), "%s\\yureaka_en_error.log", g_exe_dir);
 
     g_cfg.enabled = GetPrivateProfileIntA("General", "Enable", 1, ini_path) != 0;
     g_cfg.enable_log = GetPrivateProfileIntA("General", "Log", 0, ini_path) != 0;
