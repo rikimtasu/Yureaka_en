@@ -1,0 +1,696 @@
+[
+    {
+        "name": "Asahi",
+        "message": "「Good morning, Iori-sensei.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ah, morning, Asahi.」"
+    },
+    {
+        "message": "I scan the classroom, confirming that only Asahi is here. It’s a sight I’ve grown accustomed to over the past few days."
+    },
+    {
+        "name": "Iori",
+        "message": "「Just you again today, Asahi. Attagirl.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Huh？ What do you mean by ‘attagirl’？」"
+    },
+    {
+        "message": "If everyone had been sitting quietly in their seats like a bunch of model students, my burning passion for education—which had already reached a critical point—would have been dampened."
+    },
+    {
+        "name": "Iori",
+        "message": "「Asahi, I apologize. I’ve finally woken up.」"
+    },
+    {
+        "message": "Yes, Asahi had been consistent from the very beginning."
+    },
+    {
+        "message": "The others were just children whose mental age hadn't progressed past adolescence; they weren't the type of people who would listen to reason."
+    },
+    {
+        "name": "Iori",
+        "message": "「Up until yesterday, I was too soft, too kind. I lacked the necessary resolve.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「From today on, I will hold nothing back against them！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Y-you’ve finally realized it!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yes, I understand now. Starting today, I’m going to need you to lend me your full support, Asahi！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Yes, of course！」"
+    },
+    {
+        "message": "We stare at each other. I feel like I’ve finally reached an understanding with Asahi."
+    },
+    {
+        "name": "Iori",
+        "message": "「Now then, time for a strategy meeting.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Let’s think together about how we’re going to conquer the rest of them.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Understood!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I had you follow Setsugekka yesterday, but what happened after that？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I’m sorry, unfortunately, I lost her...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I see. Well, don’t let it bother you.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I was frustrated, so I leaked the footage of Setsugekka acting all cocky to Keisetsu-san, along with the news about her skipping school.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「What was Keisetsu’s reaction？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「She just said, ‘Hmph.’」"
+    },
+    {
+        "message": "There it is. Keisetsu’s ‘hmph.’"
+    },
+    {
+        "message": "When she reacts that way, it’s usually because she’s 『thoroughly unamused.’"
+    },
+    {
+        "message": "Keisetsu probably scolded Setsugekka quite severely."
+    },
+    {
+        "message": "After all, she skipped school and ran away instead of receiving the instruction from the teacher that Keisetsu had gone out of her way to arrange for her."
+    },
+    {
+        "name": "Iori",
+        "message": "「Right, let’s press the attack. Any good ideas？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Well, I surmise that Setsugekka-san is the type who simply cannot resist once a carrot is dangled in front of her.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「So, let’s scatter some bait.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I see, same principle as feeding animals, then.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Yes, exactly!♪」"
+    },
+    {
+        "message": "When housebreaking, you reward small successes with treats, gradually conditioning them to perform the desired behavior."
+    },
+    {
+        "message": "Until yesterday, I might have felt guilty about comparing a student to an animal, but today, I』m a different man."
+    },
+    {
+        "name": "Iori",
+        "message": "「In that case, I have an idea.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「What are you going to do？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Dietary restrictions.」"
+    },
+    {
+        "message": "I say with a grin."
+    },
+    {
+        "name": "Iori",
+        "message": "「Starting today, Setsugekka is going to experience a hellish calorie-restricted diet.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No rice, bread, noodles, or any other carbohydrates allowed whatsoever.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「But we’ll have a nutritionist prepare a special menu that maintains her muscle mass while properly supporting her nutritional needs.」"
+    },
+    {
+        "message": "Normally, the support system for students’ diets is left to individual choice."
+    },
+    {
+        "message": "However, homeroom teachers have the authority to forcibly impose dietary restrictions on students with problematic eating habits."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Is such a thing really possible？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「When I was a student here, one of my friends ate out way too much. He ended up gaining a lot of weight.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「He was switched to a calorie-restricted diet. He was even forbidden from snacking until the teacher gave him the all-clear.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「She might just sneak out to buy food behind our backs, you know.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That’s where I intend to get Keisetsu’s help.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Keisetsu is likely the one managing the money and credits Setsugekka uses. I’ll have her place a limit on those.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That way, within a few days, Setsugekka will be dying for some carbohydrates.」"
+    },
+    {
+        "message": "In JGSDF Ranger training, trainees aren't given enough water."
+    },
+    {
+        "message": "The crushing thirst drives the trainees’ minds to the absolute brink. They use water as bait to squeeze every last drop of effort out of them."
+    },
+    {
+        "name": "Iori",
+        "message": "「By starving her of carbohydrates like that, I’ll be the one to offer a helping hand.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「‘Follow my guidance, and you’ll get to eat your fill,’ that’s the play！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hehehe, a starvation tactic, is it? Splendid!」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「If we go with that method, there's no doubt she'll surrender to your authority, Iori-sensei.」"
+    },
+    {
+        "message": "Asahi stares at me with a rapturous expression."
+    },
+    {
+        "name": "Iori",
+        "message": "「Alright, next is Ririmu.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ririmu-san is the type who sticks to her own guns. She’s the kind of girl who absolutely won’t do something if she isn’t convinced.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「So, the same method as Setsugekka won't work.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Yes. If you try to impose restrictions or punish her, she’ll just become stubborn and won't listen to a word you say.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I think a reward-based proposal would be best for her, where we provide the material she needs to come to her own conclusion.」"
+    },
+    {
+        "message": "A reward-based approach... what would count as a reward for Ririmu？"
+    },
+    {
+        "name": "Iori",
+        "message": "「...Should I use Asahi?」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Me？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, since Ririmu is hostile toward you, Asahi.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I also consider Ririmu-san to be my <d0049>sworn enemy</d>.」"
+    },
+    {
+        "message": "Exactly, I'll make use of that."
+    },
+    {
+        "message": "Ririmu isn't the only one; martial artists are born with an intense desire not to lose."
+    },
+    {
+        "message": "I’ll manipulate her by playing on the fact that she doesn't want to lose to Asahi—someone she hates—and lead her to want to receive guidance."
+    },
+    {
+        "name": "Iori",
+        "message": "「To do that, I'll need you to put on an act with me, Asahi.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Asahi, will you cooperate？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Yes, of course.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Thanks. And then... there's Momiji.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I’ve talked to Momiji-san a little, but she is quite formidable.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Half-baked strategies won't work on her. If anything, we’d be the ones backed into a corner.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, I know.」"
+    },
+    {
+        "message": "Compared to Setsugekka and Ririmu, Momiji is in a league of her own."
+    },
+    {
+        "message": "Her exceptional intelligence was perfectly clear just from watching her match with Victoria-san."
+    },
+    {
+        "message": "I've never seen anyone capable of constructing such a perfect read on the very first try. It’s clearly beyond that of a normal person."
+    },
+    {
+        "message": "If she were to apply that to daily life... it would be terrifying."
+    },
+    {
+        "name": "Iori",
+        "message": "「Do you have any good ideas for handling Momiji？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「No, for now... I need a bit more information.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「If I could just get a hold of some decisive dirt on her, but I don't think Momiji is going to show her tail that easily.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「If we're going to probe her, I think we need to go all the way, by any means necessary.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Granted. Do it thoroughly.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Understood.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Alright, the plan is set then.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well then, let's prepare to execute...」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Iori-sensei, there's something I want to ask of you before we do that.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Something you want to ask of me？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「This operation is extremely important to you, Iori-sensei, and I have no intention of sparing any effort to help you.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「However... even if it is for your sake, Iori-sensei, those girls are people who will eventually become obstacles for me.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Leading them to receive your guidance, Iori-sensei, is like handing salt to the enemy.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Even I would like some kind of reward, at least...」"
+    },
+    {
+        "message": "Ah, I suppose that makes sense."
+    },
+    {
+        "name": "Iori",
+        "message": "「Understood. I'll do whatever I can.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Really？ Anything？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「W-well, anything within reason.」"
+    },
+    {
+        "message": "I wonder what on earth she's going to demand."
+    },
+    {
+        "name": "Asahi",
+        "message": "「In that case, I would like to request a private photoshoot.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「A photoshoot？ What are you going to shoot？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hehe, isn't it obvious?」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Of course, it's you, Iori-sensei♪」"
+    },
+    {
+        "name": "Iori",
+        "message": "<s36>\"M-me！？\"</s>"
+    },
+    {
+        "name": "Asahi",
+        "message": "「It's a session where you go shirtless, Iori-sensei, strike various poses, and let me photograph you to my heart's content.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, I'm not a model, you know！？ And shirtless, of all things！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「It's totally fine. Firefighters do it too.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「W-What do firefighters do？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Overseas, they have calendars featuring handsome, super-ripped firefighters posing shirtless, and they're hugely popular.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「If you don't believe me, try searching for 'firefighter' and 'calendar'. They'll show up right at the top.」"
+    },
+    {
+        "message": "I pull up my HR in private mode and run a Goggle search."
+    },
+    {
+        "name": "Iori",
+        "message": "「Whoa, they really exist...」"
+    },
+    {
+        "message": "A flood of images of macho firefighters with bursting pecs and abs came pouring onto the screen."
+    },
+    {
+        "name": "Asahi",
+        "message": "「I'm sure your body, honed in the Tenju Special Forces, is wonderful too, Iori-sensei. I would absolutely love to take some photos...！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「If we released a photobook of you, Iori-sensei, it'd easily sell ten thousand copies.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hold on, you're planning to sell them？！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「No, I wouldn't want to create more rivals, so I won't sell them. I'll just enjoy them privately for myself.」"
+    },
+    {
+        "message": "Hmm, Asahi is going to be helping me out a lot with this whole thing, after all."
+    },
+    {
+        "message": "If all it costs is showing off my body a little, that's a small price to pay, I guess..."
+    },
+    {
+        "name": "Iori",
+        "message": "「Alright, fine.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Huh, really？！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Just don't go uploading them online or anything, okay？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Yes, of course!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「L-Like this？」"
+    },
+    {
+        "message": "Doing as Asahi told me, I took off my shirt and stood there bare-chested."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Aaaah, yes, that's amazing, Iori-sensei!」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Such muscular beauty, just as I imagined... I think I'm going to get wet.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「W-What is？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ufufu, I wonder what.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Haah, I just want to dive right into that thick chest of yours.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I can't hold back anymore, Iori-sensei... Please, catch me in your arms！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「NOOOO！？ Please refrain from touching！」"
+    },
+    {
+        "message": "I beat a hasty retreat from Asahi as she creeps closer, making grabby hands at me."
+    },
+    {
+        "name": "Asahi",
+        "message": "「You're stingy, Iori-sensei.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Why are you so resistant？ Do you hate me？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, no, we're teacher and student, so I have to consider the morals of the situation...」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「At the point where we're having a photoshoot with you shirtless, doesn't 'morals' already go out the window？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ugh, true... but it's still a no！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「If you keep being selfish, I'm quitting this.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I understand. It's a shame, but I will refrain from touching.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, yeah, hurry up and start this 'photoshoot' thing.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Understood. Then, I shall begin the shoot.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ah, that's great~ Iori-sensei, you're wonderful~」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Could you flex your pectoral muscles for me？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ah, yes, that's it, it's perfect.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Haa, haa... tighten your abs... ahh, yes, that pose, it's so sexy.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I-is something like this okay？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Yes, it's unbearable, I love you, Iori-sensei.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Your expression is also nice~」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「It's a smile so wonderful it would captivate women all over the world.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「O-oh... is that so?」"
+    },
+    {
+        "message": "Being showered with such praise by Asahi, I start to feel a strange sensation."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Aahh, that shy look... just how much, just how much more are you going to ruin people before you're satisfied...」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「There isn't a woman alive whose heart wouldn't race at those spread hands.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Iori-sensei, you are nothing short of a masterpiece crafted by the gods.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I-is it really... that much？」"
+    },
+    {
+        "message": "Perhaps because of being constantly buttered up by Asahi, I can't help but get excited."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Yes, if there is any object in this life that I should pour my love into, it can only be you, Iori-sensei.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Sensei's body is even more beautiful than the famous Statue of David.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「One could even say that your existence is the very condensation of this world's beauty.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Come now, Iori-Sensei, please, expose even more of your beautiful figure to me...！！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ah, alright！ Keep snapping away！！」"
+    },
+    {
+        "message": "The private photo session ended."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Haaah... that was wonderful.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「How was the photo session for you, Sensei？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「It was insane...」"
+    },
+    {
+        "message": "At first, it was just embarrassing—that was all."
+    },
+    {
+        "message": "But as I kept being photographed over and over, I could feel it gradually turning into pleasure myself."
+    },
+    {
+        "message": "Bathing in Asahi's passionate gaze, being praised by her every time I struck a pose, and the mysterious sense of euphoria that built up as I was showered in flashes."
+    },
+    {
+        "message": "I think I might have understood how a model feels, just a little."
+    },
+    {
+        "name": "Iori",
+        "message": "「How about you, Asahi？ Were you satisfied？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Yes, my Iori-Sensei folder has been thoroughly enriched.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I likely won't ever be in need of fap material for the rest of my life.」"
+    },
+    {
+        "message": "I think I'll refrain from asking what kind of 'material' that is..."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Let's hold another private photo session, okay?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Cut it out！ I feel like I'm seriously going to end up crossing a line of no return！」"
+    },
+    {
+        "message": "I can't afford to stray from the right path because of something like this."
+    },
+    {
+        "name": "Iori",
+        "message": "「Anyway, with this, can I count on your help without any lingering reservations？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Yes, a promise is a promise, after all.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I will serve you with every ounce of my heart and soul, Iori-Sensei.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Alright. Then, let's begin the operation preparations！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ohhh！」"
+    }
+]

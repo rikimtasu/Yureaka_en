@@ -1,0 +1,878 @@
+[
+    {
+        "name": "Iori",
+        "message": "「...So, since ancient times, this island nation of Japan has been ruled by Ikusabito blessed with spiritual power.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「It is said that they manifested Tenju through blades imbued with spiritual protection―spirit swords―and reigned over the people.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「In the year 1870, these Ikusabito split into East and West and began the Boshin War.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「The Western Army, which possessed countries that produced superior tamahagane like Satsuma, Hishu, Tosa, and Bishu, overwhelmed the Eastern Army with their formidable Ikusabito.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Thus, they built the capital in Osaka and declared the establishment of the Empire of Japan. They completed the Meiji Restoration... or so it goes.」"
+    },
+    {
+        "message": "A few students were already slumped over their desks."
+    },
+    {
+        "name": "Iori",
+        "message": "「...Hey, Ririmu.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ugh... Teacher, your lecture is like, super boring.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, class just started... Setsugekka, are you actually listening？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ah, yes.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「What year did the Boshin War take place？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Uhh, hmm... Alright, let's go with 2020！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You just skipped like five era names and jumped to the future！」"
+    },
+    {
+        "message": "It seems Setsugekka wasn't listening at all."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ugh... Why do I have to memorize such trivial stuff anyway~」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「We live in the present, you know！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...Momiji, why don't you teach Setsugekka the importance of history.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「It’s like talking to a brick wall, you know.」"
+    },
+    {
+        "message": "She seems to mean that it's not even worth teaching..."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Besides, I don't care about some old-fashioned people like Ikusabito! A swordsman is only as good as their sword swing, right!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Are you fine with failing your midterms？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ugh, ugh... Kei-chan, help me~！」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Do your best to memorize it.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Cold! Cold as ice! You can only say that because you're smart, Kei-chan~!」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「This doesn't even count as something worth memorizing.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Teacher! The two geniuses are bullying me!」"
+    },
+    {
+        "message": "Right, I'm just going to let it be."
+    },
+    {
+        "name": "Iori",
+        "message": "「Alright Ririmu, try reading the next part. ...Wait, Ririmu？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「If I go like this, then do that... Yes, that's it！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ririmu, let’s stop doing mental training during class.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「But I mean, even if you cram all that knowledge in, doesn't everyone forget it the second the test is over？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That's not true. A sense of history enriches your life.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hmm... I wonder if that’s really true.」"
+    },
+    {
+        "message": "Ririmu looks at me with skeptical eyes."
+    },
+    {
+        "name": "Iori",
+        "message": "「Anyway, I’m giving you all a quiz on what I just taught at the end of class.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Students who don’t get a passing grade will have to stay after school for extra study. Be prepared.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ehhh~！？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「No way~！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hahaha, this is more than I expected...」"
+    },
+    {
+        "message": "Seeing the dismal results of the quiz, my face twitches."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Teacher, how did I do？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Momiji, Asahi, and Keisetsu almost got perfect scores. It’s great that you’re so talented.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Obviously.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Obviously.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Well, it is the first thing we’re learning, after all.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「U-um, Teacher... what about me and Ririmu？」"
+    },
+    {
+        "message": "Setsugekka just barely missed the mark, and Ririmu failed by a landslide. I couldn't help but laugh."
+    },
+    {
+        "name": "Iori",
+        "message": "「You two... yeah, let's try a little harder, shall we?」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ugh, I didn't get it at all~」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I really did try, though!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Setsugekka, didn't you study with Keisetsu？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「No way, no way, studying with someone who memorized the entire <d0055>Code of Law</d> back in elementary school is impossible」"
+    },
+    {
+        "message": "Seriously? As expected of a candidate for the next head of the Kazamine Family."
+    },
+    {
+        "name": "Iori",
+        "message": "「Anyway, Setsugekka and Ririmu are officially in remedial lessons. Stay in the classroom after school.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ahaha, I knew it, I knew it.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ehh~, but I wanted to go to the mainland~！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「This is all so you can compete in the Martial Festival. I’ll be joining you for the remedial lessons, so let’s all give it our best！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Oh, so Iorin is going to give me one-on-one instruction？ If it’s that, then maybe I can do it~」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Indeed, when you put it that way, I feel like I might be getting a good deal？」"
+    },
+    {
+        "message": "Oh, looks like they’ve got a bit of motivation now. That’s good, that’s good."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Teacher, should I attend the remedial lessons as well？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, you’re fine, Asahi. Feel free to do whatever you want after school.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Is that so? That’s a shame……」"
+    },
+    {
+        "message": "Asahi looked somewhat lonely."
+    },
+    {
+        "name": "Iori",
+        "message": "「Alright, now for the practical training we’ve all been waiting for！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Yay！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yeah! Time to go wild!」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「A bunch of brats making noise outdoors, huh.」"
+    },
+    {
+        "message": "We all headed to the indoor training grounds."
+    },
+    {
+        "message": "Some people call it the Simulator Room or the Yorishiro Hall, but people are pretty casual about that sort of thing."
+    },
+    {
+        "message": "There’s a reason it’s called the Simulator Room—this training facility houses a simulator known as Yorishiro-kun."
+    },
+    {
+        "message": "The whole Takamura Class will likely be making great use of Yorishiro-kun from here on out."
+    },
+    {
+        "name": "Iori",
+        "message": "「Now, I want everyone to demonstrate their martial forms. Don’t hold back just because it’s practice.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「……Setsugekka, you remember the form, right？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ahahahaha, obviously！ I’ll make the teacher swoon with my brilliant dance！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「What a coincidence. I’m quite confident in my martial arts performance as well. It will be me who keeps Iori-sensei’s passionate gaze all to myself.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Asahi, you don’t have to compete with her, you know？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ufufu, I just wish for Iori-sensei to be watching me, always.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「In fact, I'd rather you not look at anyone besides me.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, I can't do that, but I'll definitely be watching you.」"
+    },
+    {
+        "message": "I can feel her enthusiasm, so let's call it good."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Let's hurry up and start. This is a waste of time.」"
+    },
+    {
+        "message": "They put some distance between each other and get ready. Sure enough, they all look dignified holding a sword."
+    },
+    {
+        "name": "Iori",
+        "message": "「First, etiquette. We'll start from the seated stance. Ready... begin！」"
+    },
+    {
+        "message": "Sitting down for a bow, from drawing the sword to sheathing it. Everyone pulls it off without a hitch... Whoa, what a surprise."
+    },
+    {
+        "name": "Iori",
+        "message": "「Keisetsu, you can actually perform the kata properly too, huh.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Yes, I used to learn alongside Setsugekka when we were little.」"
+    },
+    {
+        "message": "Keisetsu, performing the kata alongside everyone else. Her movements are graceful and beautiful, even compared to the Martial Arts Division students."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hup... haaah！」"
+    },
+    {
+        "message": "Even Setsugekka, who I was worried about... seems to be doing fine so far. Just watching their kata gives you a glimpse of their talent."
+    },
+    {
+        "message": "It's said that all the fundamental techniques are packed into kata. Actual matches are still a long, long way off."
+    },
+    {
+        "name": "Iori",
+        "message": "「Looking good, everyone！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Whaaat, I totally got this！ Heheh, this is a piece of cake... Huh, which way comes next again？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Don't think. Just let your body move on its own. That's how you were taught, isn't it？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Oh, right！ No thinking, just mooooving！」"
+    },
+    {
+        "message": "Setsugekka, smoothly resuming her demonstration."
+    },
+    {
+        "name": "Iori",
+        "message": "「Must've been tough drilling it into her muscle memory, huh？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Yes, we hired personal trainers to drill it into her. Though two of them did quit partway through.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「A-And why would that be...？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Hehe, people break easily when they don't feel any sense of reward, don't they?」"
+    },
+    {
+        "message": "Apparently, teaching Setsugekka how to perform a demonstration was one seriously grueling job..."
+    },
+    {
+        "message": "Next up, the standing sword-drawing kata."
+    },
+    {
+        "message": "There are several variations, and every one of them is important for ceremonial events. They're handling this without any issues too... hmm？"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hey, Ririmu, what was that just now？ You're supposed to bring that sweep to the right to a crisp stop.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Huh？ Doesn't it look way cooler like this, though？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Throwing in weird ad-libs will cost you points. Kata is about demonstrating prescribed movements, you know.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「But this way's way slicker~！」"
+    },
+    {
+        "message": "Ririmu twirled her sword once after the parry. This... was undoubtedly grounds for a point deduction."
+    },
+    {
+        "name": "Iori",
+        "message": "「But if you change the forms however you like, you'll lose sight of what's correct, won't you？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hmm？ It doesn't matter what's 'correct' or not.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Everything I express belongs to me. It's like, this is my worldview！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I see. So, this is what you'd call Ririmu's philosophy, then.」"
+    },
+    {
+        "message": "I understand what Ririmu is saying... but I'm not sure what to do about it."
+    },
+    {
+        "name": "Momiji",
+        "message": "「...Asahi, do you understand what she's saying？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「It is likely a form of self-intoxication. Ririmu-san simply fails to appreciate the beauty of formal structure.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Shut it, you Kijo！ Don't go acting all high and mighty when you don't even get how sick my worldview is！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「The fact that you resort to such an all-purpose barbarian word as 'sick' tells me everything I need to know.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「What did you say?！」"
+    },
+    {
+        "message": "Ririmu and Asahi started squabbling at each other. Sigh, what a pain."
+    },
+    {
+        "name": "Iori",
+        "message": "「Alright, let's keep this momentum going！ Next is the physical fitness test.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Physical strength is the driving force for everything. From here on out, I'm having you all go for a run.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ugh, running is such a drag...」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Really？ I actually kind of like running. When I just run like 'hyah!', I don't have to think about anything at all!」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「It must be nice being so easygoing, Setsugekka.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「...Hey, Muragaki-san.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hm? What is it, Keisetsu?」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Do I really have to run as well？」"
+    },
+    {
+        "message": "Keisetsu asks with a look that suggests she truly hates the idea."
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, of course. Since you're a member of the Takamura Class too, you'll be going through the same menu as everyone else.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「I heard that before, but still...」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Kei-chan, you see, has never really been good at running or jumping since she was little.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Setsugekka, don't say unnecessary things.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Keisetsu, you're going to be the head of the Kazamine family and the leader of the Kazamine Group, right？ If you let a little thing like this break you, your subordinates will look down on you.」"
+    },
+    {
+        "message": "I grin at her."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Hmm... fine. I’ll take you up on that.」"
+    },
+    {
+        "message": "Good, good. It seems she’s on board."
+    },
+    {
+        "name": "Iori",
+        "message": "「Alright, let’s go. Ready, set, start！！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yeah, let’s gooo！」"
+    },
+    {
+        "message": "Setsugekka took off with tremendous speed."
+    },
+    {
+        "name": "Asahi",
+        "message": "「I’m off.」"
+    },
+    {
+        "message": "Asahi, Ririmu, and Keisetsu followed after her."
+    },
+    {
+        "name": "Momiji",
+        "message": "「One, two... one, two...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...Momiji, at that rate, you’re basically just walking.」"
+    },
+    {
+        "message": "And so, Momiji trailed behind everyone else at a snail’s pace."
+    },
+    {
+        "message": "Before long, the gap between them began to show clearly."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Huff, huff... ugh...！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Keisetsu, don’t push yourself. It’s fine to take a break if you feel like you can’t go on.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「I-I’m fine! If I give up over something like this, my subordinates will look down on me...」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Besides, hah... if the gap between me and Setsugekka gets too big, it’ll cause all sorts of problems for our relationship later on...」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yoo-hoo! Hang in there, Kei-chan, you’re a whole lap behind!」"
+    },
+    {
+        "message": "Setsugekka overtook her in the blink of an eye."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「G-gh... ugh... I can’t... any more.」"
+    },
+    {
+        "message": "Seeing that, Keisetsu collapsed to the ground with a thud."
+    },
+    {
+        "name": "Iori",
+        "message": "「Hahaha, you did your best.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Ugh, so frustrating...！」"
+    },
+    {
+        "message": "Heaven gives not two gifts, they say. I suppose everyone has their strengths and weaknesses."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「I suppose I can’t beat someone who exercises every day. It’s pathetic of me, especially when I’m aiming to be the next family head...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Do you think so? I don’t think it’s pathetic.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You have plenty of exceptional talent, yet you never neglect your effort. I like that about you, Keisetsu.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「H-hmpf... it’s meaningless for me to be liked by you.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「I want to be liked by those who follow me. Anything else isn’t worth considering.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, in any case, I think showing a little bit of weakness makes it easier for the people under you to feel a sense of camaraderie.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「...And you think people feel camaraderie toward a figure who drops out faster than anyone else, crawling on the ground all by himself？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Pfft, ahahaha... well, I suppose that’s true.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「D-don’t laugh, geez!」"
+    },
+    {
+        "message": "Puffing up her cheeks, Keisetsu turned away."
+    },
+    {
+        "name": "Iori",
+        "message": "「Alright, everyone, that’s a wrap！」"
+    },
+    {
+        "message": "At the signal, they stopped running and gathered around."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Haa, haa... w-who came in first！？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「The results are... oh, Asahi is in the lead by a landslide. That’s amazing, Asahi！」"
+    },
+    {
+        "message": "Asahi hadn't slowed her pace at all, even toward the end. Consequently, she had racked up more laps than anyone else."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hehe, thank you very much♪」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I always make an effort to be prepared, both physically and mentally, in case any unforeseen circumstances arise with Iori-sensei.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, do your best for Jindou, okay？」"
+    },
+    {
+        "message": "Excluding Asahi, Momiji and Setsugekka were almost tied, with just a one-lap difference. Ririmu trailed slightly behind them."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「A-amazing~ Asahi-chan. I actually had quite a bit of confidence too.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「The Mental Resonance Coefficient is innate and can’t be improved later, but anyone can improve their physical ability to some extent.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Setsugekka-san, if you want to beat Momiji-san, you should try to surpass her in at least a few points.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I like that! I’ll take down Momimomi with raw strength!」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「And how exactly are you going to do that？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Like, pinning her down and then... heh heh heh.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Listen, the Martial Festival allows strikes and throws, but grappling and chokes are considered fouls, you know？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Then I’ll just tackle her when it’s not a match.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「...Sensei. I think I’m about to be assaulted by Setsugekka-san.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Setsugekka, make sure you maintain a sense of moderation when you pin her down.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Oka~y!」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「In the first place, you shouldn’t be pinning anyone down!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「All right, next let's measure your physical strength and Mental Resonance Coefficient.」"
+    },
+    {
+        "message": "As a swordsman who uses Origami, both values are extremely important. I definitely want to check them beforehand."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「I don't have to do it, right？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, that's right. Keisetsu can sit this one out.」"
+    },
+    {
+        "message": "First, I hand Ririmu the Origami-type measuring device. It’s an excellent tool that can measure physical strength and the mental resonance value simultaneously."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Alrighty, let's do this... Hah！」"
+    },
+    {
+        "message": "When she swings the Origami, the values appear automatically."
+    },
+    {
+        "name": "Iori",
+        "message": "「Physical strength is 60, mental resonance value is 90, huh. Not bad.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Heh, surprisingly impressive, right?」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Seems average, maybe middle of the pack？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ehh, that’s the most unsatisfying type of assessment！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Then, I shall go next.」"
+    },
+    {
+        "message": "Asahi grips the Origami and takes a Seigan stance."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Haaah…！！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Whoa！? The sound was totally different just now！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Physical strength is 117, mental resonance value is 78, I’d say. Your physicals are well above the average.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Whoa, what a display of colossal strength for someone who looks like that.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ufufu, it’s embarrassing when you put it that way.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Asahi is already easily exceeding the average level for active Jindou athletes. Everyone, you’d better not make Asahi angry.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「It’s alright, I don't get angry over trifles, you know.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「That has absolutely zero credibility！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, next is Momiji.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Yeah, yeah.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Whew, something like this, I guess.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Physical strength is 77, mental resonance value is... oh, 113. Momiji, your mental resonance value is fantastic！」"
+    },
+    {
+        "message": "This mental resonance value is likely top-tier among the first-year students at the academy. It means her power with Tenju is that much stronger."
+    },
+    {
+        "name": "Asahi",
+        "message": "「……That’s unfair.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Alrighty, I’m last！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Here I go～……hyaah！！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Physical strength is 85, mental resonance value is……hmm, 69？ That’s quite a bit lower than I expected. Is the machine malfunctioning……？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hmm…… I think that number is probably right. It was around that much when I measured it before, too.」"
+    },
+    {
+        "message": "It seems Setsugekka’s mental resonance value is quite low."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「So that makes Momitchi number one and me number two？ Yay～, isn't that pretty awesome！？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「No fair, no fair！ I want as much as Ririmu-chan too！ Sensei, I want that！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You pestering me about it doesn't really help……」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「……Am I third?」"
+    },
+    {
+        "message": "The mental resonance values in descending order are Momiji, Ririmu, Asahi, and Setsugekka. Asahi is slightly below average, and as for Setsugekka, the number is quite severe."
+    },
+    {
+        "message": "However, Setsugekka has her berserk state."
+    },
+    {
+        "message": "I’d really like to know her mental resonance value while she’s in a berserk state, but I wonder if it’s even possible to measure it properly in that condition……."
+    },
+    {
+        "message": "It seems necessary to learn more about her berserk state to figure out the best training plan for Setsugekka."
+    },
+    {
+        "name": "Iori",
+        "message": "「Setsugekka and Keisetsu, I need to talk to you two after the remedial lesson. Please stay behind for a bit.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ughhh, there’s something else even after the remedial lesson……？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Yes, I understand.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Alright everyone, let’s head back to the classroom.」"
+    },
+    {
+        "message": "Now that I have everyone’s basic data, I’ll use this to decide on the training plan for each of them."
+    }
+]

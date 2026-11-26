@@ -1,0 +1,792 @@
+[
+  {
+    "message": "Everyone has changed into their Spirit-Type Armament and arrived at the designated training ground."
+  },
+  {
+    "name": "Ririmu",
+    "message": "「Fiiinally, I get to spar with Sensei again～」"
+  },
+  {
+    "name": "Ririmu",
+    "message": "「This is my rematch from last time, you know!」"
+  },
+  {
+    "name": "Setsugekka",
+    "message": "「Ririmu-chan, have you fought Muragaki-sensei before？」"
+  },
+  {
+    "name": "Ririmu",
+    "message": "「I have～ Sensei is super strong, so you better be prepared.」"
+  },
+  {
+    "name": "Setsugekka",
+    "message": "「Seriously? I'm looking forward to it.」"
+  },
+  {
+    "name": "Momiji",
+    "message": "「Enough chatter, let's begin. Who's first？」"
+  },
+  {
+    "message": "Among the five of them, only Momiji was already radiating a tense atmosphere."
+  },
+  {
+    "name": "Asahi",
+    "message": "「Then, if you would allow me to go first.」"
+  },
+  {
+    "name": "Ririmu",
+    "message": "「Hey hey, I'm the one who's going first, aren't I!」"
+  },
+  {
+    "name": "Asahi",
+    "message": "「I think it's a bit of a high hurdle for you to take the lead, Ririmu-san.」"
+  },
+  {
+    "name": "Ririmu",
+    "message": "「Hah？ So you're saying you could handle it？」"
+  },
+  {
+    "message": "Asahi and Ririmu glare at each other, their fighting spirit laid bare."
+  },
+  {
+    "name": "Setsugekka",
+    "message": "「Well then, Muragaki-sensei, shall we start！」"
+  },
+  {
+    "name": "Ririmu",
+    "message": "「Oi, you! Don't you dare jump the gun!」"
+  },
+  {
+    "name": "Asahi",
+    "message": "「Setsugekka-san, please step back.」"
+  },
+  {
+    "name": "Setsugekka",
+    "message": "「Scary... don't be so angry～」"
+  },
+  {
+    "name": "Setsugekka",
+    "message": "「What about you, Momimomi？」"
+  },
+  {
+    "name": "Momiji",
+    "message": "「I'm fine with being last.」"
+  },
+  {
+    "message": "Not holding back even in a trial spar, just testing the waters first. As expected of a Suzakuin."
+  },
+  {
+    "name": "Iori",
+    "message": "「Got it. I'll decide the order then.」"
+  },
+  {
+    "name": "Iori",
+    "message": "「First is Ririmu, then Asahi, third is Setsugekka, and Momiji is last.」"
+  },
+  {
+    "name": "Ririmu",
+    "message": "「Yes! I get to go first～!」"
+  },
+  {
+    "name": "Asahi",
+    "message": "「If that is what Iori-sensei wishes.」"
+  },
+  {
+    "name": "Setsugekka",
+    "message": "「Ehh, I'm third？」"
+  },
+  {
+    "name": "Keisetsu",
+    "message": "「That's perfectly reasonable.」"
+  },
+  {
+    "name": "Keisetsu",
+    "message": "「Learn from Muragaki-sensei’s technique by observing the previous two students’ bouts, and make sure you have a solid countermeasure prepared before you step up, Setsugekka.」"
+  },
+  {
+    "name": "Setsugekka",
+    "message": "「U-understood.」"
+  },
+  {
+    "name": "Keisetsu",
+    "message": "「I’ll be watching from over there.」"
+  },
+  {
+    "message": "Keisetsu took a step back and moved to the corner of the room."
+  },
+  {
+    "name": "Iori",
+    "message": "「Momiji, you’re good with that, right？」"
+  },
+  {
+    "name": "Momiji",
+    "message": "「I have no objections. I look forward to seeing Sensei’s skill.」"
+  },
+  {
+    "message": "Gone was the laid-back attitude from moments ago; Momiji already had the look of a true swordsman."
+  },
+  {
+    "name": "Iori",
+    "message": "「Alright then, Ririmu, you’re up first. Come at me！」"
+  },
+  {
+    "name": "Ririmu",
+    "message": "「Okay, here I go！」"
+  },
+  {
+    "message": "We both loosened our scabbards and swiftly drew our Origami."
+  },
+  {
+    "name": "Ririmu",
+    "message": "「I’m going a bit more serious this time, so try to keep up！」"
+  },
+  {
+    "message": "Moving with light steps just like last time, Ririmu began to slowly circle around me."
+  },
+  {
+    "name": "Iori",
+    "message": "「Whenever you're ready, let’s see it！」"
+  },
+  {
+    "name": "Ririmu",
+    "message": "「Yeah, yeah, here goes！」"
+  },
+  {
+    "message": "A rising slash, scooped from below."
+  },
+  {
+    "message": "It was an excellent strike, carrying plenty of speed."
+  },
+  {
+    "name": "Ririmu",
+    "message": "「Still not done！」"
+  },
+  {
+    "message": "An irregular trajectory, tracing a serpentine S-shape, bore down on me."
+  },
+  {
+    "message": "Normally, such unnatural movements would place a heavy strain on the body."
+  },
+  {
+    "message": "And since it shouldn't carry much force or speed, the benefits ought to be slim—but..."
+  },
+  {
+    "name": "Iori",
+    "message": "「Good strike！」"
+  },
+  {
+    "message": "Ririmu was managing to combine both speed and power within those irregular movements."
+  },
+  {
+    "message": "Unique and imaginative—that is Ririmu’s style of attack."
+  },
+  {
+    "name": "Ririmu",
+    "message": "「Aw, man, you blocked that?！」"
+  },
+  {
+    "name": "Ririmu",
+    "message": "「Then how about this？！」"
+  },
+  {
+    "message": "Ririmu, who had been moving with quick, rhythmic steps until now, suddenly shifted to a style that flowed like water."
+  },
+  {
+    "name": "Iori",
+    "message": "「Whoa, that’s impressive...！」"
+  },
+  {
+    "message": "Her movements were elegant and free-flowing."
+  },
+  {
+    "message": "Yet, her strikes stretched out with the sharpness of a well-flexed whip."
+  },
+  {
+    "message": "In an instant, she had switched to a completely different battle style than before..."
+  },
+  {
+    "message": "A swordsman’s personality always reflects in their battle style."
+  },
+  {
+    "message": "The bold favor an audacious style, the delicate favor a refined one; naturally, one’s method of fighting conforms to their own character."
+  },
+  {
+    "message": "However, it seemed Ririmu kept a repertoire of multiple combat styles within her, as if she could switch her entire personality at will."
+  },
+  {
+    "name": "Iori",
+    "message": "「Lily Style, was it? How did you manage to devise that?」"
+  },
+  {
+    "name": "Ririmu",
+    "message": "「Heheh, the details are a secret, though!」"
+  },
+  {
+    "message": "Her style changed once again."
+  },
+  {
+    "message": "This time, it shifted to movements that were linear and sharp-angled, as if she were a machine or something of the sort."
+  },
+  {
+    "name": "Ririmu",
+    "message": "「To put it simply, my worldview isn't just one thing！」"
+  },
+  {
+    "message": "I thought a blade had come flying from directly to the side, only for the sword's trajectory to bend at a right angle."
+  },
+  {
+    "name": "Ririmu",
+    "message": "「Heheh, how about that！？」"
+  },
+  {
+    "name": "Iori",
+    "message": "「Ririmu, you possess a rare and exceptional talent.」"
+  },
+  {
+    "name": "Iori",
+    "message": "「While constantly shifting through variety, each of your styles is well-honed.」"
+  },
+  {
+    "name": "Iori",
+    "message": "「To an opponent, your moves are incredibly difficult to read, and they’d likely be overwhelmed just trying to recalibrate their head after the first strike.」"
+  },
+  {
+    "name": "Iori",
+    "message": "「You truly are a hallucinatory swordswoman！」"
+  },
+  {
+    "name": "Ririmu",
+    "message": "「Eheheh, don’t praise me so much~, you’re making me blush~！」"
+  },
+  {
+    "name": "Iori",
+    "message": "「However, you also have a weakness！」"
+  },
+  {
+    "name": "Ririmu",
+    "message": "「Ngh！？」"
+  },
+  {
+    "name": "Iori",
+    "message": "「Your offense is incredibly strong, but your defense is a bit immature！」"
+  },
+  {
+    "name": "Ririmu",
+    "message": "「Ouch… Sensei’s attacks are seriously heavy…！」"
+  },
+  {
+    "name": "Iori",
+    "message": "「That’s why, once your moves are read, you get pushed back one-sidedly！」"
+  },
+  {
+    "name": "Ririmu",
+    "message": "「Nghuuu~！」"
+  },
+  {
+    "message": "Ririmu is an offensive-specialized fighter who confuses her opponents, draws out their anxiety and hesitation to seize the initiative, and finishes them off with one-sided pressure."
+  },
+  {
+    "message": "Consequently, she becomes fragile the moment she is forced onto the defensive."
+  },
+  {
+    "name": "Iori",
+    "message": "「What’s wrong? At this rate, you’ll be overwhelmed and lose！」"
+  },
+  {
+    "name": "Iori",
+    "message": "「Aren’t you going to use that one from before？」"
+  },
+  {
+    "message": "The special Tenju, Phantom, that she had shown me when we sparred before."
+  },
+  {
+    "message": "That must surely be Ririmu’s trump card."
+  },
+  {
+    "name": "Ririmu",
+    "message": "「Ugh~, I didn't want to use it in front of everyone because it’s my secret weapon~！」"
+  },
+  {
+    "name": "Ririmu",
+    "message": "「But it’ll be found out eventually anyway… guess I’ll do it！」"
+  },
+  {
+    "message": "Putting significant distance between us, Ririmu gently strokes the blade of her Origami."
+  },
+  {
+    "name": "Ririmu",
+    "message": "「Alright, my stage begins now.」"
+  },
+  {
+    "name": "Ririmu",
+    "message": "「—World is Mine！」"
+  },
+  {
+    "message": "A peculiar sensation, like the ground beneath my feet turning soft."
+  },
+  {
+    "message": "Ririmu's illusionary assault has begun."
+  },
+  {
+    "name": "Ririmu",
+    "message": "「I'm not holding back this time！！」"
+  },
+  {
+    "name": "Iori",
+    "message": "「I've seen this one before, Ririmu.」"
+  },
+  {
+    "name": "Iori",
+    "message": "「You should assume that anything you've shown me once won't work on me again.」"
+  },
+  {
+    "name": "Ririmu",
+    "message": "「What the heck, isn't Sensei way too strong？！」"
+  },
+  {
+    "message": "Ririmu's figure splits into multiple copies."
+  },
+  {
+    "name": "Ririmu",
+    "message": "「...Wait, you're not gonna say this doesn't work because you've seen it before too, right？」"
+  },
+  {
+    "name": "Iori",
+    "message": "「Why don't you try it and find out？」"
+  },
+  {
+    "message": "I flash her a crooked grin."
+  },
+  {
+    "name": "Ririmu",
+    "message": "「Y'know, Sensei, you make a real nasty face whenever we're in a match...！」"
+  },
+  {
+    "message": "Each of the illusions steps in and charges at me！"
+  },
+  {
+    "name": "Ririmu",
+    "message": "「Huh？！ You blocked all of 'em？！」"
+  },
+  {
+    "message": "High from ten o'clock, aiming for the shins from three o'clock, a thrust from behind."
+  },
+  {
+    "message": "I manage to fend off Ririmu's relentless barrage."
+  },
+  {
+    "name": "Iori",
+    "message": "「I bet you have absolute confidence in this Tenju, Ririmu.」"
+  },
+  {
+    "name": "Iori",
+    "message": "「But overconfidence clouds your eyes！」"
+  },
+  {
+    "name": "Ririmu",
+    "message": "「Tch... I'm not being overconfident or anything...！！」"
+  },
+  {
+    "name": "Iori",
+    "message": "「Now, I wonder about that？」"
+  },
+  {
+    "name": "Iori",
+    "message": "「Up until a moment ago, you were seamlessly wielding a wide variety of styles.」"
+  },
+  {
+    "name": "Iori",
+    "message": "「Yet the instant you started using your special Tenju, the range of your patterns suddenly narrowed.」"
+  },
+  {
+    "name": "Iori",
+    "message": "「Once an illusionist swordfighter's hand is read, it's all over, you know？」"
+  },
+  {
+    "name": "Ririmu",
+    "message": "「Kh...！」"
+  },
+  {
+    "message": "Even if I see multiple Ririmus, they're nothing more than a trick."
+  },
+  {
+    "message": "There is only one real body, and only one that can actually attack."
+  },
+  {
+    "message": "Once I read the movements of the real body, the illusions are nothing more than a smokescreen."
+  },
+  {
+    "name": "Iori",
+    "message": "「Look, next is right here, isn't it？！」"
+  },
+  {
+    "name": "Ririmu",
+    "message": "「Ghk...！！」"
+  },
+  {
+    "message": "If the opponent were just another academy student, Ririmu's illusions would surely be a massive headache."
+  },
+  {
+    "message": "But for me, having fought the likes of Keyou—creatures whose very survival depends on their craftiness and ability to deceive—it isn't all that difficult to deal with."
+  },
+  {
+    "name": "Iori",
+    "message": "（Well, dealing with Keyou isn't exactly our regular job, though.）"
+  },
+  {
+    "message": "The primary duty of us in the JGSDF Tenju Special Forces is to maintain Japan's defensive capabilities; dealing with Keyou is the job of the 'Spiritual Disturbance Special Task Force, <d0059>Satsuki</d>'."
+  },
+  {
+    "message": "However, Satsuki often gets tied up in long-term operations including investigations, and their numbers aren't exactly large."
+  },
+  {
+    "message": "That's why when sudden incidents occur, or when we need to suppress something through sheer numbers, dispatch requests are sent to the Tenju Special Forces."
+  },
+  {
+    "name": "Ririmu",
+    "message": "「Grrr, take this—！！」"
+  },
+  {
+    "message": "Blades extend from Ririmu and her illusions."
+  },
+  {
+    "message": "A slash aimed at my throat—a flash of an illusion passes through my body."
+  },
+  {
+    "message": "Even knowing it's fake, it still gives me the chills."
+  },
+  {
+    "message": "When a bared blade is thrust at you, your body reacts reflexively. It’s what you call a defensive reflex."
+  },
+  {
+    "message": "Suppressing that requires a significant amount of training."
+  },
+  {
+    "message": "Therefore, one must never underestimate an illusion, even if it is 'only' an illusion."
+  },
+  {
+    "name": "Ririmu",
+    "message": "「Damn it, blocked again！」"
+  },
+  {
+    "name": "Iori",
+    "message": "「Ririmu, you have a habit of leaning your attacks toward the upper-right when you get fired up.」"
+  },
+  {
+    "name": "Ririmu",
+    "message": "「Ugh... seriously！？ Do I really do that！？」"
+  },
+  {
+    "name": "Iori",
+    "message": "「Don't worry about it, you can just work on fixing it from here on out.」"
+  },
+  {
+    "message": "I re-position my Origami and cast my gaze in the direction where her real body is likely to be."
+  },
+  {
+    "name": "Iori",
+    "message": "「Ririmu, what’s your dream for the future？」"
+  },
+  {
+    "name": "Ririmu",
+    "message": "「My dream is to launch my own original Jindou brand.」"
+  },
+  {
+    "name": "Ririmu",
+    "message": "「Current off-the-shelf Origami parts and Spirit-Type Armaments are just all about functionality, and the designs are totally lame.」"
+  },
+  {
+    "name": "Ririmu",
+    "message": "「So, I’m gonna make my own brand with designs by me！」"
+  },
+  {
+    "name": "Ririmu",
+    "message": "「I want to share my world view with as many people as possible.」"
+  },
+  {
+    "name": "Ririmu",
+    "message": "「But hey, if some unknown, bottom-tier swordsman says they designed something, no one's gonna use it, right？」"
+  },
+  {
+    "name": "Ririmu",
+    "message": "「That’s why I’m going to become a Toujinegi.」"
+  },
+  {
+    "name": "Ririmu",
+    "message": "「If it’s an original brand by a Toujinegi, everyone’s gonna be interested, don’t you think？」"
+  },
+  {
+    "name": "Iori",
+    "message": "「I see, that’s a great dream！」"
+  },
+  {
+    "message": "Ririmu has a clear vision of who she wants to become at this stage. That’s a wonderful thing."
+  },
+  {
+    "message": "Ririmu takes a large step back."
+  },
+  {
+    "name": "Ririmu",
+    "message": "「So like, this isn't the time for me to be losing to someone like Sensei~」"
+  },
+  {
+    "name": "Ririmu",
+    "message": "「I'd lose all face if I didn't at least land one strike on you」"
+  },
+  {
+    "name": "Iori",
+    "message": "「That's the spirit. By all means, give it a try.」"
+  },
+  {
+    "name": "Ririmu",
+    "message": "「Okie~, then I'm going all out...！」"
+  },
+  {
+    "message": "Ririmu's eyes glow with an eerie light."
+  },
+  {
+    "message": "――Suddenly, the entire visible landscape shifted."
+  },
+  {
+    "name": "Iori",
+    "message": "「Th-this is...!」"
+  },
+  {
+    "name": "Ririmu",
+    "message": "「What we were doing before was just playing around. This is my real power.」"
+  },
+  {
+    "name": "Ririmu",
+    "message": "「My Tenju, you see, it makes whatever I want to see or create take shape right before my eyes.」"
+  },
+  {
+    "name": "Ririmu",
+    "message": "「This is my worldview, my very inner self.」"
+  },
+  {
+    "name": "Ririmu",
+    "message": "「So basically, Sensei, you've just become a part of my world.」"
+  },
+  {
+    "name": "Iori",
+    "message": "「You're truly incredible, Ririmu...！」"
+  },
+  {
+    "message": "As I breathe, I feel the cold, damp, night-chilled air in my lungs."
+  },
+  {
+    "message": "Taking a half-step forward, I hear the sound of a branch breaking beneath my feet."
+  },
+  {
+    "message": "An absolute illusion that deceives not just sight, but all five senses."
+  },
+  {
+    "message": "Even for a Keyou that has lived for 300 years, reproducing a dreamscape this realistic should be quite difficult."
+  },
+  {
+    "name": "Ririmu",
+    "message": "「Even though I have this power, I'm not a dreamer.」"
+  },
+  {
+    "name": "Ririmu",
+    "message": "「I'm well aware of just how difficult it is to become a Toujinegi.」"
+  },
+  {
+    "name": "Ririmu",
+    "message": "「Even so, I will become a Toujinegi.」"
+  },
+  {
+    "name": "Ririmu",
+    "message": "「Because I believe that with this power, I can reach the top！」"
+  },
+  {
+    "message": "A glowing butterfly flutters past my vision. I almost find myself chasing it with my eyes, but I hurriedly bring my gaze back to Ririmu."
+  },
+  {
+    "message": "But I realize immediately. It's useless to pay attention to such things."
+  },
+  {
+    "message": "Because in this space, everything appears exactly as Ririmu wishes—everything I see is a deception."
+  },
+  {
+    "message": "And just like that, when I noticed, Ririmu was surrounded by a swarm of glowing butterflies."
+  },
+  {
+    "name": "Ririmu",
+    "message": "「Sensei, you think this is just a hallucination, don't you？」"
+  },
+  {
+    "name": "Ririmu",
+    "message": "「But that's where you're wrong~」"
+  },
+  {
+    "name": "Ririmu",
+    "message": "「I'm going to make you realize that right now...!」"
+  },
+  {
+    "name": "Ririmu",
+    "message": "「Here I come, Sensei... Ultimate Art, 《Butterfly Effect》！！！」"
+  },
+  {
+    "message": "Ririmu flies toward me—and then, her image blurs！"
+  },
+  {
+    "name": "Iori",
+    "message": "「Ghk……！！」"
+  },
+  {
+    "message": "As if looking at a frame-by-frame video, Ririmu's afterimages doubled with every passing moment."
+  },
+  {
+    "message": "And those afterimages showed slightly different sword strokes."
+  },
+  {
+    "message": "The overlapping trajectories of the blades were like butterfly wings."
+  },
+  {
+    "name": "Iori",
+    "message": "「Ngh……！」"
+  },
+  {
+    "message": "I retreated, but the sword strokes swelled and pursued me again as if fluttering."
+  },
+  {
+    "name": "Iori",
+    "message": "（It’s okay, these are all just illusions……！！）"
+  },
+  {
+    "message": "Without flinching at the countless blades closing in, I unleashed a strike toward Ririmu’s true form――！"
+  },
+  {
+    "message": "But."
+  },
+  {
+    "name": "Iori",
+    "message": "「What……！？」"
+  },
+  {
+    "message": "The countless blades, which should have been mere phantoms, tore through my Barrier Jacket."
+  },
+  {
+    "name": "Ririmu",
+    "message": "「Ahahaha, I told you！ They’re not just illusions！！」"
+  },
+  {
+    "name": "Iori",
+    "message": "「You’re kidding me……！」"
+  },
+  {
+    "message": "I retreated without looking back."
+  },
+  {
+    "message": "It was beyond expectation that phantom attacks could actually reach my Barrier Jacket."
+  },
+  {
+    "message": "However, taking the hit taught me something."
+  },
+  {
+    "name": "Iori",
+    "message": "「I see, recreating phantoms is also a feat of Tenju……！」"
+  },
+  {
+    "message": "An Origami’s cutting power is amplified many times over by coating its blade in Tenju."
+  },
+  {
+    "message": "In other words, Tenju can be converted into a 'cutting ability'."
+  },
+  {
+    "message": "Ririmu had imbued the phantom blades with this 'cutting ability'."
+  },
+  {
+    "name": "Iori",
+    "message": "（I can imagine it, but making it a reality is no small feat……！）"
+  },
+  {
+    "name": "Ririmu",
+    "message": "「Come on, come on, if you’re gonna take it slow, I’ll mince you into bits!!」"
+  },
+  {
+    "message": "Once again, a myriad of blades closed in on me."
+  },
+  {
+    "name": "Iori",
+    "message": "「Ririmu, your talent is worthy of praise！！」"
+  },
+  {
+    "name": "Iori",
+    "message": "「But…… you still need much more training！！！」"
+  },
+  {
+    "name": "Ririmu",
+    "message": "「Kyaaaaaaaah！？」"
+  },
+  {
+    "message": "The full-force strike I unleashed, ready for a mutual kill, slashed diagonally across Ririmu’s Barrier Jacket."
+  },
+  {
+    "message": "The illusory space melted away, and the original scenery returned. Ririmu’s Tenju must have run out."
+  },
+  {
+    "name": "Ririmu",
+    "message": "「Ouchie…… ugh, I lost~」"
+  },
+  {
+    "message": "I reached out a hand to the collapsed Ririmu and helped her up."
+  },
+  {
+    "name": "Iori",
+    "message": "「Are you alright？ Are you hurt？」"
+  },
+  {
+    "name": "Ririmu",
+    "message": "「Yeah, I’m fine」"
+  },
+  {
+    "name": "Ririmu",
+    "message": "「I mean, Sensei, your strategy of aiming for a mutual hit is seriously rough, you know!」"
+  },
+  {
+    "name": "Iori",
+    "message": "「Haha, well, now you know. That right there is your weakness, Ririmu.」"
+  },
+  {
+    "name": "Iori",
+    "message": "「Because you allocate your power into your unique Tenju, you inevitably fall short compared to an ordinary swordsman in terms of attack power and defense.」"
+  },
+  {
+    "name": "Iori",
+    "message": "「That’s why you get overpowered when a power-fighter who’s dumped all their points into attack Tenju rushes you, prepared to trade blows.」"
+  },
+  {
+    "name": "Ririmu",
+    "message": "「Ah, yeah, that's true.」"
+  },
+  {
+    "name": "Ririmu",
+    "message": "「You're tough, your attacks are heavy, and that single hit is way too strong, so it's seriously a pain, Sensei.」"
+  },
+  {
+    "name": "Iori",
+    "message": "「From now on, it’s going to be really tough for you if you get pushed back by someone of Victoria's type.」"
+  },
+  {
+    "name": "Ririmu",
+    "message": "「Ugh... Sensei, what should I do？」"
+  },
+  {
+    "name": "Iori",
+    "message": "「It’s okay. I’ll come up with a practice routine so you can overcome this by next time.」"
+  },
+  {
+    "name": "Ririmu",
+    "message": "「For real？ Seriously, countin' on ya！」"
+  },
+  {
+    "name": "Iori",
+    "message": "「Yeah, leave it to me！」"
+  },
+  {
+    "name": "Iori",
+    "message": "「Alright, then that’s it for you, Ririmu.」"
+  }
+]

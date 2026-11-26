@@ -1,0 +1,671 @@
+[
+    {
+        "name": "Iori",
+        "message": "「Whoa, it's already noon?」"
+    },
+    {
+        "message": "After running into Setsugekka and Momiji at the arena and chatting with Asahi-chan afterward, it was past noon before I knew it."
+    },
+    {
+        "message": "When I accessed the academy's attendance system, it showed that Tobe Ririmu, a student in Takamura Class, was out sick."
+    },
+    {
+        "message": "So I figured she must be in the dorms and came all the way here, but..."
+    },
+    {
+        "name": "Iori",
+        "message": "「Wait a second, am I even allowed to go up to the 4th floor？」"
+    },
+    {
+        "message": "Murakumo Academy is a full boarding school, so both boys and girls spend all three years in this dorm."
+    },
+    {
+        "message": "Every student is given a private room equipped with the latest full-HR-controlled facilities, and they're free to bring in TVs and games too."
+    },
+    {
+        "message": "However, there is one strict taboo in this dorm that must never be broken."
+    },
+    {
+        "message": "Guys are forbidden from going up to the 4th floor or higher. That's where the girls' private rooms and the communal bath are."
+    },
+    {
+        "message": "Naturally, Tobe Ririmu's room would be on the 4th floor or above. I'm a teacher now so I feel like it should be fine, yet I'm still a little uneasy about it."
+    },
+    {
+        "name": "Iori",
+        "message": "「...Guess I should check with Sasaki-sensei.」"
+    },
+    {
+        "message": "So as I brought up my holographic display and fiddled with the screen to send a message."
+    },
+    {
+        "name": "???",
+        "message": "「Fwaaah... I slept so well.」"
+    },
+    {
+        "message": "A familiar-looking student came walking out of the dorm."
+    },
+    {
+        "name": "Iori",
+        "message": "「Oh, Tobe Ririmu-san？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hm？ How do you know who I am？」"
+    },
+    {
+        "message": "I knew it. The girl standing right in front of me matched the headshot on her profile."
+    },
+    {
+        "name": "Iori",
+        "message": "「I'm Muragaki Iori—starting today, I'm the assistant homeroom teacher for your class, Takamura Class. I was actually just about to come say hello.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hmm, whatever.」"
+    },
+    {
+        "message": "Giving a half-hearted reply, she walked briskly off."
+    },
+    {
+        "name": "Iori",
+        "message": "「H-Hey, wait, wait！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Whaaat？ I've got stuff to do, you know.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「What kind of stuff？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Mmm, do I really have to tell you, Teach？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Uh, yeah, you do！ Technically, we're still in the middle of class, you know！？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Even if you say that~」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Not a siiingle teacher at this academy can actually teach me properly anyway.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Taking it seriously is kinda just a waste of time~」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Uh, hmm... I see.」"
+    },
+    {
+        "message": "I'd already heard the rumors that Takamura Class was a class full of nothing but problem students that ordinary teachers couldn't handle."
+    },
+    {
+        "message": "She must've been transferred into Takamura Class for some kind of issue too."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Well, long story short, I'm heading to the mainland to go shopping right now. Anyway, see ya, Iorin」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Iorin？！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Your name's Muragaki Iori, right, Teach？ So, Iorin」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hey now, I'm not your friend, you know」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ugh, there it is, the textbook teacher line」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Yeah, whatever. I'll call you whatever I feel like calling you」"
+    },
+    {
+        "message": "Ah... I'm starting to get a pretty good idea of what kind of girl she is."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Anyway, just stay out of my way」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, sorry, but I can't just look the other way while you skip class to go mess around」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hmm, so what are you gonna do about it？ Slap a collar on me and drag me around？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Come work up a good, healthy sweat with me！」"
+    },
+    {
+        "message": "I thrust my hand straight out toward Ririmu."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「...Huh？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You're in the Martial Arts Division, aren't you, Ririmu? Then how about sparring with me? I'm sure you'll get something out of it」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「You're sounding kinda like a hot-blooded gym teacher right now. I'm really not good with that type, y'know」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hmm, could it be you're scared of letting me see what you're really made of？ Maybe you're not all that great after all」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Oh, so you're really gonna go there」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「My old homeroom teacher said pretty much the same thing and sparred with me, and man, they were totally pathetic」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Everyone said this was the top academy for learning Jindou, so I actually had pretty high hopes for this place」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I figured a teacher at a school like this would obviously be strong, right? Turns out they were suuuper weak, I honestly couldn't help laughing」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Seriously, total 'give me my money back' level」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「You're probably all talk and nothing special either, aren't you？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You don't know someone's skill with a blade until you actually fight them, right？ Talking like that, you might be all talk yourself」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Heh... big talk, Teach」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Fine, I'll take you on. Don't blame me if you end up crying later」"
+    },
+    {
+        "message": "I brought Ririmu along to the indoor training hall."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hey, I've got a favor to ask」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Sure, ask away」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「If I win this practice match, get down on your hands and knees and grovel, Sensei」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「You got in the way of my shopping, after all—I won't be satisfied unless you do at least that much~」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, fine by me」"
+    },
+    {
+        "message": "Is she confident in her own skills, or is she just a sadist? Either way, I have no intention of losing."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hmm... You're surprisingly confident in your skills, Sensei」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Of course I am. Come at me whenever you're ready」"
+    },
+    {
+        "message": "With my Origami in hand, I smile at her."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Okay, here I come！」"
+    },
+    {
+        "message": "Ririmu gave a small hop and began bouncing into a nimble rhythm of footwork."
+    },
+    {
+        "message": "Normally, traditional swordsmanship relies primarily on sliding footwork."
+    },
+    {
+        "message": "Yet here Ririmu was, stepping lightly as if she were dancing."
+    },
+    {
+        "name": "Iori",
+        "message": "「That's an interesting form. What school is it from？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Heh-heh, this is called the Lily Style」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Because it's my way of doing things—mine and mine alone！！」"
+    },
+    {
+        "message": "The moment I thought she'd made a light leap—"
+    },
+    {
+        "message": "She closed in along a zigzagging path and slashed at me with her drawn blade."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「You blocked it~ Then how about this？！」"
+    },
+    {
+        "message": "Just when I thought she'd stepped back a bit, she whipped into a V-turn and struck again. It's a move I've never seen before."
+    },
+    {
+        "message": "Her erratic trajectory makes her moves hard to read, and I can't easily find an opening to counterattack."
+    },
+    {
+        "name": "Iori",
+        "message": "「Fascinating—did you come up with this fighting style yourself？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Totally！ Because this is my worldview！！」"
+    },
+    {
+        "message": "Rough around the edges though it may be, she doesn't follow any established methods."
+    },
+    {
+        "message": "Developing a brand-new fighting style like this is completely beyond an ordinary swordsman."
+    },
+    {
+        "name": "Iori",
+        "message": "「I see, so you built it yourself from scratch. You've got incredible combat instincts！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hehe, are you trying to flatter me？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Not at all, I mean it. Next, it's my turn to attack！！」"
+    },
+    {
+        "message": "First, straight from the front, no tricks."
+    },
+    {
+        "name": "Iori",
+        "message": "「Hmph！！！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Whoa, heavy！」"
+    },
+    {
+        "message": "Followed by a feint, a side sweep into a wrist-turn parry."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ugh... you’re fast, Sensei！」"
+    },
+    {
+        "message": "Stepping in deep toward Ririmu’s center―I thrust upward at point―blank range."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ah, geez, my hands are killing me...！」"
+    },
+    {
+        "message": "Unable to dodge, Ririmu is forced to take the brunt of my blow. Her Origami recoils high into the air."
+    },
+    {
+        "message": "A torso strike here would end it, but—"
+    },
+    {
+        "message": "Moving in an erratic zigzag, Ririmu escaped my reach. Her movement is so unique that chasing her down is quite the challenge."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Whew, not bad, Sensei！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「You look young, so I didn't think you’d be this good~, a bit of a surprise.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I’m happy to have your appraisal.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「But that’s not all I’ve got. I’m gonna get serious for the next one.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Try and keep up, Sensei！」"
+    },
+    {
+        "message": "Ririmu’s footwork changed."
+    },
+    {
+        "message": "Varying her tempo, she drifted—erratic and fluid, sliding in and out of range."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Come on, come on~, are you just gonna watch！？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Whoa...！」"
+    },
+    {
+        "message": "I dodge in a hurry—a blade swings from an angle I never expected."
+    },
+    {
+        "name": "Iori",
+        "message": "「Nice move, but how’s your defense！？」"
+    },
+    {
+        "message": "I step into range and flash a diagonal strike from above."
+    },
+    {
+        "message": "But like a butterfly dancing in the air, she slips right past it."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Heh, you’re not hitting me with that!」"
+    },
+    {
+        "message": "…I see, so this is Ririmu’s true forte."
+    },
+    {
+        "message": "An elusive style that keeps you guessing, focused entirely on catching opponents off guard. This elusiveness is her signature, isn't it."
+    },
+    {
+        "message": "In that case, how about this—！？"
+    },
+    {
+        "message": "I close the distance again. Without any tricks, I head straight for her."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「What’s that, you making fun of me！？」"
+    },
+    {
+        "message": "Ririmu’s flash comes closing in. Because I charged in so head-on and simple-mindedly, I can't dodge."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ngaaah！？」"
+    },
+    {
+        "message": "But—it was Ririmu who let out the cry."
+    },
+    {
+        "message": "Give flesh to rend the bone."
+    },
+    {
+        "message": "I dared to take her strike with my Barrier Jacket, and paid her back with a heavy blow of my own."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「You're surprisingly ruthless, Sensei！ Going for a mutual hit in our very first practice？！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Haha, I just don't want to end up groveling on the floor.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hmm, so you're desperate, huh. That's kinda cute.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Are you sure you can afford to act so relaxed? One more hit and it's over for you, right?」"
+    },
+    {
+        "message": "Going by the feel of it, that last strike should have dropped Ririmu's VF below half."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「No prob, no prob, I'm never gonna get hit again.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That's quite the confidence.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Yep, 'cause from here on out, it's all my show.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Here I go—World is Mine！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Here I go—"
+    },
+    {
+        "name": "Ririmu",
+        "message": "<d0029>World is Mine</d>！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「……？」"
+    },
+    {
+        "message": "For a brief moment, my vision seemed to darken slightly."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Come on, come on, space out and you're gonna get wrecked！！」"
+    },
+    {
+        "message": "The blade of Ririmu's Origami came rushing toward me, and—"
+    },
+    {
+        "message": "Suddenly, Ririmu's blade blurred... and in the next instant, it vanished completely！"
+    },
+    {
+        "name": "Iori",
+        "message": "「Wha—？！」"
+    },
+    {
+        "message": "My body moved on pure reflex against the approaching threat. I barely managed to deflect the blade."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Whoa, awesome! Do you have eyes in the back of your head or something, Sensei？!」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Still though, a fluke like that ain't gonna last！！」"
+    },
+    {
+        "message": "I spun around at the whistle of the wind, but Ririmu wasn't there."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Where are you looking, Sensei！！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Tch...！」"
+    },
+    {
+        "message": "I missed the parry, and Ririmu chipped away at my VF."
+    },
+    {
+        "name": "Iori",
+        "message": "「Is this... an illusion？ Don't tell me you're an illusionist...！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Heh-heh, surprised？」"
+    },
+    {
+        "message": "They say that back in the Sengoku period, there were Ikusabito who wielded spirit blades to manipulate illusions at will."
+    },
+    {
+        "message": "However, most of those spirit blades were lost during the <d0043>Edo period</d>, and even among warrior families, few retained strong spiritual power like the Ikusabito of old."
+    },
+    {
+        "message": "In the modern era, people capable of manifesting a unique Tenju like Ririmu are exceedingly rare."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「This is my secret. You better not go blabbing about it to the other kids！」"
+    },
+    {
+        "message": "I swung my Origami in every direction, fending off attacks closing in from outside my field of vision."
+    },
+    {
+        "message": "I was only managing because Ririmu’s strikes were light; I wouldn't have been able to handle a full-force blow."
+    },
+    {
+        "name": "Iori",
+        "message": "「I see, this is a tricky one...！」"
+    },
+    {
+        "message": "A smile crept onto my face. Encountering the unknown like this is exactly why I can’t quit Jindou."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「You get it now, right? Only I can use my Tenju.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「My style of fighting is something only I understand. So, how exactly are you going to teach me how to fight？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「In other words, I don’t need a Sensei at all！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well now, I wonder about that！！」"
+    },
+    {
+        "message": "I swung my Origami toward my back with all my might."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ouch... wait, my Origami—！」"
+    },
+    {
+        "message": "Unable to fully parry my blow, Ririmu’s Origami slipped from her hand and tumbled to the ground."
+    },
+    {
+        "message": "Immediately, Ririmu’s appearance returned to normal. Without her Origami, she could no longer activate her Tenju."
+    },
+    {
+        "name": "Iori",
+        "message": "「Can I call that a match？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ah... yeah, fair enough！ I lose, I lose—total defeat！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「You’re amazing, Sensei！ That last strike was seriously heavy, that was wild！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Also, were you actually able to see my attacks？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, I couldn’t see them. It was just a hunch.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「No way~！ There’s no way you could’ve countered without seeing them！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I’m serious. Ririmu, your illusions were perfect. I don’t think an average swordsman could stand a chance against that.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Right? That was the first time someone’s countered me like that.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「My last teacher was totally useless; he’d get all confused by my illusions and couldn't do a thing.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「So there was nothing for me to learn from a guy like that, right？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「But you’re different, Iorin. You actually managed to counter my attacks.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I think I might actually be down to take your class, Iorin.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「For real? Then will you show up to class starting tomorrow?」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「You bet, I’m there~！」"
+    },
+    {
+        "message": "Oh… Yes! First one down, I've managed to win over a student!"
+    },
+    {
+        "message": "The rumors say the Takamura Class is nothing but unmanageable troublemakers, so I was bracing myself for the worst."
+    },
+    {
+        "message": "But now that I've talked to her, she seems like a bright, easygoing, and good kid."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Alright then, Teach, you better come up with a way for me to get stronger by tomorrow」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「If I like it, I'll actually show up to class every day」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Huh？ If you like it... wait...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「So, I'm counting on you, Iorin！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hey, wait!」"
+    },
+    {
+        "message": "After that one-sided declaration, Ririmu headed off somewhere."
+    }
+]

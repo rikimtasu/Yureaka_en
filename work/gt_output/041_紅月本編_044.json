@@ -1,0 +1,761 @@
+[
+    {
+        "name": "Iori",
+        "message": "「……Where is it？ It should definitely be around here.」"
+    },
+    {
+        "message": "No matter how much I look around, there’s no sign of it."
+    },
+    {
+        "name": "Iori",
+        "message": "「Don’t tell me... has someone else already...？」"
+    },
+    {
+        "message": "It was early morning, on my way from the dorms to the classroom."
+    },
+    {
+        "message": "I saw a notification, so I opened it, and it turned out the radar I’d set up yesterday had picked up a signal."
+    },
+    {
+        "message": "So, I rushed over to where the signal was, but..."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Oh, what are you doing here, Sensei？ Looking for someone？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Oh, Setsugekka. Early as ever... w-woah！？」"
+    },
+    {
+        "message": "Behind Setsugekka, who was waving hello. No doubt about it, it's right behind her！！"
+    },
+    {
+        "name": "Iori",
+        "message": "「There！ Found it, I found it！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Eek！？ What, what, where, where！？ What popped out！？」"
+    },
+    {
+        "message": "Setsugekka turns around in a panic."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Geez, don't scare me like that！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「You made me think Kei-chan was coming to yell at me again or something！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Something that would get me scolded again... oh, wait a second！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「HR main panel, on！ Preparing for capture！ Timing it right... now！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yes！ I did it, Pochemon captured！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Po-poche... what？ Sensei, are you feeling alright？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I’m fine. Thanks to that, I managed to capture it safely.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「What do you mean, 'capture'？」"
+    },
+    {
+        "message": "Setsugekka walks over closer."
+    },
+    {
+        "name": "Iori",
+        "message": "「Here, look at this. Switching to HR mode: public.」"
+    },
+    {
+        "message": "I displayed a cute, stylized 3D model of a monster in front of Setsugekka."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「What is this, it’s so cute! Is this an animal？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That’s right. It’s an HR animal monster raising game, known as 'Pochemon GO'！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Whoa, how adorable... this is a cat, right?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, a cat-type monster, to be precise. Nyankle, huh... yeah, yeah, good boy.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Nyankle, huh... Sensei, I want one too!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, that won't do. I can't give this one up」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ehhhhh！？ Teacher, you're such a stingy-pants！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「This is a game where you have to catch and train them yourself, so—wait, you don't know that, do you, Setsugekka?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Train？ That sounds even more interesting! What do you mean by train？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Interested？ Heh heh heh... If you train them, they become much stronger than they are now, which gives you an advantage in battles.」"
+    },
+    {
+        "message": "I explain the basics of training and Pochemon GO."
+    },
+    {
+        "name": "Iori",
+        "message": "「...Something like that. It’s suddenly become really popular lately. It’s actually pretty hard to catch them out in the city.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I want to try it！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Huh？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Teacher, I want to try catching them too！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You want to try catching Pochemon？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yeah, yeah! Teacher, please let me try it too!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Alright, then let's try it together.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yay~♪」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Okay, Setsugekka Expedition Team, setting off on a journey to catch some Pochemon~♪」"
+    },
+    {
+        "message": "I take off the list that serves as the base unit and teach her how to operate it. Time to turn on the long-range radar immediately！"
+    },
+    {
+        "name": "Iori",
+        "message": "「I never thought Setsugekka would be interested in this.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Whoa, so this is how you search for them~」"
+    },
+    {
+        "message": "Setsugekka leans in against my body."
+    },
+    {
+        "message": "Her hair, so close by, has a fluffy, really lovely scent."
+    },
+    {
+        "name": "Iori",
+        "message": "「...Se-Setsugekka, could you move a little bit away?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Eh~ but then I can't see it.」"
+    },
+    {
+        "message": "The HR is displayed toward me, so I understand that it's hard to see unless she brings her face close to mine."
+    },
+    {
+        "message": "It's just that, being this close to a female student is..."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ah, hey, hey, Teacher, what is this？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Oh, that's...」"
+    },
+    {
+        "message": "At the tip of Setsugekka's finger, there was a small signal in the corner of the radar."
+    },
+    {
+        "name": "Iori",
+        "message": "「This signal means there's a Pochemon right here.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Then that cute little one from earlier is right here？！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「It might be a different Pochemon from Nyankuru, though.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Then let's go over there!」"
+    },
+    {
+        "message": "Setsugekka takes my hand and starts tugging me along eagerly."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Come on, Sensei! Hurry, hurry~!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「There's no need to rush like that. There aren't many people around at this hour.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Huh? Sensei, your palm feels kind of... hard.」"
+    },
+    {
+        "message": "She squeezes my hand over and over."
+    },
+    {
+        "name": "Iori",
+        "message": "「I've done nothing but train ever since I was a kid, after all.」"
+    },
+    {
+        "message": "From calluses forming and tearing open over and over again, my hand has ended up with several rough, gnarly bumps."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Is that so... I wonder if mine will end up like this someday, too.」"
+    },
+    {
+        "message": "Setsugekka keeps gently stroking my palm. It tickles a little."
+    },
+    {
+        "name": "Iori",
+        "message": "「If you keep up with Jindou, I think it's unavoidable to some extent. Though your hands are really soft, Setsugekka.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Huh？ Uh... ahaha, thank you very much.」"
+    },
+    {
+        "message": "Looking embarrassed, Setsugekka timidly pulls her hand back. Her face is faintly flushed."
+    },
+    {
+        "name": "Iori",
+        "message": "「S-Sorry, that was a weird thing to say！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Oh, not at all! I am most humbly honored by your praise.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「W-Well, I'm a maiden right now, too, after all. Ehehe...」"
+    },
+    {
+        "message": "She fidgets, twisting her fingers together."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Sensei, you prefer soft hands after all, don't you？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, I like soft hands, too, but I also like rough, hardened hands shaped by tireless effort. I think they're both attractive.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I-I see... Then that means it's okay even if I keep doing Jindou!」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Wait—what am I even saying？！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ahahaha! Pretend you didn't hear that!」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Come on, Sensei, let's go catch a Pochemon！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Y-Yeah, you're right！」"
+    },
+    {
+        "message": "Trying to distract ourselves from the various distractions, we headed toward the destination indicated by the radar."
+    },
+    {
+        "name": "Iori",
+        "message": "「Man... we’ve come an awfully long way in. Setsugekka, what’s the reading...？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hmm, it should be close. Huh？ That’s strange...」"
+    },
+    {
+        "message": "Before we knew it, we’d made it all the way to the workshop. Perhaps the signal is weak, but Setsugekka seems to be having trouble pinpointing it."
+    },
+    {
+        "name": "Iori",
+        "message": "「Setsugekka, there are all sorts of machine tools in the workshop. Be careful while you look.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Oh, understood. I tend to get so carried away once I start looking for them~」"
+    },
+    {
+        "message": "As we were saying that, the radar picked up a signal."
+    },
+    {
+        "name": "Iori",
+        "message": "「There! Behind the large cutting machine!」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Maybe the shadow is why the reading was acting up？ Alright, time to get ready to capture it~♪」"
+    },
+    {
+        "message": "Hmm？ That’s an odd waveform. And that rank type that flashed for just a split second...？"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Mr. Muragaki, I can throw it now, right？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Wait！ This might just be an incredibly valuable Pochemon...！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Eh? What do you mean by that?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「There’s no mistake. This signal... it’s a Mega Rare！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Mega... rare? What’s that? Is it some kind of rare Pochemon?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah... ‘rare’ doesn’t even begin to cover it. It’s an ultra-rare guy that only appears with a one-in-ten-thousand chance.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「O-one in ten thousand...！？ Wh-what should we do！？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Stay calm. It should still be in the shadow of the machine, so I don’t think it’s noticed us yet.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Unlike other Pochemon, once a Mega Rare gets away from you, it moves to a completely different location.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「How far does it run? To the school gate or something?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「At the very least, somewhere further than the mainland... I’d imagine？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Eeeehhh!!!？ There’s no way we could find it then. *Gulp*... I absolutely cannot let it get away.」"
+    },
+    {
+        "message": "There wasn’t much time left before class started, and this was our first and last chance. A wave of tension hit us all at once."
+    },
+    {
+        "name": "Iori",
+        "message": "「Even I’ve never encountered one before. This is nerve-wracking...！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Th-this is a job for the battle-hardened catcher, Mr. Muragaki...！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, it’s a Mega Rare drawn in by your luck, Setsugekka. I really want to leave this to you.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「W-wait, are you sure I should be the one to catch it！？ Okay, I’ve got this... just leave it to me！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「It’s a big moment, Setsugekka. You’ve only got one shot, so give it everything you’ve got！ I’m counting on you...！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Uuuugh, my heart is racing so fast...！ Kazamine Setsugekka, here I go！！」"
+    },
+    {
+        "message": "She readies her wrist and prepares to initiate the capture."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「The distance should be right... I think？ But where exactly is it behind... Ugh, it’s not really clear.」"
+    },
+    {
+        "message": "The Mega Rare seems to be moving, as the readings keep flickering in and out. There's nothing left to do but leave it to fate...！"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「...Now, hyaaaah！！」"
+    },
+    {
+        "message": "The capture schematic appears on the screen... Success or failure, which will it be？"
+    },
+    {
+        "name": "Iori",
+        "message": "「Whoa, what’s that sound！？ Did we get it！？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Um... did I... succeed？ For real！？」"
+    },
+    {
+        "message": "The capture success screen, which they had seen many times before, appeared on the HR."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「It says Pochemon... Nyangoal Mark II. Teacher, look at this...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Congratulations！！ A Mega Rare, caught！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「We did ittt！！ Mega Rare, caught, baby~♪」"
+    },
+    {
+        "message": "The two of them instinctively shout, grab each other’s hands, and jump up and down repeatedly."
+    },
+    {
+        "name": "Iori",
+        "message": "「Thank you, thank you so much！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Phew... that was more nerve-wracking than a match！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Man, I’m just glad we managed to catch it.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「If it had escaped, what would you have done, Teacher？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...I might have cried.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「You’d cry！？ I’d actually kind of like to see that~」"
+    },
+    {
+        "message": "Well, I’d only do that in private once I got back to my room, though."
+    },
+    {
+        "name": "Iori",
+        "message": "「I want to get you a reward for all your hard work, Setsugekka. Is there anything you want？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Then, how about a grill...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ah, please spare me anything that costs money.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Muu, then how about... headpats？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「If you’re fine with that, I don’t mind at all.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Afu, fuwaaa... This is so soothing... Truly the ultimate reward time~」"
+    },
+    {
+        "message": "I rest my hand on Setsugekka's head and gently pet her."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Your hands are really big, Sensei.」"
+    },
+    {
+        "message": "Setsugekka, looking blissfully entranced."
+    },
+    {
+        "name": "Iori",
+        "message": "「If anything, I think your head is just small, Setsugekka.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Eh~... Are you saying I'm dumb？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, no, I mean you have a small face.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ehehe, that actually makes me a little happy.」"
+    },
+    {
+        "message": "As I stroke Setsugekka's long, silky hair, I strangely start feeling soothed myself."
+    },
+    {
+        "name": "Iori",
+        "message": "「I-Is that enough for now？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「No way~ I caught a mega-rare, so I need mega-rare-class petting too!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Mega-rare-class petting... What am I even supposed to do for that?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Maybe try petting somewhere other than my head？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...Wouldn't that get kinda lewd?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「U-Um... Please pet somewhere that isn't lewd.」"
+    },
+    {
+        "message": "That's a tall order..."
+    },
+    {
+        "name": "Iori",
+        "message": "「Then how about something like this？」"
+    },
+    {
+        "message": "I place my hand on Setsugekka's cheek and give it a gentle stroke."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Fuwaa... That's so soothing, nya~...」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Funya~n, myao~n... kuuu~n」"
+    },
+    {
+        "message": "Whoa, Setsugekka's turned into a Nyankuru..."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Funyaaa... This is the beeest~...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Setsugekka, how about turning back into a human soon?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Purr, purr... Just a little longer...」"
+    },
+    {
+        "message": "Setsugekka, rubbing her cheek against my hand on her own. Every now and then, her lips brush against my hand."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ehehe, having you pet me really calms me down, Sensei.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Back in the day, Kei-chan used to comfort me by petting me all over like this.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Though lately, you haven’t done it for me at all~」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「You don’t spoil me, it’s lonely, you know.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Setsugekka, you really are a spoiled brat, aren't you.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I suppose so~ I act all tough like that normally, but truth be told, I love being spoiled~」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「It’s just that I feel at ease when I’m by the side of someone I can rely on. That would be Kei-chan, though.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I feel like I can rely on you, Teacher, just as much as I can on Kei-chan, and for some reason, I’ve grown fond of you~」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I-I see.」"
+    },
+    {
+        "message": "……Did I just get confessed to?"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「…………」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Um, could you pretend you didn’t hear that just now？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hahaha, sure thing.」"
+    },
+    {
+        "message": "And just like that, the reward time for Setsugekka came to an end."
+    },
+    {
+        "name": "Iori",
+        "message": "「Oh, crap… I’ve stayed relaxed for too long！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Haa, haa… Teacher, you’re fast~！」"
+    },
+    {
+        "message": "The start of class was drawing near with every passing moment. The two of us hurried toward the classroom."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Still, it was a bit of a surprise that you’re into games, Teacher.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I actually quite like them. Raising things and the like.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I grow houseplants in my room, and back at my parents' house, we have a gardening space, you know.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ooh~ So you’re not just into digital critters, but actual living things too, huh.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Don’t call them ‘living things’.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Then, by any chance, do you like kids too？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, of course！」"
+    },
+    {
+        "message": "Kids are cute, full of energy, and healing; I could watch them forever."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「You’re right, Teacher. You really do seem like you’d make a good dad~」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I get told that by a lot of people.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「In the future, how many kids do you want to have？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「The more, the better. Any number is fine！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I-is that so... Whoever becomes your wife in the future is going to have to work really hard, then.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hm, that’s true indeed...」"
+    },
+    {
+        "message": "Childbirth puts a massive strain on the mother. One must gain knowledge and be truly considerate."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I-it’s okay, really！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I can manage up to about nine kids！ Let’s work hard and raise them together！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「N-no, wait, there are procedures like marriage and all sorts of things before that, you know？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ah, that’s right. If we’re going to have children, the procedure is important. Yes, the procedure for making babies...」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「...You pervert, Sensei.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「N-no, that’s not it！ That’s not what I meant！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Everyone, listen up—Muragaki-sensei is talking about the procedure for making babies！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Waaah！？ Stop it~~~~！！」"
+    },
+    {
+        "message": "I grabbed Setsugekka, who had started shouting at the top of her lungs, and hurriedly covered her mouth."
+    }
+]

@@ -1,0 +1,375 @@
+[
+    {
+        "message": "Lunch break. I'd gotten kinda bored of the cafeteria food, so I came to the convenience store."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hehehe, sometimes you just wanna eat some junk food~」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Kei-chan'll probably get mad if she catches me, but... once you start, you just can't stop♪」"
+    },
+    {
+        "message": "I check my surroundings just in case."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yup, nobody's around... All right, convenience store, here I come！」"
+    },
+    {
+        "name": "???",
+        "message": "「Hey, what're you doing over there?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Pyaaaah？！ I've been spotted？！」"
+    },
+    {
+        "message": "I turn around, and standing there is..."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「What's with that rabbit-like squeak?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「S-Sono-chan-senpai？！」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Can't you do something about calling me that...？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「It's already stuck, so there's nothing I can do about it.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「You're the one who made it stick!」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Now, now, don't sweat the small stuff.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「*Sigh*, you never change, do ya?」"
+    },
+    {
+        "message": "Sono-chan-senpai, scratching her head."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Anyway, Senpai, did you need something from me？」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Well, you were just about to head into the convenience store, right?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yes, I was thinking of grabbing something junky for lunch.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Wanna eat together, then？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「R-Really?! You'd let someone like me have the honor of sharing a meal with Sono-chan-senpai?!」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「You're being way too humble. We're just grabbing lunch.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I'm so happy! I'd love to join you!」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Alright, let's go then.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Okaaay！ Thanks for the treat, Senpai！」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Hey, I'm not treating you, alright？ Pay for your own food, okay？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Aaah, that was so good!」"
+    },
+    {
+        "message": "The place I went into with Sono-chan-senpai was the same retro Chinese restaurant with an old menu that we'd visited last time."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Man, you sure can eat... Two servings each of fried rice and ramen? Your stomach's gonna burst.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Well, the fried rice here is just way too good. Oh, and the ramen is my side dish.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Don't use carbs as a side dish.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Is that not okay？ I eat rice with okonomiyaki or yakisoba as side dishes all the time, you know？」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「...I'm not even gonna say anything anymore. Do whatever you want.」"
+    },
+    {
+        "message": "She looked completely exasperated with me."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「More importantly, thank you so much for teaching me all sorts of heel lines again today!」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Uh, I wasn't trying to teach you anything, though.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Well, you're like a walking dictionary, Sono-chan-senpai—every single thing you say is worthy of its own quote collection.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「What the hell's a 'walking dictionary'? And stop calling it a quote collection, that's embarrassing.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Wait, don't you take notes on what Nakamura Sakura says and turn them into a quote collection too, Sono-chan-senpai？」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「W-Why are you asking me something like that?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Well, you remember Sakura's words just as well as I do, don't you, Sono-chan-senpai?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I'm not that smart, so I'll forget them if I don't take notes, but what about you, Sono-chan-senpai？」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「…………」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ahaa... You're making one too, aren't you？」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Gah, you're so annoying！ Wipe that smirk off your face, dammit！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Oww! Thanks for the smack!」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Sheesh... Yeah, fine, I was making one!」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ehehe, I knew it. You really are my comrade, Sono-chan-senpai!」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Sigh... Being lumped in with you doesn't make me happy at all.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I'm happy to be in the same boat as you, Sono-chan-senpai!」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「…………」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Aaah, man, that fried rice from earlier really was delicious~」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I really think rice coated in oil is the national dish of us Japanese.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「It's Chinese food, I'm telling you! It ain't Japanese food!」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「No, no, even curry rice is Japanese food nowadays！ Therefore, fried rice is Japanese food too.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「I feel like I'm getting dumber just talking to you.」"
+    },
+    {
+        "message": "I feel like she just said something really mean."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Though yeah, I'll agree the fried rice here is great.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Right?！ Though Muragaki-sensei's fried rice is every bit as incredible as the stuff here.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「You actually eat grub made by a teacher?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Sensei really wanted me to attend class, so we struck a deal where he makes me fried rice every week.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Aren't you just getting baited with fried rice？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Don't say it! I know that already!」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Come to think of it, you're in the Martial Arts Division, right?」"
+    },
+    {
+        "message": "I strolled back to the academy with Sono-chan-senpai."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yep, first-year in the Martial Arts Division.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「How strong are you？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「It's kinda hard to say when you ask how strong... I guess I'm near the bottom of my class?」"
+    },
+    {
+        "message": "Momiji goes without saying, and I can barely beat Asahi-chan or Ririmu-chan either, so I might actually be at the very bottom right now."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「You sure are carefree. You really okay with that?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「No, I'm not okay with it! I'm going to get stronger from here on out!」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Everyone in my class is super strong, you see. I've been training with them and getting stronger too.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Your class, huh... Which class are you in？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Um, it's called Takamura Class.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「...Takamura Class？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「You haven't heard of it? Like, a bunch of dropouts or something?」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Yeah, I've heard of it. If I remember right, there's a Suzakuin Momiji in there, right?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Oh, they’re here. It’s Momimomi.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Momimomi is insanely strong！ I try my best, but I can’t win at all. It’s truly amazing.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「She’s always criticizing me and saying things that just make me mad. It makes me so mad I could scream！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「But, she’s actually a pretty good person on the inside.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「……Are you hanging out with a Suzakuin？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hanging out, maybe not. We’re in the same class, though. It’s more like we’re rivals honing each other’s skills.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Hmph, rivals, huh……」"
+    },
+    {
+        "message": "Sono-chan senpai looks displeased."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Hmph…… Well, I suppose that’s convenient. I was getting a bit bored of training alone anyway.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Hey, Set-chin. Lead me to your class.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Eh？ You mean lead you there, Sono-chan senpai？」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「It’s just you and me here, isn’t it? Who else would I be asking?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I suppose so, but what are you planning on doing？」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Isn’t it obvious? I’m crashing the place.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「You’ve been wanting to know about heels for a while now, haven’t you？ I’ll show you, right in front of your eyes.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「F-for real……? I want to see, I definitely want to see！」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「The heir to the Suzakuin clan is there, right? Let’s see if she’s really got what it takes to be a leader of a martial arts family.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Whoaaa, Senpai, that’s so cool！」"
+    },
+    {
+        "message": "T-this is starting to get interesting！"
+    }
+]

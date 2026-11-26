@@ -1,0 +1,262 @@
+[
+    {
+        "message": "――A few days have passed since the semifinals"
+    },
+    {
+        "message": "Today is finally the day, and the finals are taking place."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Yawn~n, I'm sleepy~……」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Did you get enough sleep last night？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Yeah, that part's fine」"
+    },
+    {
+        "name": "Iori",
+        "message": "「What about Setsugekka. Did you sleep well」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Of cour~se！ Slept like a log, pooped like a champ, condition is toootal perfection！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Don't say things like pooping like a champ as a girl」"
+    },
+    {
+        "message": "There was still plenty of time until the match, but playing it safe, I left the dorm early with the two of them."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Now that I think about it, Momimomi falls asleep super fast, doesn't she. Even if I pinch your cheek, you don't wake up」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Is that right」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「When we had that sleepover before, I wondered why my cheek felt weirdly off—it was your fault?!」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「It's fine, I gave you a kiss to make up for pinching it！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Whoa~, what a nightmare……」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hold on, hold on, that's not the part where you make a disgusted face, right！？ Isn't that where your face turns all rosy and flustered！？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Sorry, I'm not into that kind of thing」"
+    },
+    {
+        "message": "Showing our passes, we go through the entrance for staff and participants, entering the venue a step ahead of the crowd."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Phew, now there's no need to worry about being late~！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Listen, being late to the Martial Festival finals would be completely unheard of, you know」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Momimomi looks like she'd oversleep, though」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Like I would」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Aha~n, it's only because I wake you up that you manage not to oversleep~」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Your perception is way off there」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「If I took away Setsugekka's role of waking me up, I'd feel bad for you, so I reluctantly let you wake me」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Well, keep serving me diligently from here on out, won't you~」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Who the hell do you think you are, hey」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Right then, we still have some time, but what should we do？」"
+    },
+    {
+        "message": "It felt a bit too early to change into my Spirit-Type Armament now, anyway."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Oh, that’s right. Why don’t we head over to the spectator seats？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Sure, let’s go check it out.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Oh, the guests are already coming in.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「There’s still plenty of time until the matches, isn't there?」"
+    },
+    {
+        "message": "General admission had already begun at the venue. Spectators were pouring in one after another."
+    },
+    {
+        "name": "Iori",
+        "message": "「The finals are particularly popular. The unreserved seats are a free-for-all, and I hear there are even standing-room-only crowds.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Unreserved seats, huh... I only have memories of being pestered by some weird old guy when I was a kid.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Were you okay？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Well, I was already learning Mishima-ryuu Martial Arts back then. I took him down with one strike to the crotch.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「How barbaric...」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Have you never been pestered, Momimomi？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Hmm, I was always in the invited seating area, so.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Pah！ This is why ladies of the Suzakuin family are the worst！ Must be nice to be so privileged, huh！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Sensei, I’m being pestered by a weird old guy, please help me.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Who are you calling an old guy!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hey, Setsugekka, don't make such a scene in public. You’re a celebrity now, you know.」"
+    },
+    {
+        "message": "The general spectators began to stir as they recognized Setsugekka and Momiji."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「O-oh, ohhh... I’m the center of attention！？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Iori-sensei, let’s move, shall we?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, good idea.」"
+    },
+    {
+        "message": "We arrived at the top floor, which overlooked the arena."
+    },
+    {
+        "message": "Inside the venue, the first round and semi-final matches of the Martial Festival were being broadcast via live viewing."
+    },
+    {
+        "message": "The excitement of the cheering crowd reached us."
+    },
+    {
+        "name": "Iori",
+        "message": "「...I’m a lucky man.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「So many people have gone out of their way to come here just to see the matches of the two people standing here.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I’m truly proud to have been involved with both of you.」"
+    },
+    {
+        "message": "Being able to share their grand moment with everyone here. That was what made me happier than anything else."
+    },
+    {
+        "name": "Iori",
+        "message": "「Setsugekka, and Momiji.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yes？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Hmm, what is it？」"
+    },
+    {
+        "message": "The two of them turned around and faced me."
+    },
+    {
+        "message": "The final match—whether we cry or laugh, this is it."
+    },
+    {
+        "message": "No matter who wins or who loses. I want them to have a match with no regrets."
+    },
+    {
+        "message": "I started to say that... but suddenly stopped myself."
+    },
+    {
+        "message": "—There was no pretense in the way Setsugekka smiled so brightly."
+    },
+    {
+        "message": "—Momiji already had the face of a swordswoman."
+    },
+    {
+        "message": "There was nothing left that I needed to say to them."
+    },
+    {
+        "name": "Iori",
+        "message": "「...I’ll be watching over both of you.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yes！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Yeah.」"
+    },
+    {
+        "message": "And once the match is over, safely..."
+    },
+    {
+        "message": "I want them to come back to me."
+    }
+]

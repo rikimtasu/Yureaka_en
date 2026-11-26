@@ -1,0 +1,645 @@
+[
+    {
+        "message": "After that—I was in no state to hold class, so I sent everyone home early."
+    },
+    {
+        "message": "Then I wandered all over the place looking for Setsugekka and Momiji..."
+    },
+    {
+        "name": "Iori",
+        "message": "「So this is where you were, Momiji」"
+    },
+    {
+        "message": "The one I found first was Momiji."
+    },
+    {
+        "name": "Momiji",
+        "message": "「...What？」"
+    },
+    {
+        "message": "Momiji was sitting on the seawall, silently gazing out at the sea reflecting the setting sun with a bored look on her face."
+    },
+    {
+        "name": "Iori",
+        "message": "「Mind if I sit next to you？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Do whatever you want」"
+    },
+    {
+        "message": "She replied curtly. She seemed to be in a bad mood."
+    },
+    {
+        "name": "Iori",
+        "message": "「Oof... Summer break's right around the corner, huh」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I suppose」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Is there anything you want to do over summer break？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Not really」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Around when are you heading back to your family's place？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Haven't decided yet」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Momiji...」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「...Ugh, come on, what is it!」"
+    },
+    {
+        "message": "She glared at me, looking annoyed."
+    },
+    {
+        "name": "Momiji",
+        "message": "「If you've got something to say, just say it already. Dragging it out just ticks me off!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Then I'll ask you straight up」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You've known for a while now, haven't you？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That if she couldn't become Toujinegi, Setsugekka might end up leaving the academy」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「…………」"
+    },
+    {
+        "name": "Iori",
+        "message": "「So I was right」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ugh, so annoying—stop reading my expression!」"
+    },
+    {
+        "message": "Momiji and Setsugekka were always bickering loudly, yet in truth, the two of them were very close."
+    },
+    {
+        "message": "She must have heard about it from Setsugekka beforehand."
+    },
+    {
+        "name": "Iori",
+        "message": "「Did you know even before the finals？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「……I knew」"
+    },
+    {
+        "message": "Quitting the academy because she couldn't beat Suzakuin. I can't believe she made a decision that big just yesterday or today."
+    },
+    {
+        "message": "Setsugekka must have decided ahead of time."
+    },
+    {
+        "message": "And Momiji knew about Setsugekka's decision beforehand."
+    },
+    {
+        "name": "Iori",
+        "message": "「I see……Sorry, I wasn't considerate enough for you」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「That's not something Sensei needs to apologize for, right?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Maybe not……Still, it frustrates me. That I couldn't be there for how Momiji felt」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「……Stop saying things like that, it's unfair」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Unfair？」"
+    },
+    {
+        "message": "I didn't really understand what was unfair or how."
+    },
+    {
+        "name": "Iori",
+        "message": "「Don't you want to do something about Setsugekka？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Do something, like what？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Momiji, are you okay with Setsugekka leaving？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「……If you listened to what was said earlier, you'd get it, right? There's no doing anything about that」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Setsugekka and Keisetsu are of one mind and body, you can't separate them」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Keisetsu has the ambition to become head of the house, and Setsugekka wants Keisetsu to fulfill that ambition」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Which means, unless you somehow crush Keisetsu's ambition, you can't alter Setsugekka's actions following along with it」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「So？ You think persuading Keisetsu like, 'Hey, maybe you don't have to become head after all,' would actually work？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「No way, right? Dead end」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Another option: smash the trust between Setsugekka and Keisetsu. Basically, sow discord between them」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「If we really tried, maybe we could pull it off. But if we did that, we'd make an enemy of the entire Kazamine family」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Brainwash Setsugekka into cutting ties with Keisetsu. Might be possible, though I think Keisetsu would get seriously mad」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Do you have the resolve to go all-out against that Keisetsu, Sensei？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Th-that's……」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Obviously I thought of things on this level, and after thinking them through, I gave up because there's neither feasibility nor benefit」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「So, you really think this can be fixed somehow？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Sorry about that. That was an inconsiderate thing to say.」"
+    },
+    {
+        "message": "It looks like I rubbed Momiji the wrong way."
+    },
+    {
+        "name": "Momiji",
+        "message": "「...I don't even care about Setsugekka anymore.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, you can't just not care...」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I mean, you're leaving too, aren't you, Iori-sensei?」"
+    },
+    {
+        "message": "I'm at a loss for words."
+    },
+    {
+        "name": "Momiji",
+        "message": "「The Tenju Special Forces told you to come back, right？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...You knew about that too?」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I heard it from Setsugekka.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「That's why Setsugekka is leaving the academy too, isn't it?」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Once the biggest reason to stay at the academy is gone, of course you'd just feel like, 'Whatever, who cares anymore.'」"
+    },
+    {
+        "message": "Momiji, gazing out at the sea with a look of utter resignation."
+    },
+    {
+        "name": "Iori",
+        "message": "「...Even if that's true, what are you going to do, Momiji？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Nothing much... I'll just go my own way—do everything myself and stay on my own. Just go back to being a Suzakuin, I guess~」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Asahi and Ririmu are still in Takamura Class, though...」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I know, I know.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I really have gotten close with both of them, and it's not like I plan on cutting ties or anything, so you don't need to worry.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Not that it'll have anything to do with you anyway, since you won't be here by then, Sensei.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「…………」"
+    },
+    {
+        "message": "I couldn't say a word."
+    },
+    {
+        "message": "Only the sound of the waves echoes all around us."
+    },
+    {
+        "name": "Momiji",
+        "message": "「...You know」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I won the Martial Festival and became the Toujinegi, and yet... I don't feel happy at all.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I worked so hard to get stronger so I could become the Toujinegi, and you helped me out so much, Sensei」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I lived up to everyone's expectations, and my wish finally came true, and yet」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Why do I feel so empty...」"
+    },
+    {
+        "message": "Looking closely, I saw a tiny tear welling up in Momiji's eyes."
+    },
+    {
+        "name": "Momiji",
+        "message": "Setsugekka and Keisetsu are gone, and Sensei is gone too."
+    },
+    {
+        "name": "Momiji",
+        "message": "What was I even working so hard for……"
+    },
+    {
+        "name": "Momiji",
+        "message": "Why was I doing Jindou……？"
+    },
+    {
+        "name": "Momiji",
+        "message": "The further forward I stepped, the more painful it got……"
+    },
+    {
+        "name": "Momiji",
+        "message": "I've lost way more than I've gained……！"
+    },
+    {
+        "name": "Momiji",
+        "message": "There's nothing good at all about winning……！"
+    },
+    {
+        "name": "Momiji",
+        "message": "Why do I have to feel like this……！？"
+    },
+    {
+        "name": "Iori",
+        "message": "「Momiji...」"
+    },
+    {
+        "message": "Momiji had known from the start. That this is what would happen if she won the finals."
+    },
+    {
+        "message": "Even though she knew, made up her mind, and supposedly chose this path herself."
+    },
+    {
+        "name": "Momiji",
+        "message": "Really…… if it was going to be like this, I wish I'd never been born a Suzakuin……！"
+    },
+    {
+        "name": "Momiji",
+        "message": "I never should've become a swordsman, damn it……！"
+    },
+    {
+        "message": "The reason Momiji talked about standing on her own whenever she got the chance wasn't because she genuinely wanted to, but"
+    },
+    {
+        "message": "Because people around her demanded she be strong, and to live up to that"
+    },
+    {
+        "message": "To spur herself on as a Suzakuin――"
+    },
+    {
+        "message": "She had no choice but to rely on standing alone. That was all it was."
+    },
+    {
+        "name": "Iori",
+        "message": "……I'm glad, though. That Momiji's a normal girl too."
+    },
+    {
+        "message": "I'd always thought it. That Momiji was pushing herself somewhere along the line."
+    },
+    {
+        "message": "Yet up until today, she had never once complained to anyone around her."
+    },
+    {
+        "name": "Momiji",
+        "message": "It's not good, there's nothing good about it……！ This is just painful, isn't it！"
+    },
+    {
+        "name": "Momiji",
+        "message": "Sensei dragged me out when I didn't want to, and made me take lessons with everyone else！"
+    },
+    {
+        "name": "Momiji",
+        "message": "Made us get along and let me have fun and all！"
+    },
+    {
+        "name": "Momiji",
+        "message": "To snatch that away right when I…… started thinking maybe this kind of thing isn't so bad, that's way too cruel……！"
+    },
+    {
+        "name": "Momiji",
+        "message": "If I'd just stayed on my own from the start, if things had stayed the way they were, I wouldn't have had to feel like this……"
+    },
+    {
+        "name": "Momiji",
+        "message": "It's only this hard because Sensei pulled me in, because Sensei taught me……！"
+    },
+    {
+        "name": "Momiji",
+        "message": "All of this, every bit of it, is Sensei's fault, isn't it！！"
+    },
+    {
+        "name": "Iori",
+        "message": "……Yeah, you're right. It's my fault."
+    },
+    {
+        "message": "If she'd never known, she wouldn't have suffered. Momiji's pain is practically something I gave her."
+    },
+    {
+        "name": "Momiji",
+        "message": "Sniff…… what am I supposed to do from here……？ What should I have done……！？"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Tell me, Iori-sensei...！！！」"
+    },
+    {
+        "message": "I know all too well the feelings Momiji is experiencing and suffering through right now."
+    },
+    {
+        "name": "Iori",
+        "message": "「...I'm still inexperienced, and there's so much I don't know. So I can't do anything as grand as teaching you.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「But... as someone walking just a little bit ahead of you, I think there's something I can pass on.」"
+    },
+    {
+        "message": "I hand Momiji a handkerchief and let her wipe away her tears."
+    },
+    {
+        "name": "Iori",
+        "message": "「...I think I told you before, but I had a best friend.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ever since I injured him and we graduated, up until just recently, I'd been completely out of touch with him.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「And the other day, I finally got to talk with Takahisa.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「...I see.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「He hadn't changed a bit. Cheerful, smooth-talking, and a genuinely good guy...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Takahisa was the one who taught me.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...Don't let go of what's precious to you so easily.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Acting like some tragic hero and pretending to shoulder all the guilt doesn't do anyone any good.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「If anything, it just ends up hurting the important people around you who care about you—that's what he told me.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「…………」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hearing Takahisa say that made me realize it. I really was a fool.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I robbed Takahisa of his dream.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Someone like me doesn't deserve to chase his own dream and become a teacher—that's what I kept telling myself all this time.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Until Takahisa forgives me, there's nothing I can do. I kept believing all I could do was wait.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「But that was just an excuse I made to myself.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「To put it simply, I'd given up on my own. On my dream, and on Takahisa.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Making excuses to myself, I ended up wasting precious time ever since graduating from the academy.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Talking with Takahisa finally made me understand that.」"
+    },
+    {
+        "message": "I don't regret joining the GSDF. I deeply treasure both the experiences and the comrades I gained there."
+    },
+    {
+        "message": "Even so, if only I had reached out to Takahisa sooner. If only I hadn't given up on my dream and had become a teacher."
+    },
+    {
+        "message": "These feelings, this regret lingering in my chest—I'm sure they will never fade from my heart for as long as I live."
+    },
+    {
+        "message": "I don't want Momiji to ever feel that way."
+    },
+    {
+        "name": "Iori",
+        "message": "「Momiji, if there's something truly precious to you, don't give up on it.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Even if it's pathetic, even if it ends up being pointless, you should struggle until the very, very end.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「If you easily give up on or let go of something precious to you, you'll regret it for the rest of your life.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「One fool like that is plenty—me alone is enough.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Sensei...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Momiji, there are things only you can do.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「There have to be words that only you can get through to them—」"
+    },
+    {
+        "message": "Yes, just like Takahisa told me."
+    },
+    {
+        "message": "Things that only someone precious—only someone who truly cares—can melt away, feelings only they can untangle."
+    },
+    {
+        "message": "I'm sure those exist in this world."
+    },
+    {
+        "name": "Momiji",
+        "message": "「...Hehe, what's with that?」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Really... Iori-sensei, you say weirdly sappy stuff sometimes, you know.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Not satisfied with that answer？」"
+    },
+    {
+        "message": "I ask her the same way I did back then."
+    },
+    {
+        "name": "Momiji",
+        "message": "「It's not like it's bad or anything, buuut...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「But？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Well, if Sensei says so, maybe giving it a shot could be fun, nya~」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Just kidding!」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Thanks, Iori-sensei. I'll think it over a bit.」"
+    },
+    {
+        "message": "Thank goodness. Looks like she's finally warming up to the idea."
+    },
+    {
+        "name": "Iori",
+        "message": "「...Hey, Momiji.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Hmm~？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I actually have one pretty good idea.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「A good idea？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah. I call it Operation 'Never Let the Green Grass Wither.'」"
+    },
+    {
+        "message": "I flash a grin."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Hmm, so you're planning to scheme something sneaky again.」"
+    },
+    {
+        "message": "Leave it to Momiji—she got it without me even having to say a word."
+    },
+    {
+        "name": "Iori",
+        "message": "「How about it, feel like getting in on this？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Hehe, sure. I'm in.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Well, no telling how far we'll get, though.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Nothing to lose—let's flail around pathetically！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You bet！」"
+    },
+    {
+        "message": "Momiji and I bumped fists."
+    }
+]

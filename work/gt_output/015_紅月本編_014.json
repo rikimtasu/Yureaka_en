@@ -1,0 +1,725 @@
+[
+    {
+        "message": "I came to the outdoor training ground together with Asahi."
+    },
+    {
+        "name": "Iori",
+        "message": "「Whoa, there's nothing here.」"
+    },
+    {
+        "message": "The indoor training ground is better equipped and has a much nicer environment, but unfortunately, it's completely booked right now."
+    },
+    {
+        "name": "Iori",
+        "message": "「I really wanted to use <d0085>Yorishiro-kun</d> again after all this time, though.」"
+    },
+    {
+        "message": "Yorishiro-kun—officially known as the \"Hiraga Computational Spirit-Type Prototype Unit YSR-04E\"—is a system that makes full use of Holographic Reality."
+    },
+    {
+        "message": "In addition to status indicators for reviewing data, it can project Origami and opponents to simulate actual matches."
+    },
+    {
+        "message": "However, there's no Yorishiro-kun out here. We can only do basic practice, though I suppose that's more than enough for today."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Iori-sensei, how do I look?」"
+    },
+    {
+        "message": "Asahi came back after changing into her Spirit-Type Armament."
+    },
+    {
+        "name": "Iori",
+        "message": "「Oh, looking sharp. It suits you really well.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Thank you very much.」"
+    },
+    {
+        "message": "Seeing Asahi looking so gallant in her Spirit-Type Armament makes me genuinely happy to see how much she's grown."
+    },
+    {
+        "name": "Iori",
+        "message": "「I wonder how many years it's been since I last sparred with Asahi-chan.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Iori-sensei, you went back to calling me Asahi-chan.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ah, sorry. Pretty pathetic of me when I was the one who brought it up.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hehe, let's work on changing it gradually.」"
+    },
+    {
+        "message": "Man, Asahi really is a good kid."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Even so, having Iori-sensei give me a coaching bout like this feels like a dream.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「You have no idea how long I've been waiting for this moment...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Was I really that good at teaching？」"
+    },
+    {
+        "message": "I was still just an academy student back then, so I don't think I was all that mature or anything."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Yes—so good that I've permanently preserved it as my happiest memory.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I see. Well, if it made you happy, I'm glad.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Alright then, how about we cross blades while reminiscing about old times?」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Please instruct me！」"
+    },
+    {
+        "message": "I draw my Origami and point its tip toward Asahi."
+    },
+    {
+        "name": "Iori",
+        "message": "（...Oh, right.）"
+    },
+    {
+        "message": "Seeing Asahi's stance jogs my memory."
+    },
+    {
+        "message": "She turns half-sideways in a low, hip-level stance, keeping her Origami sheathed."
+    },
+    {
+        "message": "What she uses is Iai quick-draw swordsmanship—a quintessential counter-type style that unleashes its blade with godlike drawing speed."
+    },
+    {
+        "name": "Iori",
+        "message": "（That drawing strike of his was something else...）"
+    },
+    {
+        "message": "In Asahi's stance, I see the shadow of my late best friend, Takahisa."
+    },
+    {
+        "message": "Perhaps because they are siblings, their stances are identical."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Iori-sensei？ I'm already ready.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「My apologies, I was just reminiscing.」"
+    },
+    {
+        "message": "Seeing Asahi’s stance, now grown to the same level as the student I was when I first met Takahisa, I couldn't help but fall into a wave of sentiment."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hehe, reminiscing is fine, but please watch me as I am now.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You're right. Let me see just how much you've grown！」"
+    },
+    {
+        "message": "Height, stride, arm length, blade length inferred from the scabbard—I immediately gauge the distance from these visual cues."
+    },
+    {
+        "message": "Stopping just on the edge of her range, aiming to draw a false strike—"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hehe...！」"
+    },
+    {
+        "message": "The moment I thought Asahi smiled."
+    },
+    {
+        "message": "A flash like lightning—the first strike, delivered at a speed impossible to track. It took everything I had just to parry it."
+    },
+    {
+        "message": "Asahi’s follow-up strike, delivered with breathless timing, heavily depletes my arm's VF."
+    },
+    {
+        "message": "Having confirmed the hit, Asahi lightly kicks off the ground to regain her distance. The Origami she had drawn is already back in its scabbard before I even noticed."
+    },
+    {
+        "name": "Iori",
+        "message": "「...I'm surprised. Your reach is greater than I thought.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hehe, thank you. But Iori-sensei is impressive as well.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「You're the first person at this academy to parry my opening strike, Iori-sensei.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, I doubt the other students here could evade that...」"
+    },
+    {
+        "message": "A strike delivered at the exact moment when the opponent hasn't yet secured their distance."
+    },
+    {
+        "message": "It was only because I had spent so much time sparring with Takahisa, who fought in this exact style, that I was able to react to Asahi now."
+    },
+    {
+        "message": "Under normal circumstances, one would definitely be struck; with that kind of momentum, a single blow like that could easily decide the match the moment it lands."
+    },
+    {
+        "message": "Truly, a one―strike kill―"
+    },
+    {
+        "name": "Iori",
+        "message": "「But I’ve got your measure now！」"
+    },
+    {
+        "message": "I lunge into Asahi's reach and swat away the opening strike of her god-speed Iai."
+    },
+    {
+        "message": "Realizing she's at a disadvantage, Asahi immediately retreats to a distance more favorable to her."
+    },
+    {
+        "name": "Asahi",
+        "message": "「As expected of Iori-sensei, you read it.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Of course. I won't make the same mistake twice.」"
+    },
+    {
+        "message": "While Iai-style drawing strikes are incredibly powerful in an opening move, they are easy to deal with once their range and speed are memorized."
+    },
+    {
+        "message": "Since the position of the blade is constant, the available techniques are inevitably more limited compared to other styles that utilize multiple stances."
+    },
+    {
+        "name": "Iori",
+        "message": "「Come on, Asahi. This is where you show me what you've got...！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I won't let you get away！！」"
+    },
+    {
+        "message": "I deflect her draw-strike and press in on Asahi. Giving her no time to sheathe her blade, I bear down on her all at once."
+    },
+    {
+        "message": "Caught in my relentless flurry of strikes, Asahi can't resheathe her sword. It's a tough spot for a battoujutsu practitioner."
+    },
+    {
+        "name": "Iori",
+        "message": "「What's the matter, Asahi? Takahisa used to counter this much without even breaking a sweat！?」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Now that's infuriating!」"
+    },
+    {
+        "message": "Even as she says she's infuriated, Asahi doesn't take the bait. She keeps calmly parrying my incoming strikes one after another."
+    },
+    {
+        "name": "Iori",
+        "message": "「Then how about this—！？」"
+    },
+    {
+        "message": "Flowing out of a deflecting slash, I snap back at a sharp angle, unleashing a strike from an impossible trajectory."
+    },
+    {
+        "message": "I unleashed a serious strike to test Asahi's adaptability, and yet."
+    },
+    {
+        "name": "Asahi",
+        "message": "「...Iori-sensei, aren't you holding back a bit too much？ I'm not a child anymore, you know.」"
+    },
+    {
+        "message": "Asahi, catching my blade and smiling serenely."
+    },
+    {
+        "name": "Iori",
+        "message": "「You've really grown.」"
+    },
+    {
+        "message": "She fends off my relentless barrage and doesn't even let my serious strike through. Truly an ironclad defense."
+    },
+    {
+        "message": "Asahi has always been good at defending herself, and now she's honed it even further."
+    },
+    {
+        "name": "Asahi",
+        "message": "「I'd like to see your true art soon, Iori-sensei.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...I've got that sealed away right now, though.」"
+    },
+    {
+        "message": "By \"true art,\" Asahi must mean the swordsmanship style I've mastered."
+    },
+    {
+        "name": "Asahi",
+        "message": "「What a waste. Why did you seal it away？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Because something like that has no place in Jindou.」"
+    },
+    {
+        "message": "Jindou is strictly a sport. Swordsmanship meant for killing people has no business being used here."
+    },
+    {
+        "name": "Asahi",
+        "message": "「And yet, without it, you couldn't have taken the title of Toujinegi from my brother.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「You won't be able to beat me like that, you know.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Because right now, I'm stronger than my brother was back then.」"
+    },
+    {
+        "message": "Heh, quite the provocation."
+    },
+    {
+        "name": "Iori",
+        "message": "「...You're right, Asahi. You've gotten far stronger than I thought. You must have been training relentlessly.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Yes. I like to think I've worked harder than most.」"
+    },
+    {
+        "message": "I can sense a fierce pride in her own abilities radiating from Asahi. She must be remarkably confident."
+    },
+    {
+        "message": "If that's what Asahi wants, I'm not averse to breaking my own taboo."
+    },
+    {
+        "name": "Iori",
+        "message": "「...All right. Just this once, got it?」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hehe, I'm glad.」"
+    },
+    {
+        "message": "I tightened my grip on my Origami and shifted my core."
+    },
+    {
+        "message": "I hadn't used it in a long time, yet the stance drilled into me since childhood settled naturally into my body."
+    },
+    {
+        "name": "Iori",
+        "message": "「The essence of Muragaki, <d0034>Tengen Saimei―ryuu</d>―here I come.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ngh......！」"
+    },
+    {
+        "message": "Instantly, a crease formed between Asahi's brows."
+    },
+    {
+        "message": "As I held my Origami at the ready without moving, Asahi began edging backward."
+    },
+    {
+        "message": "I took a step forward to close the distance."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Kh...！」"
+    },
+    {
+        "message": "As if overwhelmed by the pressure, Asahi retreated a large step."
+    },
+    {
+        "name": "Iori",
+        "message": "「What's wrong, Asahi? Shrinking back already?」"
+    },
+    {
+        "message": "When I called out, Asahi's hand resting on the hilt of her sheathed Origami twitched sharply."
+    },
+    {
+        "message": "She seemed terribly on edge."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Facing this again after so long really is tough...！」"
+    },
+    {
+        "message": "Asahi's gaze darted around restlessly."
+    },
+    {
+        "message": "Anyone seeing this for the first time probably wouldn't understand what I was doing."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hah... huff, haah...！」"
+    },
+    {
+        "message": "While to an onlooker I was merely standing still on the spot, Asahi's breathing grew rougher with every passing second."
+    },
+    {
+        "message": "―The Swordsman―Killer."
+    },
+    {
+        "message": "For generations, the Muragaki Family served as the shogunate's Oniwabanshu, cutting down those who turned against the bakufu."
+    },
+    {
+        "message": "The swordsmanship created by that very Muragaki clan—that is Tengen Saimei-ryuu."
+    },
+    {
+        "message": "Tengen Saimei-ryuu's opening move is 'Reader-Killer,' which continuously throws off an opponent's reads at high speed through minute movements while remaining in place."
+    },
+    {
+        "message": "Having faced countless master swordsmen, Muragaki knows full well that this tactic is especially effective against high-level practitioners."
+    },
+    {
+        "message": "Before Saimei-ryuu, a swordsman is forced into a state of extreme tension."
+    },
+    {
+        "message": "Then, once they are utterly exhausted in both body and mind, it unleashes a lethal strike."
+    },
+    {
+        "message": "That is the fundamental pattern of Tengen Saimei-ryuu."
+    },
+    {
+        "name": "Iori",
+        "message": "「Asahi, mind if I come at you soon？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「If anything, I wish you'd hurry up and come at me...！」"
+    },
+    {
+        "message": "Because Iai quick-draw swordsmanship lives and dies by the counter-initiative, reading the opponent's hand completely is of utmost importance."
+    },
+    {
+        "message": "For someone like Asahi, Tengen Saimei-ryuu works with devastating effectiveness."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hah...！？」"
+    },
+    {
+        "message": "Responding to my half-step forward, Asahi slightly unlatched her blade from the scabbard. However, that was just a feint."
+    },
+    {
+        "name": "Iori",
+        "message": "「Huff！」"
+    },
+    {
+        "message": "As I let out a deep breath, Asahi dropped her center of gravity. Yet this too was just a feint."
+    },
+    {
+        "name": "Iori",
+        "message": "「If it's too much for you, you're welcome to make the first move, you know？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「……I think I'll refrain.」"
+    },
+    {
+        "message": "Indeed, if she got impatient and rushed in, she'd be playing right into my hands."
+    },
+    {
+        "message": "Tengen Saimei-ryuu, much like Iai, excels most in the 'winning after the opponent moves' principle."
+    },
+    {
+        "message": "By neutralizing any reading of my intent, I can completely dismantle the opponent's strategy. It is only because such a thing is possible that it is a 'killing blow.'"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Kh...！」"
+    },
+    {
+        "message": "Perhaps losing patience, Asahi takes a wide step back."
+    },
+    {
+        "name": "Asahi",
+        "message": "「I had wanted to save this for a little longer, but……！」"
+    },
+    {
+        "message": "Asahi's hair began to sway and drift through the air."
+    },
+    {
+        "message": "A tremendous fighting spirit surged through Asahi's body as she took her stance."
+    },
+    {
+        "name": "Asahi",
+        "message": "「……The Martial Festival final, where Iori-san fought my brother when he was a second-year at the academy—I watched it over and over again, dozens of times.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Back then, my brother stood unrivaled among the students as a swordsman who used Iai.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「And the one who defeated that brother of mine…… was you, Iori-san.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Both my brother and I are swordsmen who use Iai.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「If that is the case, then surely, the one standing in my way as my final enemy must be someone like you.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「If I cannot defeat you, Kuki cannot become the Toujinegi……！」"
+    },
+    {
+        "message": "I see…… so that was the resolve with which Asahi was facing me."
+    },
+    {
+        "message": "Is that why she sought out the Tengen Saimei-ryuu from me?"
+    },
+    {
+        "name": "Asahi",
+        "message": "「For these past few years, I have thought of nothing but how I could defeat you.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Please, let me confirm the answer to that here……！！」"
+    },
+    {
+        "message": "Asahi had come to this academy carrying the weight of her brother's defeat on her shoulders."
+    },
+    {
+        "message": "For an Asahi in that state, meeting me again was the greatest stroke of good fortune imaginable. That must be why she had been so happy."
+    },
+    {
+        "message": "For Asahi, this must truly be about avenging Takahisa—"
+    },
+    {
+        "name": "Iori",
+        "message": "「……You're really going to give this everything you've got, aren't you？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「That's a rather boorish question to ask a swordsman.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「But…… it's precisely because you're that kind of person, Iori-san, that I like you.」"
+    },
+    {
+        "message": "She cast a piercing gaze at me, charging it with genuine killing intent. Yet, she still managed to offer a smile."
+    },
+    {
+        "name": "Iori",
+        "message": "「……You've become a fine swordsman, Asahi.」"
+    },
+    {
+        "message": "I truly think so."
+    },
+    {
+        "message": "And that is precisely why—I must respond to her with everything I have."
+    },
+    {
+        "name": "Iori",
+        "message": "「Here I come.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Whenever you're ready.」"
+    },
+    {
+        "message": "No matter how things turn out, this single blow will decide the match."
+    },
+    {
+        "message": "Closing the distance in a flash—and unleashing a strike of instantaneous speed from her blind spot！"
+    },
+    {
+        "message": "A lethal blade aimed at his neck—but Asahi doesn't dodge. She doesn't even try to defend."
+    },
+    {
+        "message": "Sucking into his neck as if drawn in—but, before it reaches Asahi—"
+    },
+    {
+        "name": "Iori",
+        "message": "「What...！？」"
+    },
+    {
+        "message": "Thirty centimeters short, the blade is obstructed by something invisible."
+    },
+    {
+        "message": "This is—！ But Asahi is not one to miss the opening created in that split second."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Secret Technique, <d0035>Ouitsu Issen</d>—！！！！」"
+    },
+    {
+        "message": "A truly lethal distance, a strike that spells certain death."
+    },
+    {
+        "message": "The sword guard in Asahi’s hand glitters—and a strike as if to split the very space in two is unleashed."
+    },
+    {
+        "message": "She poured all the spiritual power she possessed into that single blade."
+    },
+    {
+        "message": "Even Victoria, sturdy as she is, probably wouldn't be able to withstand this."
+    },
+    {
+        "message": "But—"
+    },
+    {
+        "name": "Asahi",
+        "message": "「............I yield.」"
+    },
+    {
+        "message": "Asahi, with the tip of a blade pointed at her neck, speaks quietly and exhales."
+    },
+    {
+        "name": "Asahi",
+        "message": "「You saw that attack just now, didn't you?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No way I could see something like that.」"
+    },
+    {
+        "message": "The final strike Asahi unleashed was truly at the speed of lightning."
+    },
+    {
+        "message": "There was no sign of a preliminary movement, and if one waited to see it, dodging would be impossible."
+    },
+    {
+        "message": "It was only by limiting the vector of the attack in advance with the Tengen Saimei-ryuu's Reader-Killer that he was able to avoid it."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Well then, if I had been lucky, it might have hit.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, that was nerve-wracking.」"
+    },
+    {
+        "message": "If his concentration had lapsed for even a moment, it wouldn't be strange for him to have been sliced in two, VF and all."
+    },
+    {
+        "name": "Asahi",
+        "message": "「As expected, I couldn't beat Iori-sensei.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Sorry about that, for going all out.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「No, that's exactly how it should be.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I believed that Iori-sensei was not the kind of man to be defeated by someone like my current self.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「That is exactly why you are the Iori-san I love.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「'Love,' that's a bit of an exaggeration...」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「It is not an exaggeration at all.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Have you forgotten, Iori-san, that I confessed my feelings to you before？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, I remember it well.」"
+    },
+    {
+        "message": "Asahi-chan came to me over and over, begging, \"Please teach me Jindou.\""
+    },
+    {
+        "message": "I'd noticed, too, that Jindou wasn't the only source of her enthusiasm."
+    },
+    {
+        "name": "Asahi",
+        "message": "「I was so sad when you turned down my once-in-a-lifetime confession back then.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I couldn't help it. You were still in elementary school back then, Asahi-chan.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「In that case, is it okay now？」"
+    },
+    {
+        "message": "True, she's an academy student now, and she's old enough to have some sense. Her figure has gotten really impressive, too."
+    },
+    {
+        "name": "Iori",
+        "message": "「No, I said no. We're teacher and student now, Asahi.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Isn't teacher and student perfectly fine?」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「At bedtime, I'd love to request some nighttime private lessons involving close physical contact.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Nighttime private lessons... wait, no, no！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Nighttime private lessons..."
+    },
+    {
+        "name": "Iori",
+        "message": "wait, no, no！」"
+    },
+    {
+        "message": "That actually made my heart race a little."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Why not？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Listen, I'm the teacher for all the students in Takamura Class. I can't give just you special treatment, Asahi.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I see... Then I'll orchestrate things so that all the other students get expelled.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, definitely don't do that, okay？」"
+    },
+    {
+        "message": "Asahi really says some disturbing things sometimes..."
+    }
+]

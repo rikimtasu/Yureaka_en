@@ -1,0 +1,975 @@
+[
+    {
+        "message": "With me as the Umpire, the two face off at the outdoor training grounds."
+    },
+    {
+        "message": "The flames of their anger were practically visible; even just standing between them, the sheer pressure was palpable."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Prepare yourself. I’m not holding back.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Are you sure you want to say that？ You won't have any excuses when you lose.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「...I'll beat you. I'll crush you.」"
+    },
+    {
+        "message": "Ririmu, letting her anger show, and Asahi, who remained at least outwardly calm. Even at a time like this, the two were polar opposites."
+    },
+    {
+        "name": "Iori",
+        "message": "「Whoa, wait. Before you both start, I want you to make a promise.」"
+    },
+    {
+        "message": "Both were too intent on glaring at each other to reply, but since they seemed to be listening, I continued."
+    },
+    {
+        "name": "Iori",
+        "message": "「When the match is over, whoever wins, you both shake hands and make up. Deal？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Huh！？ What are you talking about？ Come on, we're not kids, give me a break.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I cannot accept that, even if it is your suggestion, Iori-sensei.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「If you can't agree to that, the match doesn't start. And of course, I won't permit any private feuding, either.」"
+    },
+    {
+        "message": "When I made the declaration, they both seemed taken aback, though they looked incredibly dissatisfied."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Sensei, isn't that <d0071>abuse of power</d>？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I proposed this practice match as a way for you two to understand each other better. That’s exactly why I can't back down on this.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「...Understood. Since you've gone that far, I have no choice.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I suppose I can bring myself to show mercy to Ririmu-san once she’s begging for forgiveness while crying on the ground. It is, after all, a winner's duty.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Well, I’m winning anyway, right？ Maybe after I crush you, it’ll actually feel pretty good.」"
+    },
+    {
+        "message": "Trading barbs, the two start throwing sparks again."
+    },
+    {
+        "name": "Iori",
+        "message": "「Alright. Then you're both in agreement on the promise. Are you ready—well, no point in even asking.」"
+    },
+    {
+        "message": "I raised my hand slightly to signal, gave the two a fleeting look, and..."
+    },
+    {
+        "name": "Iori",
+        "message": "「Then... start！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I'll crush you！」"
+    },
+    {
+        "message": "As soon as the signal was given, Ririmu bolted."
+    },
+    {
+        "message": "She rushed straight toward Asahi, who already had her Iai stance set."
+    },
+    {
+        "message": "Keeping her posture low, she moved with considerable speed. Very fast, but..."
+    },
+    {
+        "name": "Asahi",
+        "message": "「With that much...！！」"
+    },
+    {
+        "message": "Before I could even think, \"This is dangerous,\" the moment Ririmu entered her Iai drawing range, Asahi struck in a flash without hesitation."
+    },
+    {
+        "message": "A silver light glimmered, tracing a beautiful semicircle..."
+    },
+    {
+        "message": "However, Ririmu had vanished from that trajectory."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「That’s my line！」"
+    },
+    {
+        "message": "Ririmu was in mid-air."
+    },
+    {
+        "message": "She had gone out of her way to approach with a low posture, likely to bait an attack on her lower half before leaping up to evade it."
+    },
+    {
+        "message": "Carrying her momentum, Ririmu slid through the air and closed in on Asahi—"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Gotcha！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ngh...！」"
+    },
+    {
+        "message": "Asahi barely managed to block Ririmu’s blow—reminiscent of a helmet-splitter—by using her sheath."
+    },
+    {
+        "message": "While this is a standard defensive measure in Iai, being forced to use it from the opening move wasn't exactly a good sign."
+    },
+    {
+        "message": "Meanwhile, Ririmu wore a smug expression as she flew over Asahi’s head and landed behind her."
+    },
+    {
+        "message": "She spun around immediately, pressing the attack to ensure Asahi had no time to reset her stance."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I'm gonna crush you in an instant！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Getting carried away...！」"
+    },
+    {
+        "message": "Constantly circling to Asahi's right side to prevent her from sheathing her blade, Ririmu launched a barrage of quick strikes, giving her no room to breathe."
+    },
+    {
+        "name": "Iori",
+        "message": "（Is this... the result of all the special training, I wonder?）"
+    },
+    {
+        "message": "Ririmu had spent time training against past Toujinegi using Yorishiro-kun."
+    },
+    {
+        "message": "And among them was Asahi’s brother, Kuki Takahisa."
+    },
+    {
+        "message": "She had fought against Takahisa, who like Asahi uses Iai-battou, countless times. Ririmu's current fighting style was likely a countermeasure cultivated through that experience."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Haa！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Too slow！」"
+    },
+    {
+        "message": "Deflecting Asahi’s attempt to push back, Ririmu kept up the assault."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Your style is just a carbon copy of your brother's！ I know all your moves！」"
+    },
+    {
+        "message": "Ririmu stepped in even further, cutting off Asahi as she tried to leap back—"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I'm not letting you escape！」"
+    },
+    {
+        "message": "Trying to run is pointless. More than that, I won't even give her the chance to find an opening to run."
+    },
+    {
+        "message": "I'll keep changing the rhythm and keep pressing the attack！"
+    },
+    {
+        "name": "Ririmu",
+        "message": "（I've already figured out how to counter a Kijo's Iai-battou, so I can totally do this even without the illusions！）"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「How's this, how's this, how's this！」"
+    },
+    {
+        "message": "Asahi was entirely on the defensive. She was just desperately parrying my attacks, barely able to mount any counter-offensive at all."
+    },
+    {
+        "message": "I really am overwhelmingly stronger！ I'll push through like this and empty her Barrier Jacket in no time—"
+    },
+    {
+        "name": "Ririmu",
+        "message": "（............Huh？）"
+    },
+    {
+        "message": "I thought I could win right away like this, but... something's wrong."
+    },
+    {
+        "message": "Even if I'm as strong as they say, I feel like something is off."
+    },
+    {
+        "name": "Ririmu",
+        "message": "（I mean... wait？ Isn't Asahi's Barrier Jacket completely unscratched！？）"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Next, there...！」"
+    },
+    {
+        "message": "Parried again. My attacks still aren't landing."
+    },
+    {
+        "message": "Asahi is purely on the defensive. That's a given. Because I'm the only one attacking, and Asahi hasn't counterattacked once."
+    },
+    {
+        "message": "But I've been on the offensive this whole time, and Asahi hasn't taken a single direct hit from me yet...！"
+    },
+    {
+        "name": "Ririmu",
+        "message": "（Why！？ It was nothing like this when I fought her brother！）"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Take this...！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「No matter how many times you throw such attacks at me...！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ugh...！」"
+    },
+    {
+        "message": "Deflected by Asahi's blade, I'm finally forced to jump back."
+    },
+    {
+        "message": "That wasn't an attack. It was absolutely meant solely to push me back."
+    },
+    {
+        "name": "Ririmu",
+        "message": "（Damn it, back to square one！）"
+    },
+    {
+        "message": "While I regain my stance, Asahi is resetting her own guard as well."
+    },
+    {
+        "message": "Well, I guess it's better that I wasn't attacked during that time. When I fought her brother, there were times when he'd press the attack from there and I'd lose, but—"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Are you done already？ That was a weak attack.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「...Getting cocky just because you blocked that? You really are small-fry, huh?」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Can you only manage attacks that even small-fry can block? In that case, you are the square of a small-fry.」"
+    },
+    {
+        "message": "She's provoking me. But Asahi just waits right there—"
+    },
+    {
+        "name": "Ririmu",
+        "message": "（...I see, so that's how it is.）"
+    },
+    {
+        "message": "I get it now—she's the opposite of her brother."
+    },
+    {
+        "message": "He used Iai and kept attacking relentlessly, so if I pressed the attack against him, I could actually take him down quite easily."
+    },
+    {
+        "message": "But Asahi is the opposite. It’s an easy win if she attacks, but when she goes on the defensive like this, she becomes incredibly solid."
+    },
+    {
+        "name": "Ririmu",
+        "message": "（Seriously, she’s way too sturdy...！）"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「But... I can't win if I don't attack！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Heh, you're naive...！」"
+    },
+    {
+        "message": "Even when I unleash a flurry of blows, hitting from the right, left, above, and below, she just blocks and deflects them all."
+    },
+    {
+        "message": "Now that she’s started defending, Asahi is even using her Iai skills for defense."
+    },
+    {
+        "message": "The trajectory of her sword, her aim, the swing of her arms—everything is meant to block my attacks. Thanks to that, I’m being thoroughly pushed back."
+    },
+    {
+        "message": "No matter how much I change the rhythm of my attacks, it's no use. Asahi won't let her pace be broken."
+    },
+    {
+        "name": "Ririmu",
+        "message": "（Come to think of it, Momitchi said it too... that Asahi is a real pain once she commits to defense）"
+    },
+    {
+        "name": "Ririmu",
+        "message": "（Geez, she’s just so hard to deal with...！）"
+    },
+    {
+        "message": "Besides, Asahi’s stamina is overwhelmingly superior―I have to admit that much. I mean, she spent twenty minutes trading blows with Vicky―senpai, after all."
+    },
+    {
+        "message": "In other words, I have to take her down before I run out of steam！"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Well then, I guess... there’s really nothing else for it！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「World is Mine—」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「This is...！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I didn’t really want to use this, but what can you do, right？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Will this make your attacks, which are no better than those of a small fry, even slightly more tolerable?」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hmph, you’re the small fry here, so I doubt you’ll be able to block it！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "（Here it comes...！）"
+    },
+    {
+        "message": "Ririmu-san charges straight at me again. But this is likely an illusion."
+    },
+    {
+        "message": "Ririmu-san’s Tenju specialty is showing her opponent hallucinations. She cloaks the truth in phantoms visible only to her adversary."
+    },
+    {
+        "name": "Asahi",
+        "message": "（What a distasteful technique...！）"
+    },
+    {
+        "message": "This is the third time this match I’ve experienced her illusions. Although I’ve thought of countermeasures, they aren’t foolproof."
+    },
+    {
+        "name": "Asahi",
+        "message": "（Left... no, right！？）"
+    },
+    {
+        "message": "The moment I think Ririmu-san, who dove in, has readied herself on the left, I see a blade at the edge of my vision and instinctively slash at it！"
+    },
+    {
+        "name": "Asahi",
+        "message": "（Tch, no impact...！）"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Wrong side！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ngh...！」"
+    },
+    {
+        "message": "I twist my body in a panic to dodge the attack from Ririmu-san, who appeared from the complete opposite side, but the tip of her blade grazed my Barrier Jacket."
+    },
+    {
+        "message": "This much isn't a problem, but—"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Keep it going, keep it going！」"
+    },
+    {
+        "message": "Perhaps sensing my momentary hesitation, Ririmu-san gets carried away and presses the assault."
+    },
+    {
+        "message": "Of course, I manage to parry everything from the second strike onward, but attacks woven with these illusions are truly troublesome and vicious."
+    },
+    {
+        "name": "Asahi",
+        "message": "（Even if I’ve seen them before, this is how it goes... I doubt I could parry them entirely on the first encounter）"
+    },
+    {
+        "message": "I cannot help but acknowledge this peculiarity, this surprise factor, and the sheer talent required to create it."
+    },
+    {
+        "message": "However—"
+    },
+    {
+        "name": "Asahi",
+        "message": "「If I know it’s an illusion, I can handle it！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Then why don't you try handling it！」"
+    },
+    {
+        "message": "Ririmu―san, who had been right in front of me, crouched down and vanished from my field of vision―or so I thought, before she appeared on my right side."
+    },
+    {
+        "message": "However, I completely ignored it."
+    },
+    {
+        "message": "Leaving only a presence behind, the blade passed through me and vanished like smoke."
+    },
+    {
+        "message": "I ignore these baffling attacks that lie outside the scope of my predictions."
+    },
+    {
+        "message": "If my read is correct, the real one is somewhere else. And—at this timing！"
+    },
+    {
+        "name": "Asahi",
+        "message": "「There！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Something like that, no problem！」"
+    },
+    {
+        "message": "When I parried the real attack coming from the left, Ririmu-san seemed surprised."
+    },
+    {
+        "message": "Even so, she immediately launched another attack."
+    },
+    {
+        "message": "This time a blade appeared as if to strike diagonally—but I ignored it. Instead, I held my scabbard upright near my torso to use as a shield."
+    },
+    {
+        "message": "Next, another one. The blades that appeared were at my right mid-section and left upper-section. However, I intuitively twisted my body and struck out behind me."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Kyaa！？ Wait... seriously, you can deal with that！？」"
+    },
+    {
+        "message": "Though light, there was feedback this time."
+    },
+    {
+        "message": "And that wasn't just the satisfaction of a hit; it was also the satisfaction of knowing my countermeasure worked."
+    },
+    {
+        "name": "Asahi",
+        "message": "（The phantoms are certainly troublesome, but it seems their 'manifestation' is bound to be unnatural after all.）"
+    },
+    {
+        "message": "If you don't waver, don't get misled, and deal with it calmly, it's entirely possible to discern the unnaturalness."
+    },
+    {
+        "message": "If you fully trust your eyes and your intuition, you can eventually find the point where the real attack occurs."
+    },
+    {
+        "name": "Asahi",
+        "message": "（Is Ririmu―san aware of this, or even if she is, is she unable to do anything about it―）"
+    },
+    {
+        "message": "Either way, I can win like this."
+    },
+    {
+        "message": "She said she had a countermeasure for me. But if we're talking about countermeasures, I have the upper hand—！"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「That was just a total fluke！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「In that case, I shall show you as many times as you like！」"
+    },
+    {
+        "message": "Asahi kept on parrying Ririmu’s sword strikes, which were mixed with phantoms. No matter how much she was shaken, she never wavered from her form."
+    },
+    {
+        "message": "Truly, as immovable as a mountain, as swift as thunder—"
+    },
+    {
+        "message": "Conversely, Ririmu was moving around thoroughly and frantically, continuing to strike in an attempt to dismantle Asahi’s stronghold."
+    },
+    {
+        "message": "Her free-spirited and unpredictable blade was the complete opposite of Asahi's in every way."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「My world！ There's no way it could be stopped by a knock-off like you！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「That attitude... that is exactly what I find displeasing！」"
+    },
+    {
+        "message": "I deflected the sword I’d parried from Ririmu with great force. At the same time, this time it was Asahi who stepped in."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Acting as though you're the only one who's special！ The sheer selfishness of a narrow view that sees nothing but your own circumstances！ Not even sparing a thought for the other side—」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「It's that attitude of treating yourself as absolute！」"
+    },
+    {
+        "message": "Ririmu caught the blade."
+    },
+    {
+        "message": "Asahi mustered all her strength and knocked Ririmu back, guard and all."
+    },
+    {
+        "name": "Asahi",
+        "message": "「'Why can't you understand when I'm right? Every opinion different from mine is wrong. Because I'm the one who's right.' That's what you want to say, isn't it?」"
+    },
+    {
+        "message": "Asahi took her stance again. Snorting with anger."
+    },
+    {
+        "name": "Asahi",
+        "message": "「You're just like a child throwing a tantrum. There is no basis for you being right.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Forcing the right answer you made up yourself onto others is the very height of arrogance！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Every single bit of that is about you！」"
+    },
+    {
+        "message": "Ririmu dashed forward and unleashed a strike."
+    },
+    {
+        "message": "Asahi blocked it, but by then, Ririmu was already slashing in from another direction."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「You're the narrow-minded one who can't see anything except Sensei！ You've got some nerve talking when you treat Sensei as absolute！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I don't think I'm special or anything！ I just want to decide my own business for myself！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「You can do whatever you want, and Sensei can do the same！ Everyone else can just do whatever they feel like！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「So I'm gonna do things the way I want, too！ I won't let anyone get in my way—it's as simple as that！ How can you not get such basic logic？！」"
+    },
+    {
+        "message": "A wild, swinging strike, as if trying to slam it down."
+    },
+    {
+        "message": "It was a rhythm of attack unlike anything Ririmu had shown before, yet Asahi answered it with sheer force and caught the blow."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I couldn't care less about other people's circumstances！ They can do whatever they want and go die on their own for all I care！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「It's the same for me！ That's why I can't stand having what I'm doing stopped because of somebody else！」"
+    },
+    {
+        "message": "Ririmu swung her blade to attack, and Asahi swung hers to defend, knocking it aside."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Then you ought to just live all by yourself！ The academy is a place to seek instruction from those who came before you！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「If you wish to be self-contained, then leave the academy at once, go wherever you please, and die on your own！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I paid out of my own pocket to get into this academy！ Providing service worth that price is the academy's obligation, isn't it！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「So what if I am?! What’s so wrong with that!」"
+    },
+    {
+        "message": "Their blades clash and grind against each other."
+    },
+    {
+        "name": "Asahi",
+        "message": "「You’re doing it again—refusing to accept anything that doesn’t meet your own standards！ Acting so arrogant, just screaming for everyone to fall in line with you！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「That’s just ‘cause you’re so low-class！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Besides, even if I did have a problem, I don't need you nagging me about it！」"
+    },
+    {
+        "message": "The two pushed off each other and leaped a great distance apart."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I’m seriously pissed off now… I’m not gonna forgive you.」"
+    },
+    {
+        "message": "As she glared at Asahi, who was bracing herself again—Ririmu’s presence shifted once more."
+    },
+    {
+        "name": "Ririmu",
+        "message": "（I didn’t intend on showing this much at first, but—）"
+    },
+    {
+        "message": "But it couldn't be helped. She was the one person I had to take down, no matter what. I’ll beat her. I’ll crush her. I’ll smash her with everything I’ve got！"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I’m gonna make you regret getting me this seriously angry！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ugh, this is…」"
+    },
+    {
+        "message": "The world changes. It’s becoming my world. Becoming more and more dyed in my colors—！"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「First time seeing this, right！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「You can see things like this as much as you want with Holographic Reality, you know.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「To go out of your way to recreate it with Tenju… what a tedious effort…！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ha, keep talking. You’ll figure out real quick that it’s something totally different！」"
+    },
+    {
+        "message": "This is my world. My own worldview. So everything here goes exactly as I please—！"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ugh…！ Suddenly, the ground…！？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Just crawling on the ground isn’t gonna be enough for you！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「You’re gonna fall way, way down to the bottom of the earth！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Guh…！！」"
+    },
+    {
+        "message": "The ground beneath Asahi’s feet crumbled, opening up into a hole."
+    },
+    {
+        "message": "And just like that, she kept falling, down and down into the depths of the earth—"
+    },
+    {
+        "message": "Naturally, it was an illusion. So I dashed right into the middle of it."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Take that！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Aghhh…！！」"
+    },
+    {
+        "message": "A blow to the stomach of the off-balance Asahi！"
+    },
+    {
+        "message": "She had been sturdy until just now, but this definitely left her guard wide open."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Against such a mere illusion...！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「And yet, that illusion is exactly what's beating you！」"
+    },
+    {
+        "message": "As I pressed the attack, Asahi barely managed to put up a defense."
+    },
+    {
+        "message": "Still, it wasn't the solid defense she’d had before. It was just a desperate scrape."
+    },
+    {
+        "message": "No matter how much she knows it’s an illusion, she’s already been mastered by the sensation of falling that my world conjures."
+    },
+    {
+        "message": "Because of that, her footing is unsteady and her strikes lack follow-through."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Iai without a stable stance is no better than a scarecrow！ You’re not just refusing to move; you can't move at all！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Don't get cocky...！！」"
+    },
+    {
+        "message": "Trying desperately to pull herself together, Asahi seemed to force strength into her falling legs and turned to counterattack."
+    },
+    {
+        "message": "But—"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Haa！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Like that’s ever gonna hit me！」"
+    },
+    {
+        "message": "Her step was weak, her swing was slow, and it lacked any real impact. That was easy to dodge."
+    },
+    {
+        "message": "Besides, she’s brittle enough as it is whenever she shifts to offense."
+    },
+    {
+        "message": "I’ll rain down a barrage of counterattacks and knock her flat！"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Take that! And that!」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ngh...！！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I already told you, I’ve already got your swordsmanship countered thanks to your brother！ And I beat him into the ground too, didn't I！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「You... again...！」"
+    },
+    {
+        "message": "Another useless attack flew at me. I dodged it easily and followed up with another counter."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ugh, uuu...！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ahaha！ See, I’m clearly the stronger one after all！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I’m not afraid of the Kuki name！ Your brother was that pathetic too, so why don't you both just bow down before me！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「...Enough... already...！」"
+    },
+    {
+        "message": "I thought I’d land one more—but suddenly, Asahi planted her feet and caught my strike."
+    },
+    {
+        "name": "Asahi",
+        "message": "「That’s quite enough, Tobe Ririmu...！！！」"
+    },
+    {
+        "message": "Asahi entangled our blades, pulled me in, and swung to strike at my midsection. But Ririmu dodged it by a hair's breadth."
+    },
+    {
+        "name": "Asahi",
+        "message": "「You’ll never be forgiven？ That’s my line.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ha! Who ever said I wanted forgiveness from the likes of you？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Silence—no, I will silence you myself.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I won’t forgive you... the one thing I will never forgive is your mockery of my brother！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Huh？ You're snapping at me just because someone talked smack about your brother？ I don't get that at all.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Shut your mouth！ You don't know anything at all...！！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「You don't know why my brother became a Toujinegi, or what happened afterward, or anything... anything at all...！！」"
+    },
+    {
+        "message": "Consumed by anger, Asahi closes the distance to Ririmu."
+    },
+    {
+        "name": "Asahi",
+        "message": "「I saw every bit of his effort and his struggle leading up to him becoming a Toujinegi right before my eyes.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「And I heard every word when he talked about his dreams for the future.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「But after he became a Toujinegi, he got injured... and that was the end of it all...！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「His dreams, everything—he was forced to give it all up！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「And yet, he always smiled like it was nothing, pushing himself just so he wouldn't make me worry...！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ugh...！！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I couldn't do anything...！ Do you have any idea how agonizing that is for me！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「My resolve is different from yours—someone who's lived as she pleased, drifting like a weed without ever knowing real hardship！！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「That's... you don't know a thing！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Do you seriously think I've just been living a carefree life！？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I've been forced into elite schools since I was little, I've had to do exactly as my parents say, they even decided who I was going to marry...！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Even Jindou, the one thing I finally found that I loved, they tried to take that away from me too！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Guh...！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「You really think there was no hardship in a life like that！？ Don't you dare mess with me！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「You have no idea how painful it is—not being able to decide a single thing about your own future！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「…………」"
+    },
+    {
+        "message": "The sword fight between the two had become something ghastly to behold even from the sidelines."
+    },
+    {
+        "message": "Not only me, but even Momiji and Setsugekka didn't say a single word."
+    },
+    {
+        "message": "Asahi and Ririmu were both pouring their hearts out, unleashing strikes laden with all of their raw emotions."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Haaaaaaaahhhhhhh！！！」"
+    },
+    {
+        "message": "The clash of swords, their battle cries, and the sound of Barrier Jackets wearing down all mingled together."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Raaaaaaaahhhhhhh！！！」"
+    },
+    {
+        "message": "The damage had accumulated to the point where it wouldn't be strange if either one of them collapsed at any moment."
+    },
+    {
+        "message": "Yet there were no cries of pain or shock. To defeat the other―with that single―minded resolve, they swung their blades."
+    },
+    {
+        "name": "Asahi",
+        "message": "「You！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「You！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I'm the one！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I'm the one！」"
+    },
+    {
+        "name": "Asahi & Ririmu",
+        "message": "「Who's going to take you down for good！！」"
+    },
+    {
+        "message": "Both within lethal range—"
+    },
+    {
+        "message": "They stepped in at the exact same instant. And swung their swords as one."
+    },
+    {
+        "message": "No defense. Just bring the other down. Pouring everything into that alone—"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Fall, you arrogant girl！！！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Get crushed, you Kijooo！！！」"
+    },
+    {
+        "message": "The two blades crossed, and a thunderous shockwave roared out."
+    },
+    {
+        "message": "Both of them froze at the end of their swings... and before long, neither quite before the other, they dropped to their knees."
+    },
+    {
+        "message": "Neither of them had enough Tenju left to keep fighting."
+    }
+]

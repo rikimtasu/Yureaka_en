@@ -1,0 +1,391 @@
+[
+    {
+        "name": "Ririmu",
+        "message": "「I’m telling you！ That’s not it！ It’s not about the stance, it’s about what happens after you step in.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「But if you messed up your spacing, you’d get stepped in on, wouldn’t you？ So then...」"
+    },
+    {
+        "message": "Ririmu and Asahi’s heated argument echoed across the training grounds."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Huh? Are you two fighting again?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, that’s not it.」"
+    },
+    {
+        "message": "The preliminary rounds of the Martial Festival begin next week. And once the preliminaries are over, the main tournament follows immediately."
+    },
+    {
+        "message": "This week serves as the final adjustment period before the Martial Festival. Perhaps that is why the two of them are so incredibly fired up."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「No, you can’t defend against a rush like that！ You have to think assuming they’re going to step in, right?」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hmm... in that case, the situation becomes quite disadvantageous. But you’re right, it does seem necessary to anticipate that.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Yeah, exactly. Look here? Even if you’re pushed, don’t back off！ If they come from the left, you can just dive in and whack them, right?」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I see... that might be effective. Though I suppose it depends on the opponent.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Well, as long as you move in a way that makes your opponent think ‘man, this sucks,’ you can adapt it to a certain extent, can’t you？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I mean, Asahi, you’re good at thinking about what people find annoying, right?」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Heh heh heh. So that’s how you see me, Ririmu? I’m disappointed.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Yeah, yeah, you can be disappointed later, just think about it now.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I’ll leave it at that for now, but should we verify your striking patterns next, Ririmu?」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Yeah, teach me, teach me!」"
+    },
+    {
+        "message": "The two seem to be trading impressions on each other's matches and performing intensive research."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Hey, what happens if they end up facing each other in the Martial Festival?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Nothing in particular, I’d imagine. It’s just a matter of both of them going at it with everything they’ve got.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I have a feeling it’s going to get messy, though—having to fight someone who knows all your tricks.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Not necessarily. It’s also fun to bank on the fact that your opponent knows your tricks, and then stab them in the back instead.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Oh? Have you ever done that?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Haha, of course.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Muragaki-sensei! I’ve brought the data for the matches!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Good, let’s take a look. Let’s see here...」"
+    },
+    {
+        "message": "What Setsugekka brought was the data measuring her vitals from when she sparred with Yorishiro-kun."
+    },
+    {
+        "name": "Iori",
+        "message": "「...This is incredible. Your psycho-sensory values are skyrocketing.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ah, that’s because ever since I fought Shizuku-senpai, I’ve sort of figured out how to use this rampage.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Like, you know how it feels when you pull out that hot, thick, sludge-like stuff from the bottom of your gut, sluuuurp?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I-I see... I can’t quite grasp it myself, but you understand it, don't you, Setsugekka？」"
+    },
+    {
+        "message": "To pull out the god within and control it. I wonder if that is what she means by gaining a concrete sense of it."
+    },
+    {
+        "name": "Momiji",
+        "message": "「...Isn't that fluctuating like crazy？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hmm, I’ve gotten the hang of pulling it out and putting it away, but...」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I just can't quite master riding it yet~」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Is that even going to be useful？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「It is! Or rather, I’ll make sure I can use it!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I think it’s a remarkable improvement, seeing as you can now suppress it yourself even when you’re about to lose control.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yay, Sensei praised me！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Alright, Setsugekka, keep working on your training so you can stably utilize your rampage.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Okaaaay！」"
+    },
+    {
+        "message": "She replied energetically and turned back toward Yorishiro-kun. Setsugekka is definitely the one who has changed the most."
+    },
+    {
+        "name": "Iori",
+        "message": "「Ririmu, you're up against Victoria’s Yorishiro-kun. We should make sure you’re fully prepared.」"
+    },
+    {
+        "message": "As for Asahi, her secret training is the main task, but..."
+    },
+    {
+        "name": "Iori",
+        "message": "（Will she really be ready in time for the Martial Festival? I have no choice but to bet on Asahi’s hard work.）"
+    },
+    {
+        "message": "Regardless, Asahi and Ririmu’s progress is excellent. This must be the result of them pushing each other to improve."
+    },
+    {
+        "message": "Lastly, there’s Momiji, but she was strong to begin with. Her impeccable technique has only been polished further."
+    },
+    {
+        "name": "Iori",
+        "message": "「Momiji, how’s your progress？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Well, it’s going okay, I guess~」"
+    },
+    {
+        "message": "Judging by the sparring data from Yorishiro-kun, Momiji’s results are flawless."
+    },
+    {
+        "name": "Iori",
+        "message": "「Hmm, maybe my guidance wasn't necessary at all.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Well, about the meditation stuff~ I don't think that was really for me.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「My apologies. I’ve wasted your valuable time.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Th-that, don’t worry about that!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Huh？ No, but before, Momiji, you said…」"
+    },
+    {
+        "message": "I had been warned by Momiji."
+    },
+    {
+        "message": "『‘If you’re going to be involved with me, provide me with meaningful time. If you can’t do that, then I’d rather be alone.’” —That was what she said."
+    },
+    {
+        "name": "Momiji",
+        "message": "「A-ah, that was just a fleeting thought! You’ve already given me plenty of precious time, Sensei!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Is that so...？ I have absolutely no awareness of it, but what kind of time have I provided to Momiji？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Th-that’s, well... various things, various things.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I want to know more specifically.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「NO！ I flatly refuse！」"
+    },
+    {
+        "message": "I wonder why she’s so stubborn about it."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Anyway！ The Zazen meditation didn’t mean much, but since I’ve gotten plenty of other things from you, let’s call it even.」"
+    },
+    {
+        "message": "Well, if Momiji is fine with that, then I suppose it’s fine."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Was there not some other way to reach the state of Shohou Muga？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「There are, but we’re talking about things like waterfall asceticism or a thousand-day liberation retreat.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ugh...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, it’s no exaggeration to say that the state of Shohou Muga is the final, complete form for a swordsman.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I hope that years, or even decades from now, it’ll be of some use when Momiji steps into that state.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Years from now? I’ll be an old lady by then. I don’t want to be doing Jindou until I’m that old.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「What’s this? You don’t intend to be an active competitor for life?」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I don’t. I’ll probably quit if I have kids. My mother did the same, after all.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I see, Momiji’s child, huh...！」"
+    },
+    {
+        "message": "Kids are great... I’m sure they’d be super adorable, just like Miyako or Tsubaki...！"
+    },
+    {
+        "name": "Momiji",
+        "message": "「...Wh-what? Miyako might have said something about marriage, but don’t take it seriously, okay!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I know. That was just a joke, right？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Mm-muu...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Still, we’ve somehow made it this far.」"
+    },
+    {
+        "message": "I look out over the training ground and find myself lost in deep emotion."
+    },
+    {
+        "message": "I chased after everyone trying to escape the situation where only Asahi was in the classroom, and somehow managed to get them all back together."
+    },
+    {
+        "message": "I calmed, scolded, and brought together everyone who was saying and doing whatever they pleased."
+    },
+    {
+        "message": "We somehow cleared the midterm exams, and everyone was successfully selected for the Martial Festival qualifiers."
+    },
+    {
+        "name": "Iori",
+        "message": "「Now that we've come this far, we're just going to power through the Martial Festival too.」"
+    },
+    {
+        "message": "I want to make everyone even stronger this coming week. I want to make sure they have a Martial Festival with no regrets."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Phew, I'm wiped！ Hey Teach, can I call it a day？」"
+    },
+    {
+        "message": "Ririmu returned after finishing her battle on Yorishiro-kun."
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, you were moving around quite a bit. Get plenty of rest and give your muscles a break.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Roger that！ Asahi, let's grab something sweet to eat on the way home~」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I'm going to stay a little longer for some basic training. I've only been using Yorishiro-kun for a while now.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Huh？ Are you for real？ You're gonna start now？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Of course. Physical strength and muscle never betray you.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「You're amazing, Asahi... I seriously respect that. Maybe I'll give it a try too~」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I think that's a great idea. Let's definitely do it together.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「By the way, how much are you planning on doing？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Just lightly today, maybe 50 laps running around the school perimeter and 1,000 diving swings.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Whaaaat！？ If I do that much, I won't be able to move tomorrow from the muscle soreness！？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「It'll be fine, you'll get used to it soon.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「No way, no way, no way! I'm definitely sitting this one out.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hehehe, you've already set sail on this ship now. Come on, let's go, Ririmu-san.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Nooo, someone help meee!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Asahi~, go easy on her~」"
+    },
+    {
+        "message": "With her arm grabbed by Asahi, Ririmu was dragged out to the training grounds."
+    }
+]

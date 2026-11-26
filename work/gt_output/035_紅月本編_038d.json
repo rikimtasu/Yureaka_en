@@ -1,0 +1,1265 @@
+[
+    {
+        "name": "Iori",
+        "message": "「Whoops, that’s right. My apologies.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Everyone, back away. I’m about to begin sparring practice with Momiji.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Understood. Everyone, let's go.」"
+    },
+    {
+        "message": "Setsugekka, Asahi, and Ririmu shuffle back toward the wall."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Teacher! Please, take down Momiji! Go get her!」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Good luck to you too, Momiji.」"
+    },
+    {
+        "message": "They both draw their Origami and face each other."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Hehe, I am truly honored to finally receive guidance from Iori-sensei.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You’ve got a sarcastic way of putting that.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Considering you exposed my secrets and dragged me out here by force, I think I’m entitled to at least that much.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Haha, I suppose you’re right.」"
+    },
+    {
+        "message": "I laugh lightly and raise my Origami."
+    },
+    {
+        "name": "Iori",
+        "message": "「In this sparring session, I want you to judge for yourself whether I’m truly qualified to be your teacher.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「And if I decide you aren’t？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Then tell me what to improve. I’ll comply as best I can.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I’d prefer it if you just left me alone, though.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「This is a mission, so that’s impossible.」"
+    },
+    {
+        "message": "A sharp murderous intent dwells in Momiji’s eyes."
+    },
+    {
+        "name": "Momiji",
+        "message": "「...Even for a training bout, I won’t be holding back, so don't expect it.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Of course. Show me your full strength.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I expect nothing less than your full strength as well.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Understood. Let’s begin！」"
+    },
+    {
+        "message": "I close in on Momiji, aiming to shorten the distance."
+    },
+    {
+        "name": "Momiji",
+        "message": "「...I won't let you get close.」"
+    },
+    {
+        "message": "Momiji reacts instantly."
+    },
+    {
+        "message": "Utilizing the reach of her long blade, she blocks my approach long before my own blade can reach her."
+    },
+    {
+        "name": "Iori",
+        "message": "「Then I’ll just have to force my way through！」"
+    },
+    {
+        "message": "Because the blade of a long sword is so long, it’s inevitably less agile in close quarters."
+    },
+    {
+        "message": "If I aim for the opening right after she deflects my strike—"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Do you really think you can get within my range with that level of pressure？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Heh, I’m impressed...」"
+    },
+    {
+        "message": "Momiji countered with her long blade at a speed nearly equal to, or perhaps even exceeding, my own swing."
+    },
+    {
+        "message": "While long blades are often unwieldy and lead to sluggish movement, Momiji handles hers as if it were a standard sword."
+    },
+    {
+        "message": "Her skill is arguably already on par with professional Jindou athletes."
+    },
+    {
+        "name": "Iori",
+        "message": "「Then, how about this！！」"
+    },
+    {
+        "message": "I tried to pin down her incoming blade from above to force a blade lock, but—"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Naive！」"
+    },
+    {
+        "message": "Far from backing away, Momiji lunged straight at me."
+    },
+    {
+        "message": "She slid my oncoming blade along the length of her own, maneuvering behind me—"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Haaaaah！！！」"
+    },
+    {
+        "message": "She spun and slashed at my defenseless back, but."
+    },
+    {
+        "name": "Momiji",
+        "message": "「...You managed to block that well.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, that was a close one.」"
+    },
+    {
+        "message": "Still facing backward, I had parried the flash directed at my spine with my Origami."
+    },
+    {
+        "name": "Iori",
+        "message": "「As expected of someone who boasts they have nothing left to learn.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Your skill is beyond reproach.」"
+    },
+    {
+        "message": "I turned to face her and reset my guard with my Origami."
+    },
+    {
+        "name": "Iori",
+        "message": "（Man, that long blade is quite the nuisance.）"
+    },
+    {
+        "message": "The difference in reach between Momiji’s blade and mine is about 50 centimeters."
+    },
+    {
+        "message": "Even accounting for arm length, she still has a 30-centimeter advantage."
+    },
+    {
+        "message": "For Setsugekka or Ririmu, that reach difference would be over 40 centimeters."
+    },
+    {
+        "message": "Speed is essential to closing that gap, but Momiji can wield her weapon as fast as a normal sword."
+    },
+    {
+        "message": "Given that, I have to say it’s nearly hopeless to bridge the distance."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Hmph, I wouldn’t mind if you surrendered now to save yourself the embarrassment.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, I’ll be fine regardless, but I’m worried about how I’m going to get the other students to overcome you, Momiji.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「...Are you looking down on me？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Save that ‘I’ll be fine’ attitude until you at least land a single strike on me.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ah, you’re right. My apologies.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Honestly! This time, I’m the one coming for you...!!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Pretty sharp...！」"
+    },
+    {
+        "message": "She lunged in—and the very next instant, a relentless flurry of strikes."
+    },
+    {
+        "message": "I somehow managed to parry them, yet her masterfully swift return strokes showed none of the drawbacks of a long blade, leaving me no opening to counterattack."
+    },
+    {
+        "name": "Momiji",
+        "message": "「I told you, didn't I? I want you to get serious！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Is this all you've got when you're serious, Sensei?！」"
+    },
+    {
+        "name": "Iori",
+        "message": "（This is a little rough...！）"
+    },
+    {
+        "message": "Her blindingly fast flurry with that long blade forced me to give ground."
+    },
+    {
+        "message": "She was too fast for me to close the distance, and with her superior reach, none of my counters could land."
+    },
+    {
+        "message": "As a result, I ended up forced completely onto the defensive."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Don't disappoint me with something like this！！！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ngh...！」"
+    },
+    {
+        "message": "She'd slipped a trick move―a feint―right into the middle of her flurry."
+    },
+    {
+        "name": "Momiji",
+        "message": "「You'd do well not to assume the same move will work on me repeatedly？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「After all, I remember every single move you make.」"
+    },
+    {
+        "message": "Ah, that's right."
+    },
+    {
+        "message": "Momiji possesses a terrifying gift for foresight—reading her opponent's patterns from the briefest of exchanges."
+    },
+    {
+        "message": "The overwhelming despair of falling further and further behind the longer the fight goes on. An ordinary academy student could never endure it."
+    },
+    {
+        "name": "Iori",
+        "message": "（Now I understand why you don't expect anything from teachers...！）"
+    },
+    {
+        "message": "Momiji wasn't overconfident, nor was she arrogant."
+    },
+    {
+        "message": "At Murakumo Academy, there wasn't a single teacher capable of surpassing her skill and teaching her what lay beyond."
+    },
+    {
+        "message": "She had merely been stating that stark, undeniable fact..."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Iori-sensei...！」"
+    },
+    {
+        "message": "The battle was heading in an unexpected direction."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「H-Hey, hey, Kijo~」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Isn't Sensei kinda in trouble？ He's gonna lose, y'know？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「He'll be fine.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Yeah, but still~ Sensei can't do a thing against Momicchi.」"
+    },
+    {
+        "message": "Just as Ririmu-san says, Momiji-san has been overwhelming Iori-sensei for a while now, making full use of her long reach."
+    },
+    {
+        "message": "Against the surging torrent of strikes Momiji-san unleashes, Sensei hasn't been able to return a single blow."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I mean, Momicchi's like, insanely strong.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Can we even beat that？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「It would be difficult as things stand, wouldn't it」"
+    },
+    {
+        "message": "Momiji had hardly appeared in public before entering this academy. There was absolutely no record of her in the academy's database either."
+    },
+    {
+        "message": "And today, I had the opportunity to watch Momiji's match for the first time, but—"
+    },
+    {
+        "name": "Asahi",
+        "message": "（……To think that we are both first-years）"
+    },
+    {
+        "message": "Fluid movements like flowing water, terrifying speed, and powerful strikes."
+    },
+    {
+        "message": "She is a top-class swordsman with no flaws to be found anywhere."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hmm, as I thought, even Muragaki-sensei can't beat Momimomi~」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「But that's okay！ I'm going to take down Momimomi myself！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Setsugekka-san, I truly envy how carefree you are」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hey, what's that supposed to mean by 'carefree'~！」"
+    },
+    {
+        "message": "You can generally tell a swordsman's caliber just by watching them spar."
+    },
+    {
+        "name": "Asahi",
+        "message": "（As of now, the top of Takamura Class is undoubtedly Momiji-san. At this rate, I have no chance of winning……）"
+    },
+    {
+        "name": "Asahi",
+        "message": "（Aside from her berserk episodes, Setsugekka-san shouldn't be a threat. If she gets close, I can just cut her down in two and it'll be over.）"
+    },
+    {
+        "message": "The idea that Setsugekka-san could beat Momiji-san, who is more skilled than I am, is just too reckless."
+    },
+    {
+        "name": "Asahi",
+        "message": "（Ririmu-san is a bit tricky, but I can deal with her once I get better at reading her style.）"
+    },
+    {
+        "message": "There is only one lingering concern: 'The secret with Iori-sensei'."
+    },
+    {
+        "message": "Sensei said I'd understand if we sparred, so I'll have to ask him for a match sometime."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「C'mon Sensei, right there! Give it your best and strike back~!」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hmm~, I wonder why Muragaki-sensei isn't counterattacking」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Because his opportunities for counterattacks are all being blocked by Momiji-san in advance, that's why」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Just watch…… Look, Momiji-san just attacked Iori-sensei's feet」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yeah, yeah」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「That was Momiji-san seizing the initiative, anticipating that Sensei was about to shift his pivot foot forward」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Sensei, being struck at, had no choice but to defend or dodge, effectively eliminating his option to step forward before he could even take it」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「That is how Momiji-san snips every bud of a counterattack before it can even sprout」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ah, I get it. It's like that feeling when someone puts a stick right where you're about to trip, right？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「That is super annoying, isn't it~」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Indeed. A wonderful analogy that even an elementary schooler could understand」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「When you say it, it kinda feels like you're making fun of me」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「More importantly, Asahi-chan, you sure can tell a lot just from watching」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「In Iai sword-drawing, «counter-initiative» is everything」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Without the insight to read an opponent's moves, Iai quick-draw simply cannot work」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I see~ Maybe I should train that too」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「How？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hmm, watch my opponent really closely！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Everyone does that from the start. You're such an idiot, Ririmu-chan」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Huh？ I don't wanna be called an idiot by Takamura Class's resident airhead」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「What a terrible prejudice！ I'm not the resident airhead！」"
+    },
+    {
+        "message": "Setting the two of them and their noisy banter aside, I observe Iori-sensei and Momiji-san's mutual sparring."
+    },
+    {
+        "name": "Momiji",
+        "message": "「How long do you plan to stay on the defensive, Iori-sensei！！」"
+    },
+    {
+        "message": "Iori-sensei remains stuck on the defensive, still unable to launch a counterattack."
+    },
+    {
+        "name": "Asahi",
+        "message": "（I never imagined Momiji-san was this skilled）"
+    },
+    {
+        "message": "Pinning Iori-sensei down like this would be impossible without extraordinary skill."
+    },
+    {
+        "message": "She might even be stronger than the current Toujinegi."
+    },
+    {
+        "name": "Asahi",
+        "message": "（If I'm aiming to become Toujinegi, Momiji-san will be my greatest obstacle...！）"
+    },
+    {
+        "message": "Transferring into Takamura Class was the right choice."
+    },
+    {
+        "message": "Being in the same class allowed me to recognize the threat early on, and from here on I can study her up close to find a way to counter her."
+    },
+    {
+        "name": "Asahi",
+        "message": "（Momiji-san, as I am now, I probably can't match you）"
+    },
+    {
+        "message": "Still, I will never give up."
+    },
+    {
+        "message": "I'll overcome every obstacle and become the Toujinegi, no matter what."
+    },
+    {
+        "message": "What I can do right now toward that end."
+    },
+    {
+        "message": "That is to burn this fight firmly into my mind."
+    },
+    {
+        "name": "Asahi",
+        "message": "（Momiji-san... allow me to take the full measure of your strength！）"
+    },
+    {
+        "name": "Momiji",
+        "message": "「What's the matter, Iori-sensei！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Weren't you going to prove to me you're worthy of being a teacher in this sparring match！！」"
+    },
+    {
+        "message": "As I keep striking, irritation begins to well up inside me."
+    },
+    {
+        "message": "Iori-sensei's skill is genuinely impressive."
+    },
+    {
+        "message": "He's been neutralizing nearly all of my feint-laced attacks and blocking them cleanly."
+    },
+    {
+        "message": "Yet that's all he's doing."
+    },
+    {
+        "message": "Faced with my overwhelming barrage, Sensei couldn't advance a single step."
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, I'll give it my best」"
+    },
+    {
+        "name": "Momiji",
+        "message": "（Putting on such a composed face—what a sly teacher...！）"
+    },
+    {
+        "message": "Out of my multi-hit combo laced with feints, the final strike landed."
+    },
+    {
+        "name": "Iori",
+        "message": "「Whew, that's pretty impressive, Momiji」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I never expected you to have a move like that up your sleeve」"
+    },
+    {
+        "message": "Iori-sensei, retreating far back to regain his stance."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Iori-sensei, that's quite enough」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hm？ What are you talking about？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I want to see you fight seriously」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Wouldn't it be about time you used Tengen Saimei-ryuu？」"
+    },
+    {
+        "message": "Iori-sensei's expression changed."
+    },
+    {
+        "name": "Iori",
+        "message": "「...How do you know about that？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I heard from Asahi-san. Apparently, it's a killing sword known as the Swordsman Slayer」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「If I'm your opponent, I shouldn't be found lacking, should I？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「…………」"
+    },
+    {
+        "message": "Sensei, falling silent."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Do you have any other way to break out of this situation？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Mmm, this is a tough spot...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I'd rather not use that if I can help it」"
+    },
+    {
+        "message": "Just as Asahi said, it seems Iori-sensei dislikes Tengen Saimei-ryuu."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Are you saying a killing sword is overkill against a mere academy student？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「You're really underestimating me」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I have no intention of forcing you, Sensei」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「However, I at least have no intention of learning anything from someone who has his hands full just defending against my attacks」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「As you are now, you aren't fit to be my teacher」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「If you want to be my teacher, prove your true strength right here」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Haha, you’re quite the provocateur, aren't you.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I believe I am merely stating the obvious.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Fair point, I suppose.」"
+    },
+    {
+        "message": "An evasive, noncommittal reply—why is he acting so coy?"
+    },
+    {
+        "name": "Iori",
+        "message": "「If you’re so desperate to see the Saimei-ryuu, why don't you try and drag it out of me.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Maybe if you pushed me a little harder, you’d get to see it？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Trying to provoke me? Returning the favor, are we?」"
+    },
+    {
+        "message": "I flash a smirk, and the teacher smirks back."
+    },
+    {
+        "name": "Iori",
+        "message": "「Ah, that’s right.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You keep telling me to show you my true power, but you haven't shown me yours yet, have you？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「My ‘true power,’ you say？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That thing you did during your match against Victoria.」"
+    },
+    {
+        "message": "Ah—so that’s it."
+    },
+    {
+        "message": "So Iori-sensei has been waiting for *that*."
+    },
+    {
+        "name": "Momiji",
+        "message": "「……Understood.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Then shall we both reveal our hands?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Gladly. You go first.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Don't you dare go backing out later just because you’ve seen my full power.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「If I did that, you wouldn't recognize me as your teacher anymore, would you？」"
+    },
+    {
+        "message": "Indeed, that would be putting the cart before the horse."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Then, here I come—！」"
+    },
+    {
+        "message": "Between the sparring sessions with Ririmu, Asahi, and Setsugekka, and the mutual practice sessions with me, I have generally “figured out” Iori-sensei."
+    },
+    {
+        "message": "Sword techniques used, telegraphs, reach, tactical algorithms, offensive and defensive skills, frequently used routines, combination patterns, and their combined probabilities."
+    },
+    {
+        "message": "Gaze, expressions, blinking, breathing technique, muscle reflexes, habits, weight distribution, blind spot management, and all other manner of physiological responses."
+    },
+    {
+        "message": "Psychological tendencies, personality traits, interpersonal judgment, logical reasoning ability, cognitive speed, stress tolerance, emotional regulation, and their strategic impact."
+    },
+    {
+        "message": "<center>It isn't perfect, but it will suffice for now.</center>"
+    },
+    {
+        "name": "Momiji",
+        "message": "「—Shingan no Kiwamete, initiate！」"
+    },
+    {
+        "message": "Switching neural circuits to ultra-high-speed predictive architecture."
+    },
+    {
+        "message": "First move, vanguard predictive actions... approximately 48 variations."
+    },
+    {
+        "message": "Second move, 26 effective counters against predictive tactic 1, 8 effective counters against tactic 2, effective counters against tactic 3—"
+    },
+    {
+        "message": "The number of nodes in the second-move action tree is approximately 1,049."
+    },
+    {
+        "message": "Move 3: 32,158."
+    },
+    {
+        "message": "Move 4: 1,195,784."
+    },
+    {
+        "message": "Move 5: 33,958,193."
+    },
+    {
+        "message": "Move 6: 1,088,495,795—"
+    },
+    {
+        "name": "Momiji",
+        "message": "（Ah, damn it, there are too many！）"
+    },
+    {
+        "message": "Teacher's movements are diverse, and his search nodes are increasing significantly faster than Victoria's."
+    },
+    {
+        "message": "In 0.08 seconds, I could only calculate 16 moves ahead, with roughly 1.2e+24 terminal nodes."
+    },
+    {
+        "message": "Filter by experience evaluation to derive the optimal solution."
+    },
+    {
+        "name": "Momiji",
+        "message": "（Alright, 16th move: over 80% probability of checkmate！）"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Then, here I go—！！」"
+    },
+    {
+        "message": "Move 1: Closing in with a mid―level torso sweep, full swing to the abdomen―hit."
+    },
+    {
+        "message": "Move 2: Attempting a mutual strike, a flash at the neck, reality consistency 86.708 percent—"
+    },
+    {
+        "message": "Speed +20m/s faster than predicted, data correction—evaded."
+    },
+    {
+        "message": "Move 3: After reversing, an upper―level feint thrust followed by a drawing slash―hit."
+    },
+    {
+        "message": "Move 4: Attempting a mutual strike, a thrust to the head, reality consistency 88.032 percent—"
+    },
+    {
+        "message": "Arrival time ―0.06 seconds earlier than predicted. Data correction―barely evaded."
+    },
+    {
+        "message": "Move 5: Utilizing moment of inertia, a spinning slash aimed at the thigh—opponent evaded."
+    },
+    {
+        "message": "Left foot step +0.51 seconds later than predicted. Physical strength +3.5k, data correction."
+    },
+    {
+        "message": "Move 6 evaded, Move 7 hit, Move 8 evaded, Move 9 opponent evaded—！ Evaded, hit, evaded, opponent evaded, evaded, evaded—！！"
+    },
+    {
+        "message": "I should say as expected; Teacher reacted beyond my read, parrying more than half of my attacks."
+    },
+    {
+        "name": "Momiji",
+        "message": "（But... this is the end！！！）"
+    },
+    {
+        "message": "Move 15: A flat slash to the opponent's chest, reality consistency 99.975 percent—"
+    },
+    {
+        "message": "0.13 centimeters lower than predicted—evaded."
+    },
+    {
+        "message": "Move 16: Countering in sync with the previous flat slash, severing the neck！"
+    },
+    {
+        "message": "The timing is perfect. With this, Teacher is fin—"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Tt...！！！」"
+    },
+    {
+        "message": "I cancelled all actions and retreated without regard for losing my center of gravity. Kicking off the ground, I pulled back sharply."
+    },
+    {
+        "name": "Momiji",
+        "message": "「...W-what was that」"
+    },
+    {
+        "message": "Teacher's flat-slashed blade, which I thought had long since passed."
+    },
+    {
+        "message": "Suddenly—it snapped vertically upward, deflecting the blow I had aimed at his neck."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Is such a movement even possible...？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You were watching my training with Setsugekka, weren't you？ I use martial arts too.」"
+    },
+    {
+        "message": "Iori-sensei tapped his foot lightly against the ground, *tap, tap*."
+    },
+    {
+        "message": "Looking closely, there was a depression in the ground the same size as Sensei's foot."
+    },
+    {
+        "message": "It seems he used the recoil from stomping his foot to alter the path of his blade."
+    },
+    {
+        "name": "Iori",
+        "message": "「Still, that flurry of attacks just now was incredible.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Your aim was so precise that I couldn't dodge them all, as expected.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「...For me, the fact that you dodged even half of them is enough of a threat.」"
+    },
+    {
+        "message": "The Shingan no Kiwamete is my ultimate technique."
+    },
+    {
+        "message": "By flipping a switch in my mind, my brain transforms into a predictive processor that simulates the match before me at hyper-high speed."
+    },
+    {
+        "message": "However, it is merely a prediction, not precognition."
+    },
+    {
+        "message": "Since I cannot read what I do not know, it is vital that I understand as much of my opponent's arsenal as possible."
+    },
+    {
+        "message": "That is why, from the first time to the second, and the second to the third, the accuracy of the Shingan no Kiwamete increases exponentially with each repetition."
+    },
+    {
+        "message": "This sparring match with Iori-sensei is still in its first round."
+    },
+    {
+        "message": "I expect I'll be able to predict his movements even more accurately in the future, but—"
+    },
+    {
+        "name": "Iori",
+        "message": "「Say, Momiji. Is it possible for you to keep that up for longer？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Of course it is.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hmm... the way you put that, it doesn't sound like it's infinite, though.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Shall we test just how long you can keep it up?」"
+    },
+    {
+        "name": "Momiji",
+        "message": "（Tch~, he noticed after all！）"
+    },
+    {
+        "message": "This Shingan no Kiwamete isn't all-powerful."
+    },
+    {
+        "message": "Depending on the level of temporal resolution I require, the limit is about one minute at most."
+    },
+    {
+        "message": "Beyond that point, noise and indeterminate factors accumulate, making it impossible to maintain sufficient accuracy."
+    },
+    {
+        "name": "Momiji",
+        "message": "「I don't mind testing it, but please don't forget our agreement.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Next, it's Sensei's turn to reveal your hand.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ah, right. I remember.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Show me what that 'Swordsman-Killer' lethal style is really capable of.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...I'm not exactly keen on it, but I have no choice.」"
+    },
+    {
+        "message": "Iori-sensei spreads his feet wide, angles his shoulder toward me, and draws his Origami, hiding his grip behind his body."
+    },
+    {
+        "name": "Momiji",
+        "message": "（Is this... the Waki-gamae stance...？）"
+    },
+    {
+        "name": "Iori",
+        "message": "「I'll only show this to you all once.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「The essence of the Muragaki, Tengen Saimei―ryuu―have at you！！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「...！？」"
+    },
+    {
+        "message": "The pressure radiating from the teacher had shifted."
+    },
+    {
+        "name": "Momiji",
+        "message": "（W-what is this...！）"
+    },
+    {
+        "message": "A terrifying killing intent, such as she had never been exposed to before."
+    },
+    {
+        "message": "An ordinary person would have been struck weak at the knees and withered away by this alone."
+    },
+    {
+        "message": "But this was merely the beginning."
+    },
+    {
+        "name": "Momiji",
+        "message": "（W-what... what is being done to me！？）"
+    },
+    {
+        "message": "Her body was pinned firmly to the ground, unable to move. She thought it might be a Tenju, but after 0.2 seconds of thought, she finally realized."
+    },
+    {
+        "message": "This was an instinctive terror."
+    },
+    {
+        "name": "Momiji",
+        "message": "（Am I scared？ Just from facing him！？）"
+    },
+    {
+        "message": "Impossible, that was absolutely impossible."
+    },
+    {
+        "message": "She had landed the first strike against the master swordsman—her grandfather, Suzakuin Masamori. Even then, she had never felt cowardly."
+    },
+    {
+        "name": "Momiji",
+        "message": "（There must be a reason, there has to be a reason—！）"
+    },
+    {
+        "message": "She frantically searched for the reason. Teacher Iori had simply been standing there in the same spot for a while now."
+    },
+    {
+        "message": "Yet why then—"
+    },
+    {
+        "name": "Momiji",
+        "message": "（...No, that's not it）"
+    },
+    {
+        "message": "The teacher wasn't just standing there."
+    },
+    {
+        "name": "Momiji",
+        "message": "（Tip of his blade raised by 1mm, center of gravity shifted downward by 0.83kN. Neck rotated -1.8 degrees, gaze shifting to his eyes, toes, waist, right index finger, left little finger...！）"
+    },
+    {
+        "message": "Ah, is that it... no, but if that’s the case, then this is...！"
+    },
+    {
+        "name": "Momiji",
+        "message": "（You're kidding, what is this storm of feints and fakes...！！）"
+    },
+    {
+        "message": "Predictive reading involves anticipating an opponent's next move based on minute behaviors: shifts in their center of gravity, muscle movements, gaze, and facial expressions."
+    },
+    {
+        "message": "The teacher was injecting a staggering amount of fakes into the very information needed for that predictive reading...！"
+    },
+    {
+        "message": "...Deep within his dark, sunken eyes lay an unimaginable hostility and malice. A malevolence and bloodlust so vile it was sickening to even consider."
+    },
+    {
+        "message": "Scheming, plotting, deceiving. All to reap my life."
+    },
+    {
+        "message": "...This is no human feat. This was the work of an ogre or a demon."
+    },
+    {
+        "name": "Iori",
+        "message": "「What's wrong, Momiji? Aren't you going to do what you just did?」"
+    },
+    {
+        "name": "Momiji",
+        "message": "（Don't talk nonsense, there's no way I could do that...！）"
+    },
+    {
+        "message": "No, what am I doing getting weak-willed. If I don't initiate, there is no future."
+    },
+    {
+        "name": "Momiji",
+        "message": "（It's okay, this is just a fake. If I attack, he's bound to slip up—）"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hahaha.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「...！？」"
+    },
+    {
+        "message": "She hurriedly shifted her center of gravity back."
+    },
+    {
+        "message": "Just as she was about to step forward, the teacher's feet seemed to hover in the air."
+    },
+    {
+        "message": "It was a move that seemed to seize her initiative, but was this also just a fake?"
+    },
+    {
+        "name": "Momiji",
+        "message": "（If that's the case...！）"
+    },
+    {
+        "message": "Maintaining her distance, first to the side—"
+    },
+    {
+        "message": "Iori-sensei’s gaze fixates precisely on where I intend to move."
+    },
+    {
+        "name": "Iori",
+        "message": "「Stalling for time doesn’t suit you, Momiji. Just come at me straight.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「…………nh」"
+    },
+    {
+        "message": "My palms gradually grow damp with sweat. It’s been a long time since I was this nervous."
+    },
+    {
+        "name": "Momiji",
+        "message": "（So this is the Tengen Saimei-ryuu, the Sword Killer’s murderous blade……！！）"
+    },
+    {
+        "message": "I understood the true nature of the Saimei-ryuu, and why it is called the Sword Killer."
+    },
+    {
+        "message": "The stronger a swordsman gets, the sharper their ability to read the flow of battle."
+    },
+    {
+        "message": "This Saimei-ryuu targets such masters who rely on reading, trapping them in its own web."
+    },
+    {
+        "name": "Iori",
+        "message": "「What’s wrong? Not going to attack?」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「……Shut up, you should be the one attacking, Sensei！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Tengen Saimei-ryuu holds a single strike to be the ultimate path to victory. So, I’m just waiting patiently until that becomes possible.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Right until the moment you show a fatal opening.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "（Oh, I see, so that’s how it is……！）"
+    },
+    {
+        "message": "When facing a master of tactical reading, you subject them to a barrage of fakes, forcing them into extreme tension, and wait until they wither away."
+    },
+    {
+        "message": "And once you judge that their concentration has snapped, you bury them with a single strike. That seems to be the Muragaki way—the Sword Killer's code."
+    },
+    {
+        "name": "Momiji",
+        "message": "（What a, what a sickening sword style……！？）"
+    },
+    {
+        "message": "I feel like an ant trapped in an antlion's pit."
+    },
+    {
+        "name": "Iori",
+        "message": "「Don’t take it personally. You’re the one who said you wanted to see me get serious.」"
+    },
+    {
+        "message": "That’s certainly true. I have no room to argue."
+    },
+    {
+        "name": "Momiji",
+        "message": "（Sword Killer, aren't you just interesting……！！！）"
+    },
+    {
+        "message": "He’s just throwing out fakes."
+    },
+    {
+        "message": "He’s not actually reading my tactical flow."
+    },
+    {
+        "message": "Even if Sensei were reading my flow to throw fakes, my prediction accuracy is far superior."
+    },
+    {
+        "message": "If so――！！"
+    },
+    {
+        "name": "Momiji",
+        "message": "「――Shingan no Kiwamete, activation！！」"
+    },
+    {
+        "message": "Click. I flip the switch in my brain with intensity."
+    },
+    {
+        "name": "Momiji",
+        "message": "（I’ll tear off your mask, Sensei――！）"
+    },
+    {
+        "message": "First move, vanguard predictive action…… approximately 2,620 variations."
+    },
+    {
+        "message": "Second move, 32 effective counters against prediction 1, 21 against prediction 2, effective counters against prediction 3――"
+    },
+    {
+        "message": "……Number of nodes in the second move's action tree: approximately 71,539."
+    },
+    {
+        "message": "Third move: 19,777,687."
+    },
+    {
+        "message": "Fourth move: 5,104,953,283."
+    },
+    {
+        "message": "Fifth move: 1,369,524,354,794."
+    },
+    {
+        "message": "Sixth move: 363,704,784,209,033――"
+    },
+    {
+        "name": "Momiji",
+        "message": "（No way, tell me it's a lie...！）"
+    },
+    {
+        "message": "By the 6th move, the terminal nodes surpassed 36 billion."
+    },
+    {
+        "message": "7th move 9.7e+16, 8th move 2.6e+19, 9th move 6.9e+21, 10th move—"
+    },
+    {
+        "message": "By the 10th move at most, my brain was reaching its limit."
+    },
+    {
+        "message": "Even so, that's fine; I just need to run the experience evaluation function and find the optimal solution—"
+    },
+    {
+        "message": "1.8e+24 terminal nodes; within that vast array of paths, the most suitable action is,"
+    },
+    {
+        "name": "Momiji",
+        "message": "（A mutual kill...？ And the success rate is only 6.32%...！）"
+    },
+    {
+        "message": "If that's the best possible option, what happens if I take any other path?"
+    },
+    {
+        "name": "Momiji",
+        "message": "（No, that's impossible！ The experience evaluation function must be wrong！）"
+    },
+    {
+        "message": "When facing Iori-sensei, evaluating based on previous experience is useless."
+    },
+    {
+        "message": "There must be a better evaluation method, I have to find it—"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hmph...!」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Eh, wait...」"
+    },
+    {
+        "message": "By the time I realized it, the Origami had vanished from my hand..."
+    },
+    {
+        "message": "And Iori-sensei's blade was pressed against my throat."
+    },
+    {
+        "name": "Iori",
+        "message": "「This is as far as you go.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「………………」"
+    },
+    {
+        "message": "Ah... this is a total defeat."
+    },
+    {
+        "message": "Resetting all my thoughts, I exhale deeply, the tension leaving my body."
+    },
+    {
+        "name": "Momiji",
+        "message": "「...I yield. I surrender.」"
+    }
+]

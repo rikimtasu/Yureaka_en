@@ -1,0 +1,277 @@
+[
+    {
+        "message": "I’m currently in my room, all by myself, being made to reflect on my actions."
+    },
+    {
+        "message": "The reason is that I broke the ancestral spirit sword."
+    },
+    {
+        "message": "But it’s not my fault."
+    },
+    {
+        "name": "???",
+        "message": "「I only put a little bit of effort into it...」"
+    },
+    {
+        "message": "Apparently, I’ve had high spiritual power ever since I was born."
+    },
+    {
+        "message": "Because of that, I could see Keyou, and I often ended up in a lot of trouble, being talked to or chased around by them."
+    },
+    {
+        "message": "Seeing that, Father gave me the spirit sword to ward off evil."
+    },
+    {
+        "name": "???",
+        "message": "「Anyway, didn't Father tell me to try activating it?」"
+    },
+    {
+        "message": "In order to activate the spirit sword, I poured all my spiritual energy into the blade."
+    },
+    {
+        "message": "And with a *pop*, the spirit sword shattered into pieces."
+    },
+    {
+        "name": "???",
+        "message": "「I didn't know it would break that easily...」"
+    },
+    {
+        "name": "???",
+        "message": "「And yet, why am I the one getting scolded...！？」"
+    },
+    {
+        "message": "Thinking back on it, I still can't accept it."
+    },
+    {
+        "message": "So, I decided to run away from home."
+    },
+    {
+        "name": "???",
+        "message": "「My luggage... yep, this should be fine.」"
+    },
+    {
+        "message": "I stuffed a change of clothes and daily necessities into a large backpack, and I was ready to go."
+    },
+    {
+        "name": "Tsubaki",
+        "message": "「...Big sister, big sister Miyako.」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Oh, Tsubaki...」"
+    },
+    {
+        "message": "I’ve been caught in a bad situation."
+    },
+    {
+        "name": "Tsubaki",
+        "message": "「Big sister Miyako, with such a big bag... are you going out？」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「I'm not going anywhere, really.」"
+    },
+    {
+        "name": "Tsubaki",
+        "message": "「You're lying...」"
+    },
+    {
+        "name": "Tsubaki",
+        "message": "「Because big sister Miyako, you were really angry after fighting with Father.」"
+    },
+    {
+        "name": "Tsubaki",
+        "message": "「You said you were going to leave in a really loud voice.」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Haa, so you heard that, huh...」"
+    },
+    {
+        "name": "Tsubaki",
+        "message": "「Is big sister Miyako going to leave this house too, just like big sister Momiji and big sister Nadeshiko...？」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「It can't be helped, you know; my pride is on the line here.」"
+    },
+    {
+        "name": "Tsubaki",
+        "message": "「Pride？ Pride chicken？」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「That's not what I meant! A swordsman's honor!」"
+    },
+    {
+        "name": "Tsubaki",
+        "message": "「I don't really get it...」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「It's fine, Tsubaki, you don't need to understand」"
+    },
+    {
+        "name": "Tsubaki",
+        "message": "「It's not fine... I don't want you to leave, Big Sis」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「I don't know what you expect me to do even if you say you don't want me to」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「You're you, and I'm me. We're two different people, after all」"
+    },
+    {
+        "name": "Tsubaki",
+        "message": "「Nooo, I don't wanna be all alone in this house...」"
+    },
+    {
+        "message": "Tsubaki is my younger sister, and she's terribly clingy."
+    },
+    {
+        "message": "No matter what I do, she always trails after me and wants to copy everything."
+    },
+    {
+        "name": "Tsubaki",
+        "message": "「If you're leaving, Big Sis Miyako, then I'm coming with you」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Listen, you know that's impossible」"
+    },
+    {
+        "name": "Tsubaki",
+        "message": "「Ugh... *sniff* Big Sis, Big Sis Miyakooo...！」"
+    },
+    {
+        "message": "She finally started crying."
+    },
+    {
+        "name": "Miyako",
+        "message": "「Hey... come on, don't cry. Wipe your tears」"
+    },
+    {
+        "message": "I pulled out a handkerchief and gently wiped Tsubaki's wet cheeks."
+    },
+    {
+        "name": "Tsubaki",
+        "message": "「Hic, *sob*... *sniffle*」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「You're a Suzakuin swordswoman too, aren't you? You shouldn't cry so easily」"
+    },
+    {
+        "name": "Tsubaki",
+        "message": "「*Sob*... Big Siiis, I wanna go with you too...」"
+    },
+    {
+        "name": "Tsubaki",
+        "message": "「If I'm not with you, Big Sis Miyako... I don't want it」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「...Honestly, what am I going to do with you」"
+    },
+    {
+        "message": "Tsubaki, clinging tightly to me and refusing to let go."
+    },
+    {
+        "message": "Sometimes I do find her a bit of a handful."
+    },
+    {
+        "message": "Still, Tsubaki was... my one and only precious little sister."
+    },
+    {
+        "name": "Miyako",
+        "message": "「...Alright, let's go together」"
+    },
+    {
+        "name": "Tsubaki",
+        "message": "「Really...！？」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「I'll take you with me, so get ready in forty seconds」"
+    },
+    {
+        "name": "Tsubaki",
+        "message": "「F-Forty seconds is impossible!」"
+    },
+    {
+        "message": "Tsubaki, darting back to her room and frantically stuffing her things into a bag."
+    },
+    {
+        "name": "Tsubaki",
+        "message": "「*Huff*, *huff*... Big Sis, I'm ready」"
+    },
+    {
+        "message": "She came back in exactly three minutes carrying a large travel bag. I was surprised by how efficient she actually was."
+    },
+    {
+        "name": "Miyako",
+        "message": "「Here, give me your bag. I’ll carry it for you.」"
+    },
+    {
+        "name": "Tsubaki",
+        "message": "「Thank you, Miyako-oneechan!」"
+    },
+    {
+        "message": "With that, the only thing Tsubaki was left carrying was her own small Origami."
+    },
+    {
+        "name": "Tsubaki",
+        "message": "「So, sis, where are we going once we leave here？」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「I haven't really decided on a destination.」"
+    },
+    {
+        "name": "Tsubaki",
+        "message": "「Will we be okay...?」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Tsubaki, we’re swordsmen, remember?」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「No matter what happens, we’ll make it through with just our swords. Right？」"
+    },
+    {
+        "name": "Tsubaki",
+        "message": "「Yeah... I get it. As long as you’re with me, I’m sure it’ll be fine.」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「That’s not what I meant... but oh well.」"
+    },
+    {
+        "message": "It seems Tsubaki still doesn't understand the meaning of “standing on one’s own.”"
+    },
+    {
+        "message": "But I think that’s for the best."
+    },
+    {
+        "name": "Miyako",
+        "message": "「Well, don’t worry, I have a place in mind if it comes down to it.」"
+    },
+    {
+        "name": "Tsubaki",
+        "message": "「Oh, really? Can’t wait~♪」"
+    },
+    {
+        "message": "Everything is ready. Now is the time to leave the house."
+    },
+    {
+        "name": "Miyako",
+        "message": "「Alright Tsubaki, let’s go before anyone finds us!」"
+    },
+    {
+        "name": "Tsubaki",
+        "message": "「Wait, Miyako-oneechan, don’t leave me behind~！」"
+    }
+]

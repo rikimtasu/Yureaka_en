@@ -1,0 +1,1780 @@
+[
+    {
+        "name": "Iori",
+        "message": "「...All right, check complete. All green.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Thank you very much, Iori-sensei.」"
+    },
+    {
+        "message": "Once I finished the final pre-match check, Asahi gave me a small bow."
+    },
+    {
+        "message": "Her expression, however, wasn't bright."
+    },
+    {
+        "name": "Iori",
+        "message": "「Are you okay, Asahi？ You've got a scary look on your face.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「My apologies. It seems I'm uncharacteristically nervous.」"
+    },
+    {
+        "message": "...That's not really the look I'm seeing, though."
+    },
+    {
+        "name": "Iori",
+        "message": "「Could it be because your opponent is Arakawa-san？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I'm competing in the Martial Festival to become the Toujinegi. It makes no difference who my opponent is.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You're bothered about Ririmu, aren't you？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「…………」"
+    },
+    {
+        "message": "Her expression stiffened once again."
+    },
+    {
+        "name": "Asahi",
+        "message": "「...She said, 'In the world of competition, once you lose, anything you say is just the howling of a beaten dog.'」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Then I'll win and shut that arrogant mouth of hers.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Asahi...」"
+    },
+    {
+        "message": "A fierce resolve dwelt in Asahi's eyes."
+    },
+    {
+        "message": "It was as if roaring, surging flames—fierce enough to scorch her very body—were enveloping Asahi."
+    },
+    {
+        "name": "Iori",
+        "message": "「...Asahi, you have the genuine skill it takes to defeat Arakawa Sonomi.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「So I'm not worried about that at all.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Still, sometimes you let your emotions get the better of you and lose sight of everything around you.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「…………」"
+    },
+    {
+        "message": "Asahi's eyes darted away. Looks like she's aware of it herself."
+    },
+    {
+        "name": "Iori",
+        "message": "「Try to remember back when you and Ririmu argued and had that all-out sparring match.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Through that match, you and Ririmu became close. Ririmu saved you.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「...Perhaps you're right.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Asahi, don't let fury cloud your eyes. You must not become a demon.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Please, take this to heart. You... must never become like me.」"
+    },
+    {
+        "message": "This wasn't an order, nor was it a plea. It was simply a prayer."
+    },
+    {
+        "message": "Whether that prayer reached her—"
+    },
+    {
+        "name": "Asahi",
+        "message": "「...Understood.」"
+    },
+    {
+        "message": "Asahi gave a small, firm nod."
+    },
+    {
+        "name": "Umpire",
+        "message": "「To the West—Martial Arts Division Year 1, Special Class A 'Takamura Class' member! Kuki, Asahiーーーーーーーーーーーーーー!!」"
+    },
+    {
+        "message": "As Asahi's name was called, we both turned our eyes toward the entrance."
+    },
+    {
+        "name": "Asahi",
+        "message": "「...Well then, Iori-sensei, I'm going.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Asahi, know your opponent well, and look at what lies beyond them.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「And make sure you find something...！」"
+    },
+    {
+        "message": "I could hear the cheers. But to me, that was irrelevant."
+    },
+    {
+        "message": "Standing before me in the East was my fated opponent."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Ha, what a scary look on your face.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「The crowd's making all this noise just for you. Why don't you try smiling and being a little charming?」"
+    },
+    {
+        "message": "I could hear the sound of blood rushing to my head. Everything she said was infuriating."
+    },
+    {
+        "name": "Asahi",
+        "message": "「...You haven't forgotten our promise, have you？ If I win, you will lower your head to Ririmu-san.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Hmph, I don't recall making any promises.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「I'll just beat you into the ground and be done with it. After that, you can do whatever you want with yourself.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「...The winner takes all, and the loser merely bows in submission. That is your way of doing things, isn't it?」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「In that case, I shall follow your way—I'll grind your face into the dirt until you're bowing before me...！」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Try it if you think you can, first-year.」"
+    },
+    {
+        "name": "Umpire",
+        "message": "「Both sides, take your stances！！」"
+    },
+    {
+        "name": "Sassa Naruko",
+        "message": "「Oh! A restless air is drifting between the two. It seems there's some bad blood here, but...」"
+    },
+    {
+        "name": "Nakamura Sakura",
+        "message": "「That's what I'm talking about！ Jindou isn't just about clashing Origami; it's about clashing with your passion！」"
+    },
+    {
+        "name": "Nakamura Sakura",
+        "message": "「Beat the hell out of each other！！」"
+    },
+    {
+        "name": "Sassa Naruko",
+        "message": "「Now, for this highly anticipated third match of the first round, a clash of blades and spirits！ What kind of conclusion will we see！」"
+    },
+    {
+        "name": "Umpire",
+        "message": "「Gather the eight million gods in the Divine Assembly, deliberate in the Divine Council. Heaven and earth are pure, the six senses are cleansed; purify them, cleanse them...！」"
+    },
+    {
+        "name": "Umpire",
+        "message": "「On the East side, Arakawa Sonomi！」"
+    },
+    {
+        "name": "Umpire",
+        "message": "「On the West side, Kuki Asahi！」"
+    },
+    {
+        "name": "Umpire",
+        "message": "「—Bagua ascending, assume your stances, no delays！」"
+    },
+    {
+        "name": "Umpire",
+        "message": "「Prepare yourselves, begin the match！！」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Right then, here I come！」"
+    },
+    {
+        "message": "With a fearless grin, she swung her Origami up."
+    },
+    {
+        "message": "And just like that, she charged toward me—"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Ngh-yaaaaah！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "（She’s not coming in...？ Coming from the outside...!？）"
+    },
+    {
+        "message": "Just as I thought she was going to rush me, she held the hilt by the end and unleashed a long-range sweep."
+    },
+    {
+        "message": "I instinctively jumped back to dodge it, and she immediately closed the distance again."
+    },
+    {
+        "message": "However―she stopped just before entering my range, unleashing another long―range attack."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Hey, hey! Come on!」"
+    },
+    {
+        "message": "I parried the tip of the attacking nagamaki and backed away again. And once more, she gave chase."
+    },
+    {
+        "message": "Stopping her feet at the very edge where my attacks couldn't reach her."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「What’s the matter, is your Origami just for show！？ You won’t get anywhere if you keep it sheathed！」"
+    },
+    {
+        "message": "Even while taunting me, she kept her spacing under strict control. Contrary to her rough demeanor, her fighting style was technical."
+    },
+    {
+        "name": "Asahi",
+        "message": "（Though, I had already accounted for that...！）"
+    },
+    {
+        "message": "A nagamaki is an all-around weapon that can fight both at long and short range."
+    },
+    {
+        "message": "And Arakawa-senpai is someone who understands those characteristics better than anyone and knows how to use them to her advantage."
+    },
+    {
+        "message": "I hadn't expected her to have calculated such thorough countermeasures from the very start, but even so, I knew this tactic was coming."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Urah！」"
+    },
+    {
+        "message": "Once again, I parried a wide, sweeping blow and retreated."
+    },
+    {
+        "message": "Even just parrying her, I could easily feel her physical strength and the destructive power of her strikes."
+    },
+    {
+        "message": "In a way, that might be proof of her effort."
+    },
+    {
+        "name": "Asahi",
+        "message": "（...Yes, I know. I know just how much you’ve trained day after day！）"
+    },
+    {
+        "message": "I don’t know about Arakawa-senpai’s side of things, but I remember when we met at the dormitory entrance."
+    },
+    {
+        "message": "Just like me, she kept training until late into the night, burning with an extraordinary obsession for victory deep within her eyes."
+    },
+    {
+        "name": "Asahi",
+        "message": "（But that’s true of Ririmu-san, too...！）"
+    },
+    {
+        "message": "I couldn’t bring myself to like how she spoke, her appearance, or her personality. Even now, I feel like we’re fundamentally incompatible."
+    },
+    {
+        "message": "But still, she held unwavering convictions, and she continued the constant, exhausting effort to match them."
+    },
+    {
+        "message": "As her fellow student, I had watched that form of hers from up close."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Come on, what's wrong with you！? Was all that bluster just empty talk at the start！?」"
+    },
+    {
+        "message": "A thorough long―range offensive―proof that she had properly studied and countered my fighting style and its reach."
+    },
+    {
+        "message": "It was also proof of Arakawa-senpai’s obsession with victory."
+    },
+    {
+        "message": "However—！"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Don't think my reach will stay the same forever...！」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Ngh...！！」"
+    },
+    {
+        "message": "I kick off the ground hard and close the distance myself."
+    },
+    {
+        "message": "I won't give her a moment to dodge. Just like that—！"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Guaaaagh！？」"
+    },
+    {
+        "message": "Taking the full force of my flash strike, Arakawa-senpai tumbled to the ground."
+    },
+    {
+        "name": "Sassa Naruko",
+        "message": "「It’s a hit！ A powerful strike that looks like it could have severed her torso right in two！」"
+    },
+    {
+        "name": "Sassa Naruko",
+        "message": "「Asahi, who was being forced into a tough battle due to the reach difference, has launched an offensive here！」"
+    },
+    {
+        "name": "Nakamura Sakura",
+        "message": "「That wasn't some half-baked step-in, it was rock-solid. That right there is the fruit of some serious training！」"
+    },
+    {
+        "name": "Sassa Naruko",
+        "message": "「The crowd is going wild！ Sonomi is still down！ Could it really end like this?！」"
+    },
+    {
+        "name": "Sassa Naruko",
+        "message": "「Wait？ Asahi is taking up the Iai stance again, aimed at the fallen Sonomi！ What is this...？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「...How long do you intend to lie there？ Please get up, it’s a waste of time」"
+    },
+    {
+        "message": "I call out to Arakawa-senpai, who remains motionless on the ground."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「...Heh, I was planning to smash you when you came in for the follow-up, you know」"
+    },
+    {
+        "message": "She gets up with an air of composure. As expected. There's no way it would end with just this."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Fufu, I’d be troubled if that were the case」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「At the very least, I want you to grovel on the ground in front of me another hundred times and show me your pathetic figure」"
+    },
+    {
+        "message": "I dare to flash a smile."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「...Tch, what an irritating first-year. Don't get cocky！」"
+    },
+    {
+        "message": "She charges forward at a speed even greater than before, swinging not so much to cut as to collide her blade with mine."
+    },
+    {
+        "message": "As I parry it with my scabbard, she does something different than before; she steps even further forward, closing in on me."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Take this！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ngh... what happened to your counter-measures from before...！」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「If you're going to come charging at me, there's no point in me just waiting around, is there！？」"
+    },
+    {
+        "message": "I dodge the blow aimed at dragging me into close quarters and leap back—"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Don't run！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ugh…！」"
+    },
+    {
+        "message": "The blade extended toward the spot where I jumped back. I managed to block it, but a tremendous impact pierced through my body."
+    },
+    {
+        "message": "She adjusts her reach so smoothly based on distance that it really feels like her blade is actually expanding and contracting."
+    },
+    {
+        "message": "In that sense, she might even be technically superior to Tennouji-senpai or Setsugekka-san."
+    },
+    {
+        "name": "Asahi",
+        "message": "（Plus, she uses that immortality-like durability of hers to aim for a one-hit kill, completely disregarding the damage she takes—）"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Ha, looks like you’ve lost that initial fire of yours！」"
+    },
+    {
+        "message": "Parry. Endure."
+    },
+    {
+        "message": "If I make a careless move, she’ll just tank it with that durability of hers, and I’ll be the one getting countered."
+    },
+    {
+        "name": "Sassa Naruko",
+        "message": "「Asahi-senshu has been forced into a defensive position after being pressured at close range！ She’s doing everything she can just to weather Sonomi-senshu’s rush！」"
+    },
+    {
+        "name": "Nakamura Sakura",
+        "message": "「Iai battou is super tough when your opponent is willing to risk a mutual strike just to get in your face！」"
+    },
+    {
+        "name": "Nakamura Sakura",
+        "message": "「To fend that off, you need one-hit-kill attack power, but looking at what just happened, Sonomi doesn’t seem phased at all.」"
+    },
+    {
+        "name": "Sassa Naruko",
+        "message": "「It looks like Asahi-senshu is being forced into a really grueling fight！ I’m hoping she can find a way to turn this around！」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「What’s the matter, is this it? Is it over already?！」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Hey, show some guts, damn it！ If this is how it ends, I’m gonna be bored to death！！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Guh…！」"
+    },
+    {
+        "message": "Every time I intercept one of Arakawa-senpai’s blows, the shock is enough to shake my whole body, vibrating through my arms."
+    },
+    {
+        "message": "That strength, a result of pure effort and training, combined with high technical skill in handling such a long weapon."
+    },
+    {
+        "message": "If I let my guard down even a little, she’ll immediately drive a strike right into that opening—"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Tch, you’re tough… huddling up like a damn clam！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "（Endure, endure, and just keep enduring…………！）"
+    },
+    {
+        "message": "The core of Iai battou is the decisive strike delivered the moment the opponent shows an opening."
+    },
+    {
+        "message": "That is precisely why, no matter how many hits I take, I must endure until that chance appears."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Damn it, then I’ll just have to pry you open…！！」"
+    },
+    {
+        "message": "……It’s fine, it’s nothing I can’t handle."
+    },
+    {
+        "message": "No matter how heavy the strike, as long as I block it, my Barrier Jacket will take no damage."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Gotcha！！！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Uh…！」"
+    },
+    {
+        "message": "Slipping past my defense, a strike delivered from a blinding spin."
+    },
+    {
+        "message": "Arakawa Senpai's skill is the real deal. She wields that nagamaki—good for both offense and defense—with absolute perfection."
+    },
+    {
+        "message": "Her immense strength allows her to swing that long weapon as easily as a toothpick, a high level of technique that speaks to her dedication."
+    },
+    {
+        "message": "If only she wouldn't open her mouth, she'd be a swordsman worthy of respect."
+    },
+    {
+        "name": "Asahi",
+        "message": "（Still, because of that... she has almost zero openings...！）"
+    },
+    {
+        "message": "Pressed by Arakawa Senpai’s fierce strikes and heavy blows, I am gradually forced to retreat."
+    },
+    {
+        "message": "If things go on like this, I might just be overwhelmed."
+    },
+    {
+        "message": "...Come to think of it, I've had a fight like this before. During sparring practice with Iori-sensei."
+    },
+    {
+        "message": "Back then, I couldn't do a thing against Iori―sensei either, but―"
+    },
+    {
+        "message": "『Being cautious is a great strength, but sometimes you won't see a path to victory unless you're willing to take a gamble！』"
+    },
+    {
+        "name": "Asahi",
+        "message": "（...Hehe, that's right. I was indeed taught that, by Iori-sensei...！）"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Take this！ And this！」"
+    },
+    {
+        "message": "Even if I parry Arakawa Senpai’s attacks, another one comes flying at me immediately."
+    },
+    {
+        "message": "But... right. No matter how heavy her strikes are, there's no need to insist on taking zero damage."
+    },
+    {
+        "name": "Asahi",
+        "message": "（When it comes to durability, I won't lose either...！）"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「If you intend to keep hiding away in there forever, I'll just smash the whole shell to pieces！！」"
+    },
+    {
+        "message": "She launches another pursuit."
+    },
+    {
+        "message": "I respond, slightly exposing my flank and shifting my trunk a few centimeters back—"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Gotcha！！！」"
+    },
+    {
+        "message": "—Hooked！"
+    },
+    {
+        "message": "In that instant, my koiguchi sets fire—！！"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Secret Technique, Ouitsu Issen—！！！！」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Ngghaaaaaaahh...！！」"
+    },
+    {
+        "name": "Sassa Naruko",
+        "message": "「Whoa! It’s a hit! Is this the true essence of an Iai draw!」"
+    },
+    {
+        "name": "Sassa Naruko",
+        "message": "「She’s knocked Sonomi-senpai all the way to the edge of the stage！」"
+    },
+    {
+        "name": "Nakamura Sakura",
+        "message": "「Whoa... that’s some insane power！！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Sono-chan-senpai...！！」"
+    },
+    {
+        "message": "Sono-chan-senpai lies still at the edge of the stage. Seeing that, I found myself standing up, worried."
+    },
+    {
+        "message": "However—from the surroundings, I hear completely different voices."
+    },
+    {
+        "name": "Spectator D",
+        "message": "「Ahaha, look at that！ Serves her right！」"
+    },
+    {
+        "name": "Spectator E",
+        "message": "「That's the one, right? The one who acts like a lone wolf and gets all full of herself?」"
+    },
+    {
+        "name": "Spectator F",
+        "message": "「I'm in her class, and she doesn't even show up to lessons or have any social skills. I don't know how she hasn't been expelled yet~」"
+    },
+    {
+        "name": "Spectator D",
+        "message": "「Honestly, is she even strong? She’s just stubborn, right? She’s always getting beaten by all sorts of people.」"
+    },
+    {
+        "name": "Spectator E",
+        "message": "「Right！ She’s just so… uncool, I guess? Like, she doesn't belong at the Martial Festival, you know?」"
+    },
+    {
+        "name": "Spectator F",
+        "message": "「Go for it, freshman！ Take her down just like that！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「……」"
+    },
+    {
+        "message": "I instinctively clench my molars."
+    },
+    {
+        "message": "Those talking are probably classmates of Sono-chan. There are so many people here, I can’t tell who is who."
+    },
+    {
+        "name": "Spectator A",
+        "message": "「That’s it, Kuki Asahi！ Finish her off！！」"
+    },
+    {
+        "name": "Spectator B",
+        "message": "「Finish it！」"
+    },
+    {
+        "message": "Looking around, almost everyone was rooting for Asahi."
+    },
+    {
+        "message": "Aside from me, no one was worried about Sono―chan, and no one was cheering for her―."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「……I know. That’s the role of a heel.」"
+    },
+    {
+        "message": "Heels are expected to be beaten by everyone. That’s their role."
+    },
+    {
+        "message": "So, it’s unavoidable that people say bad things. I’m sure Sono-chan doesn't mind that."
+    },
+    {
+        "message": "But…… she’s definitely not uncool."
+    },
+    {
+        "message": "Sono-chan is clumsy; she’s just the kind of person who can only live life that way."
+    },
+    {
+        "message": "Even so, she doesn't care what others think of her. She’s someone who stays true to her own way of life."
+    },
+    {
+        "message": "That’s right, and that’s why."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Sono-chan is incredibly cool……！」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Gah, coff……！」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "（That hit… it was way worse than I thought…）"
+    },
+    {
+        "message": "The impact felt like being punched in the gut with everything they had. I might’ve cracked a few ribs."
+    },
+    {
+        "name": "Sonomi",
+        "message": "（Damn it, I can’t think straight…！）"
+    },
+    {
+        "message": "My vision is blurring, and my head is spinning wildly."
+    },
+    {
+        "name": "Sonomi",
+        "message": "（Where’d that first-year brat go…？）"
+    },
+    {
+        "message": "I search desperately through my blurred vision."
+    },
+    {
+        "name": "Sonomi",
+        "message": "（What the hell is this? I can’t see a damn thing…）"
+    },
+    {
+        "message": "I wipe my eyes and shake my head, but my consciousness only drifts further away."
+    },
+    {
+        "name": "Sonomi",
+        "message": "（Yeah… I know, I know. Just gotta stand up and fight, right…？）"
+    },
+    {
+        "message": "I force my numb limbs to move, trying desperately to stand. But it’s no use."
+    },
+    {
+        "message": "Only my impatience grows."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Guh, ughhh…！！」"
+    },
+    {
+        "message": "Excruciating pain shoots through me at the slightest movement."
+    },
+    {
+        "message": "Suddenly, a roar of cheers erupts."
+    },
+    {
+        "message": "But that was all for the first-year brat—for Kuki—not me."
+    },
+    {
+        "name": "Sonomi",
+        "message": "（Hah... I get it. I’m an outcast. I’m used to this sort of thing...！）"
+    },
+    {
+        "message": "I’ve always fought and survived on my own. So being alone is perfectly—"
+    },
+    {
+        "name": "Sonomi",
+        "message": "（What is this, I can't put any power into it... Is it over...？ Is this as far as I go？）"
+    },
+    {
+        "message": "...Well, fine then."
+    },
+    {
+        "message": "Nobody was hoping for me to get back up anyway—"
+    },
+    {
+        "name": "???",
+        "message": "「GRAAAAAAAAH!! What’s wrong, Sono-chan-senpai!!」"
+    },
+    {
+        "name": "???",
+        "message": "「Have you lost your edge-ahhhhhh!!」"
+    },
+    {
+        "message": "Suddenly, a voice I recognized reached my ears."
+    },
+    {
+        "message": "Ah, that’s—"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I thought the words of encouragement were especially nice, actually~」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「'What’s wrong, you’ve lost your edge, go rush 'em！'」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yeah, it’s good... seriously cool.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「No, that’s not encouragement, that’s just taunting.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Eh? But if you translate it, it means 'You’re better than this, please try harder,' right?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Doesn't that sound like some serious cheering？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「How long are you planning on sleeping there！！ Show me your guts and GO RUSH 'EM AAAAAAAHHH！！！！」"
+    },
+    {
+        "message": "Her shouting voice pierced through my ears, louder than anything else."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Ugh... ughhh... jeez, you’re noisy, you idiot！！」"
+    },
+    {
+        "message": "But, it’s not bad."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「...Thanks to you, I’m wide awake now—！！！」"
+    },
+    {
+        "name": "Sassa Naruko",
+        "message": "「Ooooooh! Contestant Sonomi is back on her feet!」"
+    },
+    {
+        "message": "How much time had passed? Just a few seconds, maybe?"
+    },
+    {
+        "message": "I couldn't tell, but the first-year was just about to leap at me."
+    },
+    {
+        "name": "Asahi",
+        "message": "「...Good morning, Arakawa-senpai. If you had slept any longer, the match would be over, you know？」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「That’s too bad for you...！」"
+    },
+    {
+        "message": "I caught her blade, and we pushed against each other, our hilts locked."
+    },
+    {
+        "name": "Asahi",
+        "message": "「No, no, that’s not the case at all.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Because I can just beat you down again and force you to your knees...！！」"
+    },
+    {
+        "message": "...You know, you’re actually more ill-natured than I am, aren't you."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「YRAAAARGHHHH！！！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ugh... you littleeee...！！！」"
+    },
+    {
+        "message": "—In the center of the stage, the two were locked in a fierce exchange of blows."
+    },
+    {
+        "message": "Even Sonomi, who once looked completely beaten, was lunging in with terrifying intensity."
+    },
+    {
+        "message": "No matter how many attacks she took, she wouldn't fall. It was as if no attack could truly reach her."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Gotcha！！」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Gahhh！」"
+    },
+    {
+        "message": "Asahi’s counter lands clean."
+    },
+    {
+        "message": "Yet, Sonomi stumbles but finds her footing—"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Not yet, this ain't gonna cut ittt！！」"
+    },
+    {
+        "message": "Recovering her stance instantly, she pounces on Asahi like a wild animal."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ugh, ngh...！！」"
+    },
+    {
+        "message": "And a battle like this had been going on for a long time now."
+    },
+    {
+        "name": "Sassa Naruko",
+        "message": "「And for the umpteenth time, Asahi-senshu absorbs Sonomi-senshu’s counterattack and manages to push her back！」"
+    },
+    {
+        "name": "Sassa Naruko",
+        "message": "「But this is... truly a staggering spectacle.」"
+    },
+    {
+        "name": "Sassa Naruko",
+        "message": "「The clock shows we are already twenty minutes into the match！」"
+    },
+    {
+        "name": "Nakamura Sakura",
+        "message": "「Now this is one hell of a match...！ If this were the pros, they’d call a timeout for sure, or it’d end in a draw.」"
+    },
+    {
+        "name": "Nakamura Sakura",
+        "message": "「And neither of them will back down from the center of the stage！ I want those gutless pros to see this！」"
+    },
+    {
+        "name": "Sassa Naruko",
+        "message": "「It has become an otherworldly match like nothing we’ve ever seen！ The audience is a mix of roaring cheers and gasps！」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「RAAAHHH！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Guh…！」"
+    },
+    {
+        "message": "They trade strikes, glaring at each other—."
+    },
+    {
+        "message": "Sonomi's greatest strength is, as expected, her abnormal stamina. She corners her opponents and eventually crushes them with sheer brute force."
+    },
+    {
+        "message": "Of course, Asahi possesses extraordinary stamina as well."
+    },
+    {
+        "message": "She pushed herself to the absolute limit, trained relentlessly, and gained the strength befitting a war of attrition."
+    },
+    {
+        "name": "Iori",
+        "message": "（Even so... every time Asahi takes a hit, her stamina and mental strength are being chipped away.）"
+    },
+    {
+        "message": "On the other hand, every time Sonomi takes a hit, her resolve and the pressure she exerts only grow."
+    },
+    {
+        "message": "The gap between them only widens the longer the match goes on—"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Get blown away, you little brat！！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「...！！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Oh no, Asahi...！！」"
+    },
+    {
+        "message": "Was it a lapse in strength, or simply being overpowered—"
+    },
+    {
+        "message": "The strike Arakawa-san swung knocked Asahi's guard aside, leaving her completely defenseless."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Right here！！ Get crushed！！！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Gyaaaaaaaah！！」"
+    },
+    {
+        "message": "Taking a fierce blow sweeping across her torso, Asahi let out a loud scream—"
+    },
+    {
+        "message": "and was sent flying spectacularly."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「...Sigh. What am I even doing?」"
+    },
+    {
+        "message": "Looking up at the stadium makes a sigh slip out. It was an awful place, a place I didn't want to see."
+    },
+    {
+        "message": "Ever since the Martial Festival preliminaries ended right up until today, I'd been holed up all alone in my dorm room."
+    },
+    {
+        "message": "Even when I tried heading over to the mainland for a change of pace, it didn't hype me up one bit."
+    },
+    {
+        "message": "And now, here I am, standing right in front of this stadium I couldn't even stand to lay eyes on."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「...I wonder why.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Because it felt frustrating, like I was running away...？ Because I wanted to watch strong people fight and learn from them...？」"
+    },
+    {
+        "message": "I try coming up with all sorts of reasons, but... nope."
+    },
+    {
+        "message": "More than anything, it's probably—"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I guess I just wanted to see everyone fight...」"
+    },
+    {
+        "message": "...Ever since I ran away from home, I've always lived just the way I wanted."
+    },
+    {
+        "message": "Not even being able to make decisions about your own life—that's just totally crazy."
+    },
+    {
+        "message": "So I decide everything about myself. To me, my own worldview is the standard for everything."
+    },
+    {
+        "message": "I thought that was fine. I didn't care what anyone else thought—or so I believed."
+    },
+    {
+        "name": "Ririmu",
+        "message": "（But being in Takamura Class, being together with everyone... maybe I've started changing, little by little.）"
+    },
+    {
+        "message": "It's not like my worldview changed. It's not like my way of living changed, either."
+    },
+    {
+        "message": "It's just that doing Jindou with Sensei and everyone else was plain fun."
+    },
+    {
+        "message": "That's why I'd started wanting to keep it going."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「...I bet it's all Sensei's fault~」"
+    },
+    {
+        "message": "I even became friends with Asahi, someone I thought I could never possibly see eye to eye with."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Asahi...」"
+    },
+    {
+        "message": "Since that day my elimination in the preliminaries was decided, when I got mad at Asahi, I haven't seen her once."
+    },
+    {
+        "message": "Asahi got angry for my sake. She tried to protect me, desperately sticking up for me."
+    },
+    {
+        "message": "And yet I took my frustration out on her."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「…………」"
+    },
+    {
+        "message": "I've regretted it ever since."
+    },
+    {
+        "message": "But I didn't know what to say to Asahi, and I just couldn't work up the courage."
+    },
+    {
+        "message": "Cheers echo out from the stadium. Someone's probably in the middle of a match right now."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Secchan, Momitchi, Asahi...」"
+    },
+    {
+        "message": "While the three of them are fighting with all their might, I’m just wandering around aimlessly in a place like this, not even showing my face."
+    },
+    {
+        "message": "Honestly, I was scared to watch the broadcast."
+    },
+    {
+        "message": "On one hand, I didn't want them to lose, but on the other... if they did lose... my companions would increase."
+    },
+    {
+        "message": "I hate that I think such things, I hate it so much, so I tried not to think about it as much as possible."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「But still... I guess I have to watch...」"
+    },
+    {
+        "message": "Fearfully, I fire up the holographic display. Then, turning my face away, I take a peek from the corner of my eye—"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「...Asahi？」"
+    },
+    {
+        "message": "What was displayed was the sight of Asahi falling to her knees."
+    },
+    {
+        "name": "Sassa Naruko",
+        "message": "「Oh! Sonomi’s strike has finally landed! Is this the end of the match!？」"
+    },
+    {
+        "name": "Nakamura Sakura",
+        "message": "「Can't blame her, it's been over 20 minutes since the match started, right？ If she could stand up after that, it'd be a miracle！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「20 minutes？ You've got to be kidding...！」"
+    },
+    {
+        "message": "...Asahi has been fighting this whole time."
+    },
+    {
+        "message": "While I was just lazing around here, she was fighting against that Arakawa-senpai."
+    },
+    {
+        "name": "Sassa Naruko",
+        "message": "「And, and, Sonomi is slowly approaching Asahi！！」"
+    },
+    {
+        "message": "I remembered a nasty scene."
+    },
+    {
+        "message": "Having my arm grabbed by her... having a blade pressed against my throat. And I was—"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Asahi... stand up, you have to stand up...！」"
+    },
+    {
+        "message": "I couldn't bear to watch."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Asahi...！！」"
+    },
+    {
+        "message": "Before I knew it, I was running."
+    },
+    {
+        "name": "Ririmu",
+        "message": "（Ever since I first met her, I couldn't stand her...！ Always clinging to the teacher, making a fool out of everyone...！）"
+    },
+    {
+        "message": "Above all, I hated that way of hers, prioritizing others over herself. I didn't want to lose to someone like that."
+    },
+    {
+        "message": "I wanted to make her realize that I was stronger. I still think so even now."
+    },
+    {
+        "name": "Ririmu",
+        "message": "（But after fighting her, and letting out everything I wanted to say... I feel like I understand Asahi a little better now...！）"
+    },
+    {
+        "message": "Asahi is purely and stubbornly positive about what she believes in. And she can't forgive people who deny that."
+    },
+    {
+        "message": "Deep down, she wants to express her feelings more, but she can't, and it’s eating away at her."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I know it... that's why you got angry at Arakawa-senpai in my place, isn't it...！」"
+    },
+    {
+        "message": "It’s because you think of me as someone precious, someone you can believe in...！"
+    },
+    {
+        "message": "To have our post-match analysis together, and to say everything to each other without holding back."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「You thought of me as your friend, and yet...！ I took it all out on you like that...！！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I'm the absolute biggest idiot！」"
+    },
+    {
+        "message": "I push past the spectators and cling to the very front."
+    },
+    {
+        "message": "Asahi is still down on her knees, and Arakawa Sonomi is already right in front of her. At this rate, Asahi is going to lose."
+    },
+    {
+        "message": "Pathetically beaten, just like me."
+    },
+    {
+        "message": "Not that—anything but seeing Asahi like that."
+    },
+    {
+        "message": "No way, I refuse—！！！"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Y-You... idiot Asahiiiiiiiii！！！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「How long are you gonna stay sitting there！」"
+    },
+    {
+        "message": "I shouted at the top of my lungs."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Asahi... You're not the kind of person who's supposed to lose here！！！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「You think this is the time to be taking a leisurely nap down there?！！」"
+    },
+    {
+        "message": "I don't care what everyone around me thinks."
+    },
+    {
+        "message": "Asahi doesn't move. I can't even tell if she hears me."
+    },
+    {
+        "message": "Still, if I don't say this right now, I'll probably regret it for the rest of my life."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Listen up, I'm only ever gonna say this once...！！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Asahi, you're my friend！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I want to keep being your friend forever！！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「So I'm apologizing—I'm sorry for taking it out on you...！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Thank you for getting angry on my behalf！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「When you said, 'Take back what you just said,' I was actually really, really happy！！！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「You really saved me, you know！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「So, so...！」"
+    },
+    {
+        "message": "Holding back the tears welling up in my eyes, I force the words out in a scream."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Please... Asahi, stand up！！！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「You're gonna become the Toujinegi, aren't you！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「You're the one who's gonna fulfill Big Bro's dream, aren't you！！！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「You're gonna fight for me... since I couldn't even say a single word back, aren't you？！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Then you can't lose right here！！！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Asahi, Asahi...! Please, stand up...!」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Avenge！ My！ Loss-----！！」"
+    },
+    {
+        "message": "...I hear a voice."
+    },
+    {
+        "message": "I don't like this. I hate this more than anything."
+    },
+    {
+        "name": "Asahi",
+        "message": "（To be told something like that...）"
+    },
+    {
+        "name": "Asahi",
+        "message": "（To have made Ririmu-san say something like that...！）"
+    },
+    {
+        "message": "Words that girl would never say. A desperate plea that she would never normally let pass her lips."
+    },
+    {
+        "message": "I really am pathetic."
+    },
+    {
+        "message": "Was I really that weak...？"
+    },
+    {
+        "name": "Asahi",
+        "message": "（No...！）"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Alright, it's over...！」"
+    },
+    {
+        "message": "Arakawa-senpai is standing right in front of me. She reaches out an arm toward me, where I'm on my knees."
+    },
+    {
+        "message": "If she grabs me, it's over. Just like back when Ririmu-san lost in the qualifying match."
+    },
+    {
+        "message": "So, that hand, I..."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Tsk, you brat, still...！？」"
+    },
+    {
+        "message": "Instead―I grabbed Arakawa―senpai’s arm back."
+    },
+    {
+        "name": "Asahi",
+        "message": "「...What are you surprised about?」"
+    },
+    {
+        "message": "Arakawa-senpai is bearing down on me with overwhelming power, augmented by her Tenju."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「You little—don't get carried away...!」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「You really think you can match my power...!?」"
+    },
+    {
+        "message": "That Herculean strength that neither Momiji-san nor Ririmu-san could ever pry away."
+    },
+    {
+        "message": "My arm strength—I’m pushing it back—by force of will！！"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Do not get cocky, Arakawa-senpai...」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Do you really think... that you’re the only one who has been training to their limit...!？」"
+    },
+    {
+        "message": "I plant my feet firmly into the ground. Slowly, I lift my knees up off the floor."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Y-you, such power...！？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「You are overestimating your own strength...！」"
+    },
+    {
+        "message": "I take a step forward toward Arakawa-senpai."
+    },
+    {
+        "name": "Asahi",
+        "message": "「...You said it to Ririmu-san, didn't you? That she was coddling herself.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Then, if someone who has worked harder than you says that to you, what will you do？」"
+    },
+    {
+        "message": "Clutching her arm, I force her back another step."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Compared to me, you lack effort. You're too soft on yourself—！！」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「God damn it...！！」"
+    },
+    {
+        "message": "I catch the blade thrust out in desperation with my own."
+    },
+    {
+        "message": "While our guards are locked, I push in with the strength of my whole body."
+    },
+    {
+        "name": "Asahi",
+        "message": "「What's wrong? Can you not talk back...?」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Tsk, hnh... yeah, I'll give you that. You've put in just as much, if not more, effort than I have.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「You're the real deal...！」"
+    },
+    {
+        "message": "I feel her strength increasing. As if she's trying to force her way through, violently."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Isn't it great, this thing called Jindou...！」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「During a match, it doesn't matter if you're rich or poor—it's equal...！ Status means jack shit...！」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「The strong win, and the weak lose. You get stronger if you train, and technique never lies...！」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「That's why... just during a match, I can forget everything and have fun...！」"
+    },
+    {
+        "message": "Arakawa-senpai says this with a laugh, putting even more force into the push."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「You're fun, you know... You're the first person who's been able to play along with my games for this long...！」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「I really wish we could just keep playing like this forever...!」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I'm afraid I have to pass. I want you to bow your head to me as soon as possible...！」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Don't be like that, come on！！」"
+    },
+    {
+        "message": "A barrage of blows like a ferocious beast—."
+    },
+    {
+        "message": "Using forceful, raw physical twists and weight shifts, horrifying destructive power comes flying at me on an incomprehensible trajectory."
+    },
+    {
+        "message": "I parry them one by one."
+    },
+    {
+        "name": "Asahi",
+        "message": "「I have understood that you... have your own circumstances.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「No, everyone has their circumstances. You, me, and even Ririmu-san...！」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Hah, don't go spouting off enlightened bullshit！！ Everyone's just moving based on their own selfish logic, aren't they！」"
+    },
+    {
+        "message": "I catch a wide swing aimed at my torso."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Always gauging everything only by your own standards, looking down on people, and mocking them—」"
+    },
+    {
+        "message": "I repel her blade and strike back this time！"
+    },
+    {
+        "name": "Asahi",
+        "message": "「With that narrow-mindedness, you hurt Ririmu-san...！」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Hah, you mean that friend you were yelling about earlier？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Yes, that's right...！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「You're going to lose here, and I am going to make you bow your head to Ririmu-san, no matter what it takes...!」"
+    },
+    {
+        "message": "Arakawa-senpai parried my slash and leaped back."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Tch, is that so...！」"
+    },
+    {
+        "message": "I could hear her teeth grinding. I could see the rage on her face. I could feel more power surging out from within her."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「So that means you're just another member of the play-pretend club after all！！」"
+    },
+    {
+        "message": "The impact of her kicking off the ground made me think an explosion had gone off."
+    },
+    {
+        "message": "The shockwave reached me with that much force."
+    },
+    {
+        "message": "And in that instant, she was right in front of me."
+    },
+    {
+        "message": "Dashing as if sliding through the air, she swung back her massive blade—"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Get crushed!!!」"
+    },
+    {
+        "message": "The blow she brought down—it was never meant to be dodged in the first place. It was at a speed that made that impossible."
+    },
+    {
+        "message": "But it could be blocked."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Oosode Myoga—！！！」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「You...！」"
+    },
+    {
+        "message": "Arakawa-senpai tried to crush me with even more overwhelming strength. I glared back at her."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Do you still not get it, you...！」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Shut up! Don't you dare act like you know everything!!!」"
+    },
+    {
+        "message": "A second time, a third time—"
+    },
+    {
+        "message": "One full-power strike after another came crashing down. But I caught them all with Oosode Myoga."
+    },
+    {
+        "message": "Each time, my Barrier Jacket was chipped away, its integrity dwindling."
+    },
+    {
+        "message": "But it didn't matter. I channeled all the Tenju I could muster."
+    },
+    {
+        "name": "Asahi",
+        "message": "「How pitiful. You don't understand anything at all...！」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Like I care! Get crushed, you brat!!!」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「What you call 'playing pretend' is the exact same as the hard work you've put in...！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「If you think you're the only one who's special, you're dead wrong...！！」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Rraaaaargh！」"
+    },
+    {
+        "message": "Still, just a little more...！"
+    },
+    {
+        "message": "I poured even more power into it."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Everyone has their own form of effort and their own goals, and if you can't even understand that...！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Then the least you can do is bow your head！！！」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Just 'cause I gave you a little recognition, don't go acting all high and mighty and spewing your damn nonsense！！」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「If you want me to let a swordsman do something, defeat me first！！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Guh...！！」"
+    },
+    {
+        "message": "A violent impact, yet my stance remained fixed."
+    },
+    {
+        "message": "My Barrier Jacket is hanging by a thread, and the blow, which bites deep into my core, is sapping away every last ounce of my stamina."
+    },
+    {
+        "message": "However, my Tenju is sufficient. All that's left is to wait for that moment—"
+    },
+    {
+        "name": "Asahi",
+        "message": "「...Very well, then be defeated by me！！」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「DAAAHHHHHHHHHH！！！」"
+    },
+    {
+        "message": "And finally, that moment arrived."
+    },
+    {
+        "message": "At the very instant Arakawa―senpai raised her blade―"
+    },
+    {
+        "name": "Asahi",
+        "message": "「――Geki: Raitei Issen！！！！！」"
+    },
+    {
+        "message": "With heart and soul—."
+    },
+    {
+        "message": "That strike cut through not only the Barrier Jacket but the Spirit-Type Armament as well."
+    },
+    {
+        "message": "Not only that, it even severed the blade of her nagamaki—"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「...!!」"
+    },
+    {
+        "message": "Arakawa-senpai didn't even let out a scream."
+    },
+    {
+        "message": "Having lost her Origami and simultaneously losing the power of her Tenju, she simply fell silently to the ground—collapsing."
+    },
+    {
+        "name": "Umpire",
+        "message": "「Match over！！！」"
+    },
+    {
+        "name": "Umpire",
+        "message": "「East side, Arakawa Sonomi's Barrier Jacket confirmed destroyed！」"
+    },
+    {
+        "name": "Umpire",
+        "message": "「Therefore, West side, Kuki Asahi is the winner!!」"
+    },
+    {
+        "message": "After a brief pause, the declaration of victory and the roar of the crowd echoed out."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Haa, haa... haaa...」"
+    },
+    {
+        "message": "A decisive, lethal flash powered by Tenju poured out to my absolute limit."
+    },
+    {
+        "message": "Once unleashed, the strength drained from my body all at once. I felt like I would collapse if I didn't keep my footing."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Ha, ha... ha... ugh, guh...」"
+    },
+    {
+        "message": "Amidst the cheering, Arakawa-senpai lay face-down, but she tried to get up... unable to do so, she barely managed to roll onto her back."
+    },
+    {
+        "message": "I walked over to her."
+    },
+    {
+        "message": "I looked down at Senpai, who was staring at the sky with a face that seemed completely drained of spirit."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Ha... what？ Did you come all this way just to laugh at me？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I know how much effort you've put in. I will not deny that, nor will I laugh at you.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Even if you are someone I despise.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Hmph, what pretty words... No matter how hard you try, if you lose, it all amounts to nothing...」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「'It's all for nothing,' you say? Can't you hear the voices of this audience?」"
+    },
+    {
+        "name": "Spectator A",
+        "message": "「That was a great match, Arakawa！」"
+    },
+    {
+        "name": "Spectator B",
+        "message": "「Arakawa-senpai, you were so cool！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Sono-chan-senpai, your guts, I was watching them the whole time！ You were the coolest ever！」"
+    },
+    {
+        "name": "Nakamura Sakura",
+        "message": "「Whoaaaa！ That was one hell of a heated match！」"
+    },
+    {
+        "name": "Nakamura Sakura",
+        "message": "「Somehow, it's making me want to play a round too! Don't you guys have an exhibition match or something?」"
+    },
+    {
+        "name": "Sassa Naruko",
+        "message": "「P-please don't step on the table！」"
+    },
+    {
+        "message": "I look around the spectator seats. Everyone was sending applause my way."
+    },
+    {
+        "message": "But it wasn't meant for me alone."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「…………」"
+    },
+    {
+        "message": "Arakawa-senpai remained looking up at the sky, expressionless. She wouldn't even meet my eyes."
+    },
+    {
+        "message": "Yet, she muttered, as if whispering to herself."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「...I'm already sick of hearing your preaching.」"
+    },
+    {
+        "message": "Saying that, she tried to get up slowly. I reached out to help, but she brushed me off."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「But still. That match with you, it was... not bad.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「...Arakawa-senpai.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「I've exposed myself in such a miserable state in front of this whole crowd.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Just let this be my apology to you.」"
+    },
+    {
+        "message": "Saying that—she descended from the stage amidst the cheers and applause."
+    }
+]

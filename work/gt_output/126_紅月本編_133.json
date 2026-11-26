@@ -1,0 +1,525 @@
+[
+    {
+        "message": "A few days into summer break――early morning."
+    },
+    {
+        "name": "Iori",
+        "message": "「Alright, everyone's here.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「It's so hoooot~……」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「The wind feels all sticky, super sticky~！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Okay, let's start the run！」"
+    },
+    {
+        "message": "The basic training menu doesn't really change whether it's a normal day or summer break."
+    },
+    {
+        "message": "Let your guard down, and your stamina and muscle strength will inevitably drop by that much. That's why daily accumulation matters."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Hey, don't you think we can skip today……？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「We're going to get heatstroke……」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I wanna eat shaved ice~！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Fufufu, you're all welcome to take a break.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「While you do, I'll have Teacher Iori give me one-on-one instruction.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Huh？ Like we'd let that slide.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Losing to Asahi pisses me off~！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Alright, fine. Then I'll treat everyone to ice cream after the run！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yaaay~！ Alright, let's do our best~~！！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Getting baited with ice cream... Setsugekka's so cheap~……」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Teacher Muragaki~, Momimomi said she doesn't want ice cream, so I'm gonna eat Momimomi's share too~」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, got it.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Don't screw with me, who said I was giving it up！？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Begin！！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Everyone, it's a scramble for Momimomi's ice cream~」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I'm definitely not giving it！」"
+    },
+    {
+        "message": "At the signal, everyone took off running along the perimeter of the academy."
+    },
+    {
+        "message": "Watching them go――"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Phew, they really go at it in this fucking heat……」"
+    },
+    {
+        "message": "From the direction of the school building, Teacher Sasaki strolled over."
+    },
+    {
+        "name": "Iori",
+        "message": "「Sasaki-sensei, what brings you out so early in the morning？」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Yeah, one of the students got food poisoning. Thanks to that, I'm stuck making house calls first thing in the morning.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「It's supposed to be summer break, and yet I don't get a lick of rest. Being a school nurse is a rotten gig...！」"
+    },
+    {
+        "message": "Sasaki-sensei, grumbling away to herself."
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Oh, right—speaking of which, I heard, Muragaki.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Heard your 'errand' got extended, huh?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yes, thankfully, it looks like I'll be able to stay a little longer.」"
+    },
+    {
+        "message": "Apparently, since then, Keisetsu had pulled strings all over the place to force through an extension on my \"errand.\""
+    },
+    {
+        "message": "Even Company Commander Asagiri had given a wry smile and said, \"The only people who could strong-arm the current Chief of Staff are Old Man Suzakuin and Lady Keisetsu.\""
+    },
+    {
+        "name": "Mikoto",
+        "message": "「With your skills, you could even become a full-time teacher at the academy. Why are you so hung up on keeping it an 'errand'？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, out of loyalty, I suppose.」"
+    },
+    {
+        "message": "When all is said and done, I really like everyone in the Tenju Special Forces. I haven't lost the feeling that I want to go back someday."
+    },
+    {
+        "message": "Besides, whether I'd even keep being a teacher after everyone in the current Takamura Class graduated—I still didn't know."
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Hmm... Well, you do whatever you want.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Seems like the Kazamine twins and Momiji have settled down too, so Takamura Class should be smooth sailing for a while at least.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hahaha, I wonder about that.」"
+    },
+    {
+        "message": "The students of Takamura Class are a whole bunch of problem children. They're bound to stir up some kind of trouble again sooner or later."
+    },
+    {
+        "name": "Mikoto",
+        "message": "「In any case, having you as the assistant homeroom teacher for Takamura Class takes a load off my shoulders, so I'm grateful.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「By all means, stay here and lay your bones to rest at Murakumo Academy.」"
+    },
+    {
+        "message": "Sasaki-sensei, flapping her shirt to cool off with a look of utter lethargy on her face."
+    },
+    {
+        "name": "Iori",
+        "message": "「Come to think of it, Sasaki-sensei, how did you end up as Takamura Class's homeroom teacher in the first place？」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Huh...？ Didn't I tell you before？」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「A while back, I went for a little fly through the sky to buy some inari sushi, and as luck would have it, the folks from the Spirit Agency spotted me.」"
+    },
+    {
+        "message": "W-Went for a little fly through the sky...？！"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Things were about to get real messy, so Masatane managed to sweep it under the rug.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「And Masatane was steaming mad about it, too. Claimed it was my punishment and dumped Takamura Class onto my lap.」"
+    },
+    {
+        "message": "In short, it seems Ms. Sasaki messed up and got chewed out by the current head of the Suzakuin family."
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Ugh, I really just cannot get along with that guy！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「More importantly, what was that about flying through the sky...？」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「W-Well, don't sweat the small stuff」"
+    },
+    {
+        "message": "I knew it—this woman really isn't human, is she..."
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Setting that aside, a little matter for consultation just landed in my lap」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Word has it that Muragaki is head over heels for a certain student. So, what's the truth of the matter？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Pffft—？！」"
+    },
+    {
+        "message": "I sputter involuntarily."
+    },
+    {
+        "name": "Iori",
+        "message": "「Wh-Why would you know about something like that, Ms. Sasaki—！」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Hahaha, I am the homeroom teacher of Takamura Class, after all. I know everything that goes on in Takamura Class」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「I have a powerful source of information」"
+    },
+    {
+        "message": "...Ah, I get it. That's gotta be Asahi—it's definitely Asahi！"
+    },
+    {
+        "name": "Iori",
+        "message": "「I-It's fine, I'll handle it appropriately」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「You mean you'll appropriately have your way with her」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Like hell I would！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I'm a teacher, you know. There's no way laying a hand on my own student would ever be acceptable！」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「I don't particularly see the issue. If you both have feelings for each other, there shouldn't be any problem」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, no, I have to treat all my students equally. I can't go playing favorites with one particular student」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Hm？ Is there a problem with that？」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「I'd think having your way with the girl you like and treating everyone equally are perfectly compatible」"
+    },
+    {
+        "name": "Iori",
+        "message": "「First of all, let's stop calling it 'having my way with her,' okay」"
+    },
+    {
+        "message": "That said, Ms. Sasaki does have a point."
+    },
+    {
+        "message": "Keep work and personal life strictly separate—treat everyone equally in public while continuing the relationship in private."
+    },
+    {
+        "message": "As long as I can pull that off, balancing both is possible, and the only thing left is what everyone else thinks."
+    },
+    {
+        "name": "Iori",
+        "message": "「...Asahi actually said something to me before」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That I must have already noticed everyone harbors more than a certain level of affection for me」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Of course I understand, and in my heart, I've already settled on one person」"
+    },
+    {
+        "name": "Iori",
+        "message": "「It's just, whether it's right to tell her... I'm still hesitating」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「I see, so all that's left is a matter of timing」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I suppose so」"
+    },
+    {
+        "message": "Even I don't know when that will be yet."
+    },
+    {
+        "name": "Mikoto",
+        "message": "「I'm glad to hear that. Well then, I think I'll be off」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Right, see you—」"
+    },
+    {
+        "message": "Suddenly, I notice gazes fixed on me."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Staaaaaaaaaaaaaaare...」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Staaare...」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ufufufufu」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I-Iorin...」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「That was quite the interesting conversation to overhear」"
+    },
+    {
+        "message": "Everyone who had just finished a lap of running was eavesdropping on us."
+    },
+    {
+        "message": "Ah... wait, could this be..."
+    },
+    {
+        "name": "Iori",
+        "message": "「S-Sasaki-sensei！ Don't tell me you set me up！？」"
+    },
+    {
+        "message": "Sasaki-sensei grinned wickedly, gave a wave, and walked away."
+    },
+    {
+        "message": "Th-That womaaaaan！！！"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「H-Hey, Sensei, when you said your heart's settled on one person, that means there's someone you like among us, right？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「We can take that as confirmed, right！？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「...Who is it？ Hurry up and confess」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「It's me, right？ Hey, hey, Iorin！」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Oh my, it looks like things are about to get serious」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「You managed to dodge the question neatly last time, but it's about time to give it up, Iori-sensei」"
+    },
+    {
+        "name": "Iori",
+        "message": "「N-No, just give me a little more time...！」"
+    },
+    {
+        "message": "I back away as everyone closes in on me."
+    },
+    {
+        "name": "Asahi",
+        "message": "「No, we can't wait any longer」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「If today doesn't work, then tomorrow; if tomorrow doesn't work, then the day after. I'll ask you every single day until you tell me.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I'll chase you to the ends of the earth and question you for hours—dozens of hours, if I have to♪」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ooh, I'll help out with that too~♪」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「If you ever need the Kazamine family's power, just say the word. I'd be happy to lend a hand.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Y-You're joking, right...？」"
+    },
+    {
+        "message": "Everyone is getting more and more dead serious."
+    },
+    {
+        "name": "Momiji",
+        "message": "「You know~, leaving stuff like this all vague just gets us even more fired up.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yeah, yeah, you're better off just spilling it already~」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I-Is that how it works? I had no idea.」"
+    },
+    {
+        "message": "Realizing I'm actually starting to buy into that, I shake my head."
+    },
+    {
+        "message": "Even if that were true, this isn't something to boldly announce in front of everyone like this."
+    },
+    {
+        "message": "I should tell her properly when it's just the two of us."
+    },
+    {
+        "name": "Iori",
+        "message": "「...Ahh, sure is nice weather today. Perfect day for a run.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Alright, guess I'll go for a quick jog too！」"
+    },
+    {
+        "message": "With that, a full-on dash！！！"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Aah, Sensei's making a run for it！！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Hey, hold it right there！ Got no guts?！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hehehe, a test of stamina, is it... I won't lose！！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Whoa, no way~, Sensei's crazy fast！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hahaha, catch me if you can!」"
+    },
+    {
+        "message": "Sorry, but when it comes to stamina, I don't see myself losing to you guys."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Don't worry, if we all set up a perimeter, we're bound to catch him！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Alright~, let's make Kei-chan our control center and work together to catch Sensei！」"
+    },
+    {
+        "name": "Everyone",
+        "message": "「Yeah~！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Y-You've gotta be kidding me...！？」"
+    },
+    {
+        "message": "They've all teamed up against me."
+    },
+    {
+        "name": "Iori",
+        "message": "「Dammit, how did things end up like this！？」"
+    },
+    {
+        "message": "It's true that my feelings are already set."
+    },
+    {
+        "message": "I understood well that everyone wanted to know about it, and that leaving it vague would be dishonest."
+    },
+    {
+        "message": "Probably before long, I'll have to reach a conclusion."
+    },
+    {
+        "name": "Iori",
+        "message": "「I get it, I get it already！ I'll definitely tell you！！」"
+    },
+    {
+        "message": "I can't say for sure when."
+    },
+    {
+        "message": "Still, so I never end up being dishonest—that much, at least, I've sworn in my heart."
+    },
+    {
+        "message": "So please, until that time. Just a little longer――I want you to wait for me."
+    }
+]

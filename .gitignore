@@ -1,0 +1,32 @@
+# Original copyrighted game assets & extracted Japanese source text
+work/original/
+work/gt_input/
+work/metadata/
+
+# Generated image overrides, previews, and templates (rebuilt via render_tips.py & render_ui.py)
+work/pgd_overrides/
+work/ui_preview/
+work/ui_templates/
+
+# Built patch output directories (rebuilt via build_patch.py; distribute via GitHub Releases)
+dist/
+dist_smoke/
+
+# Native C++ build outputs (rebuilt via hook/build.bat)
+hook/*.obj
+hook/*.lib
+hook/*.exp
+hook/*.pdb
+hook/*.ilk
+hook/version.dll
+
+# Unused large fallback font & stale scratch reports
+assets/fonts/NotoSans-Regular.ttf
+work/reports/untranslated-rows.json
+
+# Python & OS clutter
+__pycache__/
+*.py[cod]
+*.log
+.DS_Store
+Thumbs.db

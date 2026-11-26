@@ -1,0 +1,5251 @@
+[
+    {
+        "name": "Setsugekka",
+        "message": "「Iori-sensei！」"
+    },
+    {
+        "message": "With the Martial Festival over and the fierce battle between Setsugekka and Momiji having drawn to a close, a summer vacation that had regained its peace and quiet—"
+    },
+    {
+        "message": "One such day, someone suddenly called out to me."
+    },
+    {
+        "message": "When I turned around, standing there."
+    },
+    {
+        "name": "Iori",
+        "message": "「Setsugekka... and Keisetsu？ What brings you two here together？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「I've come here today to make a request of you.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「A request？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「We've discussed it before, haven't we? The matter of becoming a personal trainer.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Someone to whip me into shape—bish-bash！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ah, that again...」"
+    },
+    {
+        "message": "Huffing eagerly and brimming with motivation, Setsugekka was practically leaning right in toward me."
+    },
+    {
+        "message": "However... reacting in the complete opposite way, I shrugged my shoulders and shook my head."
+    },
+    {
+        "name": "Iori",
+        "message": "「I'm pretty sure I already turned that down, didn't I？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「As a teacher, I'll guide Setsugekka as part of instructing Takamura Class. However, I have no intention of becoming her personal trainer.」"
+    },
+    {
+        "message": "Keisetsu had sounded me out about this several times before."
+    },
+    {
+        "message": "She wanted me to become Setsugekka's personal trainer and devote my attention solely to her."
+    },
+    {
+        "message": "However, since doing that would mean I'd no longer be a teacher, I turned her down every time."
+    },
+    {
+        "message": "Even so, for the sake of her own ideals, Keisetsu wouldn't give up easily."
+    },
+    {
+        "message": "And Setsugekka, too—"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Why not, Sensei~！」"
+    },
+    {
+        "message": "With sheer momentum fiercer than anyone else's, Setsugekka pushed relentlessly toward me."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I want you to train me even harder, Sensei—bish-bash, bush-besh！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I don't know what 'bush-besh' is, but... anyway. That's strictly something we'll do in class. As teacher and student.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Nooo way！ Please, Sensei！ I want to get even stronger！」"
+    },
+    {
+        "message": "Saying that, Setsugekka closed in on me even more."
+    },
+    {
+        "message": "...Physically."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Momimomi is definitely going to get even stronger from here on out！ To stand up to her, I have to do way, way more special training and get stronger too！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「More importantly, you're too close...！ Your face and body are way too close！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「That's because you won't become my trainer, Sensei！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That isn't a reason at all！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I only have Sensei！ It has to be Sensei, or else no way！ I mean, I already love Sensei and I want us to go out！！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「……Huh？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「……What？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「…………Wait, what？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Aaaaaaaaaah！？ D-d-d-did I just say something weird, or rather, I totally blurted it right out, didn't I！？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「U-um……」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Hold on, Setsugekka…… What are you saying in the middle of all this confusion？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「It's no-, not that, it's not！ Well, it's not *not* that, though！ It's just, I got the timing wrong, or rather, I let it slip on pure momentum！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「It's just, that wasn't a lie or anything, it was like my true feelings accidentally popped out, that kind of thing！ So it *is* true！ Please believe me！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「N-no, that's not the point……」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I really, truly love Sensei, and I think things like wanting to go out, or wanting to be lovers, or even getting married instead, and then I get embarrassed and writhe around over it！」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Setsugekka, calm down a little. You're running completely wild.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「But I don't want him to think what I just said was a lie just from momentum！」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Whether it's a lie or not, you're saying it purely on momentum.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ha! Right! Once he knows my feelings are real, Sensei's answer is what matters!」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「How does it end up like that, I wonder.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「What do you say, Sensei！ I want us to go out, so how does Sensei feel about itー！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Eh！？ Ah, no, u-um……！」"
+    },
+    {
+        "message": "Setsugekka was practically out of control at this point."
+    },
+    {
+        "message": "Caught off guard by such a massive topic thrown at me with that kind of momentum, I flinched before I could stop myself."
+    },
+    {
+        "message": "Still, I needed to stay calm here, so I spread my hands to soothe Setsugekka somehow."
+    },
+    {
+        "name": "Iori",
+        "message": "「Setsugekka, calm down first！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「But I want to become Sensei's lover……！！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I get how you feel, loud and clear！ It's okay, don't worry. Your sincerity came through, Setsugekka.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Really！？ Then……！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Still！ Something like this really matters. Precisely because I can tell your feelings are genuine, Setsugekka, I don't think I should give you a careless answer in the heat of the moment！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Well... maybe... you're right...？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「So for now, let's put my answer on hold—could you wait just a little longer？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「...Understood！」"
+    },
+    {
+        "name": "Iori",
+        "message": "（Thank goodness, looks like she's convinced...）"
+    },
+    {
+        "name": "Iori",
+        "message": "「And, uh... about the personal trainer thing, that's still out of the question, though」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Still, I could do private tutoring or special training over summer break, separate from your regular assignments」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Could you settle for that right now？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Pushing you any harder clearly won't get a yes, so let's call it a deal for today」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hmph, very well. I shall let you off the hook for now」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Y-Yeah. I really appreciate it, you two」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Then we'll take our leave. Come along, Setsugekka」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Huh？ Just thinking I might stay here a little longer」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Because there's something I'd like to discuss with you in private. Just the two of us」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Whoa, is this the scary kind of talk？ Am I getting a lecture！？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Hehe... Come along now, Setsugekka」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Gyaaah！ S-Sensei, save meee！」"
+    },
+    {
+        "message": "Setsugekka was dragged off down the hall by Keisetsu."
+    },
+    {
+        "message": "I'm glad they gave up on the personal trainer idea. ...Still, that left me with something else on my mind."
+    },
+    {
+        "name": "Iori",
+        "message": "「...She really confessed to me, huh」"
+    },
+    {
+        "message": "Left alone in the hallway, I thought back on it deeply."
+    },
+    {
+        "message": "To think Setsugekka had such strong feelings for me..."
+    },
+    {
+        "message": "Honestly, it made me happy."
+    },
+    {
+        "message": "—After all, I liked Setsugekka so much that I'd wanted to say yes right then and there."
+    },
+    {
+        "message": "Ever since that day I played Pochemon with Setsugekka."
+    },
+    {
+        "message": "Little by little, her presence in my heart had grown bigger and bigger."
+    },
+    {
+        "message": "Always so energetic and reckless, the kind you can't take your eyes off of, yet finding even that cute."
+    },
+    {
+        "message": "Before I knew it, I realized I'd come to see Setsugekka as someone special."
+    },
+    {
+        "name": "Iori",
+        "message": "「...Though at the end of the day, I am still a teacher, after all」"
+    },
+    {
+        "message": "There's the matter of my position, and I also want to treat everyone equally. That's why I've kept my feelings in check until now."
+    },
+    {
+        "message": "Even so, I ended up learning how Setsugekka feels."
+    },
+    {
+        "message": "Truth be told, I love Setsugekka too, and I want to answer her feelings right this second."
+    },
+    {
+        "name": "Iori",
+        "message": "「Still... now isn't the right time, is it.」"
+    },
+    {
+        "message": "I found out that Setsugekka and I feel the same way. For now, I should be satisfied with that alone."
+    },
+    {
+        "message": "I have to desperately suppress this elation and maintain a resolute attitude as a teacher. Telling myself to endure it like that—"
+    },
+    {
+        "message": "I scratched my head and headed toward the faculty room."
+    },
+    {
+        "message": "The next day, the request for private tutoring came right away. ...Though it wasn't directly from Setsugekka, but through Keisetsu."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「U-Umm...」"
+    },
+    {
+        "message": "When the appointed time arrived, Setsugekka timidly peeked in."
+    },
+    {
+        "message": "Of course, I knew the reason why. Besides, I also felt... kind of awkward, and couldn't meet her eyes."
+    },
+    {
+        "name": "Iori",
+        "message": "「O-Oh, you're here. Well then, uh... shall we start the special training right away?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「…………」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Setsugekka？ What's wrong？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「...Umm, Sensei...！ Before we start the special training, may I ask you one thing...！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Whoa...？ W-What is it？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I do want you to train me, but... there's something I just can't stop thinking about, and it's making me anxious...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Anxious？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Well... it's about yesterday！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Urk... W-Well, of course it is... A lot happened.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Kei-chan got really mad at me too, saying I shouldn't have said it at a time like that...」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Oh, though for some reason she praised me in the end.」"
+    },
+    {
+        "message": "So Keisetsu was supporting Setsugekka's feelings too, huh."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Anyway！ Yesterday, I spent the whole night writhing, screaming, and rolling around, so I somehow managed to live with that part.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「But then instead... what you said started bothering me a little, Sensei...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「What I said？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Um... when you asked me to wait, could it be that you only said that so you could turn me down...！？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「If that's the case, please don't wait for the right moment or hope it'll just fizzle out—just tell me straight！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I'm already prepared...！ I even wrapped a towel around my pillow so it'll be fine if I soak it with tears！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Is that really an effective countermeasure...？」"
+    },
+    {
+        "message": "For some reason bracing herself pessimistically, Setsugekka clenches her teeth and starts waiting."
+    },
+    {
+        "message": "I'm a bit at a loss for how to answer that, though—"
+    },
+    {
+        "name": "Iori",
+        "message": "「Since I'm the one who asked you to wait, I can't exactly say anything too weird here, but...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Still, let's see...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...Would it be okay if I told you that I'll definitely give you the answer you want？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Huh...？！ Wait, does that mean...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I can't say any more than that right now. Could you let me off with just this for the time being？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「The answer I want... That means...！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, don't think any further than that！ Right now, you and I are strictly teacher and student, not lovers！ I need you to stop right there for now.」"
+    },
+    {
+        "message": "When I hurriedly stop her, Setsugekka stares at my face for a moment..."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「...Understood！ I'll stop right here！ I'll stop right here and wait for you, Sensei！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, I'd be happy if you did.」"
+    },
+    {
+        "message": "With a big smile, Setsugekka seemed convinced."
+    },
+    {
+        "message": "Seeing that makes me feel both relieved and happy."
+    },
+    {
+        "message": "And thanks to that, I'm able to steel my focus again."
+    },
+    {
+        "name": "Iori",
+        "message": "「...All right！ Let's get started on our special training then！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yes！ Thank you for training me！」"
+    },
+    {
+        "message": "Since this isn't a regular class, we breeze through some light basic conditioning and jump straight into practical combat training."
+    },
+    {
+        "message": "Setsugekka brought the theme herself, and it was 'controlling her berserk state.'"
+    },
+    {
+        "message": "That said, I feel like she's already gotten pretty good at handling it, though—"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Take this, dammit—！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Not bad at all, Setsugekka！」"
+    },
+    {
+        "message": "Along with a fierce battle cry, Setsugekka swings her Origami right and left in rapid succession."
+    },
+    {
+        "message": "I carefully parry each strike one by one, then step far back in anticipation of her follow-up attack."
+    },
+    {
+        "message": "Seeing that, Setsugekka halts the arm she was about to wind up, kicks hard off the ground, and closes the distance in an instant."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Like hell I'll let you get away, you bottom-feeder—！」"
+    },
+    {
+        "message": "I slip sideways past the kick flying straight for my face and circle smoothly around to Setsugekka's flank."
+    },
+    {
+        "message": "Of course, Setsugekka immediately chases after me and whips out a backfist, which I dodge with a sway, elusively weaving out of the way as I speak."
+    },
+    {
+        "name": "Iori",
+        "message": "「'Bottom-feeder,' huh? Your repertoire of insults has grown！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Get caught already like a cheap thug！ If you do, I'll wreck you completely, utterly tear you apart！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hearing you say that makes me want to get caught even less！」"
+    },
+    {
+        "message": "The moment I backed out of range of her fists, Setsugekka immediately switched from hand-to-hand martial arts to swordplay."
+    },
+    {
+        "message": "As if entangling me so I couldn't escape, she forced me to stay put and defend."
+    },
+    {
+        "message": "Then, the instant my movement stopped, she closed in right away and dragged me into a slugfest."
+    },
+    {
+        "name": "Iori",
+        "message": "「Still, you've got plenty of control over your rampage. The sloppiness that usually comes with going berserk looks like it's gone！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Not yet……！ I'm still not in control！ Besides, something I'm not in control of is happening――right now, right heeere！！」"
+    },
+    {
+        "message": "Surprised by the onslaught growing fiercer by the second as she screamed, I kept dodging at the very last hair's breadth."
+    },
+    {
+        "message": "The momentum of her lunges and power of her steps are good as ever, and on top of that she's managing her spacing too. Blending martial arts and swordplay goes without saying."
+    },
+    {
+        "message": "Her words and behavior are still rough as usual, yet in reverse, it looks like she's controlling her rampage well enough that that's practically the only issue."
+    },
+    {
+        "message": "If I had to point out a problem from my perspective, it's something else――"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Uoraaaaaaaa！！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Whoa……！？」"
+    },
+    {
+        "message": "Just when I thought she'd closed in swinging her arm back, she whipped it upward in an instant. It was a brutal strike like an uppercut to the gut."
+    },
+    {
+        "message": "I barely dodged with a backstep, yet the sheer power—enough to feel sharp wind pressure right at the tip of my nose—sent a chill down my spine at the thought of taking a direct hit."
+    },
+    {
+        "message": "――Yet the very next moment, I felt heavy pressure overhead instead."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Shatteeeer！！」"
+    },
+    {
+        "message": "Her blade came swinging down like a guillotine and slammed into the floor."
+    },
+    {
+        "message": "If this had been ordinary ground, it felt powerful enough that it might have actually shattered a bit."
+    },
+    {
+        "message": "Taking that on top of the strike just now would knock most people out cold. However――"
+    },
+    {
+        "name": "Iori",
+        "message": "「……Now that I think about it, even when we first met, you left your back wide open just like this」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ngh！！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hinyaaaaaaa！？」"
+    },
+    {
+        "message": "Faster than Setsugekka could notice I'd slipped behind her and turn around. I drove my blade straight into her back."
+    },
+    {
+        "name": "Yorishiro-kun",
+        "message": "「Barrier Jacket has fallen below safe levels. Please end the combat simulation」"
+    },
+    {
+        "message": "Just as Setsugekka collapsed face-down, an announcement rang out, ending the battle."
+    },
+    {
+        "message": "Hearing it, Setsugekka waited a moment before pushing herself up."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Owww...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Good work, Setsugekka. Are you alright？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Sensei, you went way too hard on me...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「What are you talking about? I haven't even come close to going all out yet.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Even though I was giving it pretty much everything I had...？！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Haha, I can't afford to lose to you just yet.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Anyway—you've got your berserk state under control pretty well after all, haven't you？」"
+    },
+    {
+        "name": "Iori",
+        "message": "\"Breaking their stance low and following up high isn't bad. A reverse grip hides your blade's position for a nice surprise attack—flashy and well-suited for the pros.\""
+    },
+    {
+        "name": "Iori",
+        "message": "「The downside is that by nature, your movements are easy to read, and you can't follow up once it's dodged. That's the part you'll need to figure out.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, there are still a few rough spots, but you weren't letting the berserk state control you―I think you fought well. That's not really your weak point anymore, so―hey, Setsugekka？」"
+    },
+    {
+        "message": "While I was rattling on, Setsugekka was keeping her mouth clamped shut for some reason. On top of that, as if she were dissatisfied with something, she seemed restless—"
+    },
+    {
+        "name": "Iori",
+        "message": "「What's wrong？ Are you that frustrated about losing？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「N-No, that's not it！ It's just, I really don't think I have my berserk state under control after all...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「From where I'm standing, it's more than enough—」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I can't stop my body from aching！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Huh？！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「You know about it too, don't you, Sensei？！ When I go berserk, my, uh, s-sex drive, or whatever... it gets all hot deep inside my body！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「The more I fight, the hornier I get, and even though we're in the middle of special training, it's all I can think about, and Sensei's, um... a-anyway, it's no good！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「C-Calm down, Setsugekka！ For now, you probably shouldn't say that kind of thing out loud...」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「But my body just won't stop aching！ So even right now, my eyes keep drifting to your...！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Setsugekka？！」"
+    },
+    {
+        "message": "Feeling that gaze, I instinctively pulled half a step back."
+    },
+    {
+        "message": "Instead, Setsugekka began letting her eyes crawl all over my body as if licking me..."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I could even see every single drop of your flying sweat...！ If I'd managed to catch you there, if I'd managed to take you down...！ I really would've wrecked you in all sorts of ways, Sensei...！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「S-Setsugekka, just calm down...！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ugh, uuuuugh...！ I-I'm going home for todayyyyyy！ Because I feel like I'm about to jump you right here and now, Senseiiiiii！」"
+    },
+    {
+        "message": "Shouting that, Setsugekka bolted away."
+    },
+    {
+        "message": "She vanished from sight in an instant... though I thought I could still hear an alarming voice echoing from afar, shouting, 'I'm gonna jump you, Senseiiiiii！'..."
+    },
+    {
+        "name": "Iori",
+        "message": "「...That definitely is a problem we need to work on.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「HraaAAAAH！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Your sword strokes themselves are as sharp as ever, though！」"
+    },
+    {
+        "message": "—Even after what happened, I continued having Sensei give me special training."
+    },
+    {
+        "message": "In fact, precisely because that happened, I needed the special training！ Sensei understood that too, and went along with me."
+    },
+    {
+        "message": "If he's going to go along with me, I'd rather he go out with me as lovers—no, never mind that for now."
+    },
+    {
+        "message": "Anyway, day after day, I fought Sensei in my berserk state."
+    },
+    {
+        "message": "While doing so, I tried somehow to hold back the lust surging up inside me."
+    },
+    {
+        "message": "Yet strangely enough... the more we did it, the stronger my runaway lust seemed to become."
+    },
+    {
+        "message": "So I thought desperately about the reason why."
+    },
+    {
+        "message": "Morning, noon, and night. And of course, during special training too."
+    },
+    {
+        "message": "While fighting Sensei, while looking at Sensei's body, while fantasizing about doing all sorts of things with Sensei—"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Wait—could it be...！！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...Setsugekka？」"
+    },
+    {
+        "message": "The sight of Sensei facing off against me."
+    },
+    {
+        "message": "The sight of my wonderful Sensei standing there so poised and dignified, barely even breathing hard after all our clashing..."
+    },
+    {
+        "message": "As I stared intently at him—from top to bottom, and right in the middle too—it suddenly hit me."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "（Wait, isn't this less because of going berserk... and more because of Sensei！？）"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Today, please do the special training all by yourself, Iori-sensei！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...Excuse me？」"
+    },
+    {
+        "message": "When I asked him that the moment I arrived for training, Sensei blinked in wide-eyed bewilderment. ...Well, that's only natural."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I can't tell you why, but this is super important！ For now, please don't say anything and just train by yourself！ I'll be staring intently at you from the side！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「This special training is supposed to be for you, Setsugekka...」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I think this will also be special training for me！」"
+    },
+    {
+        "message": "I won't tell him the reason yet. Because it's kind of embarrassing."
+    },
+    {
+        "message": "I just pushed through on sheer momentum, and since Sensei is kind as always, he gave in and nodded for now."
+    },
+    {
+        "name": "Iori",
+        "message": "「Well... for starters, is my usual solo training routine okay？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I'll leave the entire routine up to you！ Ah, though something a little intense might be good.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I don't get it at all, but... alright. Then I'm starting.」"
+    },
+    {
+        "message": "Saying that, Sensei began his solo training for me."
+    },
+    {
+        "message": "Starting with thorough stretches, then basic stamina training, practice swings... and perhaps because I asked for something intense, he even showed me striking practice using Yorishiro-kun."
+    },
+    {
+        "name": "Iori",
+        "message": "「Hah！ Sei！」"
+    },
+    {
+        "message": "Far from his full strength, I'm sure, yet sharp and fierce strikes."
+    },
+    {
+        "message": "His expression is gallant, bold, and manly... his lean fighter's body, pumped up from the basic training, accentuated all the more..."
+    },
+    {
+        "message": "Every single bead of sweat seeping out or flying off him looks like it's sparkling. If he looks like this even through his clothes, then what if he stripped them off... and then I would...！"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Haa, haa... Iori... Sensei...！」"
+    },
+    {
+        "message": "My legs fidget on their own, and my hand almost moves down there."
+    },
+    {
+        "message": "Barely managing to hold myself back—I became certain."
+    },
+    {
+        "message": "This pounding in my chest, this ache, this craving... it really is because of Sensei！"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I can't take it... Just looking at you, Iori-sensei... makes me feel so horny！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「...And so, that's the situation.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...I get the gist of it, at least.」"
+    },
+    {
+        "message": "Having gained certainty, I revealed everything to Sensei."
+    },
+    {
+        "message": "Looking both troubled and shy, Sensei averted his gaze slightly with a red face. ...Just like me."
+    },
+    {
+        "name": "Iori",
+        "message": "「In short... looking at me puts you in that kind of mood, and then going berserk heightens it even further until you can't stop yourself, huh」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I think that's how it works！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I see... Well, uh... I guess I shouldn't dig too deeply into the part about looking at me putting you in that mood, right?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Though things were already pretty awful back when we first met...」"
+    },
+    {
+        "message": "To think he caught me right in the middle of relieving my out-of-control lust, and while I was screaming Iori-sensei's name, no less..."
+    },
+    {
+        "name": "Iori",
+        "message": "「W-Well... either way, the fact remains that you need to control yourself while in a berserk state.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「If that's the case, from now on let's do special training with that in mind！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「...Is there really any special training that takes something like this into account？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「At least, I've never seen or heard of anything like it in my life so far. Still, it's not like it's unimaginable, right? ...Probably.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「And more than anything, it's for Setsugekka's sake.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hwaaaaaaah...... I'm so happy, Sensei！ It's almost like you're my personal trainer, or more like my lover！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「P-Please don't lose sight of the teacher-and-student part, at least......」"
+    },
+    {
+        "name": "Iori",
+        "message": "「So anyway, let's do this right here today！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「T-This is...... the outdoor training ground！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That's right！ Since it's outdoors, people might see us.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「People, seeing us...... That means......！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah—even if you get aroused here, there are other people around, so you'll have to hold it back！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「W-What strict special training...... Thank you very much！！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Alright, thanks for getting into the mood so nicely. Then with this momentum, let's jump right into the training.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yes！ ......Wait, people are actually going to see us, right？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「There aren't many people around right now, so the risk is low. Even so, there should still be a chance someone actually sees.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Then I really have to do my best to hold it back, don't I！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Of course！ That's precisely why it makes for good training！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「So anyway, here we go！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Y-Yes, I'll do my best！ So I'm not seen...... so nobody else ever sees me looking like that......！！」"
+    },
+    {
+        "message": "--And so, after sparring with Setsugekka in her out-of-control state for a while."
+    },
+    {
+        "name": "Iori",
+        "message": "「Setsugekka, your movements are somehow getting a bit better little by little. Even though you were stiff as a board when we started this training.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「......Ufufu, uhehe...... Um, Sensei.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「W-What's wrong？ Did the effects of the training start showing after all？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Well...... isn't everything just kind of fine as it is？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「What do you mean！？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「If we get seen, we get seen—I feel like just letting go completely is an option, too.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「You know, like creating a fait accompli？ Like, maybe some liberating open-air play wouldn't be so bad？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Retreat, retreaaaat！ We're calling off this special training！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Aww, no waaay！」"
+    },
+    {
+        "message": "Dragging along Setsugekka, who somehow looked reluctant to leave, we hurried away from the scene."
+    },
+    {
+        "message": "Even after that, I tried one method after another, searching for a way to overcome Setsugekka's weakness （？）."
+    },
+    {
+        "message": "However, given the nature of this problem, Setsugekka always had to engage in combat. On top of that, she'd be in a berserk state and unable to hold back, so her body wouldn't hold up if she did that kind of special training day after day."
+    },
+    {
+        "message": "—With that concern in mind, I instructed her to take a few days off."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Huh？！ This much is totally fine for me！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「It's too late to rest once you're no longer fine. By resting while you're still thinking 'I'm fine,' you can stay fine for good.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Besides, special training isn't something you should just do nonstop. When you do strength training, for example, you always schedule rest days for recovery. Otherwise, you'll actually end up losing muscle.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「But I feel like if I don't do it every day, I'll lose my feel for it...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You should still keep up with light exercise to review and check your form. You're just taking a break from full-scale special training.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Mmm... All right. If you insist that much, Sensei, I'll take tomorrow off！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, please do. Get plenty of rest and recover, then we'll give the special training our all again.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yes！ Well then, Sensei, thank you again for today.」"
+    },
+    {
+        "message": "Flashing a cheerful smile, Setsugekka headed home."
+    },
+    {
+        "name": "Iori",
+        "message": "「Still... days off, huh.」"
+    },
+    {
+        "message": "Even though I was the one who suggested it, I paused to think."
+    },
+    {
+        "message": "Special training was on break for the next few days—meaning I had the time off as well."
+    },
+    {
+        "name": "Iori",
+        "message": "「...What am I supposed to do with myself?」"
+    },
+    {
+        "message": "At a complete loss over the loneliness of losing my daily routine, I sank into thought for a while."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Sensei, let's go out together tomorrow！」"
+    },
+    {
+        "message": "The next day—"
+    },
+    {
+        "message": "Setsugekka had stopped by despite there being no special training, and she suddenly came out with that."
+    },
+    {
+        "name": "Iori",
+        "message": "「Go out？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「To put it flatly, it's a date！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「And to put it bumpily？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「A super fun outing！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I feel like both of those are pretty flat, though.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「That aside！ Anyway, won't you go out with me？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「But Setsugekka, we finally took a day off from special training... Are you sure？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Of course！ Besides, this isn't special training！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I mean, it's great having a day off and all, it's just... I didn't know what to do with myself during the break...」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「When I thought about what I wanted to do, the very first thing that came to mind was, 'I want to be with Sensei！'」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「But since we're taking a break from special training, we're going on a date instead！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「So that's it.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Besides, going out with someone you love is the best way to recharge！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Good point—you might actually be right about that.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「So, let's go out！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...Alright, got it！ Tomorrow, let's go all out and have a blast together！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yay！ I finally get to go on a date with Sensei！」"
+    },
+    {
+        "message": "Setsugekka bounces around, boing, boing, bursting with excitement. Watching her like that puts me in a great mood, too."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Well then, let's decide on the meeting time and all that later！ I'll message you！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah. I'll be waiting.」"
+    },
+    {
+        "message": "Waving her hand wildly back and forth, Setsugekka bounces off on her way back."
+    },
+    {
+        "message": "Watching her go—"
+    },
+    {
+        "name": "Iori",
+        "message": "「Alright—time to get tomorrow's work done today！」"
+    },
+    {
+        "message": "With a spring in my step too, I eagerly headed off to work."
+    },
+    {
+        "message": "And then, on the day of our date—"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Arrived thirty minutes early！ Hehehe, I was so excited I got here early... Surely I'm the first one here！」"
+    },
+    {
+        "message": "I slowly stepped out right in front of Setsugekka as she was saying that！"
+    },
+    {
+        "name": "Iori",
+        "message": "「Heh heh heh... How naive, Setsugekka.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「S-Sensei？！ Don't tell me you got here even earlier than me...！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That's right！ I got here forty minutes early！ Because I was way too excited！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I lost by ten minutes...！ Gah, I'd expect nothing less from Sensei...！」"
+    },
+    {
+        "message": "Setsugekka, dropping to her knees in shock—"
+    },
+    {
+        "message": "...Though I hurried to pull her back up and brush the dirt off her right away before the people around us started staring."
+    },
+    {
+        "name": "Iori",
+        "message": "「Either way, I’m glad you came. I actually had a girly moment getting here early and feeling a little anxious.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Of course I did, since I asked you out！ Besides, a date with you, Sensei—no matter what happens, I’m definitely going！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Haha, thanks. I was looking forward to it too.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「……By the way, Sensei？ We still have 30 minutes until the meetup, so what should we do with this time？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「True. 30 minutes, huh, that’s pretty long――」"
+    },
+    {
+        "name": "Iori",
+        "message": "「……Wait a second. Since we’re both here already, shouldn’t we just start the date right now？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「T-True……！！ Then, then, let’s start dating right away！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah！ Let’s do this date！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「By the way, what kind of things do you do on a date！？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No clue！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「…………」"
+    },
+    {
+        "name": "Iori",
+        "message": "「…………」"
+    },
+    {
+        "name": "Iori",
+        "message": "「……For now, just walking together, maybe？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Let’s walk！」"
+    },
+    {
+        "message": "And just like that, we ended up walking！"
+    },
+    {
+        "message": "Walking."
+    },
+    {
+        "message": "Walking no matter what."
+    },
+    {
+        "message": "Walking for all we’re worth."
+    },
+    {
+        "message": "Walking side by side with Setsugekka with nowhere in particular to go, the two of us just walked."
+    },
+    {
+        "message": "Even though I’d casually said OK to the date, I didn’t even know what to talk about during it, so we stayed mostly quiet with each other."
+    },
+    {
+        "message": "Every now and then, I could hear Setsugekka huffing and puffing with determination."
+    },
+    {
+        "message": "Glancing sideways, Setsugekka had a look on her face that was somehow smug, or rather brimming with motivation."
+    },
+    {
+        "message": "Meanwhile, even as I walked, I was thinking about what to do……"
+    },
+    {
+        "message": "Thinking……"
+    },
+    {
+        "name": "Iori",
+        "message": "「…………」"
+    },
+    {
+        "name": "Iori",
+        "message": "「…………What else are we supposed to do now, I wonder.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I don’t know！」"
+    },
+    {
+        "message": "Her answer’s full of energy, huh."
+    },
+    {
+        "message": "For now, walking even more――"
+    },
+    {
+        "message": "……So we’ve walked even more."
+    },
+    {
+        "message": "…………"
+    },
+    {
+        "name": "Iori",
+        "message": "「…………Setsugekka, are you having fun？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I’m having so much fun！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Then I guess it's fine！」"
+    },
+    {
+        "message": "And so we start walking again！"
+    },
+    {
+        "name": "Iori",
+        "message": "「…………」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「…………」"
+    },
+    {
+        "name": "Iori",
+        "message": "「......No, it's not fine！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Eeh？！ Was my outfit not good...？！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, not that. Actually, your outfit's cute, it looks great on you. It brings out your cuteness even more, Setsugekka」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「R-Really？ Hehehe... You're gonna make me blush if you say that much...♪」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That's not what I meant！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「We're supposed to be on a date, yet all we've been doing this whole time is walking around in complete silence」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Was that no good？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...No, it's not that it's bad or anything... I'm having fun just walking side by side with you too, Setsugekka」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Right?！ Just being together like this makes me feel all giddy inside... Mhehe」"
+    },
+    {
+        "message": "Honestly, there's no doubt it's fun."
+    },
+    {
+        "message": "Even I was surprised by how much my spirits could soar just from walking together."
+    },
+    {
+        "message": "...However."
+    },
+    {
+        "name": "Iori",
+        "message": "「Still, since we're out here, don't you feel like trying to do something together？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Do something together, just the two of us？ ......W-Wait, do you mean something lewd？！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Why？！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「N-No way！ Didn't you say before that doing it outdoors is a no-go?！ Even I get a little embarrassed about that, or rather, I'd like to wait until I have a bit more experience before trying stuff like that！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Not that！ Something more like... normal fun stuff, you know」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Normal fun stuff...？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Like, uh, you know... something...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...Well, if I could think of something on the spot, I wouldn't be stuck like this」"
+    },
+    {
+        "message": "My dating experience is so completely nonexistent that I can't come up with a single example."
+    },
+    {
+        "message": "Even when something does pop into my head, it's all training-like stuff—going for a run together, doing practice swings together, sparring together."
+    },
+    {
+        "name": "Iori",
+        "message": "「Can you think of anything, Setsugekka？ Like, the go-to fun activity for a date」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hmm, let's see...」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Oh！ Come to think of it, I think I saw a magazine feature on great leisure spots for dates！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That's it！ What did it say？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I forgot！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You forgot, huh」"
+    },
+    {
+        "message": "Well, can't help it then."
+    },
+    {
+        "name": "Iori",
+        "message": "「Still, at this rate, it really looks like we're just going to keep walking the whole time. Rather than a date, it's turning into a fitness walk. Maybe we should just run... No, that'd just be straight-up training...」"
+    },
+    {
+        "message": "As I was mulling it over—Setsugekka had another flash of inspiration."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I know！ How about we try asking Kei-chan？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Oh？ Does Keisetsu know a lot about that kind of thing？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I'm not sure if she's an expert, but she's gotta know more than I do！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Alright, could you go ahead and ask her then？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Okay, got it！」"
+    },
+    {
+        "message": "And so, we decided to ask Keisetsu for advice."
+    },
+    {
+        "message": "Setsugekka made the call, and the two of them talked for a bit..."
+    },
+    {
+        "message": "Before long. Setsugekka hung up the phone and turned to me with a look that said she'd gotten something good."
+    },
+    {
+        "name": "Iori",
+        "message": "「Did you get any helpful ideas？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yes！ According to Kei-chan, we should just enjoy something we both like, such as watching a movie or going to a sports game！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Something we both like, huh」"
+    },
+    {
+        "message": "Something Setsugekka and I have in common..."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Also, she said games or sports the two of us can do together are classics too！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I see. Well, for starters... what kind of things do you like, Setsugekka？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I... like Jindou！ What about you, Sensei？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I like Jindou too」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yay, same here！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Haha, yeah. Same here」"
+    },
+    {
+        "message": "Sharing a cheerful laugh—"
+    },
+    {
+        "message": "This time, an idea suddenly hits me！"
+    },
+    {
+        "name": "Iori",
+        "message": "「I've got it！ Since we both like Jindou, how about we go watch a Jindou match？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Oh, that sounds great！ I'd love to watch one with you, Sensei！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Alright, it's decided！ I'm pretty sure there's a place around here where we can watch a pro match. Let's go check it out！」"
+    },
+    {
+        "message": "And so, we headed out to watch the match."
+    },
+    {
+        "name": "Iori",
+        "message": "「Man, that was a great match！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yes！ Pro matches really are so intense！」"
+    },
+    {
+        "message": "We couldn't quite watch it live, though. Thankfully, there was a place like a sports bar, so we still managed to catch the match there."
+    },
+    {
+        "message": "As expected, the atmosphere inside was electric, and we ended up getting completely carried away and cheering right along with everyone."
+    },
+    {
+        "message": "And even now, after leaving the bar, our excitement still refusing to die down...！"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Especially that thing in that match—it was amazing, wasn't it?！ It was all like, 'kaboom！' And then like, 'bam-bam-bam！' Plus, I can't believe that person's thing turned out to be that kind of thing！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I have zero idea what you're talking about, but I can definitely feel your excitement！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Uuugh...！ If only I could fight like that someday...！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Alright！ Sensei, let's spar！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「What's gotten into you all of a sudden?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Watching the match made me want to fight too！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Fair enough. It really was a heated enough match to make you feel that way. Even I was itching to get moving a bit.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Right?！ Then let's get right to it！ So without further ado, here I come...！」"
+    },
+    {
+        "message": "Saying that, Setsugekka suddenly dropped into an unarmed fighting stance."
+    },
+    {
+        "name": "Iori",
+        "message": "「Whoa, wait, wait！ You obviously can't do that right in the middle of the street.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ah... Sorry, I got a little ahead of myself... Ehehe.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Then let's head to the academy！ We can go all out there！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「For example, I bet I can even pull off that flashy move where that fighter from earlier was running all over the place！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Oh, gonna try recreating a pro fighter's moves？ Actually, that might turn out to be pretty good training in its own right.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「That sounds great, really great！ Come on then, Sensei！ Let's hurry up and get there so we can start！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Haha, alright, I get it, so stop pulling me.」"
+    },
+    {
+        "message": "With a thoroughly hyped-up Setsugekka pulling me by the hand, we hurried off toward the academy."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hyaaaaaaaaah！ Finishing move！ The secret ultimate technique that fighter used to end the match！ Plancha Tornillo Ultra Tiger Sasuke Special！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Not so fast！ The secret ultimate technique used by the fighter who lost to that one！ Chaotic High-Speed Immovable Darkness Rock-Breaking Peerless Thousand-Armed Kannon！」"
+    },
+    {
+        "message": "Our two techniques collided, somehow feeling like they triggered a massive explosion—"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「...Gahaa！」"
+    },
+    {
+        "name": "Yorishiro-kun",
+        "message": "「Barrier Jacket has fallen below safe levels. Please end the combat simulation」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...I win.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I lost！」"
+    },
+    {
+        "message": "When I mimed sheathing a sword, Setsugekka sprang right up."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ugh... To think you'd get revenge for that match！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, neither of us has anything to do with the actual fighters, though.」"
+    },
+    {
+        "message": "The fighters from that match would probably never in their wildest dreams imagine a rematch being held in a place like this."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Even so, Sensei, you really are amazing. You only saw that technique once, and you've already mastered it.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I haven't mastered it, though. If I actually wanted to make it my own, I'd need a lot more practice.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Besides, if we're talking about that, you remembered a technique you only saw once pretty well yourself, Setsugekka. I was surprised.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hehehe...♪ I haven't mastered it at all either, of course, but it was flashy and left a strong impression.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I really do think you've gotten a lot stronger, Setsugekka. It shows in things like this too.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「R-Really？ Nhehe... You're praising me so much today...♪」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That's because you have so many great qualities, Setsugekka.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Sensei won't stop killing me with praise...！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Haha. Still, even if it was a bit different from usual, this wasn't bad in its own way.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I don't think I'll ever use that move from earlier again either, but I feel like I got a little hint for a new way of fighting！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Then I'm glad. That was some good special training.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yes！ Thanks to that, I can get a little stronger again！」"
+    },
+    {
+        "message": "We exchanged words and shared a refreshing laugh—"
+    },
+    {
+        "message": "Shared a laugh..."
+    },
+    {
+        "message": "…………"
+    },
+    {
+        "name": "Iori",
+        "message": "「...Wait, wasn't this supposed to be a date? How did it turn into special training?！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Gasp! Now that you mention it!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Could it be that for us, the ultimate form of a date is special training...」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "\"I've been completely consumed by special training...!\""
+    },
+    {
+        "name": "Setsugekka",
+        "message": "\"Oh, wait a second—if the ultimate form of a date is special training, then...\""
+    },
+    {
+        "name": "Setsugekka",
+        "message": "\"Doesn't that mean we've actually been going on dates every single day?!\""
+    },
+    {
+        "name": "Iori",
+        "message": "\"W-Well, technically...!!\""
+    },
+    {
+        "message": "…………"
+    },
+    {
+        "name": "Iori",
+        "message": "\"...Wait, technically?\""
+    },
+    {
+        "message": "It sounded like a shocking revelation for a second, until I thought about it and realized it wasn't."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "\"Sensei, thank you so much for today!\""
+    },
+    {
+        "message": "With our special training—no, our date—wrapped up, it was time to part ways."
+    },
+    {
+        "message": "Looking thoroughly fulfilled, Setsugekka gave me a polite bow."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "\"Going on a date with you was truly fun, Sensei.\""
+    },
+    {
+        "name": "Iori",
+        "message": "\"I had a great time too. Thank you.\""
+    },
+    {
+        "name": "Setsugekka",
+        "message": "\"Next time, I'll study up even more on dates—leisure spots and things like that!\""
+    },
+    {
+        "name": "Iori",
+        "message": "\"Then I'd better do my homework too so I don't lose. Like date plans that won't bore you, Setsugekka.\""
+    },
+    {
+        "name": "Setsugekka",
+        "message": "\"As long as I'm with you, Sensei, I could never be bored!\""
+    },
+    {
+        "name": "Iori",
+        "message": "\"Haha, thanks.\""
+    },
+    {
+        "message": "We're talking as if a 'next time' is a given—well, it is a given, so I suppose that's fine."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "\"Well then, Sensei, I'll take my leave for today! Good night!\""
+    },
+    {
+        "name": "Iori",
+        "message": "\"Yeah, good night. See you tomorrow.\""
+    },
+    {
+        "message": "Waving enthusiastically, Setsugekka headed home with a light, skipping step."
+    },
+    {
+        "message": "Once she turned the corner, she even poked her head back out just to wave wildly one more time."
+    },
+    {
+        "message": "Seeing her off, I turned back toward my own place with a light step as well."
+    },
+    {
+        "message": "And when I arrived in front of my room—"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "\"Welcome back, Iori-san. Thank you for going out with Setsugekka today.\""
+    },
+    {
+        "message": "Keisetsu was standing right outside my door."
+    },
+    {
+        "name": "Iori",
+        "message": "\"Keisetsu? What's going on?\""
+    },
+    {
+        "name": "Keisetsu",
+        "message": "\"I figured you'd be getting back soon, so I waited. There's something I'd like to discuss—do you have a moment?\""
+    },
+    {
+        "name": "Iori",
+        "message": "\"...It's not about being a private trainer again, is it?\""
+    },
+    {
+        "name": "Keisetsu",
+        "message": "\"Even I wouldn't be that tactless right now. Today it's just a little casual chat.\""
+    },
+    {
+        "message": "Saying that, Keisetsu held up a small bag—apparently a little gift she brought for me."
+    },
+    {
+        "name": "Iori",
+        "message": "「...If I let you in right now, won't it look like I got hooked by your gift？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「You're overthinking it. Just take it as a token of my everyday gratitude.」"
+    },
+    {
+        "message": "Maybe my answer surprised her, because Keisetsu smiled as if amused."
+    },
+    {
+        "message": "Once I let her into the room, Keisetsu first asked if she could borrow the kitchen."
+    },
+    {
+        "message": "And just when I thought she might actually cook something, she came right back."
+    },
+    {
+        "message": "Only this time, she was holding a teacup in her hand."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Here you go. There's nothing strange in it, so you can relax.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, I'm not worried to that extent.」"
+    },
+    {
+        "message": "I took the cup and breathed in lightly, and a gentle aroma seeped into me."
+    },
+    {
+        "message": "It seemed she had brewed some herbal tea. So this was the true identity of the gift from earlier."
+    },
+    {
+        "name": "Iori",
+        "message": "「Huh... That smells nice.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「It's tea blended with matsuri-ka. I think it'll calm your mind.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Matsuri-ka？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Maybe it's easier to understand if I call it jasmine. I've liked this scent since I was little.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Whenever I spend special time, I always remember this fragrance.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「So it's something important to you, Keisetsu.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Yes, that's right.」"
+    },
+    {
+        "message": "I took a sip of the jasmine tea."
+    },
+    {
+        "message": "Even though the season was already summer, this warmth spreading slowly, combined with the scent, seemed to loosen the tension in my body."
+    },
+    {
+        "name": "Iori",
+        "message": "「So... what is it you wanted to talk about？ You said it's like small talk, though.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Fufu. When it comes to what I talk to you about, there's nothing else besides Setsugekka, right？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Fair enough. Though I doubt it's about being her personal trainer.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Yes, what I want to ask today is a matter of feelings—in other words, about your relationship with Setsugekka.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Relationship, you say...」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Even if the method had plenty of problems, Setsugekka still told you her feelings all the same.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「And you answered that you want her to wait a little longer for now.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「But in truth, you already have your answer from the start, don't you？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ugh... That's...」"
+    },
+    {
+        "message": "It looks like she's seen right through me."
+    },
+    {
+        "message": "...Well, I suppose it'd be stranger if she hadn't."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Just as I thought. Why don't you tell her right away？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, even if you ask me that... Being teacher and student makes things complicated in all sorts of ways, doesn't it?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That's why I told Setsugekka to wait a little longer for now, too.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Merely a matter of your positions？ That seems quite trivial to me.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Your real occupation is a member of the Tenju Special Forces, not a teacher. Is there any issue with a member and an academy student having a romance？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「W-Well, when you put it like that...」"
+    },
+    {
+        "message": "In truth, part of me already felt like it would be fine."
+    },
+    {
+        "message": "And above all, I wanted to tell Setsugekka how I felt directly as soon as possible."
+    },
+    {
+        "message": "There were plenty of things I had to hold back because we weren't lovers, and that was frustrating in its own right."
+    },
+    {
+        "message": "Setsugekka seemed to have trouble keeping herself in check when she went into a runaway state, though truthfully, I wasn't much different."
+    },
+    {
+        "message": "Having to constantly rein in the full force of our feelings around each other wasn't just a burden on me—it was taking a toll on Setsugekka too, and it pained me to put her through that."
+    },
+    {
+        "name": "Iori",
+        "message": "（Getting through the hard times together... If holding back already puts us in that position, wouldn't things be no different even if I just told her how I feel...？）"
+    },
+    {
+        "message": "As I agonized over it—Keisetsu suddenly let out a small laugh."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「If you're agonizing over it, that means you're thinking seriously about Setsugekka, doesn't it？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...Yeah, that's right.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Then by all means, please take care of Setsugekka. That is her wish, and it is mine as well.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You wish for that too, Keisetsu？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Though she lost at the Martial Festival, Setsugekka fought admirably. Thanks to that, the Kazamine family's standing in the Sword-Bearing Self-Defense Association has improved greatly.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「That is unmistakably your achievement.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「If someone like you will continue to guide Setsugekka permanently from now on, that is immensely reassuring to me as well.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「P-Permanently？！」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Oh my, don't tell me you intend to discard Setsugekka once you grow tired of her？ If that's the case, that changes things a little.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, no, I have absolutely no intention of doing that！」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「In other words, I can take it that you're entering this relationship with permanence in mind, correct？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Y-Yes...」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Hehe, I'm so glad. That you're such an earnest man.」"
+    },
+    {
+        "message": "Damn it... That's exactly right, but somehow it just doesn't sit well with me...！"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Then please continue to guide Setsugekka from here on out. In Jindou, in her daily life, and as her partner, too.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Of course, that’s my intention. I am a teacher, and—well... regardless, that is my intention！」"
+    },
+    {
+        "message": "I nearly said 'lover,' then hurriedly muddled my words."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「However, once you start dating, it will require a certain amount of tact.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Is that... because we’re teacher and student, after all？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「That’s part of it, but it’s mainly a matter of your own mindset.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Mindset... what do you mean by that？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Within the Sword-Bearing Self-Defense Association, the wind is still blowing quite hard against the Kazamine family.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「If you become involved with Setsugekka, you will be caught up in that headwind as well. Do you have the resolve for that？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Is that all? Is that what this is about?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I’ve been treated like a pariah from the start. It won’t be much different from how things are now.」"
+    },
+    {
+        "message": "The Muragaki Family has always been the black sheep within the Sword-Bearing Self-Defense Association."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「I see... you’re strong, aren’t you.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Setsugekka is very lucky. I wish I could have met someone like you myself.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Aren’t we meeting right now?」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「I meant, meeting sooner.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「If that had happened, I wouldn’t have handed you over to Setsugekka.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You sure say some dangerous things.」"
+    },
+    {
+        "message": "In any case, it was a relief to know that I had Keisetsu's backing."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「That said, rather than the distant future, we need to consider the immediate problem. Specifically, what to do about Setsugekka’s career path.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Doesn't Setsugekka want to join the Pro League？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Yes, but with the issue regarding the secret arts, it’s a difficult situation.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I see, you're right...」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「But if it’s what Setsugekka desires, I intend to do what I can before she graduates.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You mean you’re going to look for a way for her to go pro?」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Because that is both my duty... and my wish. I want to make Setsugekka's hopes and feelings come true.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Setsugekka's lucky, having an older sister like you.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Fufu, I hope she feels that way. I still have a long way to go, though. I'll keep striving.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No way, I'm way more inexperienced than you are. There's a ton I want to learn from you.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「You say such sweet things. If you ever get tired of Setsugekka, come to me.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「I'll make you completely mine.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「W-What are you saying？！」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Fufu, this is starting to sound like an invitation to cheat, isn't it? Please keep what I just said a secret.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Well then, I'll take my leave before I get tempted any further.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「If anything, I was the one getting tempted... Oh well.」"
+    },
+    {
+        "message": "Following Keisetsu as she stands up from her seat, I stand up too."
+    },
+    {
+        "name": "Iori",
+        "message": "「Still, that wasn't really small talk.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「You think so？ To me, it was just idle chat with no conclusion.」"
+    },
+    {
+        "message": "Once we step out the front entrance, Keisetsu bows her head once more."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Well then, please take good care of Setsugekka.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, of course.」"
+    },
+    {
+        "message": "After I nod, Keisetsu smiles as if relieved and turns on her heel."
+    },
+    {
+        "message": "Just then—"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Huh, Keisetsu？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Setsugekka？ Didn't you go back to your room？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I kind of had business with you, Teacher, or left something behind... or something like that！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Left something behind？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「More importantly, why are you here, Keisetsu？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Oh, we were just chatting a bit.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Iori-san tried to tempt me into cheating.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I did not！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ahaha, there you go saying stuff like that again. You really love teasing Sensei, don't you, Kei-chan?」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Hehe, you're not flustered at all, are you?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Of course not！ I know Sensei would never do something like that, and I know you too well, Kei-chan！」"
+    },
+    {
+        "message": "With a smug look on her face, Setsugekka even flashed a V-sign. She looked both dependable and adorable like that."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「The Setsugekka right now is invincible. In more ways than one, I don't feel like I stand a chance.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「That's because Sensei's been teaching me！ I'm only going to get even more invincible from here on out！」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Hehe, 'even more from here on out,' huh?」"
+    },
+    {
+        "message": "She shot a quick glance my way."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Well then, I'll head back first. If you end up staying out till morning, be careful not to bump into anyone else like you just did, okay？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Okaaay！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Don't just say 'okay'！」"
+    },
+    {
+        "message": "Looking amused, Keisetsu gave a light wave and headed back."
+    },
+    {
+        "message": "For now, I simply shrugged, while Setsugekka waved vigorously to see her off."
+    },
+    {
+        "name": "Iori",
+        "message": "「...By the way, what did you really need, Setsugekka？ You said you forgot something.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Oh, right！ I forgot to give you this！」"
+    },
+    {
+        "message": "Saying that, she handed me a small package."
+    },
+    {
+        "message": "When I opened it—"
+    },
+    {
+        "name": "Iori",
+        "message": "「This is... a heart-shaped keychain？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Actually, I bought it on the sly during our date today. I thought I'd hand it to you out of nowhere and surprise you a little！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「But I was having so much fun being with you, Sensei, that I completely forgot. Once I got back to my room, I ended up surprising myself instead. Ehehe...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「So that's what happened... Thank you, Setsugekka. I'm really happy.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「R-Really？! I'm so glad...♪」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Adding one of these every time we go on a date might actually be kind of nice.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「That sounds like so much fun, but... if we did it every time we went on a date... I feel like I'd go bankrupt.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Going on enough dates to go bankrupt... No, we actually might.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Right?！ We're going to go on tons of them, right?！ Every single day, right?！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Every single day might be pushing it a bit, though.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I’ll train every single day, so that means a date every single day！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Come to think of it, you did say that.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ehehe~. Then, Teacher, I’m counting on you for another intense date tomorrow！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I’m not sure about that phrasing, but of course. Let’s do our best together.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yes！ Alright, goodnight once again！」"
+    },
+    {
+        "message": "Setsugekka waved her hand vigorously again, and this time, she actually headed home."
+    },
+    {
+        "message": "After watching her go, I gazed at the gift from earlier…"
+    },
+    {
+        "name": "Iori",
+        "message": "「However, this is quite a dangerous item… I mean, just looking at it makes me grin like an idiot！」"
+    },
+    {
+        "message": "I should put it by my bedside or somewhere so I can look at it every morning."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「TEACHEEEEEERRRRRRRRRRRRRRR！！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Whoa！？ W-why are you charging at me all of a sudden！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ah, but you caught me properly！ Plus, you’re holding my hand, so my heart is racing a little…♪」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I think it’s more of a test of grip strength than holding hands, but… for now, if I let go, promise you won’t tackle me？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Understood, I’ll restrain myself.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Is it really something you have to restrain yourself from doing? Well, as long as you can hold back, that’s fine.」"
+    },
+    {
+        "message": "Tentatively, I let go of Setsugekka’s hand. She seemed to have behaved herself, as she didn’t charge at me."
+    },
+    {
+        "name": "Iori",
+        "message": "「Now then… since things have settled down, what’s up？ Were you just that excited about the training-slash-date？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「No, well, of course that’s part of it, but that’s not all for today！ Actually, I’m in shock！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Shock？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「We went on a date yesterday, remember? The one that wasn’t training.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「It’s a bit confusing, but yeah, I remember. It was fun.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yes！ It was so much fun, and I was so giddy… but behind the scenes of that date, a huge problem occurred！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「A huge problem？ What on earth…」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Teacher, you know I’m a huge fan of Nakamura Sakura, don’t you？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「The professional Jindou player, right? Of course I do.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Actually, yesterday on TV… a special interview with Sakura was broadcast！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, that one. Is that a problem？ If anything, it's a good thing.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「But I didn't record it~！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「There were so many reruns and unrelated shows where her name just popped up briefly that it got overwhelming, so I set it to record only matches……」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Now that's……」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Sakura hardly ever does interviews！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「And from what I hear, she slaps the interviewer, there's rare pre-debut footage, and she talks about that Dojo Crashing counterattack incident！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Missing such a precious special means I can't go on living and I won't be able to get married either—！ Waaaaah！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I don't think getting married has anything to do with it…… Still, if that's the case, wanna watch it in my room？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Huh？ ……Could it be that Sensei recorded it？！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Since you said you like that fighter, Setsugekka, I figured I should pick up some info on her too.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hwah…… hwaaaaa……！」"
+    },
+    {
+        "message": "Somehow Setsugekka starts trembling all over…… This feels like a bad omen……"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hwaaaaaaaaaaaa！ I love you so much, Senseiiiiii！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I told you not to charge at me！」"
+    },
+    {
+        "message": "I barely manage to catch Setsugekka, who came flying in at top speed without even a running start. It's fierce enough that the impact pushes me back a little."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「B-B-But still, not only did you record it for me, you even tried to learn about the fighter I like—！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I really, really love you, Sensei—！ And even though I said earlier I couldn't get married, I want to go to Sensei—！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「A-Alright, I get it！ Don't try to push forward even more while crying！ For now, as for the recording, we'll watch it after special training！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「In fact, if you get through special training properly, I'll show it to you as a reward—but if you slack off, no watching at all！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I definitely won't slack off！ Let's do it right now！ Let's start quickly！」"
+    },
+    {
+        "message": "At my words, Setsugekka gets ready in an instant and takes her stance with more spirit than ever."
+    },
+    {
+        "message": "Snorting hard through her nose, combined with that charge just now, she's just like a fighting bull."
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, getting fired up is a good thing. Alright then, let's begin！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yes！ Putting all my gratitude and love for Sensei into it, I'll knock you out with everything I've got and get to see that interview！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Haha. I don't plan on getting taken down anytime soon, though！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Please receive my feelings！ Seryaaaaaahhhhhh！」"
+    },
+    {
+        "message": "And so, after finishing that intense date—er, special training."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ehehehe... Sensei acknowledged my hard workー♪」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, you always work hard. It's not like I wouldn't recognize it just today.」"
+    },
+    {
+        "message": "True to my promise, I invited Setsugekka into my room so the two of us could watch a recorded program together."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Still, I worked especially hard today！ Since we were outdoors too, I tried hard to hold back on all sorts of things！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「So on the flip side, now there's a rebound making me all restless and antsy……！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Then that's no good！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「No, of course that's a joke！ Right now, Sakura-senshu is more important！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Should I call it persistence, or what... Well, anyway, let's get startedー」"
+    },
+    {
+        "message": "As I pressed the play button――from that very instant, Setsugekka leaned forward and got glued to the TV."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ooooooh！ It's Sakura-senshuー！ So coolー！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You're already at full throttle just from her entrance, huh.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Of course！ Look, Sensei！ She's moving！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, yeah, she moves.」"
+    },
+    {
+        "message": "Setsugekka's excitement was tremendous, cheering at every single move I didn't even really understand."
+    },
+    {
+        "message": "For my part, I kept watching TV side by side with her while enjoying Setsugekka's reactions right along with it."
+    },
+    {
+        "message": "That liveliness was fun, and having her explain the parts I didn't get was appreciated too."
+    },
+    {
+        "message": "And above all else, just being together with Setsugekka already made me overwhelmingly happy."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ah, this is footage from before her debut, back when she was a student!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「About the same age as you, Setsugekka?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hoaah... She's so strong... Could I beat her as I am now……！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Surely between Nakamura-senshu from back then and you right now, Setsugekka, you ought to be stronger. You can have confidence.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「R-Really？ Nhehe……♪」"
+    },
+    {
+        "message": "Chatting like that for about an hour or so――"
+    },
+    {
+        "message": "Right up to the moment the program ended, Setsugekka stayed completely fired up."
+    },
+    {
+        "message": "No, if anything, even after it ended she was still giddy from the lingering rush."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Afu...... that was amazing...... I'm so moved......」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Especially that final line, the one aimed at the viewers！！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「‘If you’ve got the guts, get yourself up to my level. I’ll make sure your little flower bed gets torn apart beautifully on this ring’――」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「This is just too cool, I can’t handle it！」"
+    },
+    {
+        "message": "Setsugekka held her cheeks and writhed around in a squealing frenzy. Come to think of it, this might be the first time I’ve seen her like this."
+    },
+    {
+        "name": "Iori",
+        "message": "「Haha. If you enjoyed it that much, then I’m glad I took the time to record it.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Thank you so very much！ I could die happy right now just spending the rest of my days in bliss with you, Sensei！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I’m not planning on dying anytime soon…！」"
+    },
+    {
+        "message": "……No, well, you don’t have to."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Still, I was truly moved. Nakamura-senshu is just so cool. I really look up to her… *sigh*♪」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Come to think of it… do you still want to become a professional Jindou player, Setsugekka？ Seeing as you admire Nakamura-senshu so much.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Eh？ Well, let’s see… of course, I do have the hope of becoming a professional.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You have a different hope？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「My top priority is definitely being a pro. But more than anything, I want to help Kei-chan revive the Kazamine name.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Revive the Kazamine name, huh.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I know Kei-chan is working incredibly hard for that purpose, and I’ve always wanted to be there to support her.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「It’s just, I’m still thinking over what form that ‘revival’ might take.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I want to be a pro, but I’ve also considered joining the Self-Defense Forces like you, Sensei… or maybe I could even just be Kei-chan’s personal bodyguard. There are so many possibilities！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I see. It’s a good thing to have so many dreams. Especially when the goal behind those dreams is already set.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ehehe… oh, but there is one thing! No matter what path I end up taking, I have one dream that’s absolutely set in stone.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「What kind of dream is that？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「That, of course, is… having you by my side, Sensei！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ngh…！ Setsugekka, that is…」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ah！ Um, you know? I remember perfectly well that you asked me to wait for you.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I just meant that my feelings haven’t changed, and that would be my greatest dream.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Your greatest dream, huh…」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yes！ Because I... I love you, Sensei. I'm prepared to spend my whole life with you, forever.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ah, Setsugekka...」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ehehe... Last time I just blurted it out in the heat of the moment and couldn't say it properly. ...Wait, I'm getting carried away right now too！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Still, I really needed to say it properly, didn't I? With things like this, it's the feelings that matter most.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Besides... um... I know I can trust you completely, Sensei, I really do, but...」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I started worrying that if I stayed quiet and just waited, some other, more assertive girl might snatch you away...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「…………」"
+    },
+    {
+        "message": "At her words, it felt like my head reeled with a sudden jolt."
+    },
+    {
+        "message": "It was probably just my imagination, yet that was genuinely how it felt."
+    },
+    {
+        "message": "—Keisetsu had been working so hard to make Setsugekka's wish come true. And as her sister, she wanted her to find happiness as soon as possible."
+    },
+    {
+        "message": "I'm supposed to feel the exact same way. I want to make Setsugekka happy. I want to grant her wish."
+    },
+    {
+        "message": "And yet, what am I doing making her feel so anxious right now...！"
+    },
+    {
+        "name": "Iori",
+        "message": "「...Setsugekka, I'm sorry for making you worry.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You're right... You're pouring your heart out to me like this, so I have a responsibility to answer you properly too.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Sensei...？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Setsugekka... I feel the same way. I want to stay by your side forever.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No matter what path you choose in the future, I want to be right there beside you, supporting you closer than anyone else.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Will you let me help build your future with you？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hwah... Does that... Does that mean...！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah. ...I love you too, Setsugekka. I want to go out with you. And not just for now... for the rest of our lives.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hwah... Hwaaaah...！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yeeeeees！！ Senseiiiiiii！！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Whoa？！ Setsugekka, don't just hug me out of nowhere...！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「But come on...！ How could I...！ If you say something like that, I can't hold back anymore！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I was already holding it all back through the whole special training, and it's still all pent up inside me right now！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Huh, Setsugekka？ Wait, do you mean...」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I already heard you say it...！ You can't take it back now...！ Now that we're lovers, it's totally legal！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Setsugekka, wait—whoaa？！」"
+    },
+    {
+        "message": "I was pushed down onto the floor by a completely worked-up Setsugekka."
+    },
+    {
+        "message": "Her face flushed bright red and breathing heavily, Setsugekka's eyes staring at me, barely even blinking..."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Sensei... I love you... I love you so much...！ Mmph, mch...！！」"
+    },
+    {
+        "message": "Setsugekka's lips press forcibly against mine—"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Chup, chu... mmh, haah, ah, fuuh... mhaah, shlurp, chu, mmmh！」"
+    },
+    {
+        "message": "A plump, soft sensation I'd never experienced before."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ahn, mmh, shlurp, chupah, ah, mmh！ Shlup, chu, mmh, hah, ah, mmuuuh！」"
+    },
+    {
+        "message": "And it wasn't just some light peck, either. A passionate deep kiss, tangling our tongues and exchanging saliva."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hafuh, mch... Iori, Sensei... shlup, chupah, ah, mmh, chuuu, mhaah！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Chu, shlup, Setsuge, kka... mmh, mmgh！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Shlurrp, chup, chu, haah... ah, fuh, mmh, shlup, mmh, chuuu！」"
+    },
+    {
+        "message": "I don't actually mind being kissed. It just shows how much she cares about me, I guess."
+    },
+    {
+        "message": "Still, it's so sudden I'm not mentally prepared, or rather, catching my breath is..."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Pwah！ Haah, haah... ah, fuuh... ehehe... We kissed, didn't we.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Haah, haah... Y-You came on way too strong out of nowhere...」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Well, because you said you liked me, Sensei, I was so happy I couldn't hold back my feelings.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Oh, by the way, that kiss just now was my very first one, you know.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Same... for me.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yay♪ I stole your first kiss, Sensei.」"
+    },
+    {
+        "message": "Setsugekka, blushing happily while still straddling me."
+    },
+    {
+        "message": "As a guy, it'd probably be cooler if I took the lead, but I have zero experience with women, after all."
+    },
+    {
+        "message": "It doesn't feel bad, so I'll call it good."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Well then, Sensei, let's keep going—！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...Huh？ Keep going？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yes, keep going!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Wait...？！」"
+    },
+    {
+        "message": "Before I can even stop her, my underwear is yanked down in one go."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Whoaaa！ So this is a man's thing... *gulp*」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Wait a minute！ That’s way too inappropriate, don't you think！？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Why is that？ You told me you liked me just a moment ago, didn't you？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I-I did, but…」"
+    },
+    {
+        "message": "I do like Setsugekka. I’m even prepared to spend the rest of my life with her."
+    },
+    {
+        "message": "But we’re teacher and student right now. I really don’t think having sex is appropriate."
+    },
+    {
+        "name": "Iori",
+        "message": "「Things like this should be after you graduate…」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「But Teacher, your thingy is getting harder and harder, isn't it？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hnngh！？ Ughhh…」"
+    },
+    {
+        "message": "I don’t know when she took off her panties, but her exposed crotch is pressed right up against my cock."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ahh, ah, haa, haa… it’s so hot, and it’s getting so big…」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「So this hard thing is going to go inside me… ah, haa, ahhh, mnn, fuu, haaaa…」"
+    },
+    {
+        "message": "Stimulated by her grinding against me, it becomes hard and erect in an instant."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「That means you’re feeling good and you’re looking forward to it, right？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I-I am, but let’s just calm down for a second…！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「No way. That kiss felt so good, remember？ Let’s do something that feels even better~」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ugh, ughhh… nghhh…」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「And besides, I… ahhh, haa, fuu, mnn… my body heat hasn't faded at all…」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Can you tell？ My crotch won't stop leaking naughty juices, yaa, ahhh, ah, mnn, ngh, haaaa！」"
+    },
+    {
+        "message": "Perhaps unable to contain her excitement any more than I can, Setsugekka rocks her hips back and forth, pressing against my cock."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ahh, ahhh, ann, mnn, ngh, haaaa！」"
+    },
+    {
+        "message": "Her sultry hip movements, her sweet voice, her crotch growing increasingly damp."
+    },
+    {
+        "message": "Every bit of it stimulates my manly parts, and my reason is slowly being chipped away."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ahhh, I can't take it anymore！ I can't hold back！ It's okay, right, Teacher！！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ugh…」"
+    },
+    {
+        "message": "My reason as a teacher versus my desire as a man. They clashed, and I didn't know how to answer."
+    },
+    {
+        "message": "But there was no way the current Setsugekka was going to wait for me—"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Kghhh, nn, haa… ahhhhhhh！！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Uoh, ohhhh…！」"
+    },
+    {
+        "message": "From tip to base, my cock is constricted by an intense wave of pleasure."
+    },
+    {
+        "message": "So this is the inside of a girl's pussy... I’ve finally lost my virginity... wait, now is not the time to be getting all emotional."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Nggh, ahh, phoo... ugh, kgh, haa, haa... au, nnngh, haa, ahhh...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「This is your first time, right？ Are you okay？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I’m, I’m okay... I was nice and wet, so you went all the way in, and, haa, haa... compared to my usual training... kgh, nnngh, ah, haaa, phoo...」"
+    },
+    {
+        "message": "She’s probably just trying not to make me worry, but there’s no way it wouldn’t hurt for a first time."
+    },
+    {
+        "message": "The sight of the virgin blood mixing with the overflowing love juices is painful to behold."
+    },
+    {
+        "name": "Iori",
+        "message": "「Don’t overdo it, okay？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Haa, haa... You’re so kind, Teacher. But I’m truly okay. I was just a little startled.」"
+    },
+    {
+        "message": "With a small smile, her hips begin to sway back and forth again."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Maybe it’s because I was so worked up, but it didn’t hurt as much as I thought it would.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「More than that, I’m just happy to have become one with you, Teacher... annh, ah, haa, ahhh, ah, nnnngh！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Kgh, ahhh... so tight... ughhh...！」"
+    },
+    {
+        "message": "Is this tightness because she's a virgin？"
+    },
+    {
+        "message": "My cock is being gripped incessantly, and I can't help but let out a cry at the pleasure I’ve never experienced before."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Teacher, yours is, nnngh, haa, so huge... it’s stretching me to the brim inside, ahhh, haa, haa... I can feel how hot it is...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You’re getting quite hot inside too, Setsugekka. Plus, you’re gripping me so tightly...」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Well, I’m still not used to this, after all. But if I keep moving like this... annh, nnngh, ah, haa, ahhh！」"
+    },
+    {
+        "message": "It seems she wasn't lying when she said she was okay, as her hip movements gradually grow larger."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「It feels... annh... better than I imagined. Feeling you rub against the inside of my stomach... so this is what sex feels like, haa, haa...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That’s right... it feels good for me too.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I’m so glad, ah, ahhh, nnngh, phoo... I want you to feel good too, Teacher... annh！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Tsk... ahhh...！」"
+    },
+    {
+        "message": "As she moves her hips while keeping tension in her lower abdomen, the vaginal pressure spikes, and the movements inside her are transmitted directly to me."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ahaa... Yours is twitching inside my belly, Sensei...！ It's like it's saying it feels good, haa, haa, aah, ahn, ngh, haaaah！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「My hips are moving, on their own, mgh, ah, haaaah！ The pleasure, it keeps swelling more and more... ah, aaaah！」"
+    },
+    {
+        "message": "Her clumsy, hesitant movements grow bolder and bolder."
+    },
+    {
+        "message": "As if trying to hit the right spots, searching for her sensitive places—that's the kind of movement it is."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Haa, haa... Sensei, please move too...！ Harder... I want you to torment me...！」"
+    },
+    {
+        "message": "The scene from that time I witnessed her masturbating flashes back in my mind."
+    },
+    {
+        "message": "Back then, I never would've imagined we'd end up in a relationship like this... but now it's different."
+    },
+    {
+        "message": "Setsugekka is wanting me as her lover. In that case, answering her is my duty as her boyfriend."
+    },
+    {
+        "name": "Iori",
+        "message": "「Honestly... you're such a bad girl！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ahii, it's good, hah, aaaaah！！ Something huge just slammed deep inside, ah, aaahn！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「It feels good, though, doesn't it？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yes！ It does！ It feels so good！ Being loved by you, Sensei, I—ah, ah, aah, ah, mgh, ngh, haaaah！！」"
+    },
+    {
+        "message": "Setsugekka's hips shift from grinding back and forth to bouncing up and down."
+    },
+    {
+        "message": "Matching her rhythm, I thrust upward as well. Making sure not to push her too hard, yet still fiercely."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ahn, mgh, it's amazing...！ It's feeling better and better than before, uuuugh！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「When you thrust into me, Sensei, ah-aah, ngaaaah！ Deep inside my belly aches so much... noo, mgh, ngh, haah, aaah... aaaaah！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Haa, haa... If it's too much, tell me honestly, okay？ I don't want to push you too hard.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I'm fine, so do it more！ Stir me up down there like crazy！ Please thrust into me moreee！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I'm a bad girl, so, aah, ngh, haa, haa... like you're punishing me, hard...」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ah-ah-ah, aaaaah！ Hic, ngh, hah, aaaaah, it's good, it feels so goood！」"
+    },
+    {
+        "message": "This pleasure is way too much for a virgin like me. With all this intense thrusting, I'm gradually losing all self-control too."
+    },
+    {
+        "message": "Just as Setsugekka wants, I give in to my desires and keep pounding into her relentlessly."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「It's hitting deep inside...！ You're hitting my good spot, ahn, mmm, hah, aaaah！ I can't take this！ I'm... aah, ah, hih, haaaah！」"
+    },
+    {
+        "message": "Is that soft sensation brushing against the tip of my glans her cervix？"
+    },
+    {
+        "message": "I've heard that a girl's womb drops lower when she's feeling good... so that must mean her sensitivity is just that heightened."
+    },
+    {
+        "message": "In fact, my lower abdomen is completely soaked from her overflowing love juices."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Aah, mnh, haa, ah, haaa... Sensei, I'm... the pleasure is getting so big, I can't...！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Looks like... haa, haa, you're close to your limit.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yes, I am...！ So please, together, Sensei, you too...！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, I got it. I'm almost there too...！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yeees, it feels so good！ Hih, hah, aaaah！ Mmm, khh, aah, ah, mmmmm！」"
+    },
+    {
+        "message": "Since she's been worked up ever since our special training, it seems Setsugekka is getting there faster than me."
+    },
+    {
+        "message": "Still, I feel the same way about wanting to climax together. So I put more strength into my hips and focus my mind on cumming."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yaaah, ah, mmm, hah, hiii！ You're going even harder now, aaaah...！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Your hard thing is thrashing around inside my belly, kuh, mmm... ah, aah, hah... it's too amazing...！」"
+    },
+    {
+        "message": "Maybe because she's trying to make me cum, her vaginal pressure rises even higher, clamping around me so closely I can feel every single one of her folds."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ahn, mmm, haa, haa... Sensei, I love you！ I love you so much！ I truly love you, mmm, haaaah！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, I love you so much too！ I love you！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Aah, aaaahn！ I'm so happy... I'm so happy... I'm way too happy... khah, aaaah, ah, mmmm！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ngh...！」"
+    },
+    {
+        "message": "Her entrance clamps down on me so tight it almost hurts, yet even that turns into pleasure."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Whenever I think about you, Sensei, deep inside my belly clenches up, and the good feeling keeps swelling bigger and bigger...！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I can't stop having sex anymore！ My hips won't stop！ It feels too good... Nyah, ah, hii, haah, ah, aaaah！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Aah, haaah... Setsugekka, aaaah...！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Sensei... Iori... Sens—aaah, ngh, haaaah！」"
+    },
+    {
+        "message": "A shudder runs through my body as a hot surge wells up from my balls. My hands gripping Setsugekka naturally tighten."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Nyah, aah, ah, kuuuuh...！ I can't hold on anymore...！ I'm cumming, I'm going to cuuum！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「It's felt so good nonstop since earlier... I can't hold it back, aaah... I can't take iiit...！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Haah, haah, me too... ughh！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Please let it out！ I'll cum with you... I want to feel good with you, Sensei... I want to cum together！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Something amazing is coming, it's coming！ A huge one from deep in my belly... Nyaaah, aaaaaaah！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hyaa, ha, aaaaaaah！ Cumming, cumming, I'm cummiiing！ Ngh, kuh, aaaaaaahn！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Kuuuh... I'm cumming...！」"
+    },
+    {
+        "message": "The moment my buildup bursts forth, Setsugekka's body jerks violently too."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Mnnnh, haah, ah... aaaaah...！ It's so hot... inside my belly, hiiiinnn！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「It's coming out... pouring in... It's throbbing and pulsing, nyah, aaah... I'm cumming again, mnnh, kuh, ha, aaaah...!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Aah, haah, aaaah... You're clenching so tight...！」"
+    },
+    {
+        "message": "So this must be what it feels like to have every drop of semen milked out of you."
+    },
+    {
+        "message": "Her vaginal walls contract intermittently, drawing out the pent-up load inside me in a lingering wave of pleasure."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ahn, mnnh, haah, haah, ah, fuuh... That was amazing... Sex feels way too good, mnnh, haah, haah, haah, aaaah...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Haah, haah... I couldn't agree more... Aah, haaah...」"
+    },
+    {
+        "message": "Heaving for breath together, the two of us bask in the afterglow."
+    },
+    {
+        "message": "I think I'm confident in my stamina, yet I didn't expect to get this drained……"
+    },
+    {
+        "message": "Still, it's not an unpleasant kind of tired. It feels like I'm wrapped in a comfortable sense of fulfillment."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Sensei…… nchh, chh, haa, nnn……」"
+    },
+    {
+        "message": "Our lips meet just like when I was pinned down."
+    },
+    {
+        "message": "This time, it was a gentle, light kiss."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Eheheー, that felt good, didn't it?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, it did.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Getting to let so much out for me, I'm super happy right now！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「If you're satisfied…… then I'm glad.」"
+    },
+    {
+        "message": "As I said that, it belatedly hit me that I'd come inside her."
+    },
+    {
+        "message": "Even if pulling out wasn't really an option given how things went, is that going to be okay……？"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Sensei, from now on too…… please take good care of me for a long, long time.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Same to you.」"
+    },
+    {
+        "message": "Setsugekka looks so happy, so maybe pointing that out would be buzzkill……"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Seeeensei♪ Hup！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Whoa, easy……！ Setsugekka, don't just hug me out of nowhere.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Besides…… hugging this much right here is gonna be a problem.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ehehe…… sorryー. I just couldn't help it♪」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Seriously, now.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「……Still, Sensei, you've got a total grin on your face!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Gah, I didn't mean to……！」"
+    },
+    {
+        "message": "――The day after all that happened."
+    },
+    {
+        "message": "Far from acting shy, Setsugekka had become even more forward than before."
+    },
+    {
+        "message": "As for me, I'm used to ordinary physical affection itself, but after that, I still feel a little flustered."
+    },
+    {
+        "message": "For appearances' sake, Setsugekka's face was red too, though――"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Nfufuー, Senseーi♪ Nuzzle-nuzzleー」"
+    },
+    {
+        "message": "She says, rubbing her face against my body."
+    },
+    {
+        "name": "Iori",
+        "message": "「Hey, don't rub your face around like that. Especially in a place like this……」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「D-Does that mean something like, ‘If you're gonna rub against me, use your body instead of your face, right？ Show me what an attitude befitting a slut looks like’……！？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Not even close！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「But Sensei, yesterday you said, ‘A female should just act like a female and writhe in my arms’……！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, I didn’t say that！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Well, maybe not directly, but like in the vibe！ Like a voice from the heart！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Stop turning your delusions into reality！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「……Or rather, do you like that kind of thing, Setsugekka？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「No, it’s not really like that. ……Ah！ Though of course, if Sensei does it to me, I’d love even that kind of thing.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Like, you know, umm…… yesterday, it was kind of like I pounced on you, right?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「‘Kind of,’ more like that’s literally what happened.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「If it stays like this, it’ll seem like I’m super lewd and like some pervert who pounces on Sensei right away, so I kind of wanted to balance it out……」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Trying to balance it out with fabrication is pointless.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Then if Sensei pounces on me today and makes it not a fabrication……！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「How does it jump to that！？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Uuuh…… but if it stays like this, Sensei might think you hate a pervert who goes into heat this fast……」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, I wouldn’t think anything like that in the first place, so you don’t need to worry.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「R-really！？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No matter what you do to me, it’s not that I dislike it, more like I’m actually happy about it.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「……Sensei, do you actually like getting pounced on？ By any chance, are you a masochist？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That’s slander！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「It’s just that because the other person is Setsugekka, how should I put it…… it makes me happy that you want me.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ah, I understand that feeling！ When I think Sensei wants me, I get so happy I can’t stand it！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Right？ So that’s how it is, there’s no need to worry…… or rather, we shouldn’t be having this kind of talk inside the school during the daytime！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「It’s too late for that now！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Even if it’s too late now！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「But I’m happy I understand how Sensei feels, and I’m relieved！ I don’t need to hold back anymore, right！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「……No suddenly doing stuff in a place like this, alright？ Let's mind other people's eyes」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I-I know that！ But umm…… there's special training today too, right？ To control that berserk state, you know……」"
+    },
+    {
+        "name": "Iori",
+        "message": "「……Yeah. There is」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Still, I haven't gotten control of it yet after all, have I? So umm…… ehehee……♪」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Don't cling to me while saying that！」"
+    },
+    {
+        "message": "This looks more like it's getting even harder to control……"
+    },
+    {
+        "message": "Besides, right now we're in the school hallway, so if other students saw us like this……！"
+    },
+    {
+        "name": "Female Student",
+        "message": "「Iori-sensei！ I finally found you！」"
+    },
+    {
+        "message": "Spotted right away！"
+    },
+    {
+        "name": "Iori",
+        "message": "「Asahi……！ And even everyone else is here……！？」"
+    },
+    {
+        "message": "There standing were the members of Takamura Class except Keisetsu. It was Asahi, Momiji, and Ririmu."
+    },
+    {
+        "name": "Iori",
+        "message": "「Everyone, why are you here……！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Why or whatever, this is the academy, so I think it's completely normal」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I came because I heard I'd get private coaching！ And apparently some kind of sticky, clingy coaching！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I heard Secchan's getting super interesting coaching, is that for real？ I want some of that tooー」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「It's not interesting！ I'm getting serious coaching！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Then what about the sticky, clingy part？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「There's only a little of that！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Setsugekka……？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I mean, the sticky, clingy part is after the coaching anyway！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Setsugekka？！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Plus, rather than sticky, it's more like gooey, mushy」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Setsugekkaaaaa！！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I mean, I've been thinking this for a while, but……」"
+    },
+    {
+        "message": "Momiji stared intently over at us, and"
+    },
+    {
+        "name": "Momiji",
+        "message": "「……Aren't you two stuck together way too close？ Especially Setsugekka, her cheek is all squished」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ah！ No, this is……！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「M-My cheeks are soft, so they squish easily！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「No, that's not what I meant...」"
+    },
+    {
+        "message": "Before I knew it, it wasn't just Momiji—Asahi and Ririmu were also staring intently at us."
+    },
+    {
+        "message": "Their gazes were clearly suspicious of the relationship between me and Setsugekka..."
+    },
+    {
+        "name": "Iori",
+        "message": "（How do I talk my way out of this... No, wait, with Setsugekka like this, even if I dodge it now, it'll probably come out eventually anyway, right？）"
+    },
+    {
+        "name": "Iori",
+        "message": "（In that case, it might be better to just tell them sooner rather than later. Tell them, and then make it crystal clear that as a teacher, I won't play favorites with just one student—）"
+    },
+    {
+        "name": "Iori",
+        "message": "「...Actually, there's something I need to tell you all. I want you to stay calm and hear me out.」"
+    },
+    {
+        "message": "Just as I steel myself and start to speak—"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Wh-Whaaat！ Sensei, you can't！」"
+    },
+    {
+        "message": "Setsugekka frantically threw her arms out wide, cutting me off."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「You were just about to tell them, weren't you？！ You can't do that！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, but, Setsugekka...！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「No！ We're still student and teacher, so if we say we started dating, it's going to turn into a huge mess！ Let's properly cover this up！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You just blurted it out！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Gasp—oh no！」"
+    },
+    {
+        "message": "She hurriedly clamped her mouth shut, but there was no way they hadn't heard that."
+    },
+    {
+        "message": "When I timidly glanced over at Momiji and the others, every single one of them was still staring straight at us..."
+    },
+    {
+        "name": "Asahi",
+        "message": "「...So, setting that aside for a moment, about that sticky private tutoring. You'll tutor me too, right？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Don't you have something more, like, awesome for me？ Oh, obviously something that fits my aesthetic！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...Huh？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「They don't seem all that surprised, do they？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Well, yeah, anyone could pretty much tell just by watching the two of you. Honestly, I've been thinking for a while now that you two would end up like this？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You already thought that...？！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I was surprised that she'd just blurt it out like that at this timing, so I froze up a little, though.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Wait, Momiji, then why did you stare when Setsugekka was clinging to me...」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Well, I was just thinking, 'Aren't you guys hot？' It's summer, after all.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「…………」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「...I guess we didn't really need to worry after all.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Kind of a relief, kind of anticlimactic...」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Oh, if you'd prefer a huge problem, I could announce this far and wide and turn it into an academy-wide uproar」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Absolutely do not do that！」"
+    },
+    {
+        "message": "—Momiji was, of course, just joking. According to her, there was no way she'd go out of her way to do something that troublesome."
+    },
+    {
+        "message": "As for Asahi and Ririmu, we settled on having me give them private lessons in turn from now on."
+    },
+    {
+        "message": "Of course, none of that sticky, steamy stuff."
+    },
+    {
+        "message": "And so, as various problems were being resolved—"
+    },
+    {
+        "message": "There was one more. Another major problem was also resolved during today's special training."
+    },
+    {
+        "name": "Iori",
+        "message": "「It really was a simple thing, after all」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ehehe... You're right. It was super simple」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「And when you really think about it, it's kind of obvious—the answer was right there from the very start, wasn't it」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well... yeah, I suppose so」"
+    },
+    {
+        "message": "It was none other than—the problem of her libido spiking whenever she went berserk."
+    },
+    {
+        "message": "Yet during today's special training, that symptom barely showed up at all."
+    },
+    {
+        "message": "The two of us thought about why, and the conclusion we reached was—"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I've always had this urge to have sex with you, Sensei, so when I go berserk and my reason slips away, it's only natural that those feelings get stronger！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「And conversely, thanks to us getting into this kind of relationship, that got resolved, so you're fine even when you go berserk...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「In short, you were just sexually frustrated」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「That makes it super easy to understand！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Either way, I'm glad it's resolved. Besides, how should I put it... thanks to that, I got to be in this kind of relationship with you, Setsugekka」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Oh, wait, you're not going to say that since it's resolved, our private lessons are over now, right...？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Of course not. As long as you want them, Setsugekka」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Then that means for the rest of our lives！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Haha, I guess so」"
+    },
+    {
+        "message": "I could even nod along to talk like this openly now. That in itself made me happy all over again."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Oh, right, since controlling my berserk state is taken care of, what kind of guidance should I ask you for next...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You're already strong, Setsugekka, but there's still plenty of room for improvement. I'm keeping a close eye on where your weak spots are, so leave that part to me」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「You really are so dependable, Sensei！ Well then, I'm counting on you！」"
+    },
+    {
+        "message": "Saying that, Setsugekka threw her arms around me from the front."
+    },
+    {
+        "message": "And when I naturally accepted it—"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Mfufu... Your body is so waaarm, Sensei...♪ And I looove your scent, too.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「H-Hey now, Setsugekka...」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Nobody's here, so there's no need to rush! So, savoring you to my heart's content, Sensei...♪」"
+    },
+    {
+        "message": "Not only did Setsugekka cling to me, she buried her face against me too."
+    },
+    {
+        "message": "And on top of that, rubbing her body against mine, she peered up at me with upturned eyes..."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Won't you savor me too, Sensei...？ Not to brag, but I think I smell pretty nice right now, you know？ Since I took a bath right after calling you over...♪」"
+    },
+    {
+        "message": "There was no way I could miss what Setsugekka was getting at."
+    },
+    {
+        "message": "To begin with, the moment she asked me after our special training to come to her room because she had something to talk about alone, I'd already guessed... no, hoped for this."
+    },
+    {
+        "message": "Even so, just nodding along honestly felt kind of embarrassing—"
+    },
+    {
+        "name": "Iori",
+        "message": "「...Didn't your heightened libido go away？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Maybe it's a new kind of rampage that only triggers when we're like this!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You sure go on a rampage in all kinds of ways.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「That's why I really think I need special training to keep my rampage under control！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Haha, what a handful of a student.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ehehe... I really am, aren't I？ So make sure you educate me lots, okay？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, I will. Nice and thoroughly, for the rest of our lives.」"
+    },
+    {
+        "message": "As we traded playful words, neither of us really taking the lead, we leaned in and gently pressed our lips together—"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hup.」"
+    },
+    {
+        "message": "Setsugekka climbed on top of me facing the opposite way as I lay on my back."
+    },
+    {
+        "message": "She'd said she wanted to try what's called a sixty-nine, though..."
+    },
+    {
+        "name": "Iori",
+        "message": "「Actually getting into this position is kinda embarrassing.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Y-Yes, it is...」"
+    },
+    {
+        "message": "A secret garden spreading out right before my eyes."
+    },
+    {
+        "message": "With a close-up view of a girl's most precious place, heat naturally gathered in my lower half."
+    },
+    {
+        "name": "Iori",
+        "message": "「Are we really doing it like this？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yes！ I looked it up online, and apparently this lets both the man and the woman feel good at the same time！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I see...」"
+    },
+    {
+        "message": "It really does make sense. It's the ideal position for caressing each other's genitals."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「So this is... your thing, Sensei...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You saw it yesterday, too」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yesterday I kind of just pushed you down in the heat of the moment, so I didn't get to look at it this up close...」"
+    },
+    {
+        "message": "Setsugekka's slender fingers gently stroke my penis."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Whoa, it's so hard and knobby. And hot, too... So this is what was inside me yesterday...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ughk... haah, haah...」"
+    },
+    {
+        "message": "Her timid, tentative feather-light touch tickles."
+    },
+    {
+        "message": "On top of that, the embarrassment of having my genitals ogled up close turns into arousal, and even I can tell how worked up I'm getting."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「It's twitching and trembling, it's kind of cute」"
+    },
+    {
+        "name": "Iori",
+        "message": "「If we're talking about that, this spot of yours too, Setsugekka」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「N-No, aahn！ Don't spread it open, aaah...」"
+    },
+    {
+        "message": "When I spread the slit in front of me apart to the sides, ripe, flushed lewd flesh peeks out."
+    },
+    {
+        "message": "Clear, slick fluid wells up from deep inside, and at the same time a thick, lewd scent grows stronger."
+    },
+    {
+        "name": "Iori",
+        "message": "「Looks like you're already all warmed up」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Because, when I think about feeling as good as I did yesterday...」"
+    },
+    {
+        "message": "So I wasn't the only one looking forward to this. In that case, I'll just have to live up to those expectations."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ngah, hah, aaaah！ Sensei, that tickl—aaahn！」"
+    },
+    {
+        "message": "The instant I extend my tongue to her drenched slit, Setsugekka's body jerks with a shudder."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Down there, it's tingling... your tongue, aah, mmmh, hah, ah, uuuuh...！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Squelch, shlurp... mmch, lap, lap, shlurp, schluurp, haah...」"
+    },
+    {
+        "message": "I hold her firmly in place as her hips pull back to escape, continuing to caress her."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Nooo, don't lick me making sounds like that, aahn！ It's so embarrassing...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Mmch, shlurp, haah... When you're this wet, it just happens on its own」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「M-Maybe so, but—ah, aah, ah, mfuuuh...！」"
+    },
+    {
+        "message": "Love juices overflowing from deep inside the more I lick."
+    },
+    {
+        "message": "Thinking about how Setsugekka is feeling pleasure from my caresses puts even more strength into the movements of my tongue."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Your tongue, ah, aaah... You can't push it inside...！ It's hitting my sensitive spot, khiiiih！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Lick, lick, mch, shlp... slurp, mch, mmm... shlp, slurp, mhaa...」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I-If that's how it is, I won't lose either... lick, shlp, smooch, haa...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ngh, whoaaa！？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「For you too, Sensei... squelch, squelch, smooch, mhaa...」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I'll make you feel good, okay... lick, lick, shlp, shlpaa...」"
+    },
+    {
+        "message": "A sudden, lukewarm yet rough sensation."
+    },
+    {
+        "message": "I couldn't see, but I immediately realized Setsugekka's tongue was licking my cock."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Nom, mmm, smooch, shlp, mm, haa... slurp, slurp, shlpa, lick, mnah, ah, fuuh...」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「How, is it？ Lick, lick, mm, haaa... Am I, doing it, well？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, it feels amazing」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ehehe~, I'm glad, ah, aaaah...！ Noo, mmm, ngh, aaahn！」"
+    },
+    {
+        "message": "To thank her for making me feel good, I thrust my tongue in a little harder."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「H-Hey... moving your tongue while I'm talking is playing dirty」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Feels good though, doesn't it？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Well, yes, but... squelch, squelch, shlp, mhaa... ahn, mm, shlp, slurp, slurp...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ah, aaah...！ Right there feels good...」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Like, thish？ Lick, lick, mhah, ahn, mmm, shlpaa...」"
+    },
+    {
+        "message": "As she works the flared ridge of my head, right around the rim, my hips tremble on their own."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ahaa... you're sensitive here, aren't you... Clear juice is overflowing from the tip...」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「This smell... mmm, haa, aaah... Just smelling it turns me on...」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Shlp, slurp, mm, ah, hah, fuuh...！ Slurp, slurp, shlp, mmm, hah, aaahn！」"
+    },
+    {
+        "message": "The slick feel of her tongue and the softness of her lips kissing me every now and then."
+    },
+    {
+        "message": "To answer her devoted caresses, I speed up the movement of my tongue as well."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ah, aah！ That's, so good！ I'm getting shivers, a good feeling is coming, uuh, mm, haaaah！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "\"Deeper... use your tongue more... ahn, mmm, nnh, ah, mmph!\""
+    },
+    {
+        "name": "Iori",
+        "message": "\"Mmph... ngh, l-like that... haah...\""
+    },
+    {
+        "message": "She's getting even wetter and warmer now, her arousal clearly building."
+    },
+    {
+        "message": "I can feel her trembling harder against me—her sensitivity has shot way up."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "\"Haah, haah... Sensei, your tongue is way too naughty... if you keep doing that, I'm...\""
+    },
+    {
+        "name": "Iori",
+        "message": "\"You're pretty naughty yourself, Setsugekka. If I let my guard down, I'm going to lose it right away.\""
+    },
+    {
+        "name": "Setsugekka",
+        "message": "\"Ehehe, hearing you say that makes all my studying worth it.\""
+    },
+    {
+        "name": "Setsugekka",
+        "message": "\"Still... the real thing starts now.\""
+    },
+    {
+        "name": "Setsugekka",
+        "message": "\"Mmm, ngh... ah, mmph!\""
+    },
+    {
+        "name": "Iori",
+        "message": "\"Guh, aahh...!\""
+    },
+    {
+        "message": "Warm, slick heat wraps around me completely from tip to base."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "\"Mmph, ngh... haah... ahn, mmm, fuuh, mmph!\""
+    },
+    {
+        "message": "She wasn't kidding about the real thing starting now. This isn't gentle teasing anymore—she's going all out to make me finish."
+    },
+    {
+        "message": "In that case, I can't afford to lose either."
+    },
+    {
+        "name": "Iori",
+        "message": "\"Mmph... ngh, haah...!\""
+    },
+    {
+        "name": "Setsugekka",
+        "message": "\"Ngh, ah, fuuh... mmm! Hah, aah, ah, nnh, aaaah!\""
+    },
+    {
+        "message": "I pull Setsugekka's hips closer, devoting myself to pleasing her just as intensely."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "\"Ah, aah, Sen-sei... too intense... ngh, fuuh...\""
+    },
+    {
+        "name": "Setsugekka",
+        "message": "\"Uuh...! Ah, haah... ngh, mmph!\""
+    },
+    {
+        "name": "Iori",
+        "message": "\"Ngh... haah...\""
+    },
+    {
+        "name": "Iori",
+        "message": "\"I want you to feel just as good too, Setsugekka...!\""
+    },
+    {
+        "message": "I keep teasing her most sensitive spot gently, drawing out every shudder."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "\"Hii, nnh, kuh, haah, ah, aaaah! N-Not there... ahn, mmph!\""
+    },
+    {
+        "message": "「Even though she must be getting pretty sensitive, it's impressive how she doesn't stop caressing me.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Slurp, schlick... mmm, haa, ah, fuu... gulp, mmm, haa, aah, ah, uuu...！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Suck... mmm, ah, ah, fuuuut！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Haa, aah, ah, mmm, ah, haaa... senshei, I'm, shii, hiiin！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Suck, haa, aaaa... I'm gonna too...！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Mmph, mmm, ah, fuu... schlick-schlick, mmm, pop, mm, aaaaa！」"
+    },
+    {
+        "message": "With both of us close to our limit, all we could manage anymore was keeping up the caresses."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hafuu, mm, slurp, smooch, haa... wet, pop, slurrrp, ah, mmmm！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Lick-lick, pop, slurrrp... gulp, aah, fuuuu...」"
+    },
+    {
+        "message": "Tangling our tongues and sucking up, we drove each other toward our limit fiercely and passionately."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Suck, ah, fuu, mmm！ Schlick-schlick, pop, mmm, slurp, smooch, haa, aaat！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Squish-squish, ah, ugh, kuuu... I'm cumming, mm, suuuut！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I'm, cumming too... gonn' cum, mmm, smooch, haaat！ Feels sho good, schlick-schlick, can't stop, hiiin！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ah, aaat！　Anh, mmm, suck, ah, huff, gulp, mmm, mmm---t！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hmph...！　Aaat！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Mmph？！　Fuu, mmm, ngh, mm, kuuuut！」"
+    },
+    {
+        "message": "My hips bucked as pleasure burst inside Setsugekka's mouth. At the same time, splashes sprayed out and wet my face."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Gulp, mmm, fuu, uuu...！ Ah, ugh, mmm, ngh, slurrrrrp...！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Haa, aaaa... ah, guuuu...！」"
+    },
+    {
+        "message": "Even though having someone cum in her mouth must be overwhelming, Setsugekka doesn't try to pull her face away."
+    },
+    {
+        "message": "If anything, she latches on and sucks as if telling me to shoot every last drop inside her mouth."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Fhh, uuu... mmph, ah, fhh, fhh... mmmph, mmuh, mmph, fhhh...」"
+    },
+    {
+        "message": "Even as I feel guilty, I can't hold back my excitement at her devoted display, and I end up shooting my entire load just like that."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Nngh, uuu... gulp, gulp, mmmph, fhhh...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「H-Hey, Setsugekka！？」"
+    },
+    {
+        "message": "The movement of her throat against the tip of my glans."
+    },
+    {
+        "message": "She's drinking it, isn't she？ Is she really swallowing the cum I just shot out？！"
+    },
+    {
+        "message": "I'm pretty sure I've heard cum tastes awful, though..."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Gulp, gulp... mmph, slurp, smooch, glk...」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Pwah... *cough*, *cough, cough*...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「A-Are you okay...？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Blegh... It's super sticky, and it doesn't really taste good...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, yeah, it's not really meant to be drunk in the first place. You didn't have to force yourself to swallow it...」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「*Cough, cough*... But guys like it when you swallow their semen, right？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well... yeah, it definitely makes me happy, but...」"
+    },
+    {
+        "message": "There really is a sense of satisfaction knowing she drank something unpleasant just for my sake."
+    },
+    {
+        "name": "Iori",
+        "message": "「Still, I'd feel bad if it made you uncomfortable, Setsugekka.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「It's okay. If it makes you happy, Sensei, that makes me happy too.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Setsugekka...」"
+    },
+    {
+        "message": "My chest warms at how devoted she is."
+    },
+    {
+        "message": "To be cared for this much... I really am a lucky guy."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ah, if you're feeling guilty about it... mwah.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ngh... Ah, so that's what you mean.」"
+    },
+    {
+        "message": "Kissed right where it's still oversensitive after cumming, my cock springing right back to life."
+    },
+    {
+        "message": "Of course, I have no intention of stopping here either."
+    },
+    {
+        "message": "Not just as thanks for swallowing my cum, but I should take the lead properly for her."
+    },
+    {
+        "message": "I sit up and place Setsugekka onto my lap."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「U-Umm, are we doing it in this position today？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That's what I had in mind... Do you not like it？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「It's not that I don't like it, it's just...」"
+    },
+    {
+        "message": "Blushing and looking away, she can't quite get the words out."
+    },
+    {
+        "name": "Iori",
+        "message": "「If there's something you want to say, you can tell me honestly. If there's a position you want to try, I'll go along with it.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「It's not that I have a position I want to try. It's just, umm, well……」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「When your face is this close, it's kind of embarrassing……」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I'm happy to see Setsugekka getting turned on up close, though.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Th-that's why it's embarrassing……」"
+    },
+    {
+        "message": "I feel like we were licking even more embarrassing parts just a moment ago…… A maiden's heart is complicated."
+    },
+    {
+        "name": "Iori",
+        "message": "「Haha, so Setsugekka gets shy too.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Muu—, what do you mean by that？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Because both yesterday and today you were proactive about dirty stuff. I figured you didn't have any hang-ups about that sort of thing.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「That was because my body was all worked up, so I just pushed through on momentum, or rather……」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I've calmed down now, so it's a little embarrassing……」"
+    },
+    {
+        "message": "The way she fidgets bashfully as she says that is cute."
+    },
+    {
+        "message": "Seeing a docile expression like that is rare."
+    },
+    {
+        "message": "I thought I knew a lot about Setsugekka, yet there seem to be plenty of sides to her I still don't know."
+    },
+    {
+        "name": "Iori",
+        "message": "「Then should we stop？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yaa, ahn, nn'n, haa, aaah……！ When you grope my boobs like that, aaahn！」"
+    },
+    {
+        "message": "I scoop up her soft, springy boobs from underneath."
+    },
+    {
+        "message": "My fingers sink into her sweaty, flushed soft flesh, and the way it squishes and shifts shape with just a light movement is arousing."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「That's unfair…… If you do this to me, aaah, haa, haa…… I can't say no……」"
+    },
+    {
+        "message": "Her lust seems to be winning out over being embarrassed about how close our faces are."
+    },
+    {
+        "message": "Her slit is pressed against my hard, erect penis, and her hips sway achingly."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Nhaa, ah, aaah……！ Teacher's is getting even hotter again……」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Twitching and trembling, haa, haa, ah, aaahn……！ I'm not going to be able to hold back, nn'n, haaa……！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You don't have to hold back. I want to see even more of Setsugekka's lewd expressions.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「B-but……」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I want to know all kinds of sides to Setsugekka. The lewd parts and the embarrassed parts—everything, okay?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Haa, haa…… ahn, n'n, kuuu……」"
+    },
+    {
+        "message": "Just a brief hesitation. But the answer is already obvious."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Uuu…… Sensei, you're being mean……」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hahaha, sorry. You look so cute acting shy that I couldn't help it.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ah…… nnnh, haa, aaa……」"
+    },
+    {
+        "message": "Pulling her close by the waist, Setsugekka's body trembles with anticipation."
+    },
+    {
+        "name": "Iori",
+        "message": "「Like yesterday…… no, I want to make you feel even better.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yes……! Please make me feel really good…… I want you to love me lots……」"
+    },
+    {
+        "message": "I can't hold back either."
+    },
+    {
+        "message": "Lifting Setsugekka's body up, I press my cock against her slit."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Annh, nnnh, haa, aaahh……！ Something hard is going in, uuu, nnnh, haaaa！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Tch…… uuu……」"
+    },
+    {
+        "message": "Though there isn't as much tightness as yesterday, my hips tremble from the squeeze pushing back against the intruder."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Sensei's really is big after all……！ Inside my belly, it's pushing right up, yaa, ah, nnnnn！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Even though it's the day after yesterday, does it hurt？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yes, I'm okay」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Today, aahn, there's only good feelings…… annh, haa, aah, haaa……」"
+    },
+    {
+        "name": "Iori",
+        "message": "「If that's it, haa, haa…… good then」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「So please move as hard as you want. When Sensei feels good, I can feel good too.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Got it. Then let's feel good together……」"
+    },
+    {
+        "message": "Putting strength into my hips, I stroke as if aiming for the deep back of her vagina."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Nkuh, ah, haah, aah, nnnnn！ Something amazing is echoing deep inside, uuuh！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「It's amazing, Sensei……！ I'm even more sensitive than yesterday…… yaah, aah, ah, nnnh, aaaa！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I prepped you well, after all. Maybe that's why you're so easy to make feel good.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yaah, aah, nnh, haaa…… I can feel Sensei feeling it too……」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Trembling inside my belly, ah, uuuh！」"
+    },
+    {
+        "message": "I'm sensitive too after coming once."
+    },
+    {
+        "message": "With every thrust, the pleasure of being sucked in makes my hips tremble on their own."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Annh, hah, aah, right there, that's good！ Feels so goo, hiiinn！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hah, hah... Around here？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yes, right there！ When you thrust near my belly button, my body gets all... ahhh... floaty, it feels so good, mmmph！」"
+    },
+    {
+        "message": "Instead of thrusting recklessly, I move my hips while searching for Setsugekka's weak spots."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hyaah, ah, aaahhh！ If you grope my breasts now—nooo, ahh, mmmph！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「It's too much, I'm feeling it too much...！ It's so full of pleasure... ah, uuugh, kuh, haaaah！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Aaaah... You're clamping down even tighter... guuuh！」"
+    },
+    {
+        "message": "The more I knead the breasts bouncing right before my eyes, the tighter her vaginal walls squeeze around my cock."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「It's too intense... auh, ugh, nn, hah, hah... I can't hold back anymore, aaahn！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You don't need to—hah, hah—hold back. I can't hold back either...！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「M-Maybe so, but... I want to stay joined with you for so much longer, Sensei... aaah, ah, nn, aaahhh！」"
+    },
+    {
+        "message": "Before I realize it, Setsugekka is matching my rhythm, slamming her hips back against mine."
+    },
+    {
+        "message": "With her vaginal walls clenching down tightly as she tries to endure the pleasure, I'm running out of composure myself."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Inside me... Sensei, you're swelling up so big, aguh, mmph, ah, hah, hah...」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「You keep hitting my sensitive spot over and over...！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「The pleasure won't stop...！ I can't anymore！ I can't take it anymore！ I'm—I'm...！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ugh, aaaah...！ W-Wait...！」"
+    },
+    {
+        "message": "Perhaps having given up on holding back, she presses her hips against me harder than ever."
+    },
+    {
+        "message": "I was supposed to be the one taking the lead, so letting her throw off my pace is bad."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Haah, aaah, mmph, kuh, aaaaah！ Sensei, Sensei, Sensei, aaaahhh！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Guhah, hah, ah, uuugh... If you squeeze me that tight, I'm gonna cum—guuuh...！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「It's okay！ Please, cum inside me！ Today's... aaah... I'm safe today, so... aaahn！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hah, hah... What do you mean, 'safe'...」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「It's a safe day, mmm, haah, aaaah！ It's totally fine today, so cum inside me just like this！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「It'll feel even better that wa—hyaah, nnghhh！」"
+    },
+    {
+        "message": "Is this really okay？ There's always a slim chance... Even that hesitation vanishes in an instant in the face of the pleasure."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I'm cumming！ Sensei, yours feels too good, I'm cumming！ Something huge is coming, I can't stop it, ah, aaaah！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「No, no, noooo！ Ah, aah, hah, aaaaaaaaah！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I'm cumming, mmm, ngh, haaaaaahn！ I'm cummiiing！ Aaaaaah！！」"
+    },
+    {
+        "message": "My urge to cum is pulled along by Setsugekka's climax."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hyah, haah, aaaah, mmmm！ Something hot, inside my belly, aaah...！ I can feel it pulsing, mmm, nghhhh！」"
+    },
+    {
+        "message": "Amid the pleasure of cumming inside, the semen spurting out forcefully is swallowed straight into her womb."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hau, ughhh... mmm, haah, haah... Cumming inside... feels so good...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Haah, haah, haah... Yeah, it really does feel amazing...！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「It does, doesn't it...！ Cumming inside definitely feels way better than outside...！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Guh, aaaah！ Hey, wait a second！ If you move right after I just came, uaaah...！」"
+    },
+    {
+        "message": "Even though I've only just finished cumming, Setsugekka keeps moving."
+    },
+    {
+        "message": "Further pleasure assaults my hypersensitive spot, and I can't stop my hips from trembling."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Because it feels so good, aaahn！ Besides... just think about it.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Today, you can cum inside your cute girlfriend as much as you want, you know？ Doesn't that turn you on？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Haah, haah... Jeez, you being this cute is a real problem！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hya, ah, aah, aaahn！ It's getting intense again, mmm！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「You really are amazing, Sensei, mmm, hah, aaaah！」"
+    },
+    {
+        "message": "Setsugekka still doesn't seem satisfied, and giving up before her here would be a disgrace to my manhood."
+    },
+    {
+        "message": "Focusing my strength into my lower abdomen, I match her movements and churn up the inside of her pussy."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Your hard shaft is reaching all the way inside...！ Next time too, aahnn... inside me, please,」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, of course...！ Just in case something happens, I'll take full responsibility！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Haa, haa... Responsibility...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I mean we'll get married and be together.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yaa, aah, haa, ah, mmmgh！ When you say things like that, I... Iiiii！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ughuuu...！ You're clamping down so tight...！ If you don't relax a little...」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「It's because you said something that makes me so happy, Sensei... my body is reacting all on its own！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「It's squeezing tight down there, ahn, mmh, haa, aah, kuuu...！」"
+    },
+    {
+        "message": "It must be her reproductive instinct. Her vaginal walls contract as if begging me to impregnate her."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ah, aah, ah, kuu, mmmgh！ Promise... It's a promise, okay...！ As soon as I graduate, you definitely have to, okay...！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, it's a promise. Once you graduate, we'll get married and make lots of babies！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ahaa, ah, mmh, haaaa...！ Sensei... I'm so glad！ I'm so, so happy...！」"
+    },
+    {
+        "message": "Watching Setsugekka smile so happily fills me with an unstoppable rush of affection."
+    },
+    {
+        "message": "With my semen and her love juices churned together, the inside of her pussy feels amazing in a whole new way compared to moments ago."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Mhaa, ah, ahn, fuuu...！ It's getting crazy inside my belly...」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「It feels like your semen is being pushed right into my womb, ahn, mmh, haa, aaaah... it's turning me on so much...！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Your love juices are flowing even more now, too.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Because it feels so good！ Whenever you make love to me, Sensei, I get lewder and lewder... aguu, mmh, kuh, aaaaah！」"
+    },
+    {
+        "message": "I focus my thrusts deep inside her vagina, as if driving my semen straight into her womb."
+    },
+    {
+        "message": "The sensation of her cervix, loosened by repeated climaxes, sucking onto me feels unbearably good."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「My body's even more sensitive than before... yaaa, aaahn！ I'm feeling it so much！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Deep inside my belly, it feels so good！ Your hard shaft is hitting my womb, kuhii, iiiinn！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Looks like you're feeling it pretty strong. I can tell from how it feels inside.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yes, I am……！ My body, I'm feeling way too much…… ah, ah, aah, an, nguh, haaaaaah！」"
+    },
+    {
+        "message": "Her vaginal walls pulse and cling so tightly it feels like she's been cumming non-stop."
+    },
+    {
+        "message": "Since I'm getting sensitive on my end too, every time my glans scrapes against her folds, a shiver-inducing pleasure spreads through my whole body."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「An, nn, ha, aah, aaaaaah！ Sensei, make my chest, my tits feel good too！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ha, ha…… like this？ Like this？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hiha, ah, nkuuu！ Good, it feels so good！ When you knead them rough I get chills, my body, aaaaahn！」"
+    },
+    {
+        "message": "While kneading them with my whole palm, I pinch the stiffly erect nubs with my fingers."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ahiii, good, hi, ha, aah, nn！ Everything Sensei does to me feels so good！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Even though my tits are being kneaded rough and I'm getting pounded hard…… it feels so good my head's going completely blank…… uu, n, ku, aaaaaaah！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「But this is what you like, right？ You've been clamping down, uuu…… like this too.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Good！ It's good！ It's amazing, so, aaaaah！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Keep going hard like this all at once, plea…… hii, ah, aah, nguh, haaaaah！」"
+    },
+    {
+        "message": "Setsugekka's arousal is pretty intense, but I'm right there with her."
+    },
+    {
+        "message": "The more I tease her, the tighter her grip gets, her folds wrapping around me to urge me to cum."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「An, nn, haa, aaaaah！ Sensei, I'm…… a big one's coming again……！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ah, aah…… me too. When we cum…… ha, ha, let's do it together.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yeah！ I want to cum together！ Cumming with Sensei, oooooh……！」"
+    },
+    {
+        "message": "Setsugekka's body tenses up."
+    },
+    {
+        "message": "Sensing my limit is right around the corner, I aim deep into the back of her vagina."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Higuh, nn, haa, aaaaah！ Deep inside my belly…… the tip's hitting my spot, aaaaaah！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「No way, this is amazingggg！ I'm way too sensitive, it feels so good, I'm gonna fly, I'm flyinggg！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ngh, aaahhh…… Setsugekka……！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I'm cumming, I'm cumminggg！ While Sensei's cumming inside me, I'm gonna cum, aahh, aaaaaaaahhh！！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I'm cuuuuumminggg！ Ngh-aaahhh！ Aaaaaahhh, annnnnnn！！」"
+    },
+    {
+        "message": "A wave of climax deeper and bigger than before. The arms wrapped around my neck squeeze tight."
+    },
+    {
+        "message": "And contractions of her vaginal walls that match it."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Khii, eeeeeehhh！ Ann, nnn, haah, aaahh, ah, uuuu……！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Haa, aaaaa…… uuh, aaaaaaah……！」"
+    },
+    {
+        "message": "Pleasure so intense it feels like my very soul is being sucked out. My vision flickers, barely able to keep consciousness."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Nnnn, ngh, aaahh, ah, fuu…… nnn, hih, aah, haa, haa…… aah, ah, nnn, aaaaah……」"
+    },
+    {
+        "message": "Setsugekka must feel the same way. Just trembling all over, savoring the deep climax."
+    },
+    {
+        "name": "Iori",
+        "message": "「Haa, haa, haa…… Are you okay？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Au, nnn, haa, aaah…… A little, not really, haa, haa…… okayyy……」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「It feels, so goood…… ann, nn, haaa…… My mind blacked out for a second thereee……」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hahaha…… Well, take it slow, okay?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Okayyy…… Let's stay like this a little longerrr……」"
+    },
+    {
+        "message": "Cumming three times in a row, my dick looks like it needs some cooldown time too."
+    },
+    {
+        "message": "Setsugekka seems at her limit too, so I guess we call it here for today."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Baaat, I'm super happyyy…… My belly's all fullll……」"
+    },
+    {
+        "message": "Setsugekka strokes her belly, filled with my cum, looking satisfied."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Senseeee, what you said earlier wasn't a lie, right？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「About taking responsibility just in case？ Of course not.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ehehe~, that makes me happy.」"
+    },
+    {
+        "message": "I gently catch her body as she leans against me."
+    },
+    {
+        "message": "We're all sticky with sweat and bodily fluids, yet a soft, nice scent of shampoo drifts over."
+    },
+    {
+        "name": "Iori",
+        "message": "「Looks like we have to take another bath.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Want to get in together right now？ I'll wash your back for you？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Not a bad offer, though is that really all it's going to be？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Now, I wonder. That all depends on you, Sensei.」"
+    },
+    {
+        "message": "Even though she was barely able to catch her breath just moments ago, Setsugekka hugs me tightly."
+    },
+    {
+        "message": "Pressing her breasts against me, it's clearly a seductive embrace."
+    },
+    {
+        "name": "Iori",
+        "message": "「Good grief... Looks like you're in need of some more educating.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yes! Please educate me nice and thoroughly in the bath♪」"
+    },
+    {
+        "message": "Tonight's going to be a long night..."
+    },
+    {
+        "message": "Feeling Setsugekka's warmth, I let out a wry smile to myself."
+    },
+    {
+        "name": "Iori",
+        "message": "「...In the end, it really did turn into morning.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ehehe... You really got carried away, Sensei...♪」"
+    },
+    {
+        "message": "On the bed, basking in the morning sunlight together, we share a shy laugh."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「That just proves how compatible we are in both heart and body, doesn't it...！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Putting it like that is embarrassing, but... there's no doubt about it.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ehehe, yay♪」"
+    },
+    {
+        "message": "She wraps her arms tightly around me."
+    },
+    {
+        "message": "However, the feel of her body makes my heart start pounding all over again, so I hurriedly pull away and stand up."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ah！ Sensei, where are you going, leaving me behind?！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「At this rate, it's going to be tomorrow morning before we know it！ Anyway, I need to go back to my room for a bit and take a shower or something.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「If it's just a shower, you're welcome to use the one in this room？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I don't have a change of clothes here.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Then while you're showering, I'll go fetch them from your room, Sensei！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「What kind of logic is that？！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「And then if we just bring all of your personal belongings here too, and you come home here every day...！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Isn't that just living together...？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I just thought maybe your home could just be right here from now on, Sensei！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, that would obviously be a problem. This is a dorm, after all.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hmm... Now that you mention it, you're right. That does sound a bit iffy.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「After all, if we're going to live together, I'd really want a house of our own eventually！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「When did this turn completely into moving in together—or rather, assuming we're getting married？！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Huh？ Sensei, don't tell me... you aren't going to marry me...？！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, I'm definitely marrying you. In fact, as long as you don't mind, Setsugekka, right after you graduate！」"
+    },
+    {
+        "message": "That's a certainty."
+    },
+    {
+        "message": "At my firm declaration, Setsugekka gave a happy little bounce on the bed."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yay！ Honestly, I feel like even right now would be fine with me, though I guess that really would be a little too soon, right?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah. It'll fly by in no time, though. Since it's until you graduate, that's two and a half years... no, three and a half years！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Why are you assuming I'm going to repeat a year？！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Haha, just kidding.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Jeez, honestly... If I get held back, it's all your fault, Sensei.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Don't worry. I won't let that happen. That's why I'm going to whip you into shape！」"
+    },
+    {
+        "message": "When I pointed at her decisively, Setsugekka nodded back with a smile."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yes! I'll do my best to keep up with you! Forever and ever!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah. Forever—for the rest of our lives.」"
+    },
+    {
+        "message": "Laughing together like that, we promised each other a happy future."
+    }
+]

@@ -1,0 +1,890 @@
+[
+    {
+        "name": "Iori",
+        "message": "「Everyone, we’ve arrived at the yakiniku restaurant just like we promised！」"
+    },
+    {
+        "name": "Setsugekka & Ririmu",
+        "message": "「Yaaaaaay！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Whoa, you guys are high energy.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「You gotta have high energy to eat yakiniku, right！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「To-day i-is, the hap-py meat day~♪」"
+    },
+    {
+        "message": "It seems there are two carnivores in the group. I’m glad they’re happy, at least."
+    },
+    {
+        "name": "Iori",
+        "message": "「By the way… I was the one who picked the place, but is that okay with everyone？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Totally okay! I mean, the place Sensei booked has a reputation for being super delicious!」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ho-ho, I’m looking forward to that then.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Excuse me, staff member♪ We’re going to eat every single piece of meat in this restaurant today~♪」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Save that for when we—no, don’t even say that once we’re inside.」"
+    },
+    {
+        "message": "Everyone looks like they’re having fun, so I guess I chose a good spot."
+    },
+    {
+        "message": "Well then, before we get obsessed with the meat, just one thing—"
+    },
+    {
+        "name": "Iori",
+        "message": "「Everyone, good job on the exams. Don’t hold back and eat as much as you want today！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Okay~♪ I’m even gonna eat the plates！」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Please don’t really eat them, you’ll get a stomach ache.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Feeling hyped！ I think it’s okay to disable the calorie limit for today, right~」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Thanks for the treat.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「...Iori-sensei is in harem mode again.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Oh, Asahi？」"
+    },
+    {
+        "message": "For some reason, Asahi had a dissatisfied look on her face. Come to think of it, she hadn’t even joined in on the conversation."
+    },
+    {
+        "name": "Iori",
+        "message": "「Is something wrong？ You don’t seem to be in a very good mood...」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「No, it’s nothing. Please, don’t mind me.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Sensei, what are you doing！ Hurry up, hurry up！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「If we don’t hurry, all the rare cuts of meat will be gone~！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Whoa, hey...！」"
+    },
+    {
+        "message": "As I was worrying about Asahi, Ririmu and the others suddenly grabbed my arm tight."
+    },
+    {
+        "message": "And then, without stopping, they started pulling me along."
+    },
+    {
+        "name": "Iori",
+        "message": "「I, I think she’ll be fine, though……！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Fufu, we have a reservation time to keep, so let's get going right away.」"
+    },
+    {
+        "message": "As if urged on by everyone, we headed toward the restaurant."
+    },
+    {
+        "name": "Staff",
+        "message": "「Thank you for waiting♪ Here are 10 servings of our special kalbi and special loin.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「It’s heeeere！！ It has arrived♪」"
+    },
+    {
+        "message": "Once we arrived at the restaurant and the meat we ordered was brought out, Setsugekka’s excitement seemed to spark instantly."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Meat！ Come on, let's grill it, let's grill it right now！ And then let's eat！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Haa... I feel like I could just eat it raw at this point.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「You'll get a stomachache. Besides, it's tastier when it's grilled.」"
+    },
+    {
+        "message": "The others were also eyeing the mountain of meat with sparkling eyes."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「For now, let's just keep grilling！ Leave it to me, haaaaah…… Mishima-ryuu Cat Style, Thousand-Hand Sagesse！！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Whoa, she's putting the meat on the grill with incredible speed！？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Cat style...？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「That's right！ A new secret Mishima-ryuu technique I came up with: Cat-chan Punch！ Nya-nya-nya-nya-nya-nya！」"
+    },
+    {
+        "message": "Meowing all the while, she filled the grill with meat in the blink of an eye."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ahh, the smell of the meat grilling... it's just irresistible！ Well then... itadakimasu♪」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ham, amu... mmm~♪ Haa, it’s melting...♪ Something so gooey and hot... inside my mouth... haafu」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「...This is！ Yes, it’s delicious.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Let's see... ooh, that’s good！」"
+    },
+    {
+        "message": "And perhaps thanks to the cat, the grill was constantly fully occupied."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「So delicious！ Just as you’d expect from the number one-rated spot. Hey, hey, pass me that moromi miso sauce over there~」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...Hmm. Well, it seems there’s no <d0083>Grilling Master</d> here.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「'Grilling Master'？ What are you talking about？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You know, that type of person who gives detailed orders for everything, like how you should grill it and all that.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Is there anyone like that in the Tenju Special Forces？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That’s how my captain is. But the captain always ends up getting the meat eaten while lecturing everyone on how to grill it.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Everyone in my squad judges food by whether it’s edible, not whether it’s delicious.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「That’s… that’s a little pitiful for your captain.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Haha, well, yakiniku really shows a person’s personality.」"
+    },
+    {
+        "message": "For instance, Setsugekka is the type who pours her passion into filling up the grill. Thanks to her, any empty space is instantly filled."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「First, grab the meat！ Then, immediately put more meat on！ And eat while the rest is grilling！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「And the moment someone clears a spot on the grill, fill it right back up！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Setsugekka, if you put too much on, won't you fall behind on eating it？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「It’s okay! If the overcooking alarm goes off, I’ll be sure to eat it all up!」"
+    },
+    {
+        "message": "On the other hand, Keisetsu seems to take a slow pace with both grilling and eating. Though, it looks like she hasn’t managed to grab much meat."
+    },
+    {
+        "name": "Iori",
+        "message": "「Here, Keisetsu. This one’s ready.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Thank you. I’m sorry to have troubled you.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, no, don’t mention it. I’m the flexible type who supports everyone around me while I eat.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Type…？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Anyway, just go ahead and eat. There’s still plenty left.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Fufu, don’t worry about me. I’ll eat at my own pace.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Eehhh！？ If you’re too shy, you’ll never grow big and strong, you know？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「How much more are you planning to grow, Secchan?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Let’s see… maybe like 57 meters tall~. Nom nom, oh, this is yummy…♪」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Are you trying to become a giant robot or something…？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Speaking of which, we passed by that brand shop earlier, didn’t we？ You know, the place where we picked out clothes the other day~」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Clothes？ Oh, yeah, that’s the place where you helped me pick some out！」"
+    },
+    {
+        "message": "—As Ririmu talks, pretending to be uninterested in the yakiniku, she deftly steals the meat off Setsugekka’s plate."
+    },
+    {
+        "message": "Ririmu is the type who’s quick to take the best parts for herself."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「H-hey！ That’s my meat！ I was keeping it there to save for later！ I won’t forgive a meat thief！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Eh? It’s fine, isn’t it? Oh, never mind that, look！ If you leave that over there, it’s gonna burn~」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Oh, you’re right！ Such a waste, such a waste！ *Nom*, *munch munch*... so good♪」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「How’s yours？ Is it cooked？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Mine? Not quite yet, I think?」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I see, not yet, huh? *Munch munch*」"
+    },
+    {
+        "message": "Meanwhile, it seems there are others who prefer to take what they want through raw skill rather than strategy—"
+    },
+    {
+        "name": "Momiji",
+        "message": "（『Shingan no Kiwamete, activate... Target, loin at 74 degrees to the right. 6 seconds remaining until optimal doneness. Correction: plus two』）"
+    },
+    {
+        "name": "Momiji",
+        "message": "（“Error adjustment until chopsticks arrive: minus 0.4... There！”）"
+    },
+    {
+        "name": "Momiji",
+        "message": "「...Mission complete. *Munch munch*, so good」"
+    },
+    {
+        "message": "She snatches up the meat with speed faster than the eye can follow. She’s like a falcon."
+    },
+    {
+        "message": "She doesn't have an Origami on her, so there's no Tenju or anything of the sort, but she seems to be putting her trained intuition and technique to good use."
+    },
+    {
+        "message": "Though, much like Momiji, Asahi also seemed to be targeting meat using her own intuition and technique."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Hah！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ngh... the meat in front of me just vanished...！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Yum yum」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Then I’ll take that one—there！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Hahaha, too slow」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「The one who’s slow is you！ My real target is this kalbi！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Guh...！ You’re pretty good...！ But I wanted the loin, so the damage is minimal...！」"
+    },
+    {
+        "message": "What are they doing? Both of them."
+    },
+    {
+        "name": "Iori",
+        "message": "「You two look like you’re having fun, but keep it within a range that doesn’t get us banned」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Oh, but more importantly, Teacher, haven't you barely eaten anything？ That’s no good！ Men need to eat more！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Huh？ Oh, I’m fine. I’m eating」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Should I give you some of the ones I took？ Here, here, want me to go ‘aaaah’ for you？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「N-no, I’m fine, really」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ah！ That’s cheating！ I want to try that too！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Then I’ll be the one to immediately shove a piece of meat into your mouth the moment you open it, Teacher」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That is no longer a simple ‘say ah’！」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Fufu, it’s tough being a teacher, isn't it? By the way, I have some meat I can't finish, too…」"
+    },
+    {
+        "message": "Slipping over, Keisetsu sidled up to me."
+    },
+    {
+        "name": "Iori",
+        "message": "「Don't say that while getting so close！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Teacher！ Eat mine too, eat mine！ Eat me！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That’s taking on a whole different meaning！」"
+    },
+    {
+        "message": "As we were exchanging words while I pushed back the meat being thrust at me from all directions—"
+    },
+    {
+        "message": "Suddenly, I felt a gaze."
+    },
+    {
+        "message": "A very cold one, or perhaps hot... in any case, it was a sharp gaze."
+    },
+    {
+        "message": "I turned toward it—the source of the glare was Asahi."
+    },
+    {
+        "name": "Iori",
+        "message": "「Asahi？ Is something wrong？ Your eyes look scary…」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Eh~？ Isn’t that just normal for her？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, it looks like she’s actually angry about something.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I believe the fact that Iori-sensei is getting along so well with everyone is a very good thing.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「However, aren't you all being a bit too clingy?」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「See~, it’s just the usual jealousy, right?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Asahi-chan really does love Sensei so much, doesn't she~」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Fufu, naturally.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Come to think of it, the other day when we were talking about Sensei, Asahi-chan gave me a photo of him, nom, chew…」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ah, me too, me too! I got one where he looks perfectly handsome~」"
+    },
+    {
+        "name": "Iori",
+        "message": "「W-wait a minute, what does that mean？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Everyone seemed very interested in Iori-sensei, so I shared just a little bit of my collection.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「D-don’t tell me that’s…」"
+    },
+    {
+        "message": "The ones from the private photoshoot where I was shirtless…?"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Don’t worry, those were photos of you wearing normal clothes.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「...Hmm？ So that means there are some where you aren't wearing clothes？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ufufu, it’s a secret!」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ah, I want that! Come on, Asahi-chan, gimme~!」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「No way, this shirtless photo is mine and mine alone」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Sensei's bulging pecs were just so, so magnificent...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Whoa~, hey Asahi, just a peek, let me see~!」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ufufu, I wouldn't mind if you'd sign a written pledge yielding Iori-sensei to me」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「S-Scary... A written pledge？！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Stop transferring and claiming ownership of me without my permission!」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「...Complaints from Iori-sensei will not be accepted!」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「All of this is because you're so indecisive, Sensei」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I-It's my fault？！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「You're kind to everyone, Iori-sensei, and I know better than anyone what a truly wonderful person you are」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「However, because you're far too kind to everyone, everyone's affection for you just keeps skyrocketing!」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I also know that you're by no means dense, Iori-sensei」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「So there's no way you haven't noticed everyone's feelings for you」"
+    },
+    {
+        "name": "Iori",
+        "message": "「W-Well... I guess...」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Putting me aside, don't you think pretending not to notice their feelings is rather improper!」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「What's wrong with keeping quiet about it？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「At this rate, it's going to turn into a harem!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hmm, I'm not really hoping for that, though. What would it take to satisfy you, Asahi?」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「It's simple—if you just state clearly who you like the most, Iori-sensei, everything will be settled」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Pffft？！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Well, Iori-sensei? Is there a girl you have your eye on among us?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「W-Well... you see...」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Whaaat, wait, there really is？！ Who is it—could it be me？！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Yeah, yeah, I'm seriously interested！ Come on Iori-rin, why don't you just confess everything right here?♪」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ooh~, this is getting interesting!」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Come now, Iori-san! Give us a straight answer!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Wait, wait, everyone just calm down!」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「How could we possibly be calm right now?！ Teacher, don't you have something to say for yourself?！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「We'd like a word about your hot romance with your special someone, please~」"
+    },
+    {
+        "message": "What is this, a press conference？！"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ahem... Look, okay？ I'm everyone's teacher.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「As long as I'm a teacher, I have a duty to treat you all equally. Even if there were someone, I couldn't give them special treatment.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「So, can you understand that...? No?」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Of course that's a no!」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「There's no way we're buying that！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「We reject your non-committal answer！」"
+    },
+    {
+        "message": "Geez... well, I suppose that was bound to happen."
+    },
+    {
+        "name": "Iori",
+        "message": "「But look, I can't publicly declare anything, even if you draw your swords on me.」"
+    },
+    {
+        "message": "If I were to say anything, it would have to be after graduation, when we're no longer 'teacher and student'..."
+    },
+    {
+        "name": "Iori",
+        "message": "「However, I have no intention of building a harem, and in my own mind, my feelings aren't ambiguous.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「For now, I'd like you to please leave it at that.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「So in other words, you *do* like someone in particular, don't ya~」"
+    },
+    {
+        "message": "Momiji-san, could you not show off your deductive skills at a time like this...？"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I see... I can't say I'm satisfied, but for now, we shall sheath our blades with that answer.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Then let's change the subject and get some meat！ Meat, meat~♪」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Eh~, you still wanna eat？ I'll come along, of course. Setsugekka, you really are a JGSDF Gorilla, aren't ya~」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ehehe, if Teacher is going back, maybe I'll just tag along~♪」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ooh, an aggressive move right there.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「It seems I'll have to settle things with you once and for all, Setsugekka-san...！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ehehe... well, since Asahi-chan already announced it, I figured a little bit would be alright, maybe...♪」"
+    },
+    {
+        "name": "Iori",
+        "message": "「But Setsugekka, while you're busy saying that, Momiji is...」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Gotcha. Meat secured~」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Aaaahhh?!? You took the best one!」"
+    },
+    {
+        "message": "As I thought. She was targeting it with everything she had, after all."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Curse you, Suzakuin...！ Even if you are Momimomi, I won't forgive you for this！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Fuhahaha, very well. Come at me.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「You jerk, don't think you can win against me with chopsticks！ Eat this, Mishima-ryuu Form of the Cleaver: Shadow, Flame Thrust！！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Hmph, thinking you can beat Suzakuin with that level of speed? You're a hundred years too early！ Take that, take that~！！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Cut it out with the metal chopsticks fighting！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「...Mishima-ryuu is amazing, isn't it？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「That's another one of Setsugekka's originals. I'm sure the Master will scold her.」"
+    },
+    {
+        "message": "And with that—the fun time passed by in the blink of an eye."
+    },
+    {
+        "name": "Iori",
+        "message": "「Ah, that was good. Everyone, are you all satisfied？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yuuup, I can't eat another bite~♪」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Haha, that's good. It ended up being cheaper than I thought, which is a huge help for me too.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「No, I feel like it was quite an expensive amount...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Even if we split the bill at the Tenju Special Forces, it costs double what it did today. I'm always the one getting the short end of the stick, hahaha.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Split the bill！？ What kind of girls are in the Tenju Special Forces！？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Still, it was a good appetite. The Tenju Special Forces will always welcome you all.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yes, sir~♪」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Is it a requirement that only gluttons can become members...？」"
+    },
+    {
+        "message": "Saying things like that, we all headed home."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ugh, my stomach hurts~」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Don't you think you ate way too much, no matter how you look at it?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I wonder if this uniform could be a bit... looser? The way it cinches at the waist is just painful...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Uniforms, huh? You know, I’d love to design uniforms for Murakumo Academy in the future!」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Oh really? What kind of design would you make?」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Heh-heh, actually, I’ve already got it all planned out. Something cool that perfectly captures the Murakumo Academy vibe！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「First off, it’s all about the ribbon!」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「You mean wearing a ribbon on your head？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「No way！ You know how kimonos have an obi？ I want to put a big one like that on the back of the waist~」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「And then I want to scatter some flowers all over it, too. I mean, for a girl, those things are super important, right?」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「And the skirt needs to be a bit flashier, with more frills, and I want the colors to be lighter than they are now!」"
+    },
+    {
+        "message": "Ririmu explained using lots of gestures. Everyone listened intently, nodding along."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Whoa, that sounds like it’s gonna be super cute！ I’d love to wear that~♪」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Yeah, I think it sounds good.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Right? Right? Maybe I should pitch it to the Flying Lily brand！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hahaha, it’s good to have plenty of dreams.」"
+    },
+    {
+        "message": "Surprisingly, she might actually make it happen."
+    },
+    {
+        "name": "Asahi",
+        "message": "「I’ve had a great idea. Let’s have Ririmu-san coordinate an outfit for Iori-san as well.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...Huh？ Me？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「That’s a great idea！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Wait, I only do girls’ fashion, though？ But for Teach... hmm, yeah, maybe...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Uh oh, she’s got that look in her eyes like she’s actually considering it... Anyway, we’re dismissed for today！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ah, Teach is running away！？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Wait up! Is that any way for a teacher to act!?」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「That’s so unfair！」"
+    },
+    {
+        "message": "Some chased after him, others looked on in disbelief. But everyone was smiling and clearly having a great time."
+    }
+]

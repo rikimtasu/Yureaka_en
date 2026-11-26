@@ -1,0 +1,283 @@
+[
+    {
+        "message": "Lunch break ended, and it was time for afternoon classes."
+    },
+    {
+        "name": "Iori",
+        "message": "「Alright, let's get started... wait, huh？ Where's Setsugekka？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「She said she was going to the convenience store for lunch.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「So she's late, then. That's rare.」"
+    },
+    {
+        "message": "Setsugekka might look laid-back, but she's surprisingly conscientious and always operates on schedule."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Setsugekka is such a handful. I'll have to scold her later.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Come on now, once in a while is fine, isn't it? It's not really worth getting so worked up over.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Absolutely not. If you coddle that girl, she'll just get carried away.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ah, I get that. I can picture it perfectly right now.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Shingan no Kiwamete is convenient, isn't it?」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ahahaha, Momitchi is convenient~」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Hey, would you mind not unjustly disparaging my Kiwamete？」"
+    },
+    {
+        "message": "While we were busy chattering away like that—"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Outta my way！ I'm comin' through！！」"
+    },
+    {
+        "message": "Suddenly, someone leaped into the classroom."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「I'm Arakawa Sonomi, second year in the Martial Arts Division！！ Pleased to meetcha！」"
+    },
+    {
+        "message": "Arakawa Sonomi stood planted on top of the teacher's podium, looking down at everyone."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「And I'm Kazamine Setsugekka, disciple number one to Sono-chan-senpai！ Pleased to meetcha！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hey, Setsugekka.」"
+    },
+    {
+        "message": "What on earth is she doing?"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "（I'm sorry, Teacher Muragaki, please let me play along with this persona for just a moment, I beg of you!）"
+    },
+    {
+        "message": "Setsugekka whispered hurriedly into my ear."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「So, is there someone named Suzakuin Momiji in this class！？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Suzakuin Momiji is this person right here.」"
+    },
+    {
+        "message": "Momiji pointed at Ririmu."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Wait, why are you pinning it on me！？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Well, I mean, this looks like it’s going to be a hassle...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「You're a wicked one, Momitchi!」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Senpai, it's her. The one with the bored-looking face.」"
+    },
+    {
+        "message": "With a brisk flick, Setsugekka points straight at Momiji."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Heh, so you're the one...！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Setsugekka-san, would you kindly stop giving me away?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「What's with that weird way of talking?」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Hehe, I'm always like this, you know.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「That's Momiji-san in her honor student mode.」"
+    },
+    {
+        "message": "She's probably putting on airs because Arakawa Sonomi is here."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Suzakuin Momiji！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Yes, what might it be?」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「I'm challenging you to a duel. Step outside for a sec...！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Oh, how frightening. Might I decline？」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Whoa, hey, are you serious?」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「What, so the heir to the Suzakuin name is just a good-for-nothing who's all name and no substance？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「If you wish to know my strength, I'll show you at the Martial Festival.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Huh？ Your senior came all the way over here in person, and you're gonna send me home empty-handed？」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「If you're the leader of martial artists, show me you've got some actual stature.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Whoaaa... Sono-chan-senpai, you're so freaking cool！」"
+    },
+    {
+        "message": "Come to think of it, Setsugekka did say she admires heels. So that's why she brought Arakawa-san along."
+    },
+    {
+        "name": "Iori",
+        "message": "「Welcome, Arakawa Sonomi-san. I'm Muragaki Iori, the assistant homeroom teacher for this class.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「I got no business with Teach, so butt out.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Even if you say that, we're about to start class.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Like I give a damn about that. The only one I've got business with is Suzakuin Momiji！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I see, requesting Momiji by name, huh? Sure, got it. I'll lend Momiji to you, then.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Hwah？！ Wait a second, Iori-sensei？！」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Huh... you're a teacher who actually talks sense, aren't ya」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ooh, Momimomi's being sold out」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Teacher, isn't that cruel！？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, no, Arakawa-san is right, you know」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I mean, it'd be a shame to send a senior student home empty-handed when she went out of her way to visit」"
+    },
+    {
+        "name": "Iori",
+        "message": "「It’s only right that Momiji steps up to spar with her」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「...So, what’s your real reason？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Arakawa Sonomi, second-year in the Martial Arts Division. Passed the Martial Festival preliminaries in her first year, eliminated in the first round of the main tournament」"
+    },
+    {
+        "name": "Iori",
+        "message": "「She’s one of the top two strongest in the second year of the Martial Arts Division, and she has a high chance of making it to the main Martial Festival tournament again this year」"
+    },
+    {
+        "name": "Iori",
+        "message": "「This is a great chance to measure the skills of a formidable student. I want everyone to observe Arakawa-san's fighting style」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「So you want me to be the scapegoat？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Matches are fun, Momiji！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「You think that’s gonna fool me!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「So, Arakawa-san, if you don't mind our students watching, I'd really like you to spar with Momiji」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「If I get to go against a Suzakuin, I don't care what it is」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Eeeehhh...」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Whoaah, getting to see Sono-chan-senpai fight in person is the best！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「So glad I brought her along！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Setsugekka, you’d better remember this later...！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Alright, then everyone, let's head to the training grounds！」"
+    }
+]

@@ -1,0 +1,5096 @@
+[
+    {
+        "message": "Even though it was an indoor training hall, colorful flowers unlike any I had ever seen bloomed in wild profusion."
+    },
+    {
+        "message": "On top of that, countless butterflies fluttered all around, swarming toward those nameless flowers or drifting away from them."
+    },
+    {
+        "message": "—Yet it was a little different from the dazzling image of butterflies dancing over a highland flower field."
+    },
+    {
+        "message": "The flowers were colorful, to be sure, yet somehow dull—faded rather than brilliantly hued."
+    },
+    {
+        "message": "Many looked showy enough at first glance, yet among them I could spot terribly plain ones, things resembling Rafflesia, and even what looked like carnivorous plants."
+    },
+    {
+        "message": "Even the butterflies swarming around them made me wonder if they might actually be moths."
+    },
+    {
+        "message": "...Though telling butterflies and moths apart is hard enough as it is. Apparently, it's actually butterflies that more often rest with their wings spread open."
+    },
+    {
+        "message": "About half of the ones flying around here right now could hardly be called pretty in either appearance or color, much like the flowers. Still, I hear there are butterflies like that too."
+    },
+    {
+        "message": "Not that I was actually trying to tell the butterflies from the moths like that, but—"
+    },
+    {
+        "message": "As I strained my eyes and looked closely, from my right—a single beautiful butterfly was approaching me."
+    },
+    {
+        "message": "And the instant I focused my attention on it—the butterfly suddenly transformed into Ririmu, raising her Origami overhead."
+    },
+    {
+        "name": "Iori",
+        "message": "「Ngh... There！」"
+    },
+    {
+        "message": "To counterattack, I reflexively swung my Origami as well."
+    },
+    {
+        "message": "—Not at the Ririmu I had just seen, however, but sweeping hard to the exact opposite side, to my left！"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Gyaun？！」"
+    },
+    {
+        "message": "A solid impact—and then Ririmu's shriek rang out."
+    },
+    {
+        "message": "The blade of the Ririmu I had just seen on my right lost its color, passing straight through my body and vanishing—"
+    },
+    {
+        "name": "Yorishiro-kun",
+        "message": "「Barrier Jacket has fallen below the safety threshold. Please conclude the combat simulation.」"
+    },
+    {
+        "message": "As that final announcement sounded, all the illusions vanished, and we were back in the usual indoor training hall."
+    },
+    {
+        "message": "I hurried over to Ririmu, who had fallen flat on her back, and offered her a hand."
+    },
+    {
+        "name": "Iori",
+        "message": "「Guess I put a bit too much force into that... Sorry, are you okay？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ah... I'm fiine, I'm fiine. That was nothing, really.」"
+    },
+    {
+        "message": "Ririmu reached out to take my hand—only to flinch with a sudden jolt and hesitate, before springing back to her feet on her own."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Still, you're as strong as ever, Sensei. And here I was sure I'd totally outsmarted you.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「On my end, it's still pretty much just instinct. My eyes were completely fooled, after all.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「There's no point if I can't throw you off right down to the bottom of your heart, y'know...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Haha. All things considered, I've fought you plenty of times, Ririmu, and more than anything, I watch you pretty closely.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Thanks to that, my heart might actually be harder to throw off now.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「…………」"
+    },
+    {
+        "name": "Iori",
+        "message": "「What's wrong？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Uh... hmm... It's nothing！ I just felt a liiittle bit frustrated, that's all.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Frustrated, huh. You really do hate losing too, Ririmu.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Of course I do！ My opponent freaks out at my illusions, gets totally thrown off, and goes down！ That's my aesthetic！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「So losing kinda sucks, y'know？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Was that illusion just now because of that frustration too? Your movements felt sluggish, or like you were hesitating.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Uh... well, not even making it to the main tournament at the Martial Festival is super lame, and totally not my aesthetic...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Even I get a little bummed out by that...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That's a completely natural feeling, and an important one. Besides, that's even why you asked me for private lessons during summer break, right?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「It's great seeing you get so dedicated like this, and it makes me happy too.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Huh？ Uh... yeah, well... yeah, I guess so！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...There's something behind that tone. Didn't you want to get stronger because you hated losing？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「O-Of course that's part of it too！ Isn't it obvious？ I've gotta train with Sensei so I can aesthetic, y'know！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You're kinda using 'aesthetic' like a verb there, though.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Oh, that's right！ I've gotta do my fashion research too！ Welp, Sensei, that's it for today's training！ See ya！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hey, Ririmu！」"
+    },
+    {
+        "message": "With that one-sided goodbye, Ririmu hurried right off."
+    },
+    {
+        "name": "Iori",
+        "message": "「...Guess she wasn't too keen on talking about that.」"
+    },
+    {
+        "message": "Maybe laying her feelings bare so directly is still a little embarrassing for her."
+    },
+    {
+        "name": "Iori",
+        "message": "「Ririmu's aesthetic, huh...」"
+    },
+    {
+        "message": "That has to be Ririmu's very heart itself."
+    },
+    {
+        "message": "That's exactly why I want to touch it even more, to understand it..."
+    },
+    {
+        "name": "Asahi",
+        "message": "「I found you, Iori-sensei.」"
+    },
+    {
+        "message": "As I was deep in thought, Asahi suddenly entered the training ground."
+    },
+    {
+        "name": "Iori",
+        "message": "「Oh？ What’s the matter, Asahi？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I was looking for you because I wanted to ask for some personal tutoring.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ah, is that so. Well, in that case... I’m free right now, for the time being.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「But doesn't this training ground have a reservation booked next？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「That’s fine. I’ve already made a reservation for the outdoor training ground. So, let’s go right away.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「W-wait, you don't have to pull me like that, I'm coming！」"
+    },
+    {
+        "message": "Even though I felt a bit guilty, or rather, felt like I had unfinished business, I let Asahi pull me along."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「...Well, the fashion research isn't a lie either, so...？」"
+    },
+    {
+        "message": "There’s no one around, but I make an excuse to myself anyway."
+    },
+    {
+        "message": "...After I ran away from Sensei."
+    },
+    {
+        "message": "I didn't have any plans to go anywhere, so I just wandered into a convenience store and, remembering, bought a fashion magazine. It's not like that research is a lie, either."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Both are important to me, you know~」"
+    },
+    {
+        "message": "As I was muttering that and reading, while walking along... suddenly, I heard a voice."
+    },
+    {
+        "name": "Iori",
+        "message": "「I never thought it would turn into this.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "（Huh, isn't that Iori-n？ Could he be chasing after me！？）"
+    },
+    {
+        "message": "At that thought, my heart skipped a beat—"
+    },
+    {
+        "message": "Or so I thought, but I immediately realized I was mistaken."
+    },
+    {
+        "message": "I ducked behind something to take a look, and around Iori were familiar figures: one, two, three..."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I won't lose this time！ Ah！ I mean, I won last time, so it's not 'this time' but 'this time too', right？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「You shouldn't expect such a fluke to happen so many times, you know？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「What did you say！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Don't start fighting before we even get to the training ground. Everyone is going to do special training equally.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "（Ah... so they're all heading to the outdoor training ground. Yeah yeah, got it, I get it.）"
+    },
+    {
+        "message": "I get it, but... somehow, I feel all muddled inside."
+    },
+    {
+        "name": "Iori",
+        "message": "「Still, when did things get so crowded, anyway?」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Exactly. It was supposed to be just the two of us, Iori-sensei and me.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "（It was just the two of us with me before that, though—！？）"
+    },
+    {
+        "message": "...Well, I was the one who ran away, though."
+    },
+    {
+        "name": "Ririmu",
+        "message": "（No, wait, it's not like I ran away—I just got a little embarrassed and felt like doing some fashion research, okay...？!）"
+    },
+    {
+        "message": "Making excuses to myself... I peek at them a little longer."
+    },
+    {
+        "message": "They're all chatting away so happily, even talking seriously about their training plans and stuff..."
+    },
+    {
+        "message": "They're going to head to the training grounds now, and I bet they'll have a great time training seriously there too."
+    },
+    {
+        "name": "Ririmu",
+        "message": "（...Come to think of it, I feel like something like this happened before...）"
+    },
+    {
+        "message": "That time I skipped class, and Iorin put on an act to try and do something about it, right?"
+    },
+    {
+        "message": "It was an act back then, but... right now it's probably for real. And it's not like I'm even skipping or anything."
+    },
+    {
+        "message": "Besides, the way I feel right now isn't the same as back then."
+    },
+    {
+        "message": "I feel way more unsettled than before, and jealous... and honestly, super frustrated."
+    },
+    {
+        "name": "Ririmu",
+        "message": "（...Well, duh, of course I do. Because...）"
+    },
+    {
+        "message": "Because I—I'm in love with Iorin."
+    },
+    {
+        "message": "That's why I'm so unsettled and nothing's going right. I'm supposed to be the one throwing people off, yet Iorin's the one messing with my aesthetic."
+    },
+    {
+        "name": "Ririmu",
+        "message": "（At this rate, forget Jindou, even my fashion won't go right... I really need to settle this properly, but...）"
+    },
+    {
+        "message": "Still, should I be the one to tell him？"
+    },
+    {
+        "message": "No way. Definitely not. Impossible. That's totally not my aesthetic."
+    },
+    {
+        "message": "Then what am I supposed to do？"
+    },
+    {
+        "message": "Not confess, yet still date Iorin. Is that even a thing？"
+    },
+    {
+        "message": "...Hm？ Wait, wait. That just means I don't confess, right？ Wouldn't it be totally fine if Iorin's the one who says it？"
+    },
+    {
+        "name": "Ririmu",
+        "message": "（That's it! If Iorin falls for me and confesses to me first, that's totally fine! Plus, doesn't that fit my aesthetic so well!？）"
+    },
+    {
+        "message": "Huge breakthrough！ I'm seriously a genius！"
+    },
+    {
+        "name": "Ririmu",
+        "message": "（Awesome！ Then I've gotta figure out a way to make Iorin confess to me right away！）"
+    },
+    {
+        "message": "...So, walking along while thinking about it is all well and good, except..."
+    },
+    {
+        "name": "Ririmu",
+        "message": "（Seriously, what do I do... I've never even thought about romance or how guys think）"
+    },
+    {
+        "message": "Plus, everyone I know is a rival, so there's no way I can ask them."
+    },
+    {
+        "message": "Who else knows a lot about that kind of stuff..."
+    },
+    {
+        "name": "Ririmu",
+        "message": "（Oh, right! Senpai's shop should be around here somewhere. Senpai's gotta know all about this kind of stuff!）"
+    },
+    {
+        "name": "Ririmu",
+        "message": "（Plus, Senpai is closer in age to Iorin, so that’s way better！ I’m honestly such a genius！）"
+    },
+    {
+        "message": "Just you wait, Iorin！"
+    },
+    {
+        "message": "I’m gonna use the info from Senpai to take Iorin down and get him to confess to me, for sure！"
+    },
+    {
+        "message": "Today, I had Iorin tutor me again."
+    },
+    {
+        "message": "…But the reason I asked for his help today is a little—just a tiny bit—different from usual！"
+    },
+    {
+        "message": "It’s obviously to put my operation based on Senpai’s info into action！"
+    },
+    {
+        "name": "Ririmu",
+        "message": "（Operation #1: A super blatant appeal！）"
+    },
+    {
+        "name": "Iori",
+        "message": "「Good work, Ririmu. You seemed to be doing great today. Your movements were sharp and energetic.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Nfufu, maybe. …But thanks to that, I’m pretty sweaty, huh？ Whew, it’s hot, so hot.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Haha, I guess so. You should go take a shower soon.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hmm？ Could it be that Teacher is imagining my shower scene or something？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「W-what are you saying? No way. You might catch a cold if you stay like that.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ahaha, I’m just kidding. You’re way too flustered.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Honestly…」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「But you know? When it’s this hot, doesn't it make you want to go to the beach instead of just taking a shower?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「The beach… well, that wouldn't be bad.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Right, right？ Besides, I mean, though I’m saying it myself, don’t you think I’ve got a pretty good figure？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Huh！？ That is, well, how should I put it…」"
+    },
+    {
+        "message": "Nfufu… Iorin is looking at my body, he’s totally looking. Time to take it a step further…！"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hey, don't you want to see me in a swimsuit？ If it’s in front of Teacher, I might even wear something a biiit daring, you know？」"
+    },
+    {
+        "message": "As I say that, I press right up against him！"
+    },
+    {
+        "name": "Iori",
+        "message": "「Whoa, Ririmu…！？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Mmh… Teacher, why are you backing away a bit！ And why are you holding your hands up like that?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I-I, well, it’s just that you suddenly got so close… and the hands are just, well… an appeal that I’m not touching you？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「You don't need to make an appeal like that！ I want you to make the opposite appeal instead！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I’ve never heard of an 'appeal that I’m touching you'…」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ugh… seriously, you’re so stiff.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well anyway, going to the beach itself might not be a bad idea. We could do some running drills on the sand too, so maybe I'll ask everyone else.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Huh? What're you talking about? It's supposed to be just you and me, Sensei!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, a teacher and a student going on a trip just the two of them is definitely a no-go. If we're going, we're going with everyone in Takamura Class！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ugh, come on！ There's no point if it's not just me and you, Sensei！」"
+    },
+    {
+        "message": "I already knew this, of course, but Iorin really is a tough opponent..."
+    },
+    {
+        "name": "Ririmu",
+        "message": "（Operation #2: Operation Capture His Stomach！）"
+    },
+    {
+        "message": "...Even though I say that, I'm not actually all that good at cooking."
+    },
+    {
+        "name": "Ririmu",
+        "message": "（But that's where... this comes in！）"
+    },
+    {
+        "name": "Iori",
+        "message": "「Grabbing ice cream at a convenience store on the way back from special training kinda makes me feel like I'm back in my student days.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I *am* a student, though.」"
+    },
+    {
+        "message": "After doing special training at the outdoor training grounds, we eat delicious ice cream from the convenience store together！ That'll totally capture his stomach！"
+    },
+    {
+        "message": "...I'm pretty sure the plan Senpai told me about was kinda pointless unless it's homemade, though..."
+    },
+    {
+        "message": "Oh well, my real plan starts right here anyway！"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hey, Sensei？ Wanna trade bites... Wait, huh？ Yours is just crushed ice！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Huh？ Oh yeah, I figured it's not too sweet and it's good for cooling off.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「We can't trade bites with *that*！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Trade for one piece of ice... maybe？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Totally pointless！ Geez, Sensei, you really are a tough opponent even in stuff like this...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I'm an opponent...？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Whatever, it's fine. I got this one—a popsicle！ When it comes to frozen treats, it's gotta be stick-shaped, right？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「True, those are pretty good too.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Mhaha, right, right？ Wanna let me give you a bite？ After I've licked it.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Wha—？！ N-No, that's...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ahaha, just kidding♪ For a Sensei who picks crushed ice at a time like this, your punishment is that you don't get a single bite.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Instead, make sure you watch me eat it reeeally deliciously, okay？」"
+    },
+    {
+        "message": "After teasing him like that, I take this popsicle like this... and lick it slowly with my tongue..."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Mmch, shlrp... shlurp... mmmch, mnah...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ri, Ririmu...？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Retchu, ngh... mmmfufu... what’s wrong, Sensei？ Your face looks kinda red, doesn’t it？ Nchu, reroh...」"
+    },
+    {
+        "message": "Without putting the ice cream in her mouth, she sticks out her tongue and swirls it around..."
+    },
+    {
+        "message": "Man, this is super embarrassing！"
+    },
+    {
+        "message": "I thought combining this with the original plan would make it the ultimate strategy, but this is way too embarrassing！ Who even thought of this！ Wait, it was me！"
+    },
+    {
+        "name": "Iori",
+        "message": "「Uh, Ririmu...？ That way of eating is a bit...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Mnn, mnnn...？ I’m just eating it normally, aren’t I？ You know, ice cream is meant to be... hoa... licked, right...？ Nn, chu, reru... nreroh... mnn...」"
+    },
+    {
+        "message": "But there’s no backing out now that I’ve come this far！"
+    },
+    {
+        "message": "Just gotta go for it！"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Nchu... ngh...！ Sensei, what do I do...？ The ice cream dripped a little...♪」"
+    },
+    {
+        "message": "As she says that, she opens her collar to flaunt her cleavage...！！"
+    },
+    {
+        "name": "Iori",
+        "message": "「Whoa, what are you doing！？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Wha, what do you mean？ The ice cream dripped and it’s gonna get my uniform dirty, so I’m just moving it away, right？ Here, Sensei, look. Some white ice cream got into my chest area...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...H-here, use my handkerchief！ It’ll be a disaster if it stains！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Eh, ah, un... uhm... that’s it！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hey, Sensei...？ Do you wanna watch me wipe it off？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Wipe it off while I’m not looking！」"
+    },
+    {
+        "message": "With that, Iori-rin turned his back immediately."
+    },
+    {
+        "name": "Ririmu",
+        "message": "（I did something this embarrassing and he won't even look at me...！ Iori-rin really might be a tough opponent...）"
+    },
+    {
+        "message": "...Well, it was pretty embarrassing to be stared at too much, so it actually helped a little."
+    },
+    {
+        "name": "Ririmu",
+        "message": "（Agh... nothing is working at all！）"
+    },
+    {
+        "message": "I’ve tried all sorts of things since then, but Iori-rin just won't budge, won't confess, and won't even try to pounce on me！"
+    },
+    {
+        "message": "Well, if he actually did try to pounce, I’d probably scream. Maybe."
+    },
+    {
+        "name": "Ririmu",
+        "message": "（But you know, there should be something more, right？ Like him staring at my body, or even if he doesn't confess, getting so excited he pins me against the wall or something）"
+    },
+    {
+        "message": "Venting her frustrations in her heart, she wanders around the station front."
+    },
+    {
+        "message": "Everyone around looks so happy, and there are even couples walking by, which just makes me feel worse."
+    },
+    {
+        "message": "Really, that should've been me right now！"
+    },
+    {
+        "name": "Ririmu",
+        "message": "（And today's special training was suddenly canceled too...！ Could it be that yesterday's pretend-to-trip-and-hug-from-behind plan actually weirded him out a little...）"
+    },
+    {
+        "message": "Come to think of it, Iorin froze up for a bit when I hugged him, so was I really laying it on too thick？ I'd seriously hate it if I creeped him out... What do I do..."
+    },
+    {
+        "name": "Ririmu",
+        "message": "（I thought that kinda vibe might be a yes, too, but maybe it was a no-go for Iorin...）"
+    },
+    {
+        "name": "Ririmu",
+        "message": "（I did all that and he didn't even make a move... Could it be I seriously don't have a shot...）"
+    },
+    {
+        "name": "Ririmu",
+        "message": "（No, no！ That's impossible！ No way！ That's totally not my vibe at all！）"
+    },
+    {
+        "name": "Ririmu",
+        "message": "（Even if I don't have a shot right now, turning a no into a yes is what I do best！ I'm definitely gonna make Iorin—！）"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Wait, huh？」"
+    },
+    {
+        "message": "Just then, a figure suddenly steps out from the side, making me stop dead in my tracks."
+    },
+    {
+        "message": "They must've noticed me too, stopping at the same time as we look each other in the face."
+    },
+    {
+        "message": "And that's when it hits me—this is Arakawa Sonomi."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「…………」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「…………」"
+    },
+    {
+        "message": "It's all in the past now, sure, but it's still a little awkward, so after we both go quiet for a second..."
+    },
+    {
+        "message": "It'd be weird to just ignore her and walk off now, so I'm the one who breaks the silence."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Just so you know, I'm not gonna lose next time.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「That's the first thing out of your mouth?」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Wouldn't it creep you out if I suddenly went, 'Oh, good day, Sonomi-san'？」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「...Yeah, fair enough.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「So, what're you up to？」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Huh? Why the hell do I gotta tell you?」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「No reason？ Not like I'm begging you to tell me or anything？ I was just asking, y'know？」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Hmph, is that right.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Nfufu~♪ Oh, wait, that thing in your hand. That's a bag from the thrift shop over there, right？ The one that mostly sells clothes？」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Huh？ Where I buy my clothes is none of your damn business.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Whoa, scary face... Relax, I don't think there's anything wrong with it. Besides, I shop there sometimes too, you know.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Hmph... Makes me sick.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「So mean！」"
+    },
+    {
+        "message": "Ugh, seriously, what is with her！"
+    },
+    {
+        "message": "...Or so I thought, until I stared hard at Arakawa-paisen and noticed something."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hey, Arakawa-paisen, your uniform's a little different from the normal ones, right？ Did you mod it yourself？」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「...What？ Don't tell me even you're gonna start yapping about school rules now？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ahaha！ No way I'd do that. I mean, I don't even remember the school rules.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「...Yeah, figures you wouldn't. Then what is it？ Gonna say my mods look tacky or somethin'？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「No, no, the exact opposite. I was just thinking, hey, maybe Paisen's actually got pretty good taste.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Huh...? What's with you all of a sudden?」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Like, it really suits you, y'know？ Feels like you've got your own whole vibe going on, and you tailored your uniform to match it.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Sh-Shut up... Quit being creepy all of a sudden. What is this? Some new tactic? Butter me up first so you can hit me with somethin' annoying again?」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Huh? Like I'd ever pull that. When it comes to fashion, I never lie, and I don't do flattery, okay?」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Then what the hell is your deal, anyway?」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「What do you mean？ I'm just saying Arakawa-paisen's fashion sense is a total yes, like, way on point!」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「I told you！ Stop complimenting me over every little thing！ Cut it out！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Whaaat？ Who gets mad about having their outfit complimented？ That's impossible!」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Well, it's possible！ Sheesh...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Well, if you ask me, it's still just a tiny bit short of perfection, though. Your footwear's kinda neglected, and I'd wanna see some nail art too.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Hah, like I've got the time or money to waste on nails.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Aww, really? Even though you've got such great style?」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「I only dress like this so nobody messes with me. I couldn't care less about fashion or whatever. Even today, I was just out buying clothes for my little sister.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「I'm gonna go pro as soon as I can so I can give my little brother and sister a good life. I don't have time to fool around looking flashy like you.」"
+    },
+    {
+        "message": "She jabs a finger at me provocatively. More importantly, though—"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hmm... So you're aiming to go pro, huh?」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Obviously. There's no other path for me. I'm even working on a finishing move that'll get the crowd hyped once I'm a pro.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「That teacher of yours even told me that if I wanna go pro, it's better to have somethin' flashy like that.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Huh？ Wait, were you asking Iorin for advice！？」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Well, he talks to me sometimes, so I just kinda did.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Going to Iorin for advice is kinda unfaaaair! He's my Iorin!」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Huh? Since when the hell did he become yours?」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Well, I mean... that's the plan？ Kinda...」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Well, I always figured teachers were all the same, y'know, but that guy feels kinda different.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「On that front, I'm actually a little jealous of you guys in Takamura Class.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Heheh♪ Riiight, riiight？ After all, he's my Iorin, y'know~」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「I told you, he's not yours.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Iorin's seriously awesome, y'know. He even sees right through my illusions like it's nothing. ...Well, that part's a little frustrating, though.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「But it's not just that he's strong—Iorin's got tons of other amazing things about him, y'know？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「First off, it's definitely the way he teaches, or like, how he gets you in the mood to try. Like with me, before I even realize it, I'm all motivated, and I'm like, 'Ugh, Iorin's totally got me dancing in the palm of his hand.'」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「And then he's so nice! Somehow he plays me like a fiddle and gets me doing stuff, and I'm like, 'Damn it,' and then right when I feel like that, he's all gentle with me!」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「It kinda feels unfair, y'know? Like, isn't that cheating? But I just end up forgiving him anyway. I wonder if he's playing me again, but I end up forgiving that too！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「And yet he's strict when he needs to be, so just when I'm thinking he'll let it slide 'cause he's nice, he suddenly gets super firm, and it totally makes my heart skip a beat—like, how could anyone not fall for that！？」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Yeah, I dunno about that...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Oh, and of course his face is pretty... Well, at first I thought he wasn't all that, but now when I really stare at him, I kinda feel like he's handsome？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「The way he fights is great too. When I'm fighting Iorin, it really feels like a whole world of its own！ Plus his voice is kinda mature and soothing, like—」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Argh, that's enough already！ Just how much are you into that teach！?」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I-I-I-It's not like that or anything...！」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Hah, I'm not interested in that kind of stuff. Do whatever you want.」"
+    },
+    {
+        "message": "Arakawa Sonomi gave a wry smile and walked away."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I-It's not like that~！ Seriously, it's nothing like that！」"
+    },
+    {
+        "message": "I shouted at Arakawa Sonomi's retreating back."
+    },
+    {
+        "message": "Without really meaning to, I wandered over to my usual shopping area."
+    },
+    {
+        "name": "Ririmu",
+        "message": "（I mean, this is totally my home turf, right？ Like, y'know？）"
+    },
+    {
+        "name": "Ririmu",
+        "message": "（Buuut I don't really have any plans or anything. Since I came all this way, maybe I actually will look around at clothes？）"
+    },
+    {
+        "name": "Ririmu",
+        "message": "（And then head over to Senpai's place after to get some more advice？ Though it works for my aesthetic, I have no idea how it'd fit Iorin's aesthetic）"
+    },
+    {
+        "name": "Ririmu",
+        "message": "（Like, I thought the last one was pretty good too, and yet it didn't really seem to work on Iorin...）"
+    },
+    {
+        "message": "Could it be he's into even lewder stuff...？！"
+    },
+    {
+        "message": "Iorin actually seems pretty pervy underneath it all... Well, personally, I wouldn't even mind that！"
+    },
+    {
+        "message": "It's just that going too far with it is kinda embarrassing... If it comes to that, wouldn't it be better to just actually do it already？"
+    },
+    {
+        "message": "...Oh crap. I think I've been overthinking things so much that my aesthetic is slowly turning into a total pervert's."
+    },
+    {
+        "name": "Ririmu",
+        "message": "（Anyway, let's just look at clothes for now, clothes！ When it comes to my aesthetic, this is what it's all about！）"
+    },
+    {
+        "message": "I duck into a random shop for now. It's kinda similar to Senpai's place, yet a little different."
+    },
+    {
+        "message": "Looking closer, it seems like they lean a bit more toward menswear here."
+    },
+    {
+        "name": "Ririmu",
+        "message": "（Intentionally working some menswear into my look might be nice too. The stuff around here really hits the aesthetic—）"
+    },
+    {
+        "name": "Ririmu",
+        "message": "（Oh, these clothes over here might look great on Iorin！ Iorin's usually all hot-blooded, so maybe a cool style like this would be nice. Or if we're playing up the hot-blooded angle, maybe this one？）"
+    },
+    {
+        "name": "Ririmu",
+        "message": "（Come to think of it, I haven't really checked out menswear much. If I'm thinking about going on dates with Iorin, as his girlfriend, I definitely want him wearing proper clothes）"
+    },
+    {
+        "name": "Ririmu",
+        "message": "（Iorin doesn't really seem like the type to care about that stuff, though. Like that time before...）"
+    },
+    {
+        "message": "...Wait, huh？"
+    },
+    {
+        "message": "Come to think of it—haven't I barely ever seen Iorin in casual clothes？！"
+    },
+    {
+        "message": "Ririmu told me she'd come up with today's special training menu herself, and as she led me by the hand to the training grounds—"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Aaaand so！ Starting right now, we're kicking off Sensei's special fashion training！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I don't even know what led up to this... Special fashion training？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Yep！ You never show me your casual clothes at all, Sensei, y'know？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「It's not that I won't show you, there's just never an occasion for it.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Sooo, I went ahead and made a 'creation' for it!♪」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Well, even if I say that, I just added clothing data to our usual AR. Senpai helped me out, so we've got a great lineup!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Are you even allowed to do that on your own...？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Totes fine, totes fine. If I delete the data afterward, it'll be back to normal. The only difference is whether I delete it now or after we use it.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well... I suppose what's done is done.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「That's the spirit! You're so understanding, Sensei, it's a huge help!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I've just figured out how to handle you, Ririmu.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hmm... I'm kind of half-annoyed and half-happy to hear that.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Oh well！ Anyway, let's get right to it！」"
+    },
+    {
+        "message": "Once Ririmu gets like this, there's no stopping her, so I decided to go along with this \"fashion training\" of hers."
+    },
+    {
+        "message": "...Well, that part's fine and all."
+    },
+    {
+        "name": "Iori",
+        "message": "「By the way, what exactly is fashion training？ What am I supposed to do？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hmm, nothing special, really？ We're just gonna pick out clothes together. If there's something you like, Sensei, just speak up!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「In other words, I'm going to be your dress-up model.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Well, something like that？ Okay, first up is... this！」"
+    },
+    {
+        "message": "Ririmu tapped away at something as she spoke, and what appeared was a casual-looking outfit."
+    },
+    {
+        "name": "Iori",
+        "message": "「That looks like the kind of stuff I usually wear. Though in my case, it's a lot plainer.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Oho, I see, I see. So that's your usual vibe, Sensei... Yeah！ It suits you pretty well, doesn't it？ You've actually got good sense, Sensei.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I see. Because I'm 'Sensei,' I've got good 'sense,' eh...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「…………」"
+    },
+    {
+        "name": "Iori",
+        "message": "「…………」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「...Well then, on to the next one！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah！ Bring it on！」"
+    },
+    {
+        "message": "I didn't say anything！"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Okay, next up... how about something like this！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「A summer knit and tapered pants in subdued colors—a slightly grown-up summer outfit！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Huh... The color scheme looks familiar, though this is my first time wearing clothes like these.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「You actually look pretty good like this, Sensei！ It gives off that vibe of, like, 'I'm usually super hot-blooded, but in private I'm totally calm and collected！'」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I really am calm, though.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ahaha！ Okay, next up~」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Why'd you laugh at that...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ooh, Sensei, you might even be able to pull off something like this？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Shorts and a linen shirt with the chest wide open！ Throw on a necklace too to make it an outfit that really draws attention to your pecs！ Oh, and let's slap on some sunglasses while we're at it！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「T-This is a bit much...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Whaaat? I think it looks pretty good! You've got such a toned body, so you really make it pop! You'll be the center of attention with all that masculine sex appeal, you know?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Come on, it's embarrassing.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Really？ If you wore something like this, Sensei, I'd kinda sneak a peek—or, like, straight-up stare at you.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「…………」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Actually, no, it's way too sexy！ You're forbidden from showing off like that to any girl besides me！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I didn't even do anything！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Geez. You're always trying to make girls' hearts flutter like that, Sensei~」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I'm telling you, I didn't do anything...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Oh well. Next, next！ We've still got tons more to try！」"
+    },
+    {
+        "message": "—And with one thing and another."
+    },
+    {
+        "message": "Under Ririmu's styling direction, I cycled through all kinds of different outfits."
+    },
+    {
+        "message": "Some of them were kind of joke outfits, sure, but between things I'd normally never wear and styles I actually liked despite never knowing about them before, it was a fresh, fun experience."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「...Okay, well, I think that's about all the outfits I've got for you？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Did any of the outfits so far catch your eye, Sensei？ You can also tell me if you want to tweak anything from the combos we tried.」"
+    },
+    {
+        "message": "As she said that, she showed me the list. Taking her up on it, I seriously started choosing based on my own tastes."
+    },
+    {
+        "name": "Iori",
+        "message": "「I really liked that outfit from earlier, though I think I prefer this darker color over here.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I see, I see... Yeah, this one definitely has a calmer vibe that feels totally like you, Sensei！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Maybe you and I really do have pretty similar tastes, Sensei？ Whenever you think something looks good, I think it looks good too！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, we might really be a good match. Every outfit you recommended was something I liked too.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Riiight?♪ You totally get it, Sensei♪」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Oh, wait—do you actually prefer darker colors, Sensei？ The one you just picked was like that too. Is it because of your job, like thinking about blending into the shadows or something？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Haha, it's nothing like that. When I'm by myself, I wear brighter colors pretty often too.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「But since I'm picking them out with you, I was thinking about how it'd look when I'm walking next to you.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Huh, with me...？！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah. When I thought about that, you're probably going to wear bright colors, so I figured the opposite would look better on me. Even going by your aesthetic, wearing the same color palette wouldn't really work, right?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, that's just an amateur guess, so I don't know how it actually fits with your real aesthetic, though.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Sensei, you thought that far ahead about me, and you even understood my aesthetic...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ugh！ That's totally unfair！ That is way too aesthetic！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I still don't really get what 'way too aesthetic' means, though...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Anyway, it means you're the absolute best, Sensei！ Seriously, like, for real...！ Ugh！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Wait a sec! Sensei, if you're already assuming we're going out together... could it be that you're already into the idea?!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Wh-What? Into what idea?」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Mgh, you're gonna make me say it？ I mean, you know, how should I put it... if my sense of style and yours combine, wouldn't we be unstoppable？ Or something？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...What do you mean？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Like, I'm the finger, and you're the nail polish... kinda thing？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I'm getting even more confused here...！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Whaaat？ Okay, then... if I'm a dress, you're the leggings？ Oh, wait, that's not really my aesthetic, huh.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「With leggings, maybe a long-sleeve tee？ A knit top？ Still, if we're gonna do it, maybe something a bit bolder...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Just how much more confusing is this gonna get... Actually, I don't even know what we're talking about anymore.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I'm saaaying！ Um... you and I have pretty similar taste, don't you think？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「So if the two of us team up, wouldn't we be unstoppable？ Like the two of us fusing together, or combining...」"
+    },
+    {
+        "message": "As she fretted, Ririmu tried saying all sorts of things..."
+    },
+    {
+        "message": "Before long, though, she clutched her head and started shouting."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ugh, geez！ I don't know！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Nope, I can't do it！ I tried to say all kinds of stuff, but I can't get it across at all！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ririmu? 'Get it across'?」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I mean...！ Basically, um...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I'm saying I'm in love with you, Sensei, and I wanna be your girlfriend！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Huh...！？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Geez！ I really wanted to make you say it instead, Sensei！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「R-Ririmu？ What you just said...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Just so you know, I'm not lying or joking, okay?！ Every word is true—I'm dead serious！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I've been in love with you for a while now, Sensei... but saying it myself is embarrassing, y'know？ And it's not really my aesthetic either...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「That's why I was trying so hard to get you to say it, y'know？ Hugging you, eating ice cream！ And yet you never said a single word, Sensei！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Because of that, I couldn't hold it in anymore and ended up having to say it myself... Seriously, Sensei, you're way too strong and way too unfair！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「At this point, it's gonna make me think I just don't have a shot, y'know！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「S-So that's what it was...」"
+    },
+    {
+        "message": "I'd thought Ririmu was just teasing me this whole time."
+    },
+    {
+        "name": "Iori",
+        "message": "「But... in that case, I should've just said it myself.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Huh？ Wait, do you mean...」"
+    },
+    {
+        "message": "Ririmu was always free-spirited, staying true to her own set of values no matter what."
+    },
+    {
+        "message": "To outsiders, she probably looked selfish, and I'm sure there were people who found that grating."
+    },
+    {
+        "message": "To me, though, Ririmu's earnestness felt dazzlingly bright and captivating."
+    },
+    {
+        "message": "Always staying true to yourself might sound simple, but it takes an incredible amount of courage."
+    },
+    {
+        "message": "She must have been fighting quietly on her own all this time. She always faces things head-on with everything she's got."
+    },
+    {
+        "message": "Before I knew it, I couldn't take my eyes off Ririmu."
+    },
+    {
+        "name": "Iori",
+        "message": "「I love you too, Ririmu. I've been thinking about when to tell you this whole time.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Huh... No way... For real...！？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, as for real as it gets. In fact, all those things you've been trying? Every single one of them hit me straight in the heart.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Huh？ Really？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Every time you did something, I kept wishing I could freely pour out what was in my heart.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「You could've just told me instead of holding back！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「We're teacher and student, after all. I figured I still had to hold back on this kind of thing.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「But... when you confess to me with such a serious look on your face, I really can't hold back this time.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ririmu... I love you.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hwaaah... That's seriously way too unfair, Sensei...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「But... I'm super happy！ I love you so much, Sensei！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Whoa？！ Don't just hug me out of nowhere...！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ehehe~♪ Why not？ We're lovers now, after all♪」"
+    },
+    {
+        "message": "Once she makes up her mind, she charges straight ahead without hesitation, no matter what. That's so like Ririmu."
+    },
+    {
+        "name": "Iori",
+        "message": "「Right, we're lovers now.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Right, right. From now on, we're of one mind... one mind... and...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Oh！ How 'bout a drink！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「One body and soul」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Yeah, that's it！ That torso！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「One body, right」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Well anyway, that's just how it is！ Our torsos gotta be pressed right up against each other like this too, y'know~♪」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I-It's honestly a little embarrassing, and... aren't you hot？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Putting up with the heat and cold is Fashion 101, y'know. I'm used to this much...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Oh！ Wait, if I'm clinging to you like this, people won't even be able to see my outfit！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, that's definitely true.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ngh...！ Then when I'm walking around town with you, Iorin, I guess I've got no choice—no clinging allowed, huh.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I guess when you get all dressed up, you really do want people to see it.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Totally！ Besides, walking around with you means our fashion's a combo deal, Iorin.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Let's make a name for ourselves as the most stylish couple in the world！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「H-Hey, making a name for me across the whole world is a bit much.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「You're pretty hot yourself, Iorin, so you should have more confidence♪ After all, you're my boyfriend！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Huh？ Wait a sec... On the flip side, I'm your girlfriend too, so—」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Does that mean from now on, I should incorporate your sense of style and dress to your tastes too... right！？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「If that's the case, I might have to put a liiittle thought into it, though...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, wait, Ririmu. There's no need for that.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I love you, and I want to stay by your side forever. That's why I want to match my clothes to yours, too, but—」"
+    },
+    {
+        "name": "Iori",
+        "message": "「When it comes to your fashion, I don't want you dressing for my tastes—I want you to stick to whatever you think is the absolute best.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Huh？ But then you'll be the only one putting in all the work, Iorin...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「The fashion I love seeing on you is the kind that's 100% pure Ririmu.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「So if you're thinking of me, then for my sake too, keep dressing in a way that's totally you.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Iorin...! When you say stuff like that, come on...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「You're really gonna make my heart flutter, you know？ Actually, I might seriously never let go of you like this, okay？」"
+    },
+    {
+        "message": "Saying that, Ririmu hugs me even tighter."
+    },
+    {
+        "message": "...Well, of course that makes me happy, and I gladly accept her embrace without any complaint, except—"
+    },
+    {
+        "message": "Ririmu keeps squirming happily against me like that... and every time she moves, all sorts of parts of her body rub up against mine..."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「...Ioriiin？ Isn't your face looking kinda pervy right now？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Wha—！ Th-That's... not true, okay？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Reeeally？ Isn't that the exact same face you made when I was eating ice cream？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ugh...！」"
+    },
+    {
+        "message": "Okay, back then I definitely did imagine—or rather, fantasize about—all sorts of things...！"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Mhuhu♪ Don't worry, it's totally fine. I'll forgive you. Because... I'm doing this hoping you'll feel that way too, y'know...？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Huh？ Ririmu...？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hey... we both feel the same way, and we're a couple now, so... why don't we just have sex right here？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Wha—？！ N-No, doing it here is definitely no good...！ Even if the room's booked, someone could walk in at any time...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ooh？ Hmmm...？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...W-What？ No matter how much you ask, I'm not budging on this, okay？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「It's fine, really~ I was kinda thinking doing it here might be bad too, y'know~」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Oh, really...? Well, yeah, obviously. Even for you, Ririmu, that'd be—」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Wait, Iorin, you didn't say no to having sex, right~？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Gah！ Well, that's...！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Okaay, then it's decided♪ Somewhere nobody'll come—let's go to your room, Iorin♪」"
+    },
+    {
+        "name": "Iori",
+        "message": "「H-Hey, Ririmu！ I haven't even said anything yet...！」"
+    },
+    {
+        "message": "Ririmu clings to my arm and starts running, tugging me along forcefully."
+    },
+    {
+        "message": "I put up a token protest—though without putting up much actual resistance, I end up running right alongside her."
+    },
+    {
+        "message": "And so I get dragged into the room—well, my own room, technically."
+    },
+    {
+        "message": "Anyway, once I'm forcibly pulled inside, I ask Ririmu once more."
+    },
+    {
+        "name": "Iori",
+        "message": "「Uh... are we really doing this？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Obviously. Besides, you wanna do it too, right, Iorin？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well... yeah, I guess？」"
+    },
+    {
+        "message": "I can't deny that at all. Back when Ririmu was eating that popsicle, it was honestly hard not to fantasize about it."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Mfufu~. Looks like you're finally being honest with yourself？ Then there's zero problem at all~」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...Yeah, you're right. I'm going to steel myself and do this！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Oh, nice, nice！ That's the Iorin I know~」"
+    },
+    {
+        "name": "Iori",
+        "message": "「So, for starters... uh... should we take our clothes off？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Huh？ Take off... our clothes？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, yeah, we can't really do anything if we don't, right？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ah... well, y'know, isn't keeping them on an option too？ Plus, hey, you're totally into uniforms and stuff, right, Iorin？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Even if you ask, 'You like it, don't you？' I don't really know how to answer that... Still, if you leave it like that, it'll get dirty, won't it？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「No biggie, no biggie, it'll be fine！ More importantly, c'mon, when we're all alone together, isn't there something we're supposed to do？」"
+    },
+    {
+        "message": "Saying that, Ririmu threw her arms around mine."
+    },
+    {
+        "message": "No, rather than just hugging it, she was practically coiling around me, pressing not only her arms against me, but her legs too."
+    },
+    {
+        "message": "Barely anything was touching my crotch, at least, though..."
+    },
+    {
+        "name": "Iori",
+        "message": "「H-Hey, Ririmu...！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ahaha, getting embarrassed? You're really weak to this kinda stuff, aren't you, Iorin?」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Keep being such a wimp, and I might just be the one to push you down, y'know？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You'd push me down...？！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「C'mon, c'mon. Whatcha gonna do, Iorin？」"
+    },
+    {
+        "message": "Grinning playfully, Ririmu leaned her weight onto me."
+    },
+    {
+        "message": "Honestly, if I let my guard down right now, it felt like she really would topple me right over."
+    },
+    {
+        "message": "Thinking about being pushed down and having Ririmu take the lead to do all sorts of things... actually didn't sound half bad, either."
+    },
+    {
+        "name": "Iori",
+        "message": "（No, as a man—and as the older one here—I have to be the one to make the move...！）"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Iorin's... y'know, down around there... isn't it already getting pretty crazy？ You can't hold back anymore, right？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ngh, yeah, I really... can't hold back！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Kyah？！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「H-Hey, wait... Iorin？！ Y-You're just gonna push me down out of nowhere？！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Because I can't hold back... Wait, wasn't this what you were saying I should do？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I just figured we'd start normal, like with a kiss or something...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I see, a kiss... I want to do that, too.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「You want to, wait—mmph...？！」"
+    },
+    {
+        "message": "No sooner had the thought crossed my mind than I claimed Ririmu's lips. Pushing her down seemed to have given me all the momentum I needed."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Mmph... mm, mwah, mmmh... mmph, mnah...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「W-Wait... Iorin, mmph, mm-mwah, mwah...！ Hah, haa... You're being way too aggressive all of a sudden...」"
+    },
+    {
+        "message": "After our lips lingered together for a while and finally parted, Ririmu blushed brightly, her eyes darting around."
+    },
+    {
+        "message": "It was a different side of Ririmu than usual, and cute in its own right."
+    },
+    {
+        "name": "Iori",
+        "message": "「Mm... If you seduce me like that, of course I'm not gonna be able to hold back.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Besides, it seemed like you wanted to kiss too, Ririmu...？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「It's not that I wanted to, I just... thought you might kiss me, that's all...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You didn't want to？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Isn't it unfair to ask that...？ There's no way I'd say I didn't want to... I do want... to kiss you, Iorin...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I'm glad... I want to kiss you too, Ririmu.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Mnnnh...！ Mchuh, mmuh... Mmfu, chmuuh...」"
+    },
+    {
+        "message": "When I kissed her again, unsurprisingly, Ririmu wasn't startled this time."
+    },
+    {
+        "message": "Even so, I could tell she was still a little shy from the way she fidgeted and squirmed."
+    },
+    {
+        "message": "Holding her close in my arms, I gave her repeated pecking kisses, lightly licking her soft lips with my tongue."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Mnh, mchu, mnn... Chmuh, mmh, mnhchuh...！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Mmfu, chupa... Hah, aah... Iorin, aren't you kinda good at kissing...？ Don't tell me you're actually pretty experienced...？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Mm... I'm happy to hear you say that, but you're my first, Ririmu. Including sex, too.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Mnha... So you're a virgin, Iorin...？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「It's embarrassing when you actually say it out loud, but... what about you, Ririmu？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Mfufu... It's my first time too, so you don't have to worry...♪」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「You're the first person who's ever made me feel like this, Iorin... Mmuh, mchuh... Mnhaa... And from now on, I'm only ever going to have eyes for you, okay...？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ririmu... That makes me so happy. For me, it's only you too, Ririmu.」"
+    },
+    {
+        "message": "As if to convey those feelings, I pressed my lips to hers again, as passionately as I could."
+    },
+    {
+        "message": "She had complimented me on being good at it, but really, I was just trying my best while frantically recalling everything I'd seen in all sorts of \"books.\""
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Mmchmuh, mmfu... Chup, mmh, mchu, chupa...！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Iorin, I... mmuh, mnah... Somehow, my head's getting all fuzzy... and my body's getting all tingly and restless... Mnnnh...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Me too, Ririmu. So... is it okay if we go ahead now？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Actually saying it's okay is super embarrassing, though...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah... you've got a point there. Well then...」"
+    },
+    {
+        "message": "Making sure not to look at Ririmu's embarrassed face, I gently slid her panties off."
+    },
+    {
+        "message": "At the same time, I undressed too, and pressed my cock against Ririmu's exposed pussy."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I-Isn't it kinda huge...？ Are they supposed to be like that...？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Really？ I don't know about other guys, so hearing that makes me feel kinda embarrassed, or maybe happy...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I'm telling you, it's huge...！ I mean, look at it... There's no way that's gonna fit inside me...！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I don't think that's true...」"
+    },
+    {
+        "message": "Even as I said that, Ririmu's pussy really did seem small, making me feel a little worried too."
+    },
+    {
+        "message": "So, to help her get used to it, I slowly moved my hips, rubbing myself along the line of her slit."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hyau...！ H-Hey, Iorin... Nnnh... That feels kinda perverted...！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I thought it might hurt if we don't get you used to it at least a little... Besides, thanks to this, you seem wetter than before.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I-Iorin, have some tact...！ Hiuuu, nnnn...！」"
+    },
+    {
+        "message": "The more I rubbed against her, the more love juices overflowed from Ririmu's slit, slicking up my cock."
+    },
+    {
+        "message": "On top of that, her pussy itself seemed to cling to me every time I pressed against it, its softness getting me more and more aroused..."
+    },
+    {
+        "name": "Iori",
+        "message": "「Ririmu... I'm gonna put it in soon, okay...？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「W-Wait, um... Go slow, got it...？ There's no way it's gonna go all the way in...！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Of course, I'll be as gentle as I can...」"
+    },
+    {
+        "message": "Saying that, I finally began pushing into Ririmu's pussy."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Haguuu...！ Nnnnuu...！！」"
+    },
+    {
+        "message": "I inserted it trying to cause as little pain as possible, yet Ririmu still let out a strained cry as if enduring the hurt."
+    },
+    {
+        "message": "Her insides suddenly clamped down tightly around me, and I stopped moving right there."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Nnah, haa... Yours really is a bit too big, Iorin... It feels even bigger than it looked...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Does it hurt after all...？ I'll wait until you settle down.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Y-You really don't need to worry about that at all, okay...？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I do Jindou, you know... I'm totally used to a little pain like this...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You really don't have to force yourself.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I'm really, totally fine...! And besides, it's kinda weird, or like... with yours inside me, Iorin, deep inside my body gets so hot... like I can't hold back, y'know...!」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「It's making me think that if you move, it might feel even more amazing, y'know？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, yeah... I feel the same way.」"
+    },
+    {
+        "message": "Ririmu's insides were small and tight, just as expected, yet that squeezing felt good rather than painful."
+    },
+    {
+        "message": "The sensation of being snugly enveloped by her soft walls of flesh was enough on its own to send shivers down my spine."
+    },
+    {
+        "message": "I couldn't help thinking about what it would feel like if I moved more and pushed even deeper..."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I-If you don't move, Iorin, I'm gonna start moving myself, okay？ Should I do it until you're completely empty...！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ririmu... alright. I'm going to move now, okay？」"
+    },
+    {
+        "message": "Sensing she was putting on a bit of a brave front, I answered her feelings by slowly starting to thrust in and out."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hngh... nnaah...！ Hah, augh... mmmh...！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「M-Moving feels so... amazi—hyuuh...！ It's totally different from just having it inside... hguh, nnaah！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Me too... it feels completely different...！」"
+    },
+    {
+        "message": "As I moved, Ririmu's insides squeezed down on me even tighter. It felt as if I were being firmly gripped by a soft hand."
+    },
+    {
+        "message": "Moving a little forcefully to rub against those fleshy walls plunged me into the sensation of having something milked right out of me."
+    },
+    {
+        "message": "And Ririmu, beads of sweat glistening on her forehead, began to let her mouth fall somewhat slackly open."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ah, kuh, mmmh...！ Hah, haah...！ This is somehow... amazing... hyuuh, nfuuuh...！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Deep in my head, it's hot and tingling... haah, augh...！ Like everything's going pure white...！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「T-This might actually be... a whole vibe... nnaaah！」"
+    },
+    {
+        "message": "Showing traces of her usual tone, yet shifting into an expression I had never seen before—Ririmu."
+    },
+    {
+        "message": "The sight of her only made my excitement surge even higher..."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Khh, fuuh...！ I-Iorin... mmmhh...！ You can... do this harder, okay...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Harder...? Are you sure? It doesn't feel uncomfortable or painful, does it...?」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Didn't I tell you there was none of that from the start...？ Never mind that... this feels so amazing, my head's all fuzzy...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Like I'm gonna see... a whole new world, hyuu...！ Nhaa, aah...！ Hey, Iorin... do me more...？」"
+    },
+    {
+        "message": "Saying that, Ririmu turned her hot, glistening eyes toward me."
+    },
+    {
+        "message": "I was already getting worked up just from the feel of her pussy, and when she makes a face like that and begs me—！"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ngh... If it hurts, tell me right away, okay...！」"
+    },
+    {
+        "message": "Even as I spoke up just in case, I couldn't hold back and immediately started thrusting harder."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Nnghaaaah？！ Hagh, nfuuu...！ Th-This is crazy, augh, nfuaaaah！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ngh, Ririmu, are you okay...？」"
+    },
+    {
+        "message": "Even as I worried about Ririmu crying out so loudly, I still couldn't stop thrusting."
+    },
+    {
+        "message": "And Ririmu, as if accepting it, desperately called back to me."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I'm totally fine, hyuu！ I-If anything, this is, ah, aah！ Not even enough yet, higuu, ngaah...！」"
+    },
+    {
+        "message": "Whenever I worry about her, Ririmu always puts on a brave front, yet it was obvious from her face that she was losing her composure."
+    },
+    {
+        "message": "Still, it didn't really look like it was from pain or discomfort—"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ah, haah... hauuu...！ Ngaaaah！ Wh-What is this, auuu！ Wait, it's too much...！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「A-Aaaah...！ When you move like that, Iorin, it feels crazy...！ Hyuu, mmmnh...！ I can't stop my voice...！ Weird noises just keep coming out on their own... ngaah, auuu！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Your voice, Ririmu... it's so cute and lewd, I love it...！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「H-Hey... not right now, aah, hauu！ Mmmnh...！ You don't have to say stuff like that...！ Ah, aaaah！」"
+    },
+    {
+        "message": "With a voice and expression unlike her usual self, Ririmu's body trembled as her face flushed bright red."
+    },
+    {
+        "message": "Any sign of discomfort steadily faded away, and spurred on by that, I started moving even more freely without holding back—"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Iorin... k-kiss me...！ Ngah, aaah！ This is way too embarrassing... hauuun！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Kiss me... cover my mouth, hyuu, nhaaa！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ngh, I think your voice is cute too, though... When you ask me like that, Ririmu...！」"
+    },
+    {
+        "message": "Seeing Ririmu beg so clingily, swept up in my arousal, I practically loomed over her and stole her lips."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Mmph, mchu...！ Nfu, nuuu！ Nn, shlup！」"
+    },
+    {
+        "message": "Unlike the light pecks from before, I pressed my lips firmly against Ririmu's and forcefully entwined my tongue with hers."
+    },
+    {
+        "message": "Yet far from resisting, Ririmu latched onto my lips, eagerly extending her own tongue to meet mine."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Nnn...！ This might be too much, mmph, nnchu...！ Kissing you feels way too good, Iorin, nchu, mmuuu！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Shlu, chumu, nnu...！ My mind's going all white...！ It feels even better than before, so hot, mmuu, nchuu！」"
+    },
+    {
+        "message": "Ririmu's entire body was already slick with sweat, and I could tell her juices were overflowing from where we were joined."
+    },
+    {
+        "message": "Saliva spilled from her slackening mouth as well, making wet squelching sounds every time our tongues intertwined."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Chubu, n-shlup！ Iorin, this... nnu！ I can't take it... nfu, mmuuu！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I'm gonna cum, nfuu, nuchu！ Chubu, shlup！ I'm cumming... You're making me cum, Iorin！ Mmph, nnn！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Nngh, Ririmu...！ Me too, I'm...！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Iorin, together, nfu, chubu, nnu...！ Together, okay, amuu, nchuu！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ngh, yeah, together...！」"
+    },
+    {
+        "message": "As we called out to each other, I drove deep up into Ririmu to connect even further—！"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Nfaaaah, aaaaahhhhh！」"
+    },
+    {
+        "message": "I tore my lips away and barely managed to pull out right at the moment of climax."
+    },
+    {
+        "message": "As if pulled along with me, Ririmu lifted her hips, her body jolting in a huge shudder."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ah, haah...！ Aaaah...」"
+    },
+    {
+        "message": "As her hips trembled in small, repeated spasms, copious amounts of love juices overflowed from Ririmu's pussy."
+    },
+    {
+        "message": "Between her love juices and my cum, Ririmu's body had ended up completely sticky and messy..."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Haa, haaah... Iorin, you're way too amazing... I've never felt anything like this before...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Me too, Ririmu... It felt really, uh... amazing.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Yeah... It felt so good... I think I might actually get hooked on this...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Still, Iorin, letting out this much... Isn't that kinda crazy...？」"
+    },
+    {
+        "message": "Saying that, Ririmu looks down at the cum splattered across her stomach and lightly traces it with her finger."
+    },
+    {
+        "name": "Iori",
+        "message": "「It just felt so good inside you... Still, I'm glad I managed to pull out in time.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I wouldn't have minded if you did it inside, you know~...？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「We can't do that... Come on, obviously.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Well, I guess it would be trouble if I accidentally got knocked up？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I do want a baby someday, sure, but right now I just want to have tons of sex with you, Iorin...♪」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That's not the only issue... though I can't deny that part either.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Mfufu~... You really are a pervert after all, Iorin~」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Aren't you the one to talk, Ririmu？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ahaha. Then I guess we're two of a kind, which makes us a great match？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Haha, I suppose so.」"
+    },
+    {
+        "message": "Laughing together like that, we basked in the blissful afterglow."
+    },
+    {
+        "message": "Morning—"
+    },
+    {
+        "message": "A crisp, clear morning."
+    },
+    {
+        "message": "Through the window, I can see bright morning sunlight and a crystal-clear blue sky. I think I can even hear little birds chirping somewhere."
+    },
+    {
+        "message": "And it's a refreshing morning where both my mind and body feel completely revitalized... except."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Mffufu~♪ That was fun, wasn't it, Iorin？」"
+    },
+    {
+        "message": "On the bed."
+    },
+    {
+        "message": "Ririmu's voice drifts over from right beside me."
+    },
+    {
+        "name": "Iori",
+        "message": "「I really did it now...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「We sure did, didn't we~♪」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Not like that！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I mean putting a student in a situation where she's going home in the morning.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「But wasn't that kinda unavoidable？ Telling me to go home the same night after banging once is way too harsh.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, yeah, I guess you're right about that.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Besides, we're lovers now anyway~ ♪ This much is totally normal, totally normal ♪」"
+    },
+    {
+        "message": "Saying that, Ririmu clung to my arm."
+    },
+    {
+        "name": "Iori",
+        "message": "「Hey, stop！ That kind of thing first thing in the morning is seriously bad...！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I wouldn't mind at all, you know~？」"
+    },
+    {
+        "message": "When I hurriedly pulled her off me, Ririmu pouted in dissatisfaction."
+    },
+    {
+        "message": "However, I brushed that off, climbed out of bed, and briskly changed into my clothes."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hmm... Oh, right！ Hey Iorin, wanna go shopping together after this today？ Well, I dunno if I'll actually buy anything, though.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, sorry, Ririmu. I have private tutoring with Asahi today.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「You're going straight to private tutoring right after having sex with your lover？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Don't say that...！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「If you're in a state like that, why not just go on a date with me today~? We finally became lovers, so a date's gotta come first, right！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I feel like we already did something else before going on a date... Anyway, no. I can't do that.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I have to properly fulfill my duties as a teacher. Even though you and I are lovers now, Ririmu, first and foremost, all my students get equal treatment！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hmph... Oh, this is that thing！ The whole 'Which is more important to you, your work or me?' thing, isn't it！? Which one, which one? Which is it, Iorin！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Work！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「So mean！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Okay, well, that was a joke. Still, it's precisely because you're important to me, Ririmu, that I have to do my job properly too.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Otherwise, I won't even be able to stay with you. A teacher-student relationship is already problematic enough as it is.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Then why don't we just elope or something？ I'm really good at hiding from nosy, annoying people ♪ I used to do that kinda thing back in the day, too.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, that's really a bit much...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ahaha！ You take things way too seriously, Iorin~ I was joking too, y'know.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「A joke... really？ You scared me there.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I'm not planning on turning into that kind of bothersome woman anyway~？ That doesn't fit my worldview at all, y'know.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That'd be a huge help. I'm planning to take proper time off too, so don't worry. I want to go on a date with you, Ririmu.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Okay, okay! It's you we're talking about, Iorin, so I'm not worried. Well then, see ya later!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, I'm off.」"
+    },
+    {
+        "message": "Saying that—"
+    },
+    {
+        "message": "On a sudden impulse, I caught Ririmu off guard with a kiss."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Mmmph...？！ Mmm... ngh... haah...！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「W-Wait... Iorin？！ What's with that, all of a sudden...！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well... I just thought I'd try doing one of those goodbye kisses, or something...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Nobody told me about this...! Besides, you're being way too smooth, Iorin... Even though you were a virgin up until yesterday!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ahaha... I just really wanted to try it. Did you hate it？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Of course not, but... hmm...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「...Well, it is you, Iorin？ Maybe sweet stuff like this isn't so bad once in a while. Lover's privilege, right？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Haha, I'm glad. Then let's try that again—I'm off.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Oh, right. I'll leave you the key just in case, so make sure to lock up when you head home.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Yes, yes. Okay, for real this time, like normal—have a good day.」"
+    },
+    {
+        "message": "With Ririmu waving goodbye, her face still a little red, I left the room feeling bashful myself—"
+    },
+    {
+        "message": "...The front door clicks shut, and Iorin disappears from view."
+    },
+    {
+        "message": "Now I'm all alone in Iorin's room."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Now then............ What should I do?」"
+    },
+    {
+        "message": "Iorin's gone, so should I just head back to my own place？ Nah, doesn't that feel kinda meh？"
+    },
+    {
+        "message": "Then should I stay here until Iorin gets back？ I'd just get bored, though."
+    },
+    {
+        "message": "Go out for a bit and come back to his room before Iorin returns？ Wait, doesn't that seem kinda lame？"
+    },
+    {
+        "message": "Snooping around his room is out of the question. That's totally not my vibe."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「What to do... When Iorin's not here, I dunno...」"
+    },
+    {
+        "message": "We literally just started dating, and yet everything feels boring without Iorin around."
+    },
+    {
+        "message": "It wasn't even that long ago that I didn't have a boyfriend at all, yet I can't remember how I used to feel back then. My head is just completely full of Iorin right now."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「...I feel like this isn't really my vibe, though...」"
+    },
+    {
+        "message": "Still, somehow, I don't hate it. Thinking about nothing but Iorin actually feels super nice."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Iorin, you told me to cherish my worldview, right? But maybe my worldview's already started changing to include you too?」"
+    },
+    {
+        "message": "Actually... maybe that's kinda nice in its own way. I feel like I've changed enough to think that."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「So, what's a girl like me supposed to do now... Hmm.」"
+    },
+    {
+        "message": "Lying on Iorin's bed, thinking about what I want to do, how I want things to go..."
+    },
+    {
+        "message": "Thinking......"
+    },
+    {
+        "message": "Just as I told Ririmu, today I'm giving Asahi some training."
+    },
+    {
+        "message": "I came to the training ground for that and was going over today's regimen with Asahi, when—"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「All right, let's give it our best today！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Why is Ririmu here too？！」"
+    },
+    {
+        "message": "Before I knew it, Ririmu was standing right next to me, cheering enthusiastically."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Huh？ Whaddaya mean why... 'Cause I'm the team manager, obviously？ It's my job to support you, Iorin.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Since when did you become the team manager...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Since today, duuuh♪ I wasn't doing it yesterday, was I？」"
+    },
+    {
+        "message": "Well, yeah, that's true."
+    },
+    {
+        "name": "Iori",
+        "message": "「I mean, I appreciate the support and all, so I don't mind. Still, seeing you as a manager is kinda refreshing, or rather...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I figured you'd hate doing behind-the-scenes stuff like this, saying it's not part of your worldview or whatever.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Wh-Wha—uh... well, yeah... normally, sure. But hey, doing the exact same thing all the time isn't my worldview either, y'know？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Doesn't it kinda feel like trying out something a little different like this every now and then could totally be part of my worldview too, kinda sorta？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Don't ask me, how am I supposed to know.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Anyway, it's fine, it's totally fine! More importantly, here—want some water？ Need me to wipe your sweat？ I'm gonna support you like a proper manager!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「N-No, I haven't even moved yet.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「...Wait a moment. If you are a manager, shouldn't you be supporting me, the athlete？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Huh？ Me supporting Asahi？ As if! There's no way I'm doing that.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I see. So you're going to be my punching bag instead♪」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Cut that out!」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I mean, do you even want me supporting you, Asahi? Like, having me wipe your sweat and give you water?」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「...Indeed, I hate even imagining that.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Right？ So I'm exclusively for Iorin！ Okay？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I'm not convinced in the slightest...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Okay, looks like Asahi's totally on board now, so hurry up and work up a sweat and get thirsty, Iorin！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That's a first for requests... Well, anyway, let's get the special training started. The sweat and thirst will come naturally once we do.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Okay, okay! Go on and get right into it, then!」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Somehow this is throwing off my rhythm...」"
+    },
+    {
+        "message": "In any case, we began our special training under Manager Ririmu's watchful eye."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hah！ Syaaaah！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yes, that's the sword stroke！ Don't forget that feeling！ Let's go again right now！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Yes！ Faster this time...！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "（......Hmm, something's not quite right）"
+    },
+    {
+        "message": "I stare blankly at the sight of Iorin and Asahi clashing swords."
+    },
+    {
+        "message": "I didn't... really have anything to do."
+    },
+    {
+        "message": "Well, occasionally I did. Like tweaking the simulation settings or stopping it—just little odds and ends like that."
+    },
+    {
+        "message": "And during the periodic breaks, I get my chance to shine by wiping his sweat and bringing him water, which makes me happy, sure, but—"
+    },
+    {
+        "name": "Ririmu",
+        "message": "（Yeah, something's definitely off...）"
+    },
+    {
+        "message": "I barely get any screen time, and more importantly, Iorin isn't nearly as close to me as I thought he'd be！"
+    },
+    {
+        "message": "Plus, Iorin's been staring straight at Asahi the whole time！ Well, it's Asahi's special training, so I guess that's only natural."
+    },
+    {
+        "name": "Ririmu",
+        "message": "（Iorin won't even look my way, and these chores are plain and annoying...）"
+    },
+    {
+        "name": "Ririmu",
+        "message": "（I thought being a female manager meant I could stay by Iorin's side even during special training...）"
+    },
+    {
+        "message": "Not that I'd ever tell Iorin that—it's kinda embarrassing, and totally not my vibe."
+    },
+    {
+        "name": "Ririmu",
+        "message": "（Was this a bust...? Is waiting in his room really the ultimate play after all?）"
+    },
+    {
+        "name": "Ririmu",
+        "message": "（...No！ This has gotta be the best way！ When I came up with it, I thought it was a total stroke of genius！）"
+    },
+    {
+        "name": "Ririmu",
+        "message": "（Which means all I have to do is come up with an even more genius idea from here, right？ Then genius plus genius equals totally unbeatable！）"
+    },
+    {
+        "name": "Ririmu",
+        "message": "（Evolving from female manager into something way more amazing... Something that'll make it impossible for Iorin not to look at me...）"
+    },
+    {
+        "name": "Iori",
+        "message": "「All right, let's take a quick break here. Heeey, Ririmu! Got any water？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Huh？ Oh... water？ Sure, sure! I'll bring it right over. Oh, if you want, I can even give it to you mouth-to-mouth!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...Don't you say that every single time you bring me water？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Do I？ Well then, open wide~」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I told you, no！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Your guard is surprisingly high when it comes to stuff like this, Iorin.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Even though you gave me a kiss like that this morning.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Th-That's completely different from this！」"
+    },
+    {
+        "message": "When I whispered in his ear, Iorin's face turned bright red—so freaking cute！"
+    },
+    {
+        "message": "Putting that aside, though. Looks like he's not gonna take water mouth-to-mouth from me, so I can't use that trick."
+    },
+    {
+        "message": "Which means something else......"
+    },
+    {
+        "message": "The next day—today was Momiji's private coaching session."
+    },
+    {
+        "message": "And on this day too—Ririmu was standing right beside me."
+    },
+    {
+        "name": "Iori",
+        "message": "「So it wasn't just a one-day thing.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Like there's any such thing as a one-day girl manager？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I guess so. Well, if you're going to help out for real, Ririmu, it'll definitely be a big help, and I'm glad to have you.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Just leave it to me. Plus, today I've got something super amazing lined up for you~」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Something amazing？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hehe, that's still a secret. Come on, come on. More importantly, shouldn't you be doing Momicchi's special training？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Y-Yeah...」"
+    },
+    {
+        "message": "Even as I nodded, I couldn't help but wonder about Ririmu's smug smile."
+    },
+    {
+        "message": "It was half unease, half anticipation, I suppose—"
+    },
+    {
+        "message": "Anyway, throughout the coaching session, I kept stealing glances at Ririmu to see what she was up to."
+    },
+    {
+        "message": "And then, when lunch break came around—"
+    },
+    {
+        "name": "Iori",
+        "message": "「Huh? Momiji, are you going out to buy lunch?」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「If I go buy it, I get to rest longer by however long the trip there and back takes, right？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That's weirdly sneaky of you.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Do you already have yours ready, Sensei？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, I'm planning to go buy some too. If I run there, the trip there and back makes for some light exercise, right？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ugh, so annoying.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Don't go calling your teacher annoying!」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Well, whatever. Anyway, I'm gonna walk over nice and slow, taking plenty of breaks along the way to go buy it. Wonder if I'll even make it back before the day's over...」"
+    },
+    {
+        "message": "Saying that, Momiji slowly walked off."
+    },
+    {
+        "message": "Following after her, I got myself ready to head out shopping—"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「All right, all right, Iorin—stop right there!」"
+    },
+    {
+        "message": "Just as I was about to leave. Ririmu stepped right in front of me, blocking my path."
+    },
+    {
+        "name": "Iori",
+        "message": "「Whoa？ What's up？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Unlike Momitchi, you don't need to go shopping at all, Iorin!」"
+    },
+    {
+        "message": "She even made an X with her arms right in front of me."
+    },
+    {
+        "name": "Iori",
+        "message": "「...Oh. Wait, are you gonna go buy it for me instead, Ririmu？ Since you're the female manager and all.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I'm not doing gofer work like that either!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Huh？ Then what is it？ I'm getting pretty hungry here...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Heheheh. For a hungry Iorin like you, instead of some factory-made, mass-produced bento... this！」"
+    },
+    {
+        "message": "Saying that, Ririmu handed me some kind of wrapped bundle."
+    },
+    {
+        "message": "Even the wrapping itself had a pretty eccentric design, and when I opened it, an even more uniquely designed box appeared inside."
+    },
+    {
+        "name": "Iori",
+        "message": "「Wait, could this be... a homemade bento？！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Spot on, Iorin！ Believe it or not, I went and made a bento for you today！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You made a bento for me, Ririmu...！ Thank you, that makes me so happy！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hehe. Well, I don't really cook much normally, y'know? Still, trying my earnest best for my boyfriend's sake is totally part of the aesthetic, right?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「It really makes me happy that you went that far for me. Plus, the wrapping and the bento box are super cute and totally your style, Ririmu.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Oh, you noticed that？ Way to go, Iorin, you totally get it！ I mean, for me, y'know？ I wanna make sure I put proper care into all those little details too, right？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Wherever there's design, there I am, y'know！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Haha, that's Ririmu for you. Well then, mind if I take a look inside too？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Of course! Don't just look at it—go ahead and eat every last bite!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Man, I'm really happy to have such a sweet, devoted girlfriend.」"
+    },
+    {
+        "message": "Fully aware of the smile spreading across my face, I opened the bento box."
+    },
+    {
+        "message": "What appeared inside was food with a unique, unmistakably Ririmu-like design that I had never seen before."
+    },
+    {
+        "message": "Leave it to Ririmu. To think she'd even be considerate about something like this."
+    },
+    {
+        "name": "Iori",
+        "message": "「Alright then, thanks for the food！」"
+    },
+    {
+        "message": "Right away, I pick up a piece of something that looks like taro covered in a thick, amber―colored sauce―"
+    },
+    {
+        "name": "Iori",
+        "message": "「Nom... munch, munch...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Well？ Well？ Is it good？ Is it fire？ Totally hype？！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「......Yeah, it's delicious！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Really？！ You're not lying？！ It's actually good？！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I wouldn't lie about that. As proof, look how easily I can pop 'em right in. Nom, munch, munch... chomp.」"
+    },
+    {
+        "message": "True to my word, I toss them into my mouth one after another."
+    },
+    {
+        "message": "Watching me do so, Ririmu beams with a look of pure joy and emotion."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ehehe. Maybe I really am a genius? Even if I don't normally cook, I can totally nail it when it counts, y'know?」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Well, I did think it turned out pretty decent myself？ So I guess it's kinda obvious it'd be delicious, or whatever.」"
+    },
+    {
+        "message": "Saying that, Ririmu reaches her chopsticks toward the same dish."
+    },
+    {
+        "message": "Maybe it was too slippery with sauce to grab properly, because she stabs it with her chopsticks and brings it to her mouth—"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Nom. Mmm, mmm......」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Bleh？! What is this, it's disgusting! Ugh, so gross... Ptui, ptui!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Whoa？ What's wrong？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Don't 'what's wrong' me！ Gross...！ This is awful！ I know I'm the one who made it, but it's disgusting！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Huh？ Does it taste bad？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「What is this, what flavor even is this？ It tastes like a dump truck crashed into muddy water or something.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That's a flavor I've never heard of before.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I'm saying it's that gross！ How are you eating it with a straight face, Iorin？！ Wait, are you just trying to spare my feelings？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, I genuinely think it tastes good.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「...Iorin, are you actually completely tone-deaf when it comes to taste？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No way. Sure, the seasoning is a little unique, but... you made this for me, right, Ririmu？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I did, but... I almost want to deny it.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「My girlfriend poured her heart into making this food for me, so a slightly unique seasoning isn't going to make it taste bad. I'm savoring all those feelings along with it, after all.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「...Well, I mean... it does make me a little happy to hear you say that, y'know？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「But I kinda wanted to make something normally delicious, or rather, I thought I was making something like that...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Sigh... I guess home cooking just isn't really my vibe after all」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Personally, I'd even like you to make more for me. Chomp, munch, munch」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「You're seriously still eating it... Well, I'm happy though」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Oh, by the way, Ririmu, you mentioned muddy water earlier, right」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Huh？ Oh... yeah. You mean the taste of my cooking？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Muddy water didn't taste like this at all. I've drunk it as part of training before, though」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「............Iorin, back then, your sense of taste really」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No it didn't！」"
+    },
+    {
+        "message": "The next day after that—this time, during Setsugekka's private coaching."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Orya, orya, oryaaaaah！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「…………」"
+    },
+    {
+        "message": "Carefully parrying each of Setsugekka's sharp, consecutive slashes one by one, I check the trajectory of her blade."
+    },
+    {
+        "message": "It's just our usual special training in the form of a normal sparring match, same as always, except..."
+    },
+    {
+        "name": "Iori",
+        "message": "「…………」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「An opening...！ Right thereee！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Whoa there！？」"
+    },
+    {
+        "message": "I twist my body on reflex to block a strike launched from my blind spot."
+    },
+    {
+        "message": "Had my reaction been even a split second slower, it would have been a direct hit."
+    },
+    {
+        "message": "...No, rather than calling it an attack from my blind spot in the first place..."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Guh, so close！ I almost had you！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That really was cutting it close... About ten centimeters closer and it would've hit me」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hey, that's not cutting it close at all！ You could dodge that easily！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Besides, Sensei, weren't you looking away just now？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ugh... well, that's...」"
+    },
+    {
+        "message": "Just as she pointed out. For that single instant, even if it was just my eyes, I had shifted my gaze away from Setsugekka."
+    },
+    {
+        "message": "Specifically—I had looked over toward Ririmu, our female manager, who was watching the training session from behind Setsugekka."
+    },
+    {
+        "message": "Still, while I obviously love Ririmu, I would never get distracted during coaching for that reason alone."
+    },
+    {
+        "message": "Even so, the reason I ended up looking over there... and the reason my gaze keeps getting drawn back there even now..."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ha！ You're looking away again！ Doryaaaaaah！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Whoa！？」"
+    },
+    {
+        "message": "Once again, I barely manage to block an attack from my blind spot―a blind spot created because I was looking away―at the very last moment."
+    },
+    {
+        "message": "After doing so, I jump back a little and strike an apologetic pose toward a pouting Setsugekka."
+    },
+    {
+        "name": "Iori",
+        "message": "「N-No, sorry. There's just a lot going on...」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「A lot going on... behind me？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ah, no！ You don't need to turn around！ More importantly, look, I'll be fine this time！ Let's resume our special training！」"
+    },
+    {
+        "message": "I hastily stop Setsugekka as she tries to look behind her, getting back into my stance as I say that."
+    },
+    {
+        "message": "Though she looks puzzled, Setsugekka faces me once again."
+    },
+    {
+        "message": "I can't let her turn around right now. Because—"
+    },
+    {
+        "name": "Iori",
+        "message": "（Why the hell is Ririmu pulling her clothes open over there...！！）"
+    },
+    {
+        "name": "Ririmu",
+        "message": "（Nhehehe, he's looking, he's looking！ Operation success！）"
+    },
+    {
+        "message": "During today's special training, my eyes keep locking right onto Iorin's over and over！ In other words, my plan is a total win！"
+    },
+    {
+        "message": "Iorin is—weak to naughty stuff！"
+    },
+    {
+        "name": "Ririmu",
+        "message": "（I figured if I flashed him a peek of my boobs and panties like this, he'd definitely look my way, but I never thought it'd work *this* well~）"
+    },
+    {
+        "name": "Ririmu",
+        "message": "（Hehe~. If it's like this, I should've just done this from the start~）"
+    },
+    {
+        "message": "Well, because of that, Iorin's getting yelled at by Secchan and having a bunch of close calls, though... hey, this is part of special training too, right？"
+    },
+    {
+        "name": "Ririmu",
+        "message": "（...Also, showing my boobs outdoors like this really is kinda embarrassing even for me, though...）"
+    },
+    {
+        "name": "Ririmu",
+        "message": "（But hey, Iorin's the only one looking, right？ In fact, I'm making sure *only* Iorin can see！）"
+    },
+    {
+        "name": "Ririmu",
+        "message": "（And Iorin keeps staring only at me, so we're totally head over heels for each other, aren't we？ Well, we're lovers, so we've already been head over heels for ages anyway.）"
+    },
+    {
+        "message": "Anyway, with this, Iorin's attention on me is going way up starting today！ I really am glad I became the team manager~."
+    },
+    {
+        "name": "Iori",
+        "message": "「Alright... let's change up the situation a bit. Ririmu, hand Setsugekka one of the Origami over there. From your perspective, the second one from the right.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Huh？ Ah, okay, okaay.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "（Come to think of it, we're using a bunch of different Origami today, aren't we？ Well, I'm the manager, so I guess I gotta do this kind of work once in a while~）"
+    },
+    {
+        "message": "I grab the specified Origami, go over to Secchan, swap it for the Origami she was using, and head back."
+    },
+    {
+        "message": "But I never go down for nothing！ The moment Secchan turns her back, I flip up my skirt just enough for a tiny peek toward Iorin...！"
+    },
+    {
+        "name": "Iori",
+        "message": "「Guh...！ W-Well then, Setsugekka, let's try that again using the Origami with those settings！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Why are you so flustered？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「It's your imagination！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "（Alright, it's working like a charm！）"
+    },
+    {
+        "message": "He can say whatever he wants, it's totally obvious his heart's racing, y'know？"
+    },
+    {
+        "name": "Iori",
+        "message": "「Anyway, Setsugekka, strike at me with that！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Okaaay. Here I come, Sensei... Hyaaaah！」"
+    },
+    {
+        "message": "The special training starts up again, and Iorin and Secchan begin fighting."
+    },
+    {
+        "message": "At first, I just watch them normally for a while. I'm not gonna spam it over and over. 'Cause I'm a strategist！"
+    },
+    {
+        "name": "Ririmu",
+        "message": "（And right when Iorin lets his guard down... another quick peek of my boobs！）"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ngh...! R-Ririmu! In the meantime, tweak the settings on that Origami over there for me!」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Tweak the Origami？ Me？」"
+    },
+    {
+        "message": "He suddenly hits me with that while fighting Secchan. Oho, trying to stop me from launching my attacks, are we？"
+    },
+    {
+        "name": "Iori",
+        "message": "「The basics of being a female manager is all about support！ I'm counting on you！ The settings details are written on that paper over there！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Whaaat？ Well, fine, I guess？」"
+    },
+    {
+        "message": "Reluctantly taking his orders... yet still flashing another quick peek of my boobs！"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ghh...！！ Ah, and Ririmu！ Once you're done with that, go restock the drinks too！ We need to replenish our nutrients right after special training, so make it snappy！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Whaaaat？!」"
+    },
+    {
+        "message": "Iorin keeps piling more work on me！"
+    },
+    {
+        "message": "But I don't wanna lose either, so I tweak the settings, flash my boobs, flash my panties, then go shopping, and when I get back, strike a naughty pose—"
+    },
+    {
+        "name": "Ririmu",
+        "message": "（Ugh, I'm way too busy, this is super exhausting！）"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Haaah, a female manager's job is seriously way too brutal... And Iorin's such a sadist...」"
+    },
+    {
+        "message": "A lot had happened, but—finally, a day off."
+    },
+    {
+        "message": "As promised, I ended up going on a shopping date with Ririmu, though."
+    },
+    {
+        "name": "Iori",
+        "message": "「Did I really do anything that sadistic...？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「You totally did. You dumped a crazy ton of work on me, y'know?」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Having to do all of that while sneaking in little naughty stunts in between to grab Iorin's attention is seriously hard work！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「The latter part had nothing to do with being a female manager, though—you were just doing that on your own, Ririmu.」"
+    },
+    {
+        "message": "Honestly, I had a pretty rough time dealing with it myself..."
+    },
+    {
+        "name": "Iori",
+        "message": "「I mean, why did you even start doing that in the first place？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Well, back during Operation: Make Iorin Confess, you said it actually worked pretty well on you, right？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Figured maybe if I did naughty stuff like that again, you'd pay attention to me.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Why right then, of all times...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Well... I mean...」"
+    },
+    {
+        "message": "Whether out of embarrassment or shyness, Ririmu looked away and pouted."
+    },
+    {
+        "message": "Fiddling with her hair with her fingertips, almost as if trying to hide her face."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Come on... you were only ever watching other girls, Iorin, right？ Even though I'm your girlfriend.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, yeah... it's one-on-one coaching. Gotta keep a close eye on them.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I know that! It just felt kinda frustrating!」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I only started being a female manager so I could be with you in the first place, Iorin, and it didn't even feel like we were together at all.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Is that so... Guess I made you feel lonely, huh.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Whoa, hold up, hold up! It's not like that, so no apologizing or anything!」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I really don't wanna be one of those high-maintenance girls. ...Well, okay, maybe I was being a little bit like that.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Haha, no you weren't. Honestly, I'm happy you care about me that much.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Agh, jeez, this is super embarrassing... I'm being way too lame~！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I'm telling you, you're not.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I was happy to have you nearby, Ririmu, and I loved the bento too. As for that naughty stuff... saying I was happy about it makes me sound like a pervert, but it definitely worked on me again.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Really...？ Oh, well, I could tell the naughty stuff was working, though.」"
+    },
+    {
+        "message": "It's pretty embarrassing that she noticed that, though."
+    },
+    {
+        "name": "Iori",
+        "message": "「And honestly, your work as a female manager really helped me out too. Thanks to you, the one-on-one coaching went even smoother than usual.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hehe... you think so？ Well, I did try my best, right？ Plain behind-the-scenes work totally wasn't my vibe, but it was a pretty good experience, I guess.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Thanks, Ririmu. ...Oh, I know！ Since you did so much, how about I get you a present to thank you for all your hard work?」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Wait, seriously！？ A present from Iorin！？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah. Though I didn't actually prepare anything beforehand, so I was thinking I'd ask what you want and go from there.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「That's way more than enough！ Getting a present from Iorin—man, I'm so glad I became a girl manager♪」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「...Oh, it's not like I only did it for a present or anything, okay？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Haha, I know. So, Ririmu, is there anything you want？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Something I want, huh... Let's see...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「...Ah, wait, it's Iorin we're talking about here. Better not make it anything too expensive, right?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Don't worry about your boyfriend-and-teacher's wallet.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「A house, then.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I suppose a little bit of worry is unavoidable.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ahaha！ Well, I'm just kidding. Even I know better than that.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Let's save the detached house for the two of us to live in for another time, when we can think it over together♪」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah—someday, the two of us together.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hehehe♪ Well then, let's just wander around for now. I'll think about all sorts of stuff while we walk.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Good idea. Maybe something will catch your eye as we walk. Let's look around while enjoying our date.」"
+    },
+    {
+        "message": "With that, we started walking toward the shopping area."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hmm... A present, huh... What should I go with?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「There are tons of different shops here, so you've got plenty to choose from.」"
+    },
+    {
+        "message": "Ririmu mulled over her options, her eyes darting excitedly from shop to shop."
+    },
+    {
+        "message": "Just seeing her have this much fun made offering to buy her something more than worth it."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Oh, there's a cosmetics shop! Let's go take a quick look!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Makeup, huh? That definitely feels very you, Ririmu. Do you have a certain type you prefer?」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Well, yeah. You know, favorite brands, ones that suit my skin—there's all kinds of stuff to consider.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Plus it changes depending on the season, and depending on my outfit, and sometimes even depending on the weather!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Is that how it works...? Sounds like a lot of work.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Well, you gotta be that picky if you want to pull off your aesthetic. I mean, it's my own aesthetic—it'd be such a letdown if I didn't even match it myself, right？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I really think it's amazing how you have such a solid aesthetic and throw yourself into it like that.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ehehe... Iorin, you're laying on the praise way too thick all of a sudden♪」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I mean it. So, what do you wanna do？ Wanna go with cosmetics？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hmm, that'd be nice too, but... they're still consumables at the end of the day, y'know?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「What about some high-end stuff you only use on dates with me？ Like, we'd even go on dates just so you can use it.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Whoa, you're talking like some romance pro for a guy like you, Iorin！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hey, 'for a guy like me' is pretty rude!」"
+    },
+    {
+        "message": "I definitely can't tell her I've been secretly studying up since we started dating！"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ahaha！ Well, I guess that's one way to do it, but for me it's probably still a no-go.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I mean, my aesthetic includes how everything pairs together, right？ Even if something's high-end, it's pointless if it doesn't match.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I see... That's pretty deep.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Yep, it really is. Anyway, let's check out the next place for now.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「This is... that clothing store we went to before, right?」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「It's one of my favorites, after all. They've always got good stuff here.」"
+    },
+    {
+        "message": "Walking happily through the store—Ririmu suddenly picking up an outfit as she passed by."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Oh, look, look. This is one of the store's originals—don't you think it's pretty good？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ooh, I see. It's definitely a little unique, and it looks like it'd fit your aesthetic, Ririmu. Like... a pink outer-space kind of vibe.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Yes, that's it！ Leave it to Iorin, you totally get it♪ That spacey, kinda awesome feel is the best, right? Like, full of passion?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, that's some fiery passion.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Uh-huh！ It's all about the aesthetic.」"
+    },
+    {
+        "message": "...For some reason, I feel like the people around us are shooting us looks saying, 'What on earth are those two talking about?'"
+    },
+    {
+        "message": "Either way, we didn't pay it any mind and wandered around the store together."
+    },
+    {
+        "message": "And every now and then, Ririmu picking up some piece of clothing."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hmm, this one... the design is nice, just the color is a little...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Seems like a pretty common color scheme, though. Not quite doing it for you, Ririmu？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Because it's so common, it feels a bit too safe？ If it were me, I'd make this part more like... oh, wait, if I did that, I might as well change the whole design...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Haha. I can already see glimpses of your original brand.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Nfufu, well yeah. I'm not planning on just putting out altered stuff, but this kind of thing is all about building up day-to-day experience, y'know~」"
+    },
+    {
+        "message": "She's surprisingly diligent and steady when it comes to stuff like this. Guess she's more of a hands-on learner than a textbook one."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Oh, this is the men's section... Wait, Iorin, wouldn't stuff around here look super good on you？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Y-You think so？ It's a little flashy, though.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Trust me, it's good！ We tried it with AR before, right? Seeing the real thing in person gives off a slightly different vibe, y'know?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「True, I can definitely see that.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I wanna do menswear too, so using you as a reference is totally perfect, Iorin. See, we really are the ultimate match, right？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Haha, yeah. If I can help out with your goal, Ririmu, I'm more than happy to.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「That's my Iorin, so sweet~♪」"
+    },
+    {
+        "message": "Chatting like that, we made a full loop around the store..."
+    },
+    {
+        "message": "When we arrived back near the entrance, Ririmu suddenly seemed to realize something."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Iorin... I just made a huge discovery...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「What is it？ Did you find something you want？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Well, the thing is...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Come to think of it, any clothes I actually want, I've obviously already bought for myself！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Good point...！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「It's just like with cosmetics—it's all about how things coordinate, so getting one random piece wouldn't really do you much good, huh.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ahaha! You really do learn fast about this stuff, Iorin! Truly worthy of being my boyfriend~♪」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Haha, comes with the territory of dating you, Ririmu.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, let's look for something else for now, then.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hmm, was there anything else I wanted...」"
+    },
+    {
+        "message": "So we started walking through the shopping area again—"
+    },
+    {
+        "message": "And where we stopped was in front of a specialty Jindou gear shop."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Stuff like this might actually be pretty nice？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Oh, I see. Gear for Jindou doesn't really feel like a consumable, either.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I can carry it around all the time, and it feels like your Iorin Power will make me stronger！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Haha. Still, if it's Jindou gear, I wonder what'd even be good」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hmm... maybe a cute strap to attach to the hilt？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I really don't think they have that... Nobody normally puts one on」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Then how about cute deco stickers to put on an Origami's blade！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Definitely not that either！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Whaaat？ For a Jindou specialty shop, they don't have anything」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Those aren't even Jindou supplies in the first place...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「The shop I go to carries them, though」"
+    },
+    {
+        "name": "Iori",
+        "message": "「They do！？ Where on earth is there such an outrageous Jindou shop...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Nope, it's a general store」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Then that has nothing to do with it！ They probably aren't selling them as Jindou supplies anyway」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Even though it's called Jindou General Store？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That's even less relevant！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Besides, you don't put deco stickers or straps on yours either, Ririmu, right？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Well, that's 'cause they'd ban me from matches if I did」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I mean, that's just... unavoidable」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Personally, I wanna bring out more of a vibe with my Origami too」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Come to think of it, there probably aren't many people who think about fashion in that area」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「When I launch my own original brand, I wanna put effort into stuff like that too~」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Lending a helping hand to Ikusabito all over the world who share my struggles！ Something like that？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That's pretty grand」"
+    },
+    {
+        "message": "No idea how many people like that actually exist, though."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hey, you gotta dream big~！ Anyway, let's head to the next place」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Huh? So you don't want Jindou gear after all?」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I just realized, pretty much everything you use in Jindou is kinda rugged, or like, bulky, y'know？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I mean, that stuff isn't bad or anything, I just feel like it's lacking in romance as a present.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I see, that's a fair point.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「So, next up...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「As for other things you might want, Ririmu...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Like female manager gear！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Seriously going full female manager...！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Actually, nope！ Forget I said that！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That was fast...！」"
+    },
+    {
+        "message": "...And so, with one thing and another, we made our rounds and looked everywhere, though."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Haa. I couldn't find anything after all...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Haha, well, it can't be helped. I did spring it on you out of nowhere.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「When I think about how it's a present from you, Iorin, I end up overthinking everything...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「It's really not something you need to stress over that much, though.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Still, it's the first present since we became a couple, y'know？ I really wanna make something like that special.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I am happy that you're putting so much thought into it, though.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, there's no rush, so just let me know whenever you think of something.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「You won't forget if I don't get it right now, will you？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I won't. Don't worry.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hmm... Then maybe I'll think about it a little longer.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Wait, that's right！ I gotta get something for you too, Iorin！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Huh？ Me？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Now that I think about it, like this I'm the only one getting anything, right？ So I'm gonna get you a present too, Iorin！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, I couldn't let you do that.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「My present was for working hard as the team manager, right？ But you were working way harder that whole time, Iorin. So think of it as a big 'good job, Iorin'！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I appreciate you wanting to reward me, but... even if we're dating, having a student buy me something is really...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「It's totally fine. Even I know that much. Believe it or not, I'm the type who knows how to let a guy save face, ya know.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I'm not so sure about that, though.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ahaha！ Anyway, I don't mean that kind of thing—I mean a different kind of reward？ Something like that.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「A different kind... Like what？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I'm still thinking about that... Oh, done thinking！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That was fast！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I mean, it's you, Iorin, so if we're talking a different kind of reward...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I've got a bad feeling about this...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「So this is what you meant after all...！」"
+    },
+    {
+        "message": "As soon as we entered the love hotel, Ririmu got into position to \"service\" me."
+    },
+    {
+        "message": "...Well, I pretty much knew that the moment we walked into a love hotel."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「You're pretty pervy, aren't you, Iorin？ So when it comes to a present for you, there's only one thing it could be, right？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I'm pretty sure it's not the only thing, though...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Aren't you happy about it too, Iorin？ Look... you've already gotten like this♪」"
+    },
+    {
+        "message": "Grinning slyly, Ririmu squeezes my cock tightly between her breasts."
+    },
+    {
+        "name": "Iori",
+        "message": "「Ugh...！ When you point that out, I can't even argue back...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Nfufu~ Guess it's true what they say about the body being honest？」"
+    },
+    {
+        "message": "Honestly, the plush softness and bounce feel so good that my body almost wants to move on its own just from being sandwiched between them."
+    },
+    {
+        "message": "That same sensation that made my heart race just brushing against my arm or body is now pressed directly against my most sensitive spot, so I can't really help it...！"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Still... yours really is huge, isn't it, Iorin？ I thought so the first time I saw it too, but seeing it up close like this makes it seem even bigger...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「If you keep saying that, I'm not gonna know how to react...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「It's so thick, and long... And the smell, too...」"
+    },
+    {
+        "message": "With that, Ririmu brings the tip of her nose close to the head of my cock. She gives a couple of little sniffs, breathing in the smell."
+    },
+    {
+        "message": "Of course, having her get this close is embarrassing enough, and with Ririmu's breath hitting me...！"
+    },
+    {
+        "name": "Iori",
+        "message": "「R-Ririmu... that's a bit...！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「What're you getting so worked up about~？ I'm about to 'service' you right now anyway, so isn't it totally fine？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Even if you say that...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Besides, I actually like your smell, Iorin~？ It's a super weird smell, sure, but it's kinda like, addictive or something？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You don't have to say stuff like that either...！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ahaha！ You did some pretty embarrassing things to me before, remember~? So think of this as payback♪」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Weren't you supposed to be rewarding me for my hard work...？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「So impatient, Iorin~. That's what's coming up right now, duh？ Can you really not wait for me to service you~？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ugh... well, that's...」"
+    },
+    {
+        "message": "I can't exactly say she's wrong."
+    },
+    {
+        "message": "With her teasing me like this, telling me to hold back is pretty much impossible, or rather..."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Guess I have no choice~. Well then, for my impatient boyfriend's sake, maybe it's about time I start servicing you♪」"
+    },
+    {
+        "message": "Saying that—Ririmu finally began to move slowly."
+    },
+    {
+        "name": "Iori",
+        "message": "「Whoa...！？ This is... quite something...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「What a huge reaction, Iorin...♪ Your hips totally twitched and jumped up, you know~？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Your breasts just feel so good, I accidentally...」"
+    },
+    {
+        "message": "On top of their softness, her smooth skin rubbing against me sends shivers deep into my hips."
+    },
+    {
+        "message": "That was just how deeply the feel of Ririmu's breasts resonated through me."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「This is what they call a titjob, right？ Guys are totally into this kinda thing, aren't they？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「If you're the one doing it, Ririmu, I'd end up loving it even if I didn't before...！ Wait, stuff like this—where did you even...！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Didn't I tell you~？ I'm the type who knows how to treat her man right~. I figured I'd do it for you someday, Iorin, so I did a liiittle studying~」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Even though you never do any actual studying...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ooh, you're really gonna say that？ Are you sure~？ Keep talking like that and I might just stop, you know~？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Guh, well...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Mfufu~, you don't want me to stop, do you~？ Yours is getting even bigger again, Iorin~？」"
+    },
+    {
+        "message": "Her movements are slow, yet Ririmu strokes my cock as if toying with it."
+    },
+    {
+        "message": "And to top it off, she keeps looking up at my face while doing it, so I can't help getting embarrassed and looking away."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Aww, Iorin, you can't look away~？ I'm going out of my way to service you here, so keep your eyes right on me, okay~♪」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I'm only gonna service you while you're actually watching me~？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Guh... What kind of reward is this supposed to be...！」"
+    },
+    {
+        "message": "Even though I think that, Ririmu genuinely slows her movements, so I swallow my embarrassment and turn my gaze back to her."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Mhaha, good boy~♪ Alright then, to show my appreciation, I'll service you even more~」"
+    },
+    {
+        "message": "Looking even happier now, Ririmu strokes my cock."
+    },
+    {
+        "message": "And this time, instead of just rubbing it up and down—"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Pretty sure it said stuff like this feels good too~ Look... alternating left and right, like this...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ugh...！ Ririmu...！」"
+    },
+    {
+        "message": "Ririmu alternates moving her breasts up and down, toying with my cock."
+    },
+    {
+        "message": "Just being stroked like this is already a completely new sensation, so having different spots stimulated at the same time throws my body into total confusion."
+    },
+    {
+        "message": "It somehow feels like I'm being teased by two Ririmus at once."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Whoa, Iorin, that's crazy~？ Whenever I move, your hips are moving right along with me, aren't they？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That's only because you're doing something so weird...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「But if your hips are moving on their own, that just means it feels that good, right？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Which means there's no problem if I do it way more, right~♪」"
+    },
+    {
+        "message": "Brimming with newfound confidence, she plays with my cock even more intensely."
+    },
+    {
+        "message": "I try my best to at least stop myself from bucking my hips, yet I don't think I'll ever get used to this sensation."
+    },
+    {
+        "name": "Iori",
+        "message": "「Ngh, ugh...！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「You look like you're feeling real good, Iorin~♪ Wait, didn't yours just get even bigger？ My boobs can't even cover all the way to the tip anymore~？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Feels kinda mean leaving just this part out, doesn't it? So... fwoo~♪」"
+    },
+    {
+        "name": "Iori",
+        "message": "「G-Gah...！？」"
+    },
+    {
+        "message": "Keeping up the motion of stroking me with her breasts, Ririmu blows her warm breath right onto my tip."
+    },
+    {
+        "message": "The sudden stimulation makes my body tremble even harder."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ahaha！ Isn't your tip way too sensitive, Iorin？ You like it here, huh~？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「N-No, if you just do that out of nowhere...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Then I'll do it even more for you, okay？ Come on, come on... Fuu, fuu♪」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ngh, ugh...！」"
+    },
+    {
+        "message": "Being stroked and heated up while only the tip is cooled like that completely toys with my body, sending a shiver straight through my hips."
+    },
+    {
+        "message": "And knowing it's Ririmu's breath makes it even worse, stirring up a different kind of arousal separate from the pleasure itself."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Haa... Isn't your voice way too lewd, Iorin...？ You're letting out such super cute moans, you know...？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Th-That's a little embarrassing... I mean, it's only because you've learned such weird ways to tease me, Ririmu...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Basically, that means you're loving my service, right？ And letting your voice slip out like that makes you even cuter...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Listening to that's got me all turned on too...」"
+    },
+    {
+        "message": "Saying that, Ririmu began playing with her own nipples with her fingertips while still keeping up her service."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Afu... Nhaa, aah...！ Ah, nnngh...！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「R-Ririmu...！？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Nn, fufu... You don't have to worry at all, Iorin...？ I'll still service you properly even like this...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Come on, come on... Just like this, see？」"
+    },
+    {
+        "message": "Pressing her breasts tightly together, Ririmu squeezed down around my cock."
+    },
+    {
+        "message": "That sensation felt amazing, of course, and Ririmu certainly kept moving to stroke me and continue her service, but—"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Nnaah...！ Hau, nnn...！ Hiuuuh...！」"
+    },
+    {
+        "message": "While pressing her breasts together, Ririmu had started playing with her own nipples, pushing them inward."
+    },
+    {
+        "message": "Her breasts were so soft her fingers easily sank right in, looking erotic enough just to watch... and because of that, the heat deep inside my body burned even hotter."
+    },
+    {
+        "name": "Iori",
+        "message": "「Ririmu... Even doing something like that...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Come to think of it, it's kinda unfair that you're the only one feeling good, Iorin...？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Making me listen to those lewd sounds while only I have to hold back isn't fair, right？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I wouldn't say unfair... Ngh, ugh...！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Nfu, nnngh...！ That, right there... that lewd voice...！ Hearing that totally gets me worked up, y'know...！」"
+    },
+    {
+        "message": "Indeed, Ririmu looked aroused as she repeatedly pressed her breasts together, trying to squeeze my cock."
+    },
+    {
+        "message": "And when I groaned at the pleasure, Ririmu got even more turned on, squishing and toying with her own nipples."
+    },
+    {
+        "name": "Iori",
+        "message": "「B-But this is, well... doesn't this mean you're basically masturbating right in front of me...?！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「H-Hey... when you put it like that, even I start feeling kinda embarrassed, you know...！」"
+    },
+    {
+        "message": "At my remark, Ririmu's face turned bright red."
+    },
+    {
+        "message": "Yet even so, without stopping her service—or her masturbating."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ugh, fuu, haa...！ But look... mmnh！ You like seeing my lewd side too, Iorin, right...？ Doesn't it get you all turned on？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「So, let's just count this as part of my service too...！」"
+    },
+    {
+        "message": "Having come to that conclusion, Ririmu—suddenly made her movements much fiercer."
+    },
+    {
+        "name": "Iori",
+        "message": "「Uah...？！ Ririmu, so hard...！」"
+    },
+    {
+        "message": "Making her breasts bounce heavily up and down, she thoroughly stroked my cock from base to tip."
+    },
+    {
+        "message": "Between her breasts, saliva and sweat had already mixed together, making it feel so hot and slick I could melt."
+    },
+    {
+        "message": "Because Ririmu moved while squeezing tightly, lewd, squelching sounds rang out, stirring up my arousal even further."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Aah, haa...！ Your thick thing, Iorin... it's been giving off such a strong smell for a while now, hasn't it？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「This is totally the smell of cum, isn't it...！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Kgh...！ Th-That's...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Even if you try to hide it, it's totally obvious...！ I'm smelling it right up close like this, after all...！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Really, right up this close, nnhaa, aah...！ Being made to smell such a lewd scent, nnnnh...！」"
+    },
+    {
+        "message": "While stroking me firmly, Ririmu simultaneously pressed her breasts together, desperately trying to squeeze me even tighter."
+    },
+    {
+        "message": "Because of that, especially when she stroked up from the base, it truly felt like I was being milked dry—"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Afu, nnhaa...！ Come on, come on, it's okay to let out even lewder sounds...！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「And while you're at it, just go ahead and shoot out tons of cum too...！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ghh, Ririmu...！！」"
+    },
+    {
+        "message": "Splurt, spurt, spluuurt！"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hyauu...！？ W-Wait, Iorin...！ So suddenly... nngh...！」"
+    },
+    {
+        "message": "Without even a moment to warn her, I ended up shooting my cum right between Ririmu's breasts."
+    },
+    {
+        "message": "Even in her surprise, Ririmu still caught it all for me..."
+    },
+    {
+        "message": "Only, because she squirmed in surprise, I ended up getting squeezed and rubbed even while I was cumming."
+    },
+    {
+        "message": "Because of that, her breasts milked me dry even more thoroughly..."
+    },
+    {
+        "name": "Iori",
+        "message": "「Haa, phweeew...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Mfufu... I was a little surprised you came so suddenly, but you let out a ton, huh, Iorin？」"
+    },
+    {
+        "message": "Once my ejaculation subsided, Ririmu gave me a slightly teasing smile, her face still flushed with lingering excitement."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Look, thanks to you I'm all sticky and gooey, see？ You made such a mess of me~♪」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ugh, sorry... Your service just felt so good...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I'm telling you, you don't need to apologize. I'm not mad.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Forget 'pretty good,' it was almost too good.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Fufu~ Well, duh. Getting you all worked up is a piece of cake for me, Iorin.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Oh！ And since you're the only one who came, doesn't that totally mean I win？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Is there even winning or losing...？ Wait, since when was this a contest」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「The book I studied from said sex is a battle, okay？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Well, I'm always losing anyway, so I gotta win at least once in a while！ Aren't I just way too good at servicing you？」"
+    },
+    {
+        "message": "Ririmu puffed up with a smug, triumphant look on her face."
+    },
+    {
+        "message": "Yet when I looked down at her body as she made that face, semen was dripping down her sweat-slicked breasts..."
+    },
+    {
+        "name": "Iori",
+        "message": "「.........That's way too lewd and cute！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Kyaa！？」"
+    },
+    {
+        "message": "Looking at Ririmu like that got me worked up all over again, and as if launching a counterattack, I threw my arms around her."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「W-Wait, Iorin...! Aren't you being way too forceful all of a sudden!？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「If you make a lewd, cute face like that, how am I supposed to calm down！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Even though you just let out so much~？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I thought you'd milked me completely dry, too.」"
+    },
+    {
+        "message": "Saying that, as if to prove my current state, I rubbed my hardened cock against Ririmu's pussy."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hyah...！ Mmm, Iorin, your stamina is insane... Isn't it somehow even harder than before？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Maybe so... After everything you just did for me, Ririmu, I guess I'm even more turned on.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「You really just love naughty stuff, don't you, Iorin...♪」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Do you hate it, Ririmu？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hey, asking me that is totally unfair, y'know？ You're gonna embarrass a girl like that.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I see. Then... that means I should just ravish you without asking！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Kyaa, I'm gonna get ravished~♪」"
+    },
+    {
+        "message": "While playfully bantering like that—I slowly inserted myself into Ririmu."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Kyah, mmm...！ Nngh, nnghhh...！」"
+    },
+    {
+        "message": "Her insides were completely overflowing with love juices, letting me sink all the way in with almost no resistance."
+    },
+    {
+        "message": "Though I could feel her tightening around me, it felt more like she was guiding my length all the way to her depths."
+    },
+    {
+        "name": "Iori",
+        "message": "「Ngh... I'm in, Ririmu.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Haa, aah... Yeah, you're in... You really did ravish me...♪」"
+    },
+    {
+        "name": "Iori",
+        "message": "「And of course, I'm not just gonna stop at putting it in.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Mfufu...♪ Like this, I can't even fight back anymore, can I...♪」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Unlike earlier, now I get to do whatever I want with you.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I see~ So starting now, you're gonna do whatever you want with me, Iorin...？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Mmm... Ririmu, I can totally tell your insides are squirming happily, you know？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ah, h-hey...！ Even for me, saying stuff like that is embarrassing...！」"
+    },
+    {
+        "message": "Just as Ririmu blushed and got flustered—I caught her off guard and began thrusting in and out."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hauuh...！？ Nngh, haah... Ah, mmmngh...！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Iorin... Moving all of a sudden like that is unfair...！ Haah, aah... auh...！ Nnhaaah...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You can't fight back, so I get to do whatever I want with you... This is my payback for what you did earlier...！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ah, haah...！ You can say that all you want, Iorin... It's totally obvious you just couldn't hold back anymore...！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well... I guess that's definitely part of it...！」"
+    },
+    {
+        "message": "In this situation, I had no choice but to honestly admit it—！"
+    },
+    {
+        "message": "That's just how unbearably good it felt inside Ririmu."
+    },
+    {
+        "message": "The texture of the walls inside her—which I hadn't had the presence of mind to feel our first time—was something I could sense clearly now."
+    },
+    {
+        "message": "Unlike her breasts, it had a slightly rough texture, yet that only made it feel like it was clinging all the tighter to my cock."
+    },
+    {
+        "name": "Iori",
+        "message": "「Gh, though... you looked like you couldn't hold back either, Ririmu？ You were making a pretty desperate face there...！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ah...！ Nngh, nnghh...！ Iorin... there you go saying stuff like that again...！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You wanted me to start moving right away too, didn't you, Ririmu...？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Nnfh, haah, aah...！ Well, I mean... nnngh！ Your thick thing is right inside me, so...！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Auh, nnnngh...！ Telling me to hold back is just impossible...！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Gh...！ That makes me happy, Ririmu...！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Nnaaaah...！！ You're going all the way deep inside again, Iorin...！ Hagh, nn...！ Nnah, aaaah！」"
+    },
+    {
+        "message": "Overcome with joy, I quickened my pace even further, thrusting all the way into Ririmu's depths."
+    },
+    {
+        "message": "Every time my hips slammed into hers, our skin slapped together with the wet, squelching sound of love juices, making Ririmu's body jolt and tremble in time."
+    },
+    {
+        "message": "I could see the remaining composure gradually fade from Ririmu's playfully teasing expression, melting away into sweet ecstasy."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Afh, nnngh...！ Does my inside really feel that good... enough to make you go this hard...？ Auuuh...！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Of course it does...？ It's the body of the girlfriend I love more than anything, after all...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Nnhaa, aah...！ I think I get that, hauuuuh...！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「For me too... ah, haah, because it's you, Iorin, who I love so much... even when you do it so hard, it feels good right away, hyah, aaaah！」"
+    },
+    {
+        "message": "Her strength seemed to be draining away as she trembled all the way down to her legs, surrendering herself to the pleasure."
+    },
+    {
+        "message": "Love juices dripped down her thighs too, leaving our waists completely slick and sticky with sweat and arousal."
+    },
+    {
+        "message": "Paying that no mind, I churned Ririmu's insides even more vigorously."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Haauuuh！ Nnah, haah...！ Akh, nfuuuh！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Iorin... do me more, lots more...！ You can go even deeper, I don't mind...！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You got pretty honest all of a sudden, huh...？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Well, having sex with you just feels so good, Iorin...！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「When you do it to me so much, my chest gets all tight inside, mmmh！ I get so happy, and it makes me feel so full of love...！」"
+    },
+    {
+        "message": "As she said that, Ririmu seemed to be moving on her own too, pressing her hips against mine."
+    },
+    {
+        "message": "Even her insides tightened around me, as if trying to milk my cock—"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ngh...！ I feel the exact same way...！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Nnaah, hauuu！ Iorin, that...！ Ah, aah！ You're going so deep again, hyuuun！」"
+    },
+    {
+        "message": "Ririmu's feelings made me so happy, and to answer them, I started moving in even bigger strokes."
+    },
+    {
+        "message": "And because Ririmu was moving along with me this time, I easily sank all the way to the base, rubbing up against her deepest part."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ahk, nnaaah！ Haa, aah... auuu！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Iorin, yours is amazing... hgu, nnaah！ It feels like it's getting thicker and thicker inside me...！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Your insides too, Ririmu...！ You've been squeezing me so tightly this whole time...！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「B-Because yours is so thick, Iorin... hauu, nhaaah！ I have to make sure you don't slip away from me...！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Something this good, this blissful, I don't want to let—nnaaaah！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Don't worry... I'll never pull away from you, Ririmu...！」"
+    },
+    {
+        "message": "As if to prove it, this time I barely pulled my hips back, focusing on grinding against Ririmu's deepest spot."
+    },
+    {
+        "message": "Gripping her waist firmly, I pressed my body tightly against Ririmu's so as much of our skin touched as possible."
+    },
+    {
+        "message": "Our sweaty skin slid slickly every time we touched and rubbed together... yet instead, it felt as good as lotion."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ah, aah, aauuu...！！ I love that...！ Hyuu, nfuuu！ Doing it like that feels so good too...！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Iorin... you're getting way too good at sex, hyuuu！ If you do that to me, you're gonna... make me cum right away！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I'm about to cum too...！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ahkuu, nnaah！ Ah, haah... hauuuun！」"
+    },
+    {
+        "message": "This time, instead of just her depths, I moved in big strokes, rubbing up against Ririmu's insides from her entrance all the way to her deepest part."
+    },
+    {
+        "message": "Moving in sync with me, Ririmu reacted by arching her back every time I thrust deep inside her."
+    },
+    {
+        "message": "All the composure she had at the start was completely gone, leaving only a blissful face melted by pleasure."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hyaah, aah...！ Iorin, keep going like that...！ Today, just stay like this the whole time, okay, auuuh！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Even when you cum, definitely, hauh, n'ah, aah...！ Don't you dare pull away from me, okay...！ Hauuuh！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Stay like this... If I do, I'll cum inside you, Ririmu...！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「That's why I'm telling you...！ Because I want yours inside me, Iorin！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Haguh, n'aah！ Today's a safe day, so...！ Even if you let out lots inside me, it's totally fine...！」"
+    },
+    {
+        "message": "Saying that, Ririmu ground her hips hard against mine."
+    },
+    {
+        "message": "Rather than just matching my rhythm, she seemed to be desperately rocking her hips to keep me from slipping out of her depths—"
+    },
+    {
+        "message": "Seeing how endearing and erotic she was sent an involuntary, shivering ache deep through my body."
+    },
+    {
+        "name": "Iori",
+        "message": "「Ngh, got it...！ Then even when I cum, I definitely won't pull away...！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hifuuh, n'aah！ Don't, pull away...！ Stay just like that, auh, n'aah, aaaah！」"
+    },
+    {
+        "message": "Just like that, I stirred up Ririmu's insides as if delivering the finishing blow."
+    },
+    {
+        "message": "Every time our hips slammed together, love juices splattered with wet squelches alongside the slap of skin on skin, staining not just her thighs, but all the way down to her feet."
+    },
+    {
+        "message": "Unable to even keep her mouth closed anymore, Ririmu drooled saliva that soaked into the bed as well."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ahih, hiuuuh！ Iorin, you're amazing, hyaah, aaaah！ If you do me this seriously... I'm gonna lose again...！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Iorin, you're too strong, higuuh, nhaaaah！ Having something this thick and good is totally unfair, hiuuun！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Your pussy feels so good too, Ririmu... That's why I can't stop myself...！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「You don't have to stop, auuuh, nfuuuh！ I don't care if I lose, I'm fine with losing...！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「More importantly, I want all of you, Iorin...！ Hurry, ngh, aaah！ Cum inside me！ Otherwise I'm gonna cum first, hiiigh！」"
+    },
+    {
+        "message": "Ririmu's legs trembled violently, and the inside of her pussy contracted over and over."
+    },
+    {
+        "message": "Realizing from that how close Ririmu was to cumming, I picked up my pace even more, thrusting fiercely up into her pussy—"
+    },
+    {
+        "name": "Iori",
+        "message": "「Guh... Ririmu, I'm almost...！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Nghaaah, auuugh！ Cum, cum...！ Give me your cum, Iorin...！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Enough to get me pregnant, hiiigh！ Pump lots of your hot, thick cum into me...！！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ririmu...！！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ngh, aaaah！ Nfaaaaaah！」"
+    },
+    {
+        "message": "Thrusting all the way into her deepest point, I poured my cum right into her with everything I had, just as she begged."
+    },
+    {
+        "message": "I grabbed Ririmu's hips as she twitched and arched her back, pulling her close so she couldn't get away until I'd emptied every last drop."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ngk, nghaaah...！ Yours is pouring into me, Iorin...！ It's so hot, there's so much, nguuuuh...！！」"
+    },
+    {
+        "message": "Even after her first climax, Ririmu's body kept jolting again and again as she took my cum, hitting one small orgasm after another."
+    },
+    {
+        "message": "And each time, her face melted even further, as if her reason were dissolving away..."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Nghaaah... haah... aaaah...」"
+    },
+    {
+        "message": "Just as I finally finished emptying myself completely, Ririmu went completely limp."
+    },
+    {
+        "name": "Iori",
+        "message": "「Tch, haah... You okay, Ririmu...？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ha, hiah... I might, not be very okay...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「You're way too much, Iorin... It's so hot, and feels so good... ngh... There's way too much, seriously...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, when you beg me like that, Ririmu...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Maybe... we shouldn't have done this...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Now that I know how good it feels to be came in... I won't ever be satisfied unless it's inside from now on...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That... might be true. It felt so good for me too, I can't forget this anymore」"
+    },
+    {
+        "message": "Still joined with me, Ririmu's insides were hot and melted, continuing to coat my cock thickly in her love juices."
+    },
+    {
+        "message": "Feeling that, it felt like my arousal was going to flare right back up any second now..."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hey... Iorin...？ We still have plenty of time left here, right...？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...Yeah. Looks like we still have some left, maybe.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Then... today's a safe day and all... wouldn't it be better if we did it a whole bunch while we still can...？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...Yeah, you might actually have a point there.」"
+    },
+    {
+        "message": "Ririmu asks with a melted look on her face. Giving a slightly forceful nod to that."
+    },
+    {
+        "name": "Iori",
+        "message": "「Guess we'd better do it until you feel like you don't want it inside anymore.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Then we'll keep going forever until I feel that way, okay...♪」"
+    },
+    {
+        "message": "Still joined together, I pulled Ririmu's body close once more—"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Mfufu... We sure did it a ton, huh, Iorin♪」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...We sure did.」"
+    },
+    {
+        "message": "Chatting like that. We walked slowly along the road home."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Seriously, Iorin, you're way too much. I'm totally worn out.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Just because you didn't want to lose to me doesn't mean you had to go that hard.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Haha. I wasn't trying to make it a competition, though.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Oh！ Wait, if we count the time we came together as a draw... no, shoot, that still means I lose...！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Besides, you're the one who declared defeat yourself, Ririmu.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「That was in the heat of the moment, so it doesn't count！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「And where does you begging me for more fall in terms of wins and losses？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Like I said, sex isn't a competition！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Haha, I suppose so.」"
+    },
+    {
+        "message": "Ririmu twines her arm tightly around mine and rests her head lightly against me."
+    },
+    {
+        "message": "It makes walking a bit harder, but we aren't in any hurry anyway, so I accept it and keep strolling along."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「...Still, y'know？ After you came inside me that much, even a safe day might not be all that safe anymore？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ugh... When you put it like that, it's a little...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「What would you do？ If I actually got pregnant♪」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well—of course, I'd take responsibility.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Whoa, an instant answer, Iorin？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Of course. To put it bluntly, well... it'd just be moving the schedule up a bit.」"
+    },
+    {
+        "message": "Saying that was a little embarrassing, and I didn't know what Ririmu would think of it, but—"
+    },
+    {
+        "message": "Ririmu's face instantly lit up."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「So that means even if I don't get knocked up, right？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Uh, yeah... that's right.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「That's my Iorin♪ Then let's make the wedding super flashy！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Wedding...? Like I said, you're getting way ahead of yourself.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Huh？ If I am pregnant, it'll be right away, and even if I'm not, it'll still be pretty soon, right？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「So I'm saying we should start planning now! Oh, I'll think up all kinds of ideas for the presentation!」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Since we're in the Martial Arts Division, we've gotta do a martial demonstration too, right? It'll even make up for not being able to enter the Martial Festival！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...Wait, Ririmu？ Today really was a safe day, wasn't it...！？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Who knows？ Maybe the instant you said you'd take responsibility, Iorin, it suddenly transformed into a not-so-safe day？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「What kind of transformation is that?」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ahaha！ Well, today really is fine, I promise. But—」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「We don't know how many more times we'll do it before graduation, right？ And I'm nowhere near thinking, 'I don't want it inside anymore'♪」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...Well, I guess I'm the same way.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Then we really should start thinking about it while we can♪」"
+    },
+    {
+        "message": "Saying that, Ririmu clung to me even tighter."
+    },
+    {
+        "message": "Giving a wry smile at this girlfriend of mine who never stopped leading me around by the nose."
+    },
+    {
+        "message": "Yet still pulling her body close, I slowly walked on—"
+    }
+]

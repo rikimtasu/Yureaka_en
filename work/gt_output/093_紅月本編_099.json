@@ -1,0 +1,574 @@
+[
+    {
+        "message": "...After hearing something heavy from Keisetsu."
+    },
+    {
+        "message": "I can't bring myself to head back to the dorms just yet, so I'm wandering aimlessly around the campus."
+    },
+    {
+        "name": "Iori",
+        "message": "「So, Keisetsu will only be at the academy until summer break...」"
+    },
+    {
+        "message": "She said she'd be leaving Japan in August."
+    },
+    {
+        "message": "It falls right in the middle of summer break, so it might be a convenient time to quit."
+    },
+    {
+        "message": "The Martial Festival marks the start of summer break. Effectively, the end of this term will be my farewell to Keisetsu."
+    },
+    {
+        "name": "Iori",
+        "message": "「...Hm？ Is that Momiji？」"
+    },
+    {
+        "message": "Peering into the training grounds, I see Momiji swinging an Origami all by herself."
+    },
+    {
+        "name": "Iori",
+        "message": "「Hey there, Momiji.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Oh, what's wrong, Sensei？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I just felt like stopping by, that's all.」"
+    },
+    {
+        "message": "Momiji wraps up her practice and walks over to me."
+    },
+    {
+        "name": "Iori",
+        "message": "「Are you doing alright? Anything bothering you?」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Well, nothing in particular for now.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「If I had to say, it's just that I couldn't beat you, Sensei.」"
+    },
+    {
+        "message": "We’ve been sparring regularly since then, but I’ve remained undefeated."
+    },
+    {
+        "name": "Momiji",
+        "message": "「You really are strong, Sensei. I guess there’s always someone better out there.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「What are you talking about? You'll be able to beat me soon enough, Momiji.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「You think so？ How much of your hand have you actually shown me so far？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I’ve probably shown you about twenty percent.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「No way！ That was only twenty percent... Grrr...！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hey, I’ve shown you everything I could. My school of swordsmanship isn't exactly meant to be put on display.」"
+    },
+    {
+        "message": "The rest are just techniques I’ll never use in my life."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Damn you, you monster...！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「But still, I'm glad our assistant teacher is Iori-sensei.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Haha, I'm glad I meet your standards. Back in the beginning, you were quite the handful.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Uwaa, you don't have to bring that up！」"
+    },
+    {
+        "message": "Despite saying that, Momiji looks happy."
+    },
+    {
+        "name": "Momiji",
+        "message": "「I couldn't help it, the Suzakuin family is all about independence.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I haven’t really been saying that lately, have I」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Well, yeah... I’ve been thinking that maybe it just doesn’t suit me. Seeing Miyako made me feel that way」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Even Miyako can’t live all by herself. Eventually, everyone ends up living alongside someone else」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Of course, the same goes for you, Momiji. There isn’t a single person who can live life entirely on their own」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Parents, sisters, seniors, juniors, rivals... teachers. Only by connecting with many people can a person truly become who they are」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Sometimes, you might be able to grow stronger by casting those connections aside」"
+    },
+    {
+        "name": "Iori",
+        "message": "「But even if you reject others and gain overwhelming, godlike power, you’ll just be strong—and you won’t create anything at all」"
+    },
+    {
+        "name": "Iori",
+        "message": "「People can only create value through their connections with one another」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Independent self-reliance has no value if you can’t see what lies beyond it. That’s what I believe, at least」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Yeah, you’re right... I think so too」"
+    },
+    {
+        "message": "Momiji nods wistfully."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Thank you, Sensei. For teaching me so much」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I’m glad if it helped you, Momiji」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「...Hey, Sensei? I have a request」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hm？ What is it？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I want you to keep teaching me, Iori-sensei」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「After the Martial Festival ends, after summer is over, through winter, through spring, and even next year...」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Will you stay my teacher... forever？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...Yeah, that’s what I want, too」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Is that for real！？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Whoa！？ S-Setsugekka...？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Wh-where did you come from！？ And more importantly, were you hiding there listening to us！？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「That doesn’t matter right now！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Sensei... how long are you going to be my teacher？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Even after the Martial Festival is over, will you stay our teacher？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Or maybe… you’ll become my private coach？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Private coach…？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「……So you heard what we were talking about earlier.」"
+    },
+    {
+        "message": "I had sensed a strange presence behind me, but it seems Setsugekka had been eavesdropping."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Tell us, Teacher. What was that all about？」"
+    },
+    {
+        "message": "……Dammit."
+    },
+    {
+        "message": "I hadn't wanted to bring this up with the Martial Festival so close, so I had intended to keep it hidden."
+    },
+    {
+        "message": "However, looking at their serious expressions, I realized there was no room for evasion."
+    },
+    {
+        "name": "Iori",
+        "message": "「……Alright, I’ll tell you everything.」"
+    },
+    {
+        "message": "Either way, now that Setsugekka had overheard the conversation, there was no point in hiding it."
+    },
+    {
+        "message": "I told Momiji and Setsugekka everything I had talked about with Keisetsu, honestly."
+    },
+    {
+        "name": "Momiji",
+        "message": "「……What the hell? You’re asking for a private coach as a barter for treating Takahisa Kuki?」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Isn't that just a roundabout threat？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I don’t like meddling in other families' business, but if the Kazamine are going to play hardball, we’ll have to rethink things, too.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「W-wait, Kei-chan is only doing this for my sake.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「And anyway, are you even okay with the way Keisetsu is handling this, Setsugekka？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「You were planning to go with Keisetsu if she went abroad, weren't you？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「T-that’s something I’ll figure out later, so never mind that.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「…………」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「The problem is you, Teacher. According to Kei-chan, you’re planning to return to the Tenju Special Forces eventually, right？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Once your ‘errand’ is done, you won’t be our teacher anymore, will you？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「When is that going to be……？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I don’t know yet.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「But if it’s early, I might have to return as soon as the Martial Festival ends.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「N-no way……」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「……Something’s wrong here.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Then... after the Martial Festival ends, after summer is over, when winter comes, and spring, and even next year...」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「You can’t stay as our teacher forever, right? But what you said earlier wasn’t a lie.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Saying I want to—that’s my true feeling.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...But just because I want to, doesn’t mean I can remain a teacher forever.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Why！」"
+    },
+    {
+        "message": "Why, huh... A fair question, I suppose. I guess I really have no choice but to talk about it."
+    },
+    {
+        "name": "Iori",
+        "message": "「What I’m about to tell you is a story from my past.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「It’s not a topic I like to dwell on... but I’ll tell you both for your own sakes.」"
+    },
+    {
+        "message": "I can’t leave any bitterness behind for the upcoming Martial Festival. For that reason, I’ll tell them everything."
+    },
+    {
+        "name": "Iori",
+        "message": "「It was during the Martial Festival when I was in my second year at the academy.」"
+    },
+    {
+        "message": "I speak to the two of them as we walk slowly down the road home."
+    },
+    {
+        "name": "Iori",
+        "message": "「I had a friend who was both my rival and my best friend. Kuki Takahisa... You know who he is, right？ Asahi’s older brother.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ah!？ That’s it! That’s why I felt like I’d heard that name before!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That match was the final, where I challenged Takahisa, who had become the Toujinegi as a first-year in the Martial Arts Division.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「We both fought with everything we had. The match favored Takahisa. But, I wanted to win no matter what.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「And before I knew it, I was using the Tengen Saimei-ryuu.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...By the time I regained my senses, it was already too late.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「My Origami pierced Takahisa’s shoulder, leaving him with a grievous injury that nearly cost him the limb.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「…………」"
+    },
+    {
+        "message": "The two of them don’t miss a single word."
+    },
+    {
+        "name": "Iori",
+        "message": "「Regenerative medicine back then was still imperfect. A full recovery would have cost an astronomical amount, and the success rate wasn’t high either.」"
+    },
+    {
+        "message": "The Kuki family couldn’t afford it, and Takahisa was forced to give up on treatment."
+    },
+    {
+        "name": "Iori",
+        "message": "「Takahisa lost almost all the grip strength in his dominant hand. But he rehabilitated desperately and managed to return by his third year.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「But he didn’t perform well, and he was eliminated in the Martial Festival qualifiers. He had no choice but to give up the dream of becoming a pro that he’d cherished for so long.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I stole Takahisa’s dream. The killing sword ingrained in my body committed an unforgivable sin.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「With that, I have no right to practice Jindou, nor do I have the right to chase after my own dreams. That’s why I gave up on my dream of becoming a teacher.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Sensei...」"
+    },
+    {
+        "message": "Then, at my father’s recommendation, I enlisted in the Self-Defense Forces, which led me to my current posting with the Special Forces Group."
+    },
+    {
+        "name": "Iori",
+        "message": "「At first, I was resistant to this ‘errand’ as well. But I figured if it was only for a limited time, it wouldn’t hurt to indulge myself a little.」"
+    },
+    {
+        "message": "I’ll return to my unit eventually. For the short time I have until then, I’ll just let myself have this fleeting dream… that’s all."
+    },
+    {
+        "name": "Iori",
+        "message": "「That’s why… when the time comes, I’ll return to the Tenju Special Forces. I can’t keep being a teacher forever.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「…That’s strange.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Isn’t that just you being stubborn？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Haha, I suppose that’s how it looks to others.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「But Takahisa wasn’t just any friend. We were best friends who talked about our dreams together and worked hard side-by-side.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I supported his dream with all my heart. And yet, I was the one who took it away from him…」"
+    },
+    {
+        "message": "I don’t ask for you to understand how I feel. I just don’t want the two of you to have to endure such pain."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I had no idea you were going through something like that, Sensei.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「But even so, I still want you to stay our teacher.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I don’t really understand things like qualifications or sins…」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「But！ I’m grateful for everything you’ve taught me. I want you to keep teaching me, for a long, long time.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I’ll support you… even if everyone else is against it, I’ll support you！ So… please, don’t stop being our teacher.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Thank you, Setsugekka.」"
+    },
+    {
+        "message": "I smile at Setsugekka as she pleads with me, her eyes desperate."
+    },
+    {
+        "name": "Momiji",
+        "message": "「I’m still not entirely convinced… but, well, I’m glad I got to hear your story.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I had always thought of you as some kind of superhuman, but I guess you’re just a normal person after all.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Haha, that’s right. Even a teacher is just a person who deals with their own troubles.」"
+    },
+    {
+        "message": "Ever since then, I’ve been living with feelings I can never quite resolve. But I suppose that’s just what life is."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Still, I don’t think being so gloomy suits you, Sensei.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I mean, you’ve spent so much time preaching all that passionate stuff to us, yet you’re still tied down by your own past? That’s weird, you know.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「If you’ve got that much passion to pour into others, I think you should try looking at yourself, too.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hahaha, indeed. You’ve got me there.」"
+    },
+    {
+        "message": "I can clearly feel the encouragement hidden in Momiji’s words."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Well, I know you have your own way of thinking and living, Sensei, so I’m not trying to force anything on you.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「We... we want to be together」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yeah, yeah, that’s right！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Momiji, Setsugekka, thank you. I’ve truly received your feelings. You’re so kind, Momiji」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Eh...！？ N-no, that’s not what I meant...」"
+    },
+    {
+        "message": "Momiji’s face turns bright red at my words."
+    },
+    {
+        "name": "Momiji",
+        "message": "「W-well, that’s all I wanted to say！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Please don’t forget our request, okay!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, of course. Thank you both, really. I’m glad I could hear that from you」"
+    },
+    {
+        "message": "I was happy to know how they felt."
+    },
+    {
+        "message": "...Truly, I wish I could have become a teacher."
+    },
+    {
+        "name": "Iori",
+        "message": "「Anyway, please keep today a secret from everyone else. I don't want to worry them over unnecessary things」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I want the two of you to set today aside as well, and first focus on the Martial Festival」"
+    },
+    {
+        "name": "Iori",
+        "message": "「We can think about what comes after that once the Martial Festival is over」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Understood. Don’t go deciding everything on your own, okay」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hmph, I’ll win the tournament and call it all even！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I won’t lose！ I’m not afraid of anything anymore！ I’m getting more and more fired up！」"
+    },
+    {
+        "message": "Setsugekka raises both hands high. The shadows of the three of us stretched long, long down the road."
+    }
+]

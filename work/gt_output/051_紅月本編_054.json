@@ -1,0 +1,829 @@
+[
+    {
+        "message": "—After school."
+    },
+    {
+        "message": "Since we also had paired sparring today, I wrapped up class early and stepped out of the classroom, but..."
+    },
+    {
+        "name": "Iori",
+        "message": "「Man, what a dilemma... What should I do with this...」"
+    },
+    {
+        "message": "I scratch my cheek while looking at the holographic display in my hand. Confetti fluttering across the screen. Huge, bold letters reading \"You Won！\""
+    },
+    {
+        "name": "Iori",
+        "message": "「A free coupon for a luxury <d0064>private sauna</d>... Never thought I'd actually win.」"
+    },
+    {
+        "message": "Apparently, a sauna run directly by a sports gym recently opened on Sumiyoshi Academic Island, where Murakumo Academy is located."
+    },
+    {
+        "message": "A promotional campaign popped up, so I casually entered—and lo and behold, I actually won."
+    },
+    {
+        "name": "Iori",
+        "message": "「The problem is... this thing expires today.」"
+    },
+    {
+        "message": "I was planning to go home and review some assignments today, and it's not like I'm crazy about saunas anyway."
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, I guess it just wasn't meant to be this time...」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Huh? What's wrong, Iori-sensei?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Oh, Momiji. Mind listening to this for a sec？」"
+    },
+    {
+        "message": "...And so, I explain about the free sauna coupon."
+    },
+    {
+        "name": "Momiji",
+        "message": "「A sauna, you sayyy？！」"
+    },
+    {
+        "message": "W-What's with that face？！"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Do tell me all the details.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Wait, Momiji, are you interested in saunas？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Well, saunas are just great, aren't they！ Feels like all sorts of unwanted stuff leaves your body along with the sweat！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Best of all, the fact that all you have to do is sit still is amazing!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Talk about the pinnacle of laziness.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Only thing is, this free coupon expires today.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Free, you say？！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「D-Don't tell me... you want to go？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Well, I guess I'm a little curious~ Part of me wants to go, part of me doesn't, or maybe I really do want to go？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「So you do want to go.」"
+    },
+    {
+        "message": "If Momiji's up for it, maybe I could go with her. The only problem is..."
+    },
+    {
+        "name": "Iori",
+        "message": "「Uh, let me make one thing clear up front. Here, take a look at this. See where it says 'private sauna'？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Uh-huh, what about it？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「This means you and I will have to enter a private room together, though...」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Do you like saunas, Sensei？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, not particularly.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Then why not give me that free voucher as a present? That solves the problem right there~」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Try reading the fine print on this voucher.」"
+    },
+    {
+        "message": "I enlarge the voucher displayed via hologram."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Let's see, what's this... 'This free voucher is valid only for the winner and one accompanying person.'」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「'This voucher cannot be transferred to others.'」"
+    },
+    {
+        "name": "Iori",
+        "message": "「In other words, the voucher can't be used unless I go.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I see, so I should just go into the facility with you, Sensei, and enjoy the private sauna all by myself!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You mean I should wait outside until you come out！？」"
+    },
+    {
+        "message": "That feels incredibly unreasonable..."
+    },
+    {
+        "name": "Momiji",
+        "message": "「W-well... it's not like we can go into a private sauna together. We aren't married, after all.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, I don't think you need to be married to use a sauna. There shouldn't be any issues even if friends or couples use it.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Heh... so you really want to go in with me that badly.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「N-no, that's not what I...」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Fine, I'll go in with you.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「But in exchange... d-don't go doing anything weird!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Man... this has turned into a tricky situation.」"
+    },
+    {
+        "message": "In the end, I decided to go into the sauna with Momiji."
+    },
+    {
+        "message": "She insisted on it, saying it was fine and that we should just go, so I was pushed into it."
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, there’s no point in worrying about it now, I guess.」"
+    },
+    {
+        "message": "This is my free voucher, after all. Since I’ve come this far, I might as well just enjoy the sauna."
+    },
+    {
+        "name": "Iori",
+        "message": "「Whoa, it’s hot, as expected！」"
+    },
+    {
+        "message": "I open the sauna room door to test it, and a wave of muggy heat hits me. My lungs feel the heat as I inhale."
+    },
+    {
+        "name": "Iori",
+        "message": "「I see, it really is the size of a private room. They said it was for up to two people, and that's spot on.」"
+    },
+    {
+        "message": "I close the door for the time being."
+    },
+    {
+        "name": "Iori",
+        "message": "「It lives up to the 'luxurious' label, lots of stuff here. This is… I see, a drink dispenser！」"
+    },
+    {
+        "message": "There’s a console with buttons and names displayed on it. I touch the icon for a health drink, and…"
+    },
+    {
+        "name": "Iori",
+        "message": "「Oh ho, it’s pretty small. I guess it’s a single-serving size so it doesn't get lukewarm, or rather, heat up.」"
+    },
+    {
+        "message": "The drink that came out is ice-cold."
+    },
+    {
+        "message": "The chairs are also meticulously crafted; this is what they mean by attentive service."
+    },
+    {
+        "name": "Iori",
+        "message": "「I used to think saunas weren't for me, but I really have to rethink that. Man, this is great！」"
+    },
+    {
+        "message": "Momiji isn't here yet, but I might as well enjoy the sauna a step ahead of her."
+    },
+    {
+        "message": "Sweat is pouring out... This is actually pretty intense..."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Whew～, this is the best～」"
+    },
+    {
+        "message": "Momiji, who arrived shortly after, looked completely satisfied."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ahhh, feels so good. I can just relax without a care in the world…」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I think I could just die right here and now～」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hey now.」"
+    },
+    {
+        "message": "I can't help but give a wry smile at Momiji, who says such alarming things with a completely relaxed expression."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Yep, the temperature is just right, too～」"
+    },
+    {
+        "name": "Iori",
+        "message": "「It’s amazing what you can handle at this temperature when there’s no humidity.」"
+    },
+    {
+        "message": "Momiji is sitting a little way off, stretching out her body. From what I can see, her attire hasn't changed much."
+    },
+    {
+        "name": "Iori",
+        "message": "（I could have sworn I read in the brochure that there was special underwear provided for women…）"
+    },
+    {
+        "name": "Iori",
+        "message": "（Gah, no… stop thinking about unnecessary things.）"
+    },
+    {
+        "message": "Even so, the amount of skin showing can't be all that little. I should try not to think about unnecessary things."
+    },
+    {
+        "name": "Momiji",
+        "message": "「…What’s with all the glancing over here?」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Are you that curious about your student's body？ Even though you're a teacher, you're being a bad boy～♪」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hey, that’s not okay.」"
+    },
+    {
+        "message": "When we entered the facility, they casually asked about our relationship, so I told them we were siblings."
+    },
+    {
+        "message": "There’s no way we could tell them we’re teacher and student."
+    },
+    {
+        "name": "Iori",
+        "message": "「For now, we’re supposed to be brother and sister. I’d like you to keep that in mind.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「The teacher is my big brother～, big brother, huh～」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「…………」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「N-no way, not happening, absolutely not.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「……？」"
+    },
+    {
+        "message": "What's got her so flustered?"
+    },
+    {
+        "name": "Momiji",
+        "message": "「H-Hey, Sensei, do you have a girlfriend？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Nope.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ever had one？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Never.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Whaaat, you seem like you'd be popular, though.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I spent all my time at the academy hanging out with my guy friends, and right after that I enlisted in the GSDF, so...」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Wait, aren't there female members in the Tenju Special Forces？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I make it a rule not to do workplace romance.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Huh, why？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「A buddy of mine started dating another member of the Tenju Special Forces, and things went sour halfway through and they broke up.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「The two of them ended up in the same squad for a mountain field exercise, and I happened to be in that squad too... It was pure hell.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「They're both swordsmen with hot tempers, you see. The two of them were radiating so much bloodlust, I felt like I was barely holding on to my life...」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Yiiiikes...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「So I decided that if I'm gonna date anyone, it has to be someone from off-base.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Hmm... Does 'someone from off-base' include me？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「In the sense of being off-base, sure, but you're my student, Momiji. I have no intention of looking at my own student that way.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「...Hmph.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「W-What's wrong？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「...Getting told straight to my face that I'm not even on your radar kind of ticks me off.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「You're in a sauna with an academy girl, so I'd at least like your heart to race a little.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, I mean, my heart is racing.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Huh？ I-It is？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「N-no, I’m really not.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Why are you trying to play it off？ Are you turned on, perhaps？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Momiji, watch your phrasing！ Let’s cut out words like ‘turned on,’ okay！？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Heh~, I see... so you’re turned on by me~」"
+    },
+    {
+        "message": "Ugh... that look on her face is so annoying."
+    },
+    {
+        "name": "Iori",
+        "message": "「Hmph... what about you, Momiji？ Is your heart not racing？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I-I’m completely fine, actually.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I see. Momiji, you really are a tsundere.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「No, I’m not! Don’t take what Setsugekka says to heart!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Are you really not turned on？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「A-as if I would be.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Really, truly？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Naturally. There’s no way I’d be turned on by someone like a teacher.」"
+    },
+    {
+        "message": "She’s right, of course, but having it denied right to my face is somehow irritating...！"
+    },
+    {
+        "name": "Iori",
+        "message": "「I see... then you’d be fine with me doing something like this, right？」"
+    },
+    {
+        "message": "I move closer to Momiji and slam my hand against the wall right beside her."
+    },
+    {
+        "name": "Momiji",
+        "message": "「…………!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...What’s wrong, Momiji？ Your face is red.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I-it’s nothing, really.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Lying isn’t good. If it’s nothing, then look me in the eye.」"
+    },
+    {
+        "message": "Prompted by him, I look up at Iori-sensei’s face."
+    },
+    {
+        "name": "Momiji",
+        "message": "「A-aah...」"
+    },
+    {
+        "message": "My heart starts pounding uncontrollably."
+    },
+    {
+        "message": "This... could this be... oh no...！"
+    },
+    {
+        "name": "Iori",
+        "message": "「I’ll ask one more time. You really don’t feel anything？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I-I can’t bring myself to say something like that...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I see. My apologies.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Momiji, do you have any plans after this？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「No... why？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Alright, then let's take a shower and head out」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「U-Um... Iori-sensei, where are we going？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「There's something I really want to make you say with your own lips」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「What do you mean, something you want to make me say?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I'm not letting you go home today」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「H-Hauaaah...！？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「W-Wait, Sensei！ Not in a place like this！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You asked me if I didn't get turned on, didn't you」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I answered that I didn't earlier... but that was a lie」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Huh, then...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Momiji, there's no way I wouldn't get turned on by a girl as attractive as you」"
+    },
+    {
+        "message": "Saying that, Sensei wrapped his arm around my shoulder."
+    },
+    {
+        "name": "Momiji",
+        "message": "「W-Wait, Sensei！ We're teacher and student！？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「It's your fault. You're the one who turned me on」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ah, ah, b-but, buuut...！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Now it's your turn, Momiji... I'll ask you again. Don't you get turned on when you look at me？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Th-That's... well...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I won't be satisfied until I make you say it. Come on, tell me the truth？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I... I do get turned on」"
+    },
+    {
+        "name": "Iori",
+        "message": "「One more time」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I get turned on! Seeing the sweat dripping down your body, Sensei, I got super turned on!」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「But that's only natural, right! If you show off like that, you'd have to be crazy not to get turned on!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I see, you're the same as me. Then... that's fine, right？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Eh, fine? What... what do you mean?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「It's no good playing dumb when you know exactly what I mean. If we're both feeling lustful...」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ah, wait, Sensei... I'm still not mentally prepared...！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「It's okay, I'll be gentle...！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ah, Sensei, nooo, Sensei, Senseeeeii...！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Oh, it's already morning...？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Momiji, I've made some coffee.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「It's delicious...」"
+    },
+    {
+        "message": "The coffee Sensei had brewed for me was a blend of Blue Mountain and Mocha."
+    },
+    {
+        "name": "Momiji",
+        "message": "「S-Sensei... we really did it, didn't we?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, I suppose we did.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Uuu... I'm so embarrassed...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「It's alright. You were beautiful, Momiji.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Iori-sensei...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Momiji...」"
+    },
+    {
+        "message": "And so, Sensei and I shared a kiss that tasted of coffee—"
+    },
+    {
+        "name": "Momiji",
+        "message": "「…………!」"
+    },
+    {
+        "message": "The moment I pinned Momiji against the wall, she froze."
+    },
+    {
+        "name": "Iori",
+        "message": "「H-hey, Momiji？」"
+    },
+    {
+        "message": "Momiji's face turned beet red, and then—"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Eeeeeek...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Whoa, Momiji！？ Momiji-saaaan！？」"
+    },
+    {
+        "message": "Momiji had fainted, going completely limp."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ugh, I'm so sorry... for worrying you.」"
+    },
+    {
+        "message": "After Momiji had fainted."
+    },
+    {
+        "name": "Iori",
+        "message": "「My goodness, I'm just glad it didn't turn into anything serious.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「No, really, I'm sorry. I think I was just overthinking things so much that the blood rushed to my head...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I've never heard of someone getting dizzy from overthinking」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ahahaha... I'm good at thinking, you know. Once I start thinking about stuff, my mind just races off with no end in sight」"
+    },
+    {
+        "name": "Iori",
+        "message": "「By the way, what were you thinking about？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Waaaah？! Stop it, don't make me remember!」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「What the heck is a Blue Mountain and Mocha blend—I don't need that kind of detail!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「A b-blend...？」"
+    },
+    {
+        "message": "I had no idea what she was talking about."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Uuuugh, that's so embarrassing...」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Jeez, it's only because you went and kabedon'd me, Sensei...？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「M-My bad, I won't do it again」"
+    },
+    {
+        "message": "I'd only meant it as a little prank, so I never expected Momiji to end up like that."
+    },
+    {
+        "name": "Momiji",
+        "message": "「I-It's not like I'm telling you to stop. I just want you to mind the time and place!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「So you're saying you want me to kabedon you at the right time and place？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Idiot, idiot! Don't say it out loud!」"
+    },
+    {
+        "message": "I got yelled at again."
+    },
+    {
+        "message": "...Just then, something starts ringing. Looks like I'm getting a call."
+    },
+    {
+        "name": "Iori",
+        "message": "「Hello, Muragaki speaking」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Ah, it's me. Got a minute？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yes, I'm free. Momiji and I were just sla—no, taking a break!」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Momiji's with you too? Perfect. That saves me the trouble」"
+    },
+    {
+        "name": "Iori",
+        "message": "「What do you mean?」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Sorry, but come to the front of the school gate with Momiji. It's urgent. Get here right away」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yes, understood」"
+    },
+    {
+        "message": "I reply and end the call with Sasaki-sensei."
+    },
+    {
+        "name": "Momiji",
+        "message": "「What was that about？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Momiji, do you have any plans after this？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Wh-Wh-What？！ I'm not going to a hotel？！」"
+    },
+    {
+        "message": "...What on earth is she talking about？"
+    },
+    {
+        "name": "Iori",
+        "message": "「Mr. Sasaki is calling for me and Momiji. Sorry, but could you come with me?」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「H, hmph…… I see, got it.」"
+    },
+    {
+        "message": "Momiji looked somehow a little disappointed."
+    },
+    {
+        "message": "……Man, I really don't understand girls."
+    }
+]

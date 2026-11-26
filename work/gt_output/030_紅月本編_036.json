@@ -1,0 +1,1695 @@
+[
+    {
+        "message": "When I headed to the classroom in the morning, I heard lively voices."
+    },
+    {
+        "name": "Iori",
+        "message": "「That's... Ririmu's voice.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Aaaahahahaha, are you serious！？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Dead serious! Totally, completely serious!」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Haaah, that's hilarious! Getting baited into coming to class with fried rice is seriously too funny.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I dunno, it feels like everyone treats me way too casually, or just half-asses it with me.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I wish they'd show me a little more respect...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Yeah, no way, not when it's you, Secchan.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「What do you mean, 'no way'！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Still, I'm glad I got to hear about it.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Compared to the Secchan capture op, mine was a hundred times better.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I think so too—taking all that time to rehearse a play and everything.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Why did I just get 'You can have some fried rice' and call it a day!」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Well, normally people don't get baited by fried rice, you know.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Are you actually a glutton, Secchan？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「No, I'm telling you, I was forced onto a low-carb diet right before that.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「There was no rice, just tofu, okara, and chicken tenderloin over and over. I've had more than enough of bland meals like that...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Huh？ I stay on a low-carb diet all the time, though？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Whaaat！？ No way！？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I'm planning to do modeling in the future too, so I'm careful about keeping my figure.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Oh no... Are you an <d0052>ascetic monk</d>？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「An ascetic monk, really...? I don't think it's that rough.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ahem... You two, Iori-sensei is already here.」"
+    },
+    {
+        "message": "Asahi cut in with a pointed reminder to the two engrossed in their chatter."
+    },
+    {
+        "name": "Iori",
+        "message": "「No, it's fine, Asahi.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I'm just glad to see you both having fun, Setsugekka, Ririmu.」"
+    },
+    {
+        "message": "Before, Asahi was the only one in this silent classroom."
+    },
+    {
+        "message": "Today, lively conversation rings out from that very same room. Somehow, it made me happy."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Muragaki-sensei~, what are we doing today?」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ooh, ooh! Help me out with my special training!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, sorry, I can't start the lessons just yet.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Aww~, why not？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Because our conquest operation isn't finished yet.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Oh, you mean Kei-chan？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, Keisetsu already promised me she'll attend class as long as all the other students do.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Which means the last one left is Momicchi, huh?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Momicchi？ Oh, you mean Momiji-chan.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「When I asked her whether she liked Momijiru or Momicchi better, she picked Momicchi.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Huh~, then maybe I'll try thinking up a nickname for her too!」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Let's see... how about Momimomi？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ahaha, that sounds kinda lewd.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「All right~! Then from today on, Momiji-chan is Momimomi!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「What's with that naming sense...？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I think it's a lovely nickname that truly reflects the intellect of the person who came up with it.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「You're totally dissing me right now, aren't you？ Hey, I'm talking to you~！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Anyway, next up is conquering Momiji.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「The difficulty of this operation is extremely high, yet failure is not an option. Everyone, brace yourselves！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yes, sir! When it comes to Momimomi, leave it to me!」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Setsugekka-san, you're staying behind to hold down the fort.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Why？！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Because you screwed up your conquest mission, right?」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「That is correct.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ah, right... I'll just stay behind and watch the house, then...」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Wait, hold on—Momimomi is my rival, you know？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「The one to conquer Suzakuin Momiji is me！ That's a settled matter！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Right, Muragaki-sensei?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「…………」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hey, what's with that disgusted look?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I absolutely won't mess up this time, so please, I'm begging you!」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Let me join the mission too！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「What shall we do, Iori-sensei?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hmm, it would be mean to leave her out, I suppose.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yay！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Iorin, you're such a softie~」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Alright then, everyone, let's begin the strategy meeting for the Momiji conquest mission！」"
+    },
+    {
+        "name": "Setsugekka & Asahi & Ririmu",
+        "message": "「Okaaaay！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「So, how are we going to conquer Momimomi？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Asahi, I'll leave it to you.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Over the past few days, I have thoroughly investigated Momiji-san.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「As a result, I have obtained some astonishing information regarding her.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Astonishing information, you say？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Since this is highly classified, I will send it via a private channel.」"
+    },
+    {
+        "message": "With a deft flick, Asahi gestured with her hand."
+    },
+    {
+        "message": "By now, a holographic display that only they could see must have appeared before Setsugekka and Ririmu."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Eh... w-what is this」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Whoa, is this really Momimomi？ Like, seriously！？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「No way, no way, no way—this has to be a fake！ I mean, she's a Suzakuin, right！？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I understand why you'd feel that way.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「However, this is the truth.」"
+    },
+    {
+        "message": "I was incredibly shocked myself when Asahi first showed me the footage."
+    },
+    {
+        "message": "To think Momiji had a secret like this."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Actually, the angle on this footage is really weird. Was this filmed secretly？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Doesn't really look like a selfie, huh?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Don't tell me, Muragaki-sensei, you snuck into Momimomi's room and...」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hehe, I was the one who set it up.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I disguised myself as a cleaner and installed a few hidden cameras and bugs.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I-isn't that a crime！？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I asked Asahi to do it. So the responsibility lies with me.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I will stop at nothing to serve Iori-sensei.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「To begin with, opposing you, Sensei, is the real crime.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「…………」"
+    },
+    {
+        "message": "Ririmu is speechless. Well, I can understand how she feels."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「But hey, if this video gets out, Momimomi is definitely going to be in trouble, right？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, she'd definitely want to keep it hidden at all costs.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Then don't we not even need a plan anymore？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「We could just threaten her: attend class, or we leak this video. Done.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, Ririmu, that's a bad move.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「This footage is voyeuristic, meaning it's illegal data.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「If we go public with it, people will start asking 'who filmed this?', and we'd take a huge hit ourselves.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Naturally, Momiji would exploit that fact.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「She'll push back, arguing that going public would be mutually destructive and gain us nothing.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「There's a high probability she'll lay out conditions and try to extract some kind of concession.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ehh, aren't you overthinking it？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Momiji-san is a shrewd and cunning person. We cannot let our guard down.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「So what do we do then？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I was waiting for that question.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「If we can't release the video, then what's our move?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「The answer is... we catch her red-handed ourselves！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「We barge right in while the exact same thing as in this video is happening.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「That way, she won't be able to talk her way out of it.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Whoa, that sounds super fun！ Let's do it, let's do it~！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Nice, let's all corner Momicchi together~！」"
+    },
+    {
+        "message": "Everyone getting all hyped up and noisy."
+    },
+    {
+        "name": "Iori",
+        "message": "「Setsugekka aside, I didn't expect even Ririmu to be this into it.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Well, I mean, she got me good too~」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Besides, I wanna see the shocked look on Momicchi's face when she falls for a prank.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「This is not a prank. Please do not lose sight of our objective.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Wait, what was our objective again？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Why, to make Momiji-san submit completely to Iori-sensei, of course♪」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Whoaaa~！ I wanna make Momimomi submit too~！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, we're not making her submit, okay？ We're just getting her to attend class, alright？」"
+    },
+    {
+        "message": "Or so I thought, harboring a faint tinge of unease."
+    },
+    {
+        "name": "Iori",
+        "message": "「Then let the final phase of Operation 'Green Grass Belongs to Everyone' commence！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Yes, sir!」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Roger that~！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「You're still using that operation name...」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Hmm-hmm, hmm-hmm~ hm-hm-hmm~♪」"
+    },
+    {
+        "message": "The great thing about Murakumo Academy is that every single student gets their own private dorm room."
+    },
+    {
+        "message": "Barring extraordinary circumstances, nobody else ever steps foot inside. In other words, it's a completely private sanctuary."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Haaah, this is pure bliss, nya~」"
+    },
+    {
+        "message": "My family home is a quintessential traditional Japanese house."
+    },
+    {
+        "message": "The partitions are just fusuma or shoji, with decorative transoms full of gaps above them. There aren't even locks on the fusuma, so anyone can waltz right in and out."
+    },
+    {
+        "message": "Privacy was practically nonexistent."
+    },
+    {
+        "name": "Momiji",
+        "message": "「That's no kind of environment for a maiden in the bloom of youth to live in...」"
+    },
+    {
+        "message": "Today I scored a fine mackerel freshly landed at <d0053>Sakai Fresh Fish Market</d>."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Still, whoever designed this dorm really knew what they were doing~」"
+    },
+    {
+        "message": "Despite being a single dorm room, the generous kitchen leaves nothing to be desired when it comes to filleting fish."
+    },
+    {
+        "message": "I pull out my trusty fish knife and swiftly take off the mackerel's head."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Hm-hm-hm~, hmm-hm-hm~... Oh, the flesh is so plump and springy~」"
+    },
+    {
+        "message": "Split open the belly, pull out the innards, and give the bloodline a thorough rinse. Then I fillet it off the bone, peel away the skin, and remove the remaining bones."
+    },
+    {
+        "name": "Momiji",
+        "message": "「After all, a self-reliant swordswoman's gotta be handy with a kitchen knife too!」"
+    },
+    {
+        "message": "Learning how to slice flesh while avoiding bone is experience no practitioner of the sword stands to lose from."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Just kidding—I really just want some tasty snacks to go with my drink~」"
+    },
+    {
+        "message": "Half lightly blanched, the other half as plain sashimi. It's a luxury made possible only by mackerel this outrageously fresh."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Add the condiments and chopped shiso... and all done!」"
+    },
+    {
+        "message": "A generous platter of mackerel sashimi is complete."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Now to warm up the yakitori~ and get my little smoked squid ready too~」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「All done~!」"
+    },
+    {
+        "message": "A spread of vibrant dishes lines up across my single-person table."
+    },
+    {
+        "name": "Momiji",
+        "message": "「All right, now for the star of the show!」"
+    },
+    {
+        "message": "I pull an ice-cold 350ml can out of the fridge."
+    },
+    {
+        "name": "Momiji",
+        "message": "「This is it! You just can't get started without this~」"
+    },
+    {
+        "message": "I nuzzle my cheek against that precious, beloved drink, emblazoned with the emblem of a blazing crimson phoenix."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Well then, cheers to a party of one~!」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Mm... gulp...」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Pwaaaahhhh, <d0054>Suzaku Hyper Dry</d>！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Aaah~, it soaks right into my soul~~~！」"
+    },
+    {
+        "message": "The bitterness of fermented malt, the sharp bite of carbonation, and a crisp, ice-cold finish going down."
+    },
+    {
+        "name": "Momiji",
+        "message": "「To put it mildly, this is peak perfection！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Though I say that, it's actually non-alcoholic beer~」"
+    },
+    {
+        "message": "Among all the non-alcoholic beers out there, my top pick is Suzaku Hyper Dry."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Zero calories, zero purines, zero alcohol—totally free！ Recommended for active swordsmen too」"
+    },
+    {
+        "message": "When I was a child, I accompanied my father to a gathering of the Sword-Bearing Self-Defense Association, and I was made to drink beer there."
+    },
+    {
+        "message": "At first I thought it was just bitter, but after drinking it a few times, I ended up finding it delicious."
+    },
+    {
+        "message": "That said, an academy student indulging in alcohol is completely out of the question. That's why I started drinking non-alcoholic beer."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Heh heh heh, this is just carbonated barley tea, you know」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Not a single problem at all~！」"
+    },
+    {
+        "message": "Even so, public opinion is harsh."
+    },
+    {
+        "message": "Even though it's just a soft drink made to taste like beer, if an academy student like me drinks it, people give me disapproving looks."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Seriously, what a ridiculous trend~」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Encouraging underage drinking？ As if」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Minors aren't going to drink bitter fizzy juice that can't even get them drunk」"
+    },
+    {
+        "message": "This is something only adults who know how good beer tastes can enjoy."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Well, it doesn't matter as long as I'm drinking alone like this anyway」"
+    },
+    {
+        "message": "A bite of the mackerel sashimi I just made, dipped in soy sauce mixed with condiments."
+    },
+    {
+        "message": "While the distinct fishy tang of blue-backed fish still lingers in my mouth, I wash it down in one gulp of beer."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ngh~~~, that's the stuff, that's it」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Haaah, pure bliss~」"
+    },
+    {
+        "message": "The finest snack with the finest beer—it was a moment of pure bliss."
+    },
+    {
+        "name": "Momiji",
+        "message": "「That was a bit of a close call this time~」"
+    },
+    {
+        "message": "There's a liquor store on the mainland where I'm a regular."
+    },
+    {
+        "message": "I always buy my non-alcoholic beer there, but on my way back I ran into Iori-sensei."
+    },
+    {
+        "message": "I had noticed Iori-sensei and Tobe Ririmu talking with the police in front of the station."
+    },
+    {
+        "message": "I tried to slip away without being seen, but Tobe Ririmu suddenly dashed straight toward me, so I missed my chance to escape."
+    },
+    {
+        "name": "Momiji",
+        "message": "「They were eyeing what was inside, so I thought they had some solid proof, but I guess not」"
+    },
+    {
+        "message": "The way he panicked when I showed him the underwear I'd stashed in my bag as insurance was priceless."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Pfft... He's surprisingly innocent, that teacher.」"
+    },
+    {
+        "message": "A big bite of yakitori—chicken skin warmed up in the oven."
+    },
+    {
+        "message": "The crisp bite and the rich fat oozing out from inside—it's a wonderful combination."
+    },
+    {
+        "message": "I gently follow it up with a sip of beer, savoring the harmonious blend of flavors."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ahhh, so good... When it comes to yakitori, it really has to be chicken skin and gizzards!」"
+    },
+    {
+        "message": "Rare cuts are nice too, but if you're enjoying it on skewers, these two are the classics."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Haaah... I can feel the stress just melting away...」"
+    },
+    {
+        "message": "Living day in and day out as a Suzakuin is unbelievably stressful."
+    },
+    {
+        "message": "Of course, being a Suzakuin certainly comes with its perks. I'll admit that much."
+    },
+    {
+        "message": "Still, if I could be reborn, I wouldn't choose the Suzakuin Family."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Being the eldest sister on top of it all... is just exhausting.」"
+    },
+    {
+        "message": "There were times I thought about just running away from it all."
+    },
+    {
+        "message": "But if I run away, then my three younger sisters will be the ones sacrificed to duty."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Nadeshiko, Miyako, and Tsubaki—they're all just too cute.」"
+    },
+    {
+        "message": "I'd rather not put them through anything painful if I can help it."
+    },
+    {
+        "message": "In the future, one of us four sisters will most likely inherit the headship of the Suzakuin Family."
+    },
+    {
+        "message": "Inheriting the Suzakuin Family means leading the Sword-Bearing Self-Defense Association."
+    },
+    {
+        "message": "If things go as expected, that role will fall to me, the eldest sister."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ugh, what a pain... I definitely don't wanna do it...」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「If someone else offered to do it instead, I'd hand it over in a heartbeat.」"
+    },
+    {
+        "message": "The best-case scenario would be for Nadeshiko, Miyako, or Tsubaki to step up and say she wants to be the family head. Then I'd finally be free from all these obligations."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Nadeshiko... Ahaha, yeah, no way.」"
+    },
+    {
+        "message": "Nadeshiko, the second daughter, is friendly and popular in her class. She's strong at Jindou too, and she's already saying she wants to become a pro Jindou athlete in the future."
+    },
+    {
+        "message": "It's just a real shame, though... Nadeshiko isn't very bright."
+    },
+    {
+        "name": "Momiji",
+        "message": "「I think she's cut out to be an athlete, sure, but politics is a bit much for her...」"
+    },
+    {
+        "message": "All sorts of riffraff with ulterior motives flock to the Suzakuin head."
+    },
+    {
+        "name": "Momiji",
+        "message": "「She's totally the type to get conned by some bad crowd in the future.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「As for Tsubaki... Nope, no good. She's way too cute—I don't want to make her do it!」"
+    },
+    {
+        "message": "I want her to grow up straight and true. I don't want to taint her with petty adult entanglements."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Out of the three of them, Miyako seems to have the best aptitude for it, though~」"
+    },
+    {
+        "message": "Even among the four of us, she has a slightly different air about her."
+    },
+    {
+        "message": "She's had unusually high spiritual power since birth, and when we were little, she could see all sorts of things the rest of us couldn't."
+    },
+    {
+        "name": "Momiji",
+        "message": "「She's a bit detached from the world... but she's got a good head on her shoulders.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「All right~ Then let's raise Miyako to be the head of the family！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「And then maybe I'll retire to a hidden village, nya~♪」"
+    },
+    {
+        "message": "Just as I was wondering where a good place to retire would be."
+    },
+    {
+        "name": "Momiji",
+        "message": "「...Hm？」"
+    },
+    {
+        "message": "My sixth sense tells me."
+    },
+    {
+        "message": "That something unnatural is closing in on me—"
+    },
+    {
+        "name": "Momiji",
+        "message": "「—！？」"
+    },
+    {
+        "message": "Suddenly, the window at the back flew open."
+    },
+    {
+        "message": "What about the lock, who's behind this, what's their goal—I started to think, then cut it off immediately."
+    },
+    {
+        "message": "Right now, covering my tracks comes first."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Kh...！」"
+    },
+    {
+        "message": "Crushed the aluminum can in my hand and shot it into the trash bin. Luckily, it was almost empty."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Lights out！！！」"
+    },
+    {
+        "message": "I shout, but—no response."
+    },
+    {
+        "message": "Strange, it's normally supposed to turn off by voice command—"
+    },
+    {
+        "message": "Right then, a figure suddenly leapt in through the window."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Fwa-hahahahahaha, come quietly now！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Make way for Definitely-Gonna-Beat-Suzakuin-Man！」"
+    },
+    {
+        "message": "It was Kazamine Setsugekka."
+    },
+    {
+        "name": "Momiji",
+        "message": "「You—what are you here for...！」"
+    },
+    {
+        "message": "Without even answering, she charges in and grapples me."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Aw yeah, Momiji-chan secured~！」"
+    },
+    {
+        "message": "In the blink of an eye, I'm pinned down."
+    },
+    {
+        "name": "Momiji",
+        "message": "（Crap, this girl... she knows martial arts...！）"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hehehe, even a Suzakuin's no big deal without Origami~」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Take that, take that~ How's it feel, frustrated~？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「You little...！」"
+    },
+    {
+        "message": "Annoyed, I reach my hands into Setsugekka's sides."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Oh？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Take that！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hey, bwahahahaha, u-hyahyahyahya...！ W-wait, tickling is playing dirty！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「You broke into my room illegally, so don't you dare talk to me about playing dirty!」"
+    },
+    {
+        "message": "Seeing her off balance, I use a tomoe nage to toss her aside."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ow-ow-owww！？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「You... how dare you do that to me！！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Smoke screen, activate!」"
+    },
+    {
+        "message": "I trigger the smoke candle I’d prepared for a moment like this via voice command."
+    },
+    {
+        "message": "It’s a top-tier disaster prevention tool—harmless to humans and capable of deploying a smoke screen in an instant."
+    },
+    {
+        "message": "――Or so it should be."
+    },
+    {
+        "name": "Momiji",
+        "message": "「...Huh, a dud? No way！」"
+    },
+    {
+        "message": "I just checked it the other day... why on earth！？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Take that！」"
+    },
+    {
+        "message": "Just as I’m trying to process this, Setsugekka pounces on me again."
+    },
+    {
+        "name": "Momiji",
+        "message": "「What... seriously, what even are you！？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I told you, I’m the girl who’s absolutely going to take down the Suzakuin！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「That doesn’t make any sense！」"
+    },
+    {
+        "message": "Setsugekka grapples me skillfully; without my sword, I’m at a disadvantage. I suppose that’s the advantage of a martial arts expert."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hehehe, quit squirming, won't you? I promise I won't hurt you！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「C-could you please stop pinning me to the bed and saying things like that！？」"
+    },
+    {
+        "message": "I struggle, but I can’t seem to shake her off."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hehe, just leave it to me. I’m going to make you feel good.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「No thanks, I’m quite alright！」"
+    },
+    {
+        "message": "As I was engaged in this rough-and-tumble struggle with Setsugekka—"
+    },
+    {
+        "name": "Iori",
+        "message": "「What’s going on? Is everything alright！?」"
+    },
+    {
+        "message": "...Iori-sensei burst into my room."
+    },
+    {
+        "message": "After he used his master key to storm into Momiji's room."
+    },
+    {
+        "name": "Iori",
+        "message": "「I heard the commotion and rushed in, but... I never imagined it would be something like this.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「……How disingenuous.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Iori-sensei, you rigged something in my room, didn't you？」"
+    },
+    {
+        "message": "She’s likely referring to the fact that the room’s management system didn't react to her voice, and that the smoke candle failed to deploy."
+    },
+    {
+        "message": "She's trying to change the subject, but I'm not falling for it."
+    },
+    {
+        "name": "Iori",
+        "message": "「Now, what are you talking about？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「More importantly, let's talk about this. I want an explanation.」"
+    },
+    {
+        "message": "I place the aluminum can I found in the trash bin on the table."
+    },
+    {
+        "message": "Even though it’s crushed, it’s plain for anyone to see that it’s wrapped in beer packaging."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Whatever it looks like, it is what it is.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「So, are you saying you were drinking alcohol in the dormitory？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「That is non-alcoholic beer. It is not alcohol.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Non-alcoholic or not, beer is still beer.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「It is merely a soft drink.」"
+    },
+    {
+        "message": "Ho, so she’s going to insist to the very end that it isn't alcohol."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Besides, even if you are a teacher, you shouldn’t have the authority to barge into a private dorm room, should you？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「It’s fine. I have permission from the dorm manager.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「……Permission? You're not even trying to hide it, are you.」"
+    },
+    {
+        "message": "Momiji makes a face like she’s about to click her tongue."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I mean, now that I look, Momimomi’s room is actually pretty messy~」"
+    },
+    {
+        "message": "Now that she mentions it, laundry and trash are scattered all over the place."
+    },
+    {
+        "name": "Momiji",
+        "message": "「How I choose to live my life in my own private space is none of your business.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「And Kazamine-san, how long do you intend on staying here？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Come on now, we’re classmates.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「You’re an irrelevant person.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「That’s so mean! Don't be so cold!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Regardless, even if it’s non-alcoholic, I can’t approve of drinking beer in the dorms.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I told you, it’s not beer.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「So, you have nothing to hide？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I do not.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Then it wouldn't be a problem if this were made public, would it？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「It’s quite unbecoming for a teacher to act like a snitch, don’t you think?」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Besides, I wasn't the one drinking that.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Oh, really? Then who was?」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I just picked up some trash that was lying around.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「And what proof do you have that you picked it up as trash？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「And what proof do you have that I was the one drinking it？」"
+    },
+    {
+        "message": "Huh, she's actually going to pull that excuse at this stage."
+    },
+    {
+        "message": "As expected of Suzakuin Momiji, she's not one to be easily cornered."
+    },
+    {
+        "name": "Iori",
+        "message": "「Fine, if you’re going to be like that, I’ll produce the evidence.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Asahi, come on in.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Momitchi, lying isn’t good, you know~」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「We have concrete proof that you were drinking that soft drink.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Tobe-san, Kuki-san…？」"
+    },
+    {
+        "message": "Ririmu and Asahi enter the room."
+    },
+    {
+        "name": "Momiji",
+        "message": "「What do you mean, you have proof？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Please, look at this recording.」"
+    },
+    {
+        "message": "Asahi shares a holographic video with Momiji."
+    },
+    {
+        "name": "Momiji",
+        "message": "「...Th-this is？！」"
+    },
+    {
+        "message": "Momiji plays the video, and the audio of the decisive moment begins to fill the room."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Well then, cheers to a party of one~!」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Mm... gulp...」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Puuuhhh—, Suzaku Hyper Dry！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Aaah~, it soaks right into my soul~~~！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Th-this is…！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Suzaku Hyper Dry！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Suzaku Hyper Dry！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Hey, would you two stop repeating that！？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Momichi, you really know how to down a drink, huh~」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I wonder if non-alcoholic beer is any good」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Setsugekka, don't even think about it」"
+    },
+    {
+        "message": "I think she'll be fine, but I make sure to warn her just in case."
+    },
+    {
+        "name": "Momiji",
+        "message": "「I mean, this is footage from a hidden camera, isn't it！？」"
+    },
+    {
+        "message": "Judging the camera's location from the frame of the footage, I start rummaging through the trash bag."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hehehe, it was so full of trash that hiding it was easy.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「This is what happens when you don't keep your room properly cleaned up.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Isn't this voyeurism！? That's a straight-up crime！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Yes, it is a crime.」"
+    },
+    {
+        "message": "Asahi smiles brightly, not looking the least bit remorseful."
+    },
+    {
+        "name": "Asahi",
+        "message": "「However, I trust you now understand that your excuse of 'I just picked up the empty beer cans from the trash can' won't hold water.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Guh... grrr...」"
+    },
+    {
+        "message": "Momiji gnashes her teeth."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Iori-sensei, why didn't you stop Kuki-san？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Doing something like filming us in secret is definitely going to cause trouble later！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「It's not that I didn't stop her, it's that I'm the one who told her to do it.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Huh！？ Are you serious！？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I didn't really want to do it, though.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「But it didn't look like Momiji would be willing to accept my guidance unless I did something like this.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「...I don't think you're in your right mind.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Just so you know, if this whole mess goes public, you're the one who will be in the most trouble, Iori-sensei.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I'll just suffer a minor loss of credibility, but you'll definitely end up getting arrested by the police.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, you're right.」"
+    },
+    {
+        "message": "If it turns into a police matter, a teacher who secretly films his students is a guaranteed lockup."
+    },
+    {
+        "name": "Momiji",
+        "message": "「...I suppose I have no choice.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Let’s just treat this as an act of overzealous concern on my part as a teacher.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「It doesn’t seem like you had lewd intentions, so I’ll refrain from bringing this to the public eye myself.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Shall we call it even if you delete that footage?」"
+    },
+    {
+        "message": "Momiji wore a composed smile."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「...Whoa, that’s amaaaazing.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「What is？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Well, y'know, Iori-rin told me.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「He said that since Momitchi’s smart, you’d see through it and try to offer a deal to make us back down, instead of reporting the candid filming.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「You were dead on, so I’m honestly surprised.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「…………」"
+    },
+    {
+        "message": "Exactly as expected; Momiji’s line of reasoning was exactly what we had anticipated."
+    },
+    {
+        "name": "Iori",
+        "message": "「What’s wrong？ Is there some reason why you can't have this footage remaining？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I simply thought it would be better deleted, as it constitutes evidence of a crime.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I was offering that advice out of concern for you both, but is there some sort of problem with that？」"
+    },
+    {
+        "message": "Hmm, so she’s still not backing down."
+    },
+    {
+        "name": "Iori",
+        "message": "「Momiji, do you have no intention of attending the Takamura Class？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I do not.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...Can't be helped. I didn't want to use this method if I could avoid it.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「If you’re going to insist on refusing, I’ll have to use my trump card.」"
+    },
+    {
+        "message": "I never thought that just stepping in would be enough to make Momiji yield."
+    },
+    {
+        "message": "I needed a trump card to deliver the finishing blow."
+    },
+    {
+        "message": "I’d been wondering what to do, but my trump card was very close by."
+    },
+    {
+        "name": "Momiji",
+        "message": "「...Wh-what are you planning on doing？」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Yo, Momiji. Looks like you’re having some fun.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ngh... M-Mikoto-san！？」"
+    },
+    {
+        "message": "The trump card in the battle against Momiji―it was none other than this Sasaki―sensei."
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Oh man, drinking stuff like this... Not being able to have the real thing must be rough」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「U-Um... why are you here？」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Hey, hey, did you forget？ For what it's worth, I'm the homeroom teacher for Takamura Class」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「I leave the guidance to Muragaki, the assistant homeroom teacher, but I worry about my students just the same」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「'Worry'? Saying something so shameless again...！」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「So？ Are you the one who drank this？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「…………」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「We have video footage, Sasaki-sensei」"
+    },
+    {
+        "message": "In place of the silent Momiji, Asahi shows Sasaki-sensei the footage from earlier."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Well then, cheers to a party of one~!」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Mm... gulp...」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Puuuhhh—, Suzaku Hyper Dry！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Aaah~, it soaks right into my soul~~~！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Suzaku Hyper Dry！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Suzaku Hyper Dry！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Stop replaying it over and over！」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Oh ho, you really know how to knock it back」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「You're gonna grow up to be a real heavy drinker. Let's grab a drink together when you do」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「............ngh」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「That said, for an academy student, this is a bit of a provocative sight, wouldn't you say」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「B-But Mikoto-san, that's secret filming, a criminal offense...！」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Yeah, of course I know that」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Including that part, I'm not quite sure how I should handle this on my own」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Maybe I should just go ahead and consult Masatane about...」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Okay, I get it, Iiiiii geeeeeeet iiiiiiiit！！！」"
+    },
+    {
+        "message": "Momiji roared, cutting off Sasaki-sensei's words."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Yes, you're right, it's my loss! I give up, I surrender!!」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I knew it！ The moment Mikoto-san showed up, I knew for a fact you'd play that card at the end！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「This is so unfair~~~！！！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Oh, Momimomi snapped」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Of course I did, this is practically dragging a parent into a kids' fight」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ugh, geez, I hate you, Iori-sensei！」"
+    },
+    {
+        "message": "Momiji begins to writhe and kick on the floor like a spoiled child."
+    },
+    {
+        "message": "I see, so this is Momiji's true colors."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ahahaha, Momimomi is wriggling on the ground~」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hey, Setsugekka was doing that just the other day too.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Eh, I was not.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You were thrashing around remembering that thing you did in front of the convenience store, weren't you?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Kyaaaaaaaaaaaaa！ Don't make me remember that~~！！」"
+    },
+    {
+        "message": "Setsugekka rolls around on the ground next to Momiji."
+    },
+    {
+        "name": "Iori",
+        "message": "「Momiji.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「...What is it.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You'll be attending class starting tomorrow, right, Momiji？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Yeah, yeah, I'll go.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「You're just going to show that footage to my father if I don't, right？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I don't really have a choice but to go now, do I.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I have no idea what he'd make me do if he saw that.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I'm glad to see you've had a change of heart.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Sensei... you're definitely not going to have a peaceful death, you know？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I'll be sure to be as careful as I can.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Hmph, idiot, idiot.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hey, Sensei, is the conquest operation over now？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, operation complete.」"
+    },
+    {
+        "message": "The Momiji conquest operation, which had been expected to be a fierce battle."
+    },
+    {
+        "message": "However, thanks to Sasaki's intervention, Momiji had fallen without much of a fight."
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Well done, Muragaki.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「But don't get careless. These ones aren't baby birds.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Fully grown birds of prey, are they？」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「That is how it is. You may call for me whenever you need me」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「If you're having trouble handling Momiji, I'll lend a hand anytime」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You heard her, Momiji」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「A hot-blooded teacher and Mikoto-san... what a nightmare combination, seriously...」"
+    },
+    {
+        "message": "Drooping her shoulders in disappointment."
+    },
+    {
+        "name": "Iori",
+        "message": "「Anyway, with this, all the students of the Takamura Class should be present starting tomorrow」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That way, I'll be able to give everyone equal instruction」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Thanks, everyone！ I look forward to working with you all starting tomorrow！」"
+    },
+    {
+        "name": "Setsugekka & Asahi & Ririmu",
+        "message": "「Yeees~」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Yeah, yeah...」"
+    }
+]

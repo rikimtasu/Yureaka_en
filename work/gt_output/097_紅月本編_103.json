@@ -1,0 +1,1382 @@
+[
+    {
+        "name": "Momiji",
+        "message": "「Oh, Teacher. How was Asahi doing？」"
+    },
+    {
+        "message": "I had been with Asahi after her loss for a while, but since Momiji had a match coming up, I returned to the venue."
+    },
+    {
+        "name": "Iori",
+        "message": "「You already knew the result?」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Well, all the match results from the preliminaries get reflected in the academy’s system in real-time, you know.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You’ve got quite the composure, watching stuff like that right before your own match.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Your opponent is Victoria, after all.」"
+    },
+    {
+        "message": "Indeed, Momiji’s opponent was the current Toujinegi and the top favorite to win this year’s tournament, Victoria."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Forget about me. Was Asahi doing okay？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, she was smiling and saying, ‘Don’t worry about me.’ She was frustrated, but she wasn’t depressed.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Still, Asahi is the type to bottle things up. I’m worried she might be brooding over it deep down.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「If there’s anything I can do to help her, even a little, I really want to do whatever I can...」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「You’re such a softie, Teacher.」"
+    },
+    {
+        "message": "As I sank into thought, Momiji waved her hand as if to cheer me up instead."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Asahi understands your feelings better than anyone. Even if you don’t say a word, it all gets through to her.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「So, just having those feelings is enough, Teacher.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I wonder if that’s true...」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「It is, it is.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「It’s okay, Asahi is really strong. She isn’t the type to fall apart just because of one loss.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...You’re right. I’ll believe in Asahi’s strength.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「That’s the spirit. Nothing’s going to start if you’re the one worrying yourself sick.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Thanks, Momiji. It feels like you ended up cheering me up instead.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Roles reversed, is that it？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Haha, I guess so. I need to get it together more.」"
+    },
+    {
+        "message": "Even while she claims to prefer being alone and says this and that, Momiji keeps a close eye on her classmates."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ah, though, you’ll at least have to go cheer Asahi up one more time, Teacher.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「What do you mean？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Even if Asahi makes it to the finals of the Martial Festival—I’m the one who’s going to win.」"
+    },
+    {
+        "message": "With a laugh and a quip, Momiji stepped onto the stage."
+    },
+    {
+        "message": "……As she stepped onto the stage, she was met with cheers."
+    },
+    {
+        "message": "Even though it’s just the qualifiers, there’s a decent crowd."
+    },
+    {
+        "message": "Well, I suppose that’s to be expected. I’m a Suzakuin, and my opponent is the reigning Toujinegi."
+    },
+    {
+        "name": "Victoria",
+        "message": "「Haaai！ Everyone, let’s get this party started！」"
+    },
+    {
+        "message": "That reigning Toujinegi responded to the cheers by waving both hands wildly, twirling around in high spirits."
+    },
+    {
+        "name": "Victoria",
+        "message": "「Fufuuh, it really is the best being watched by everyone！ Very exciting！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「You’re as energetic as ever, Victoria-san.」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Energetic, energetic！ I’m always full of energy！ Yay！ Woohoo！ Yeah！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「……Let me correct myself. You’re even more energetic than usual.」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Of course！ The festival is finally starting, so it’d be a waste not to get hyped up！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「You seem to be in good form. I believe you’ve been undefeated so far?」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Yes！ But Suzakuin-chan, you’re not doing so bad yourself, right？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Yes, I intend to remain undefeated until I win the main tournament.」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Ahahaha, that’s just like you, Suzakuin-chan！ But, I won’t lose either！」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Come to think of it, when we sparred before, didn’t it end halfway through？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「That’s true. There won’t be any interruptions this time, so let’s settle the score properly.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「You said back then that you’d ‘win the Martial Festival with ease.’ I expect to see that strength today.」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Did I say that~？ Oh well, yeah, yeah, I’ll win with ease~, ahahaha！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「……I, see.」"
+    },
+    {
+        "message": "Is this person completely hopeless at everything except Jindou……."
+    },
+    {
+        "name": "Victoria",
+        "message": "「But well, it’s still just the qualifiers, huh~. It’d get me even more hyped if it were the main tournament~」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I’ll have you know, I’m going all out.」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Yes！ Of course！ I don’t intend to hold back either！」"
+    },
+    {
+        "name": "Umpire",
+        "message": "「Alright, both combatants, take your stances！」"
+    },
+    {
+        "message": "At the signal from the Umpire, I drew my beloved blade, Tsubakuro Nagamitsu."
+    },
+    {
+        "message": "Victoria-san is still smiling as usual, but the mere act of her taking a stance increases the pressure immensely——"
+    },
+    {
+        "name": "Umpire",
+        "message": "「……Begin！」"
+    },
+    {
+        "message": "At the signal to begin the match, I’m the first to make a move."
+    },
+    {
+        "message": "I start with a probe; from the very edge of my range, I repeat quick, light strikes aimed at the torso to gauge her reaction."
+    },
+    {
+        "message": "Victoria parries them just as lightly, her defense barely making contact with the tips of our blades."
+    },
+    {
+        "message": "Well, that much is to be expected."
+    },
+    {
+        "name": "Momiji",
+        "message": "（Next, a low strike……！）"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Whoa！ That didn’t hit！」"
+    },
+    {
+        "message": "I lower my body, stepping in even deeper than before to aim an attack at her feet."
+    },
+    {
+        "message": "She avoids it by lifting one leg."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Not yet……！」"
+    },
+    {
+        "message": "From there, I whip my blade upwards in one fluid motion."
+    },
+    {
+        "name": "Victoria",
+        "message": "「Wow！ But that’s no good either！」"
+    },
+    {
+        "message": "It’s a low, difficult attack to parry, but she stops that too."
+    },
+    {
+        "message": "……For some reason, while still standing on one leg."
+    },
+    {
+        "name": "Victoria",
+        "message": "「Then, I guess it’s my turn now~！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「No, it’s still mine.」"
+    },
+    {
+        "message": "I immediately strike at her remaining supporting leg, but Victoria nimbly hops on one foot while batting my blade away."
+    },
+    {
+        "name": "Victoria",
+        "message": "「Oh！ That’s pretty cheap！ When does my turn get to come！？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「It won’t. I’m going to end this with a one-turn kill！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "（Need to kick it up… kick it up another gear……！）"
+    },
+    {
+        "message": "Victoria has both feet on the ground now, but I dive in with a low posture, aiming for her feet once again."
+    },
+    {
+        "name": "Victoria",
+        "message": "「Muu, playing solitaire while in a match is frowned upon, you know！」"
+    },
+    {
+        "message": "I dodge the counter she swings down at me, feinting by shifting my body to the side."
+    },
+    {
+        "message": "The moment I see her eyes follow the fake—I strike！"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Whoa, that was close！ I thought I’d fallen for it！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「So you didn’t fall for it.」"
+    },
+    {
+        "message": "I thought I’d caught her with the feint, but Victoria had blocked it perfectly."
+    },
+    {
+        "message": "And what’s more, she grinned."
+    },
+    {
+        "name": "Victoria",
+        "message": "「Nah, honestly, I did fall for it.」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「But I’ve studied Suzakuin’s sword style！ I just thought, ‘If it’s Suzakuin, she’s gotta be going for this side！’」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「My sword style…… I see, so it was Minamoto-senpai.」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Yes！ Thanks to Shizuku, I’m perfectly prepared for this！」"
+    },
+    {
+        "message": "It’s true that if it were Minamoto―senpai, she would be able to trace the lines of my sword. If she used that to prepare, it would indeed be quite troublesome―"
+    },
+    {
+        "message": "Or so it seems, but in reality, it doesn't bother me that much."
+    },
+    {
+        "message": "No, if anything, it might even be advantageous."
+    },
+    {
+        "name": "Momiji",
+        "message": "（Even if she spent until the very last minute thinking of countermeasures, that only applies to the version of me from yesterday）"
+    },
+    {
+        "message": "The me of yesterday was stronger than the day before—and the me of today is stronger than yesterday！"
+    },
+    {
+        "name": "Momiji",
+        "message": "（If you prepared based on the weakling I was back then, you're going to have a hard time dealing with the me who has grown stronger！）"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Then it’s finally my turn—！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I never declared a turn end！」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Whoa！？ You’re still coming！？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Of course I am！」"
+    },
+    {
+        "message": "I use a diagonal slash from the upper position as a feint, then turn the blade to swing upward from below."
+    },
+    {
+        "message": "This is the sword style I’ve used until now. That’s why Victoria-san defends against it so easily."
+    },
+    {
+        "message": "But from here—！"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Whoa！ That was close！」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Whoa-oa, that’s seriously dangeeerous！」"
+    },
+    {
+        "message": "I follow up my speed-enhanced slashes to the left and right with an immediate sweep."
+    },
+    {
+        "message": "She barely manages to block these as well, but it was a very close call."
+    },
+    {
+        "message": "In other words, just as I thought！"
+    },
+    {
+        "name": "Momiji",
+        "message": "（I just need to surpass the sword style of my former self！）"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Eek！」"
+    },
+    {
+        "message": "A blow incorporating feints with my eyes, my body, and minute movements slashes across Victoria-san’s torso."
+    },
+    {
+        "message": "My sword speed and body movement have undoubtedly improved. Previous countermeasures won't keep up with this."
+    },
+    {
+        "name": "Victoria",
+        "message": "「Suzakuin-chan, you really are amazing！ It’s totally different from when it was Shizuku！」"
+    },
+    {
+        "message": "Victoria-san says this while leaping back, yet she still sounds energetic."
+    },
+    {
+        "message": "To be completely unfazed like that—as expected of her."
+    },
+    {
+        "name": "Momiji",
+        "message": "「From here on out, you’ll see even more of me that doesn't fit your countermeasures.」"
+    },
+    {
+        "message": "I reset my stance and just as I moved to attack in one go—"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Vicky！ Switch to Plan B！」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Plan B！ Yes, got it！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Plan B...？」"
+    },
+    {
+        "message": "Instructions flew in from Minamoto-senpai at the side of the stage. I braced myself, on high alert."
+    },
+    {
+        "name": "Victoria",
+        "message": "「Heh-heh-heh. Shizu taught me that you can’t just rely on one countermeasure, you know~」"
+    },
+    {
+        "name": "Momiji",
+        "message": "（I see… Victoria is the same, but Minamoto-senpai is even more unpredictable than her）"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Here I come！ Counter-Suzakuin, Plan B！」"
+    },
+    {
+        "message": "Did she really need to shout that like a special move—"
+    },
+    {
+        "message": "While I was thinking that, Victoria lunged in all at once."
+    },
+    {
+        "name": "Victoria",
+        "message": "「Hiyah-hiyah-hiyahhh！」"
+    },
+    {
+        "message": "Regardless, I fend off the attacks being unleashed."
+    },
+    {
+        "message": "Dodging, parrying, and blocking; I repel every blade coming at me from the left and right."
+    },
+    {
+        "message": "The attacks are as heavy as ever, but—in other words, this is something I’ve taken before."
+    },
+    {
+        "message": "She’s just swinging at me with full force like usual, and it doesn't seem like anything has changed—but."
+    },
+    {
+        "name": "Momiji",
+        "message": "（What is this… there’s some strange feeling of unease…）"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Yahoooo！ Take thisss！！」"
+    },
+    {
+        "message": "Even while I’m occupied with doubt, Victoria continues to unleash attacks one after another."
+    },
+    {
+        "message": "Each blow is a wide swing, yet I feel like her sword speed has increased somehow."
+    },
+    {
+        "message": "—No, not just her sword speed, maybe her overall speed."
+    },
+    {
+        "message": "Thanks to that, even now, while I’m purely on the defensive, there were times when my blocks almost didn’t make it in time."
+    },
+    {
+        "name": "Victoria",
+        "message": "「Hya-haaa！ This is so fuuun！！！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "（Did she reallocate her Tenju toward speed？ Or is the Plan B suggestion itself a fake—？）"
+    },
+    {
+        "message": "As I turn these thoughts over in my mind, I observe her movements in detail."
+    },
+    {
+        "message": "Victoria is still swinging wide, her attacks so defenseless it’s hard to believe she’s the current Toujinegi—"
+    },
+    {
+        "name": "Momiji",
+        "message": "（…Defenseless？）"
+    },
+    {
+        "name": "Victoria",
+        "message": "「CHESTOOOOOO！！！」"
+    },
+    {
+        "message": "I parry the blow struck from overhead and switch positions."
+    },
+    {
+        "message": "At that moment, Victoria’s body was completely defenseless. Furthermore—"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Let’s go all out！ Let’s keep pushing！！」"
+    },
+    {
+        "message": "None of her attacks seem to take defense into account at all."
+    },
+    {
+        "name": "Momiji",
+        "message": "（Is this a trap？ No, but such a blatant one…）"
+    },
+    {
+        "message": "While staying vigilant—I’ll just aim for a counter in time with her next attack！"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Terya-rya-rya-ahhh！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「There！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Wh-what, she blocked it…！？」"
+    },
+    {
+        "message": "I didn’t think she would defend."
+    },
+    {
+        "message": "I thought the attack was coming, but Victoria stopped her feet at the last second and caught my strike."
+    },
+    {
+        "name": "Momiji",
+        "message": "（Did I lose the reading？ No, this is……）"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Let’s go, go go go！！！！」"
+    },
+    {
+        "message": "While I was stunned, a flurry of strikes was unleashed immediately. I barely managed to dodge, and created some distance."
+    },
+    {
+        "message": "I call out to Victoria as she bears down on me. Trepidatiously, and with a bad feeling."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Victoria… what are you thinking about right now？」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Hmm？ I’m not thinking about a-ny-thing！」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「If I had to say, I’m just enjoying the moment to the max！！」"
+    },
+    {
+        "message": "I barely manage to catch the attack Victoria launched as she dove in while speaking, just in the nick of time."
+    },
+    {
+        "message": "Heavy, and fast—no, that’s not it. It’s certainly heavy, but I’ve realized the true nature of why it feels fast."
+    },
+    {
+        "name": "Momiji",
+        "message": "（Could it be… is this the 'state of Shohou Muga' that Master was talking about…！？）』"
+    },
+    {
+        "message": "Non-attachment. Moving the body through sensation, not thought."
+    },
+    {
+        "message": "Severing actions from the basis of thought, and simply accepting the phenomena that occur."
+    },
+    {
+        "message": "Becoming one with all creation, the zenith of philosophy—"
+    },
+    {
+        "message": "Something I could never have done, yet Victoria was pulling it off with ease…！"
+    },
+    {
+        "name": "Momiji",
+        "message": "（Is this the gap between the current Toujinegi and me…！？）"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Yahoooo！！！」"
+    },
+    {
+        "message": "While parrying Victoria’s heavy attacks, I grit my teeth at something else entirely."
+    },
+    {
+        "message": "She had easily demonstrated before me something I could never attain."
+    },
+    {
+        "message": "And she claims this is Plan B, her next-best option. I wish she’d quit the jokes."
+    },
+    {
+        "name": "Momiji",
+        "message": "（Then I’ll just have to…！）"
+    },
+    {
+        "message": "I frantically try to erase my thoughts."
+    },
+    {
+        "message": "…Non-attachment. Aiming for that zenith, I strike out blindly without thinking of anything！"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Let’s have more, more fun！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Gghaaa！？」"
+    },
+    {
+        "message": "Well, I tried it, but… she dodged it easily and I took a counter head-on, rolling across the ground."
+    },
+    {
+        "name": "Momiji",
+        "message": "（It’s impossible after all！ Fighting without thinking is absolutely impossible！）"
+    },
+    {
+        "message": "I don’t know what I’m supposed to do. If you don’t think, this is what happens normally."
+    },
+    {
+        "message": "How is Victoria able to do such a thing? And to begin with, how did she even reach that state—"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Yahoo！ Here I come, way-way！！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "（…Geez, could it be that the state of Shohou Muga is just a hair’s breadth away from being an idiot…？）"
+    },
+    {
+        "message": "Seeing Victoria frolicking around, I can’t help but feel there’s something not quite right about this."
+    },
+    {
+        "name": "Momiji",
+        "message": "（No... well, whatever... Regardless, I can't afford to lose here！）"
+    },
+    {
+        "message": "Even if it’s just the qualifiers, I don't want to lose; nor do I want to lose to the technique I couldn't master myself."
+    },
+    {
+        "message": "And above all, I don't want to lose to Victoria！"
+    },
+    {
+        "name": "Iori",
+        "message": "「...Heh, that's an interesting strategy.」"
+    },
+    {
+        "message": "Right now, Victoria is moving purely on intuition."
+    },
+    {
+        "message": "Movements with so many random elements are a bad match for Momiji, who relies on her genius-level reading ability and tactics based on that."
+    },
+    {
+        "message": "Now, if you ask if everyone should fight that way, that is absolutely not the case."
+    },
+    {
+        "message": "If anyone other than Victoria tried that, they would be easily crushed by Momiji's slashes."
+    },
+    {
+        "message": "In fact, Victoria has taken Momiji's attacks again and again."
+    },
+    {
+        "message": "If you wonder why she’s fine, it’s because she has more Barrier Jackets than anyone else."
+    },
+    {
+        "message": "Some degree of damage is within her calculations; it’s a brute-force approach only someone like Victoria could pull off."
+    },
+    {
+        "name": "Iori",
+        "message": "（I see, Plan B. It’s the ultimate countermeasure against Momiji.）"
+    },
+    {
+        "message": "To think that Shizuku, a student, came up with this and even coached Victoria so she could pull it off—it’s frightening to contemplate."
+    },
+    {
+        "message": "I wanted her for the Martial Arts Division, but she undoubtedly has incredible latent talent for the Technical Division as well."
+    },
+    {
+        "name": "Iori",
+        "message": "（The teachers over there must find her a rewarding student to teach！）"
+    },
+    {
+        "message": "This academy is a treasure trove of talent."
+    },
+    {
+        "message": "Everywhere I look, whoever I see, they are brimming with brilliance. Thinking that, my heart can't help but race."
+    },
+    {
+        "name": "Victoria",
+        "message": "「Right then, here I go！ Listen up and watch close！ You wicked, disrespectful, good-for-nothing scoundrels who dare defy the Shogun-sama！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Wait, this ritual chant is...！」"
+    },
+    {
+        "message": "While I was impressed, Victoria was already taking a stance for her finishing move."
+    },
+    {
+        "message": "Is she trying to end the match this early? Perhaps this is Shizuku's call, too."
+    },
+    {
+        "message": "In fact, Momiji seems to still be bewildered by Plan B Victoria."
+    },
+    {
+        "name": "Victoria",
+        "message": "「How’s this for a change of pace... Six Katanas！！」"
+    },
+    {
+        "message": "Victoria's blade splits into six. All directed at Momiji."
+    },
+    {
+        "name": "Victoria",
+        "message": "「Go！ Profound Phantasm, Sonic Rush！！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Guhhh！」"
+    },
+    {
+        "message": "A three-stage—no, a high-speed six-stage thrust after easily slipping into the reach of her long sword."
+    },
+    {
+        "message": "Although Momiji managed to fend off the first three, she took a direct hit from almost all of the ones that followed."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ngh, hah... so it isn't always just three, is it.」"
+    },
+    {
+        "message": "Momiji, pulling far back to catch her breath."
+    },
+    {
+        "message": "For Momiji, who prioritizes offense and speed over defense, unavoidable attacks like that might be one of her natural nemeses."
+    },
+    {
+        "message": "If she keeps getting hit with that over and over, Momiji won't be able to hold out, and she'll lose—"
+    },
+    {
+        "name": "Iori",
+        "message": "（...Victoria-san has Shizuku-san as her Second, so it should be fine for me to lend a little support too.）"
+    },
+    {
+        "message": "With that in mind, I hurried over to get close to Momiji."
+    },
+    {
+        "name": "Iori",
+        "message": "「...Momiji, can you hear me！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「...What is it?」"
+    },
+    {
+        "message": "Without sparing me a glance, Momiji kept her eyes locked on Victoria-san, yet she still answered."
+    },
+    {
+        "name": "Iori",
+        "message": "「Here's some advice from your Sensei, and I'll make it quick. Listen up—go for a one-hit knockout！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Her guard is thinning out. Shave away the rest of her Barrier Jacket with a sure-hit strike！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Don't worry, Momiji—you can do it！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「...Heh, roger that！」"
+    },
+    {
+        "message": "Momiji reset her stance and fixed an even sharper gaze on her opponent."
+    },
+    {
+        "name": "Momiji",
+        "message": "（Honestly... Sensei really is such a worrywart.）"
+    },
+    {
+        "message": "Sensei gave me that advice—but I'd already thought of that much myself."
+    },
+    {
+        "message": "So as advice, it was completely meaningless."
+    },
+    {
+        "name": "Momiji",
+        "message": "（...Still, I guess it worked, huh?）"
+    },
+    {
+        "message": "The fact that Sensei is giving his all thinking about me, believing in my victory. That alone just makes me so happy."
+    },
+    {
+        "message": "Knowing that Sensei has my back fills me with courage and strength."
+    },
+    {
+        "name": "Momiji",
+        "message": "（Though maybe that disqualifies me as a Suzakuin？）"
+    },
+    {
+        "message": "As that thought crosses my mind, a smile slips out despite myself."
+    },
+    {
+        "name": "Momiji",
+        "message": "（Hey, this is no time to be smiling, though...！）"
+    },
+    {
+        "message": "Still, after being shown that kind of trust, I can't afford to lose now more than ever."
+    },
+    {
+        "message": "I'll definitely win. I'll prove it. For my own sake, and for Sensei's."
+    },
+    {
+        "name": "Spectator B",
+        "message": "「Over here, over here, hurry！」"
+    },
+    {
+        "name": "Spectator D",
+        "message": "「Thank goodness, it's not over yet！」"
+    },
+    {
+        "message": "Suddenly—voices like that reached my ears."
+    },
+    {
+        "message": "Glancing briefly around, I saw the crowd had grown before I knew it."
+    },
+    {
+        "name": "Victoria",
+        "message": "「Whoa！ We've got a crowd gathering！」"
+    },
+    {
+        "message": "The fairly sizable crowd that had already been here swelled until the place was packed."
+    },
+    {
+        "message": "People whose matches had already finished, along with those who'd been cheering them on, must've gathered over here."
+    },
+    {
+        "message": "Probably trying to gather intel with the main tournament in mind, the newcomers stared intently, determined not to miss a single move."
+    },
+    {
+        "name": "Victoria",
+        "message": "「Yeehaaaw! Now I'm getting pumped up!」"
+    },
+    {
+        "message": "In contrast to me, who could only manage a wry smile, Victoria seemed excited."
+    },
+    {
+        "name": "Victoria",
+        "message": "「Aaaalright！ Let's make this match even hotter and more excellent, Suzakuin！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Indeed, I'm starting to get fired up myself. Though—it might not last very long.」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Eeeeh, that would be a bummer！ So you'd better hold your ground, Suzakuin！！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "（So fast...！）"
+    },
+    {
+        "message": "Before I knew it, she had lunged forward and was already swinging her blade right in front of me. I didn't even have the chance to retort with, \"I mean that I'll be the one to win.\""
+    },
+    {
+        "message": "Without pausing, Victoria immediately twisted her body and rained down a flurry of strikes on me."
+    },
+    {
+        "name": "Victoria",
+        "message": "「Keep it coming！ Everyone, make sure you're watching！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ugh...！」"
+    },
+    {
+        "message": "Sweeping strikes, diagonal slashes, thrusts, and even attacks aimed at my feet. I barely managed to dodge or parry the wide array of attacks she unleashed."
+    },
+    {
+        "message": "And with every single one of them, both their speed and power were far greater than before."
+    },
+    {
+        "message": "Even dodging them had become a hair's breadth affair, and just parrying them required a significant amount of strength."
+    },
+    {
+        "name": "Momiji",
+        "message": "（As I thought... in short, Victoria gets stronger the more spectators there are.）"
+    },
+    {
+        "message": "I could finally grasp the reason why Sensei said I couldn't beat Victoria like this."
+    },
+    {
+        "message": "The more people watching, the higher her Mental Resonance Coefficient jumps—that is the characteristic of Victoria's Tenju."
+    },
+    {
+        "message": "It sends shivers down my spine to think what would happen if this were the main tournament."
+    },
+    {
+        "name": "Victoria",
+        "message": "「Come on, Suzakuin, you have to counterattack more！ Let's get the crowd pumped up！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「You certainly talk like it's easy...！」"
+    },
+    {
+        "message": "I'm barely hanging on just trying to survive your onslaught！"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ugh... at this rate...！」"
+    },
+    {
+        "message": "Even though it wasn't a finishing move, a strike I failed to dodge grazed my body, whittling down my Barrier Jacket."
+    },
+    {
+        "message": "Perhaps because she's so focused on putting on a show, Victoria's movements are quite rough."
+    },
+    {
+        "message": "But thanks to an improvement in her abilities that more than compensates for that, just blocking her attacks is a struggle."
+    },
+    {
+        "message": "If I let her keep rampaging like this, I’m going to lose."
+    },
+    {
+        "message": "Just as Sensei said, I have no choice but to go for a one-hit finish."
+    },
+    {
+        "message": "Including all the information I”ve gathered so far and the Plan B she showed in this match, I have more or less \"figured out\" Victoria."
+    },
+    {
+        "message": "Her sword techniques, telegraphing motions, combat range, tactical algorithms, offensive and defensive skills, common routines, combination patterns, and the probability of their usage."
+    },
+    {
+        "message": "It’s not enough, but for now, this will suffice."
+    },
+    {
+        "name": "Momiji",
+        "message": "（...Shingan no Kiwamete, initiate）"
+    },
+    {
+        "message": "Now, I can read Victoria’s blade trajectory completely."
+    },
+    {
+        "message": "――Though, I won’t need that many."
+    },
+    {
+        "name": "Momiji",
+        "message": "（That’s right, two moves are enough）"
+    },
+    {
+        "message": "Dodge, then strike. That is all. I will pour every ounce of my energy into that."
+    },
+    {
+        "name": "Victoria",
+        "message": "「Here I come, I’m gonna go all out nowww！！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Guh, ngh...！」"
+    },
+    {
+        "message": "As I parry Victoria’s attacks, I frantically push forward with my calculations."
+    },
+    {
+        "message": "Only two moves—that is precisely why the pattern formation and the derivation of the optimal move must be perfect. There is no room for error. I have to settle this in one go."
+    },
+    {
+        "name": "Momiji",
+        "message": "（The path to my victory is... this one...！）"
+    },
+    {
+        "message": "I leapt far backward."
+    },
+    {
+        "message": "Once I had put some distance between us, I spoke to Victoria, who was about to give chase."
+    },
+    {
+        "name": "Momiji",
+        "message": "「That’s a shame, everyone is watching us, you know」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Yes！ That’s how a match should be, after all！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「But if that’s the case, don’t you think it’s a little sad to end it with a simple brawl like this？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「If we’re going to do this, shouldn’t we do it with more flair？」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Oh！ You’re starting to get it too, Suzakuin-chan～！」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「In that case, maybe I’ll go with some flair！」"
+    },
+    {
+        "message": "Taking the bait from my goading, she once again struck that pose for her finishing move."
+    },
+    {
+        "message": "I responded to it by taking up my stance once again――"
+    },
+    {
+        "name": "Shizuku",
+        "message": "（What？ That was strange...）"
+    },
+    {
+        "message": "Something about Suzakuin’s reaction bothered me."
+    },
+    {
+        "name": "Shizuku",
+        "message": "（Why would she suddenly say something like that...？ She doesn’t seem like that type of person at all）"
+    },
+    {
+        "message": "She had never tried to play to the crowd before, and she certainly wouldn’t have goaded an opponent."
+    },
+    {
+        "message": "And yet, what exactly is she aiming for...?"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Listen well and hear me！ You insolent, rude, and uncultured ruffians who dare to bear a grudge against the Shogun！」"
+    },
+    {
+        "message": "Vicky began her usual prologue."
+    },
+    {
+        "message": "With her energy levels spiked, her Tenju is surging; even someone like Suzakuin shouldn’t be able to withstand it."
+    },
+    {
+        "name": "Victoria",
+        "message": "「Now that this Okita-kun has arrived, I won’t let you do as you please！」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Our Tennen Rishin-ryuu is the number one sword art in the realm！！」"
+    },
+    {
+        "message": "Even more so, she hadn't been able to dodge the six-hit combo from earlier. If that was the case, there’s no way she could survive Vicky’s current barrage――"
+    },
+    {
+        "name": "Shizuku",
+        "message": "（…Wait？ Don't tell me… no way！）"
+    },
+    {
+        "name": "Victoria",
+        "message": "「I’m feeling… nine Katanas today！！！」"
+    },
+    {
+        "message": "Vicky raises even more blades than before. She’s undoubtedly in peak condition, but right now—！"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Vicky, wait！ Not now！」"
+    },
+    {
+        "message": "I call out in a panic. But—"
+    },
+    {
+        "message": "Victoria is coming at me with nine blades."
+    },
+    {
+        "message": "I don’t think I can dodge all of those strikes, not at this speed and power."
+    },
+    {
+        "message": "But this is fine—this is what I was waiting for."
+    },
+    {
+        "name": "Momiji",
+        "message": "（I don’t have to dodge them all. I just need one split second！）"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Yugen Mugen, Sonic Ruuuush！！！」"
+    },
+    {
+        "message": "A blindingly fast flurry of stabs, raining down like a summer shower."
+    },
+    {
+        "message": "But conversely, that makes it a desperate, all-out move that ignores all defense."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Urgh…！」"
+    },
+    {
+        "message": "A chunk of my side is gouged out. But I’m still here."
+    },
+    {
+        "message": "With not even a hair’s breadth to spare, I weave through the gaps in the triple-thrust strikes."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ugh…！」"
+    },
+    {
+        "message": "A blade pierces the air just millimeters from my temple. A few strands of hair fall away."
+    },
+    {
+        "message": "Keep going—！！"
+    },
+    {
+        "name": "Momiji",
+        "message": "「……！！ 」"
+    },
+    {
+        "message": "In the slight opening amidst the continuous stabs—"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Now…！！！」"
+    },
+    {
+        "message": "I dive headlong into the storm of steel, my Barrier Jacket being shredded as I flash my own blade."
+    },
+    {
+        "message": "Faster even than Victoria’s nine―fold thrust―！"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Secret Technique, Swallow Triple―Strike―！！！」"
+    },
+    {
+        "message": "The first strike gouges into Victoria’s Barrier Jacket, just as aimed."
+    },
+    {
+        "message": "The second strike traces that same gouge—"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Nooooouuuu…！！！」"
+    },
+    {
+        "message": "The final flash sucks into the exact same spot, without a hair’s difference."
+    },
+    {
+        "name": "Umpire",
+        "message": "「That’s it！！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Hah, hah… haaaah…！」"
+    },
+    {
+        "name": "Umpire",
+        "message": "「……Winner, Suzakuin Momiji！！！」"
+    },
+    {
+        "message": "And just like that, I—I had defeated Victoria."
+    },
+    {
+        "message": "After the match ended and the spectators had dispersed."
+    },
+    {
+        "name": "Victoria",
+        "message": "「Hey Suzakuin-chan！ That last bit was amazing！」"
+    },
+    {
+        "message": "Victoria-san said, rushing over to me."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Um, are you referring to the final triple swallow strike？」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「That’s it! I’m sure I attacked first, but you came back with a combo faster than that—slash, slash, slash!—and I was like, ‘what just happened?!’」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「I really thought that Sonic Rush would be the end of it, too.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「If I had just taken it normally, it would have been the end.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「But, I’ve seen the three-stage thrust many times before. I judged that there was still a chance for victory within it.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「It was a battle of speed―a little gamble―to see who would deplete the other’s Barrier Jacket first.」"
+    },
+    {
+        "message": "Even so, I believed that I could win."
+    },
+    {
+        "message": "Just as Shizuku-san was there to support Victoria-san, I had people who supported me and believed in my victory, too."
+    },
+    {
+        "name": "Victoria",
+        "message": "「I see! As expected, Suzakuin-chan is strong!」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Thank you. You were strong as well, Victoria-san.」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Hehe, thanks♪」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Oh, right！ So, what are you planning to do in the future, Suzakuin-chan？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Well, it’s hard to say, but I haven't really decided on anything yet…」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Then come join my team！ The professional Jindou team I’m setting up！！」"
+    },
+    {
+        "message": "While Jindou is primarily an individual sport, professional athletes sometimes form teams to improve the efficiency of facilities and equipment."
+    },
+    {
+        "message": "Securing training grounds, nurturing successors, and management are all handled in-house there as well."
+    },
+    {
+        "name": "Victoria",
+        "message": "「Come on, wouldn’t that be great？ We could invite all the other strong people too, like an ultimate party of rivals from back in school！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Victoria-san, Iori-sensei told you before to go through him for recruiting, didn't he?」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Huh? Did he? I don’t remember that~」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Well, regardless, it’s the person’s feelings that matter, right？ That’s why I want to know what you think, Suzakuin-chan！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I am honored by the invitation, but unfortunately, I have no intention of becoming a professional Jindou athlete.」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Muu… I see. That’s a shame, but I guess it can't be helped.」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Besides, if I force you to join when you say you don’t want to, it wouldn't make for a fun team, would it?」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「To show everyone a heated battle, motivation—passion—is what matters most of all！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Hehe, that might very well be true」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「In exchange, tell me the secret to your strength, Suzakuin-chan！ Pretty please, teach me！！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「W-what is it, so suddenly」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「If I can't have Suzakuin-chan, then at least I want to input that strength into the team！」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Everyone in the Suzakuin family is strong, right？ There must be some kind of secret to it, right？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Secret, well... we do have a creed.」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「A creeeeed？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「'Self-reliance.' We don't use a Second; from forging our own blades to adjusting our Origami, we handle it all on our own.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「The goal is to strive to become a self-sufficient swordsman.」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Whoaaa…！ What’s that, amazing！ That’s so cool, like, a lone wolf swordsman！？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Well, if you want to put it coolly, that’s what it is…」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「I see~! So it means aiming to be a perfect person who doesn't rely on anyone and does everything all by themselves!」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「I like that~! It's so Okita-kun-like! Maybe I should try that too~」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Until now, I’ve left all the little details to Shizu, but that’s probably not good, it’s not cool at all.」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「From now on, I’m going to make and prepare my own Origami！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「N-no, but Minamoto-senpai is very excellent as a Second, so…」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Of course Shizu is super excellent！」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「But hey, if I want to be a full-fledged swordsman like Okita-kun, I have to be able to handle things more on my own, you know.」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「From now on, I’m going to be self-reliant too! I’ll do everything myself, and I’ll be more Suzakuin-like than Suzakuin-chan!」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「And then I’ll defeat Suzakuin-chan！ Whew~！ Everyone’s gonna be fired up for this for sure~！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Um, weren't we supposed to be forming a team？」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Hehe, that's for after we go pro, right！」"
+    },
+    {
+        "message": "Victoria-san said that with an innocent laugh."
+    },
+    {
+        "message": "I could only smile wryly, but—"
+    },
+    {
+        "name": "Momiji",
+        "message": "（…Huh？ Is that… over there…）"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「…………」"
+    },
+    {
+        "message": "When I noticed, Minamoto-senpai was standing a little way off."
+    },
+    {
+        "message": "And for some reason—she was casting a dark look in my direction."
+    }
+]

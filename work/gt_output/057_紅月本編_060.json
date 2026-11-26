@@ -1,0 +1,752 @@
+[
+    {
+        "name": "Victoria",
+        "message": "「Take that！ Hah！」"
+    },
+    {
+        "message": "We heard the stadium was being used, so we all came to check it out, and—"
+    },
+    {
+        "message": "the current Toujinegi was already in the middle of a match there."
+    },
+    {
+        "name": "Victoria",
+        "message": "「Next up is... something like this, I guess！」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Yeah, that’s pretty good. Keep it up like that.」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Then, here I go, one after another！」"
+    },
+    {
+        "message": "It seemed this wasn't a serious bout, but some kind of special training."
+    },
+    {
+        "message": "Even so, perhaps because it was the current Toujinegi's training, many other students were gathered to watch."
+    },
+    {
+        "message": "Maybe because of that, the current Toujinegi—Victoria-san—was clearly in higher spirits than when she fought Momiji before."
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Next, right here. Please hit the spot where I’m guarding now. Then keep going to the left and right.」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Okie-dokie！ Something like this, maybe！」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「I see... Alright, next the other side. And then immediately aim for the same spot as before.」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Leave it to me！ Hyah！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「The targets are being designated, but... her strikes are as sharp as ever.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Everyone around is getting pretty rowdy, too~」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Is that Shizuku-senpai taking the hits? She’s from the Technical Division, right? Isn't that more impressive?」"
+    },
+    {
+        "message": "They were all observing the scene on stage while commenting like that."
+    },
+    {
+        "message": "However, Miyako-chan was silent for a while, and then she lost interest and stopped watching."
+    },
+    {
+        "name": "Miyako",
+        "message": "「Hmm...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「What’s the matter, Miyako-chan?」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「That person has strong spiritual power, but... she’s not that good. I think my big sister is stronger than her.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「That’s my little sister for you, she knows what’s up！ There, there, good girl~♪」"
+    },
+    {
+        "message": "Pleased by the praise from Miyako-chan, Momiji happily begins to pat her head."
+    },
+    {
+        "message": "Well, this isn't a serious match, so regardless of comparisons, it's no surprise she doesn't find it interesting."
+    },
+    {
+        "name": "Miyako",
+        "message": "「Hey, Sensei. I’m more interested in the stadium itself. Is it okay if I go walk around？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「It’s fine, but maybe someone should go with you?」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「No, I’m fine on my own.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I think it’s fine to let Miyako go by herself. After all, she managed to run away from home and get all the way here.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Now that you mention it, yeah. Okay, Miyako-chan, make sure you don't get lost.」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Okaay! Well then, I'm off!」"
+    },
+    {
+        "message": "Answering energetically, Miyako―chan ran off. As I watched her retreating back―"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Oh, Muragaki-san and everyone else came too！ Hey, come on, come ooon！」"
+    },
+    {
+        "message": "Spotting us, Victoria-san waved her hand vigorously."
+    },
+    {
+        "name": "Victoria",
+        "message": "「Look, Shizu！ Muragaki-san and the others are here to watch！」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Y-Yeah, they are...」"
+    },
+    {
+        "message": "Shizuku-san fidgeted, looking embarrassed."
+    },
+    {
+        "name": "Victoria",
+        "message": "「Having people watch really gets me pumped up！」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「N-Never mind that... Anyway, next I want data on what happens when you take an attack with that Origami.」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Hey, Shizu！ Everyone came to watch us, so let's have a normal match already！」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「We've got an audience here and everything, so we've gotta entertain them！ Right？」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「But we're only doing this to collect data, not to put on a show...」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Whaaat, no way！ Doing nothing but data collection while everyone's watching totally kills my motivation！」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Vicky, don't be selfish.」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Oh, and besides, you want data on taking hits with this, right？ Then just having a normal match would be faster！」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Even so, I don't know if that'll give me the data I want...」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Come on, let's have a match! I want everyone to have fun!」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「...Sigh, fine. Just for a little while.」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Yay！ I love you, Shizu！」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Honestly, you... All right then, let's have a match simulating fights against the top contenders competing in this year's Martial Festival.」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「I'm fine with anything as long as we get to have a match！」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Then first up... is this person...！」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Here I come too！ Hiyah！」"
+    },
+    {
+        "message": "This time, Shizuku-san started launching strikes as well."
+    },
+    {
+        "message": "However, something about Shizuku―san's stance looked familiar―"
+    },
+    {
+        "name": "Asahi",
+        "message": "「That's the stance of a third-year in the Martial Arts Division named Taiga Igarashi. He's a practitioner of the Yagyu Shinkage-ryu style.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Doesn't sound like they're from the same school... so that means she's just imitating it？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I'm almost certain that's the case. But... it's amazing, isn't it?」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I've sparred with Taiga Igarashi several times on Yorishiro-kun, and Minamoto-senpai's movements are exactly like his.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I see...」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Gotcha！」"
+    },
+    {
+        "message": "When I turned my gaze back to the stage, Victoria had already overwhelmed Shizuku and landed a powerful blow."
+    },
+    {
+        "message": "However, Shizuku didn't even change her expression, and calmly—"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Well, something like this should be fine... Then next is... this one.」"
+    },
+    {
+        "message": "The stance she showed was Iai batto-jutsu."
+    },
+    {
+        "name": "Victoria",
+        "message": "「Okay, okay！ I'll fight whatever you've got！」"
+    },
+    {
+        "message": "Without hesitation and without slowing her momentum, she rushed straight toward Shizuku."
+    },
+    {
+        "message": "Shizuku didn't move. She remained perfectly still in her stance. That didn't change even after the opponent had entered her striking range—"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Hraaaaagh！」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Uh...！！」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Gyauhn！」"
+    },
+    {
+        "message": "The moment after I thought I saw Shizuku’s body shudder for an instant, Victoria was sent flying."
+    },
+    {
+        "message": "Waiting for the opponent to attack and then landing a counter; it's a common style in modern Iai batto-jutsu, and Asahi is this type as well."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Doesn't that look a bit like Asahi's style？ Could it be that Asahi's a copycat？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「There's no way that's true. Besides, that isn't my form.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「True, it's slightly more aggressive than Asahi's. That said, you could say the root of it is almost identical.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「You're right... It'll be troublesome if this becomes a counter-measure against me.」"
+    },
+    {
+        "message": "She seemed confused, likely not expecting someone to mimic a stance so close to her own."
+    },
+    {
+        "message": "That said, I found myself genuinely impressed as I watched the match."
+    },
+    {
+        "name": "Iori",
+        "message": "「...Still, Shizuku is quite dexterous. Was that the Yagyu Shinkage-ryu earlier?」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I wonder if she's the type who can master multiple schools. I haven't seen anyone like that, even in the Martial Arts Division...」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「But it might be fun to see all kinds of them. I wonder what style is next~」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, surely she can't use that many...」"
+    },
+    {
+        "message": "I said with a wry smile, turning my attention back to the match."
+    },
+    {
+        "name": "Victoria",
+        "message": "「Hyaaaaah！」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Hmph—！」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「You’re not hitting me anymore！ In exchange, take this！」"
+    },
+    {
+        "message": "Victoria responds instantly to Shizuku’s Iai, maneuvering from a dodge into a counterattack."
+    },
+    {
+        "message": "Though she took a blow earlier, it seems as though it had no effect at all. ...Well, the same can be said for Shizuku."
+    },
+    {
+        "name": "Victoria",
+        "message": "「If I don’t move, everyone will get bored, so how about something like this！」"
+    },
+    {
+        "message": "On a whim, Victoria suddenly rests the hilt of her Origami on the top of her foot and kicks it high into the air."
+    },
+    {
+        "message": "And the very next instant, she swings her free arm wide and leaps high into the air herself, chasing after the Origami！"
+    },
+    {
+        "name": "Victoria",
+        "message": "「A secret move I just thought of！ Aerial Combo Dive Attack！」"
+    },
+    {
+        "message": "Catching the kicked-up Origami in mid-air, she plummets back down, guided by gravity."
+    },
+    {
+        "message": "The reason Shizuku didn't leave the spot immediately was because Victoria had made it look like she was going to throw the Origami."
+    },
+    {
+        "message": "That was exactly why she stayed put, waiting intently for her to come crashing down—"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Tenchu！」"
+    },
+    {
+        "message": "Just before landing, she had shifted into a helmet-breaker stance."
+    },
+    {
+        "message": "She hits the ground with a cloud of dust and a loud crash, drawing huge cheers from the spectators."
+    },
+    {
+        "message": "Although, Shizuku had easily hopped away right before the attack—or so she thought."
+    },
+    {
+        "name": "Victoria",
+        "message": "「Secret technique: Cloud-Hide Slash！」"
+    },
+    {
+        "message": "As if cutting through the rising dust cloud, Victoria suddenly appeared and closed the distance to Shizuku."
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Uh...！！」"
+    },
+    {
+        "message": "Perhaps because her reaction was delayed by the smoke screen of dust, Shizuku couldn't quite intercept her, and they crossed blades in a mutual strike."
+    },
+    {
+        "message": "When they both pull away, Shizuku shrugs her shoulders."
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Vicky, you’re being way too reckless...」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「But everyone is having fun, right？」"
+    },
+    {
+        "message": "In fact, applause was even breaking out from the audience seats."
+    },
+    {
+        "message": "Though, that didn't seem to impress Shizuku."
+    },
+    {
+        "name": "Shizuku",
+        "message": "「My goal is strictly to collect data, after all...」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Regardless, next is this...！」"
+    },
+    {
+        "message": "With that, Shizuku takes up a new stance."
+    },
+    {
+        "message": "And it’s one that we recognize, too—"
+    },
+    {
+        "name": "Asahi",
+        "message": "「That’s Momiji-san’s...」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「So the real copycat was Suzakuin all along！？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「That’s not it at all.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Doesn't that mean she’s using three different schools？ Can you even do that normally？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, ‘ordinarily’ it’s impossible」"
+    },
+    {
+        "message": "Generally, it is said that learning multiple styles is not a good idea."
+    },
+    {
+        "message": "Each style has its own philosophy, and the movements that embody that philosophy become the style's swordsmanship."
+    },
+    {
+        "message": "Even if the swordsmanship itself can be switched, the philosophy is singular, and one cannot reset that at an unconscious level."
+    },
+    {
+        "message": "Therefore, if you learn multiple forms, the original form will crumble. And the new form won't be mastered either, leaving you unable to use either one."
+    },
+    {
+        "message": "However, that wasn't the case for Shizuku. She switches completely and masters them."
+    },
+    {
+        "message": "Though in her case, it seems more like she is tracing the forms rather than learning them—"
+    },
+    {
+        "message": "That is, all the more, proof of extraordinary talent. And that's not all, either—"
+    },
+    {
+        "name": "Victoria",
+        "message": "「How I’m feeling right now is... three katanas！」"
+    },
+    {
+        "message": "Responding to her voice, the Origami split."
+    },
+    {
+        "message": "That is her finishing move, which I’ve seen before—"
+    },
+    {
+        "name": "Victoria",
+        "message": "「—Yugen Mugen, Sonic Rush！！」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Whoa, all of them were blocked！？」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「The defense after that, is here！」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Nnnnggghhhhh！」"
+    },
+    {
+        "message": "Not only did she easily block the current Toujinegi's finishing move, she also countered her defense perfectly, as if she could see through everything."
+    },
+    {
+        "message": "This is unmistakably... Momiji's Shingan no Kiwamete."
+    },
+    {
+        "message": "Perhaps because it isn't perfect, Victoria managed to leap away and seemingly mitigate some of the damage, but..."
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Honestly, Vicky... I’ve shown you this many times already. You need to be able to see through it by now.」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「It’s impossible！ Why are you so accurate！？」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「If you’re going to complain, you’ll lose when it counts...」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Oh, that’s fine！ If it’s for real, I’m sure I can win！」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Honestly... you’re so sloppy.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「To be so sure that she’ll be fine when it counts, despite not being able to see through it in practice—she’s an interesting girl.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I wonder where that confidence of hers comes from.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Doesn't seem like she’s hiding anything, though.」"
+    },
+    {
+        "message": "As we were talking, Shizuku dropped her stance and began sheathing her Origami."
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Well then... I’ve gathered most of the data, so let’s end it here...」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Eh—！ No way, I want to do more！ Look, there’s still time left on the facility usage！」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「No. Fighting blindly won’t improve your win rate. We need to analyze this data and formulate a strategy.」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Hmm... Oh, that’s right！ Everyone from Takamura Class is here now！」"
+    },
+    {
+        "message": "With that, she turns her face toward us watching from the spectator seats."
+    },
+    {
+        "name": "Victoria",
+        "message": "「Hey, hey！ Since you’re watching, you must be free, right？ Someone come have a match with me！」"
+    },
+    {
+        "message": "We were taken aback by the sudden challenge."
+    },
+    {
+        "message": "But, even while surprised, we all exchanged glances for a moment, and then—"
+    },
+    {
+        "name": "Iori",
+        "message": "「Sounds fun！」"
+    },
+    {
+        "message": "Nodding to each other, we all headed down onto the stage."
+    },
+    {
+        "name": "Iori",
+        "message": "「Thanks for having us. We watched your match, and it was incredible.」"
+    },
+    {
+        "message": "Standing in the same place as the two of them, the first thing I spoke about was the match we’d just witnessed, especially offering praise to Shizuku."
+    },
+    {
+        "name": "Iori",
+        "message": "「To think someone who can switch between so many different styles like that is not only among us, but in the Technical Division.」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Ah, that... I was just doing it to collect data, and I ended up picking them up naturally...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That’s impressive in its own right.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「But why did you stop halfway？ You looked like you were on the verge of winning against Victoria-senpai！」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Well, I was just doing it to gather data in the first place, so whether I won or lost the match didn’t really...」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「You have no interest in winning or losing... That’s amazing in a different way.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「That’s a perspective that would be impossible for us.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I can’t really wrap my head around that worldview either. I mean, if you lose, you can’t show off, right！」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Th-that sort of thing is Vicky’s specialty.」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Yes！ That’s my specialty！」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Though, I have to say, Shizu is incredibly strong too.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I know, right！ I mean, it was just, like, amazing... so amazing！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「The fact that someone from the Technical Division can go toe-to-toe with the current Toujinegi is, quite frankly, something the Martial Arts Division envies.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Well, I could do even better, though~！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Unfounded confidence will be your downfall.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「It is founded！ I’m strong！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Haha, I hope so.」"
+    },
+    {
+        "message": "Asahi and Ririmu lock gazes."
+    },
+    {
+        "name": "Victoria",
+        "message": "「Well, even so, I’m not giving Shizu to anyone！」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Eep！ Hey, Vicky…！」"
+    },
+    {
+        "message": "Shizuku-san gave a bashful cry after being suddenly hugged."
+    },
+    {
+        "name": "Victoria",
+        "message": "「Shizu does all the adjustments for my Origami.」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Everything she makes fits me perfectly, and she even spars with me！」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「She’s my ultimate partner, no doubt about it！」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「H-hey, Vicky, you’re exaggerating…！」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「No way. If anything, it’s not enough！」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「That’s why I’m going to do my best to win, so I can show off just how amazing Shizu is！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hahaha, you two really do seem like the best partners.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「It’s just like me and Iori-sensei♪」"
+    },
+    {
+        "name": "Iori",
+        "message": "「……That’s a tough one to respond to.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Wait, if we’re talking about Sensei’s partner, isn’t that me？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hehe. You’re quite skilled, being able to talk in your sleep while you’re awake.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hah？ You looking for a fight？ Because I’ll take you up on that—and this spot is perfect for it！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Don’t start a random squabble all of a sudden.」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Ah, wait, wait！ If you want to fight, do it with me！ That’s why I called you all here, after all！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Oh, that’s right. Who should take her on?」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Please, let me do it. Opportunities to spar with the current Toujinegi don't come around often.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Wait, if I win here, that practically makes me the Toujinegi, right？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Of course I want to do it too！ Seeing the fight just now got me all fired up！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ah, I’ll pass. You can pick from the others.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「But you said you wanted to fight just a moment ago. Are you sure？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「If there were no audience it’d be fine, but I’d rather not reveal my hand in front of this many people~」"
+    },
+    {
+        "message": "I see, that’s a very Momiji-like reason."
+    },
+    {
+        "name": "Victoria",
+        "message": "「Okay, so who’s it gonna be？ I’m fine with anyone, but time-wise, I think we only have room for one？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Alright, then let’s keep it fair… let’s settle this with rock-paper-scissors！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Heck yeah, I’m not gonna lose!」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I’ll be taking this spot.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「The match against the Toujinegi, I’m definitely gonna be the one to do it!」"
+    }
+]

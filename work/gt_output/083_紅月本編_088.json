@@ -1,0 +1,899 @@
+[
+    {
+        "name": "Shizuku",
+        "message": "「Ah... I never dreamed I’d be able to investigate Setsugekka-san’s runaway with my own two hands...」"
+    },
+    {
+        "message": "Shizuku was absolutely over the moon after Keisetsu shared the preliminary investigation data with her."
+    },
+    {
+        "message": "The rest of the Takamura Class were just as curious, and since keeping it under wraps had reached its limit, Keisetsu resigned herself to it and taught them the basics of the secret art."
+    },
+    {
+        "name": "Iori",
+        "message": "「Momiji, remember, the secret art is strictly confidential.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Yeah, yeah.」"
+    },
+    {
+        "message": "I had already told the others, but I made sure to emphasize it to Momiji once more."
+    },
+    {
+        "name": "Iori",
+        "message": "「Now then, as for Victoria-san... it looks like she’s already started.」"
+    },
+    {
+        "message": "On the other side of the same training ground, Victoria and Ririmu had already begun a practice match."
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Before we begin, Setsugekka-san, I need you to have this...」"
+    },
+    {
+        "message": "With that, Shizuku began attaching a small device to Setsugekka."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「What is this? Is it some sort of runaway-promotion gadget?」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Why would you want to promote it?」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「This is a Spirit-Type Vital Sensor.」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「It allows me to monitor not just your health data, but also your psycho-sensory values and their nature.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「They sell things like that now？」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Oh, no... I made this myself...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You made it yourself！ That’s amazing！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「As expected of the Technical Division—no, wait, surely there aren't many people even within the Technical Division who can do something like that？」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「O-oh, it’s nothing, really... Um, well... Th-thank you...」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「A-anyway, with this, I think we’ll be able to understand a bit more about what happens when Setsugekka-san goes into a runaway state！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That’s reassuring. I’m counting on you.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「So, Setsugekka, you have my permission to go into a runaway state this time！ Give it your all. If anything happens, I’ll stop you！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Okay！ Then I’m going to go all out！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Who’s your opponent... Shizuku-san, is that okay？ Since you’ll be monitoring at the same time.」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「It’s fine. I’m always doing this with Vicky.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Understood. Then, let’s get started！」"
+    },
+    {
+        "message": "With all preparations complete, the two stood face to face."
+    },
+    {
+        "message": "Since this is for data collection, it has a different atmosphere and sense of tension compared to our usual matches."
+    },
+    {
+        "name": "Iori",
+        "message": "「Alright... Start！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yeah！ Here I go！」"
+    },
+    {
+        "message": "As the signal to start is given, Setsugekka rushes forward as usual."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Offense is the best defense！」"
+    },
+    {
+        "message": "I thought she'd want to bring this into an infight, but Setsugekka first swings her Origami upwards as if to slash."
+    },
+    {
+        "message": "It must have been in anticipation of Shizuku's defense or evasion. She intends to halt her movement and close the distance."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Take that, that, and that！」"
+    },
+    {
+        "message": "Although it’s a reverse grip with limited reach, Setsugekka utilizes her body's twist and weight shift to keep Shizuku pinned down with strikes as fast as she can manage."
+    },
+    {
+        "message": "Of course, even so, her movements are easily restricted, creating openings for a counterattack, but—"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Got you！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Too slow！」"
+    },
+    {
+        "message": "She twists her body quickly to evade Shizuku's counterattack."
+    },
+    {
+        "message": "And immediately from that posture, she kicks off the ground and closes in for an infight with quick movements！"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Gotcha！」"
+    },
+    {
+        "message": "It was a great dive, leveraging her explosive power and flexibility. The fist she delivered makes contact with Shizuku's body."
+    },
+    {
+        "message": "Furthermore, instead of blowing the opponent away with that single strike, Setsugekka continues to press the attack, focusing on strikes from the left and right to keep her fixed in place."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Eat this, Mishima-ryuu Type Kinoto: Weeping Cherry！」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Ggh...！！」"
+    },
+    {
+        "message": "With a rapid barrage of blows, she gives Shizuku no room to jump back, forcing her into a desperate, unfavorable defensive battle."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Heh... not bad~」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Setsugekka always had plenty of potential. Once she gets the hang of fighting, she’ll just keep getting stronger...！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hmph... Mishima-ryuu Type Kanoto: Ginjun！！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That’s the spirit, Setsugekka！ Don't make your attacks monotonous！ Aim carefully for the opponent's body and deal steady damage—」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Teacher, the goal here is data collection, remember?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ha...！ O-oh, right. My bad.」"
+    },
+    {
+        "message": "Reminded by Momiji, I give a wry smile. I was so happy to see my student’s growth that I got a little too carried away cheering."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I'm just getting started, here I go again！」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Ghh... Then, how about this...！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Huh？」"
+    },
+    {
+        "message": "Setsugekka tried to follow up with an attack, but Shizuku suddenly changed her movement and grabbed her arm."
+    },
+    {
+        "message": "Furthermore, she moved deep into Setsugekka's guard, pressing her body right up against her—"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Please remember to break your fall...！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hiaaaa！？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Gyaun！？」"
+    },
+    {
+        "message": "Like a shoulder throw, Setsugekka’s body was tossed through the air."
+    },
+    {
+        "name": "Momiji",
+        "message": "「No way... she uses throwing techniques too？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That’s... Hokuto Shinkage-ryu. It’s a school that combines swordsmanship and jujutsu, making it strong in striking combat as well.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「So she countered because Setsugekka keeps trying to get close... Really, Shizuku-senpai isn't at a Technical Division level at all.」"
+    },
+    {
+        "message": "Copying forms alone is impressive enough, but in her case, it went even further—"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Muuu, I won’t lose when it comes to combat arts！」"
+    },
+    {
+        "message": "Setsugekka attempts an infight once again."
+    },
+    {
+        "message": "However, her fist strikes were easily parried, and what’s more, she had her arm grabbed again."
+    },
+    {
+        "name": "Shizuku",
+        "message": "「If you resist too hard, it’s going to be dangerous...！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Higyuuu！！」"
+    },
+    {
+        "message": "This time, her legs were swept and she was sent tumbling to the ground."
+    },
+    {
+        "message": "Normally, there would be a follow-up attack with an Origami immediately after being knocked down."
+    },
+    {
+        "message": "In reality, it ended with just the throw, but Shizuku’s body control is so superb that one could even see what the next move would have been."
+    },
+    {
+        "message": "It was a cut above a simple imitation of form."
+    },
+    {
+        "name": "Iori",
+        "message": "（The more I see, the more I want her in the Martial Arts Division.）"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Dammit！ I’m still going！」"
+    },
+    {
+        "message": "Setsugekka hopped up immediately and took a battle stance again."
+    },
+    {
+        "message": "And just as she was about to dive in—this time, Shizuku wore a bewildered look."
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Um, Setsugekka-san... this isn't just a simple match, so I would appreciate it if you could go berserk soon...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ah, right, right, that's what this match is for.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「...You forgot again, didn't you.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, it was such a great match that I just...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Anyway... Setsugekka, go berserk！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Well, it’s not like I can just do that！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I wanna see, Secchan go berserk~♪」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hey, are you mocking me?！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "（Ugh... I mean, it’s not like I can just go on a rampage whenever I’m told to!）"
+    },
+    {
+        "message": "That isn’t something I can do just because I want to. It just happens on its own."
+    },
+    {
+        "name": "Iori",
+        "message": "「What’s the matter, Setsugekka?！ You think you can manage a rampage?！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「No, think about it! For starters, it’s called a ‘rampage’ precisely because it’s uncontrollable!」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Normally, what kind of situations cause you to go on a rampage…？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hmm… maybe when I get annoyed or something？」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Then, how about trying to remember or think about things that would provoke your anger…?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I’m the type who only wants to remember the fun stuff, so I don’t really have many memories of things that made me mad.」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Oh, that’s… that’s a problem, isn’t it…」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Oh! Then, why don’t you try saying something that would make me angry right now?」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Eh…！ I-I’m not really good at that sort of thing…」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「It’s just talk！ I’m totally fine with it！ Well, I mean, it would be bad if I were fine with it, but I won’t hold a grudge！」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「B-but still, um…」"
+    },
+    {
+        "message": "Shizuku-san looked exhausted as she sought help from the teachers and others."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Want me to do it for you instead？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hmm… that might be better. Momiji, can you do it？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Alrighty then. Setsugekka, I’m gonna say all sorts of things now, but it’s all for the sake of the investigation, so don't hold a grudge, okay?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Alright, bring it on！」"
+    },
+    {
+        "message": "Well, there was no doubt that Momimomi would be more effective than having a senior insult her."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Dummy, moron, idiot, eggplant-face~」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ghh, grrr…！」"
+    },
+    {
+        "message": "I know she’s doing it on purpose, but having someone actually say it to my face might be enough to get my blood boiling…！"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ditz-faced wannabe hero, you show-off~」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hey, that’s going too far!」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Setsugekka, this is part of the investigation.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hmph... I-I see.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Talk about a big talker who claims they’ll definitely defeat the Suzakuin despite being weak~, what a poser~」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Grrrrrrrr……！！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Also, haven’t you been putting on some weight lately？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Whaaaaaaaaaaaaaaaat！？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「……Did you gain weight？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I didn’t！ I just gained some muscle from training！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「My body fat is actually down！ I’m not fat！ I am definitely, absolutely not faaaaaaat！」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Oh, this is amazing……！ There’s been a major change in the psychometric values……！」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「This might be our chance…… Setsugekka！ Can you feel anything now？ Something deep inside your body……！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「The fat deep inside my body is gone！」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「No, that’s not what I meant……」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Something like, a hidden power, or rather, something lurking in the depths of your body and heart…… your inner god……！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Huh？ I mean, even if you say that…… hmmm……」"
+    },
+    {
+        "message": "Being told to, I think about it and try to focus."
+    },
+    {
+        "message": "――Inside me, deep within my consciousness."
+    },
+    {
+        "message": "My feelings, my emotions. Right now, the emotion of anger."
+    },
+    {
+        "message": "Lurking in the depths, the inner god."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "（Wait……？ Could this be…………）"
+    },
+    {
+        "message": "Suddenly, I realize something is there."
+    },
+    {
+        "message": "Deep inside me…… something settling far, far down at the bottom."
+    },
+    {
+        "message": "However, it was――unpleasant."
+    },
+    {
+        "message": "A jet-black, viscous, something like sludge that brought about nausea and disgust――"
+    },
+    {
+        "message": "I don’t want to look at something like this for even a second. My instincts make me want to turn away."
+    },
+    {
+        "message": "But that is it, that very thing is what lies within me――"
+    },
+    {
+        "name": "Secretary",
+        "message": "「Keisetsu, and Setsugekka, thank you very much for coming today.」"
+    },
+    {
+        "name": "Secretary",
+        "message": "「If you would, Keisetsu, the President is waiting, so please come this way.」"
+    },
+    {
+        "name": "Secretary",
+        "message": "「Ah, Setsugekka, please wait there.」"
+    },
+    {
+        "name": "Keisetsu's Subordinate",
+        "message": "「Do you have a moment, Keisetsu?」"
+    },
+    {
+        "name": "Keisetsu's Subordinate",
+        "message": "「So, you are... uh, what was your name again？」"
+    },
+    {
+        "name": "Keisetsu's Subordinate",
+        "message": "（Tch, what the hell, isn't she the useless one）"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Setsugekka, I have business to attend to, so stay quiet.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「You behave yourself over there.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「...Setsugekka, you mustn't make such a sour face. Keep smiling, always.」"
+    },
+    {
+        "name": "Relative A",
+        "message": "「Why are you so slow-witted, Setsugekka? Why don't you try learning something from Keisetsu for once?」"
+    },
+    {
+        "name": "Relative B",
+        "message": "「...*Sigh*, it would've been fine with just Keisetsu, you know.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「It's alright, Setsugekka. I'm with you. You don't have to do anything.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Because I will always protect you.」"
+    },
+    {
+        "message": "...Ah, this is."
+    },
+    {
+        "message": "A memory of mine that I never wanted to recall, buried deep within me. Feelings of mine that I never wanted to see, locked inside."
+    },
+    {
+        "message": "—When I was little, I was always smiling."
+    },
+    {
+        "message": "Not because I was happy, but because if I didn't, I wouldn't be loved."
+    },
+    {
+        "message": "Because if I didn't, I would become an 'unwanted child'."
+    },
+    {
+        "message": "Always, always being compared to Kei-chan. I was called 'the other daughter'."
+    },
+    {
+        "message": "Even so, to be loved, I had to act adorable."
+    },
+    {
+        "message": "That's why I put a lid on the part of me that wasn't adorable and sealed it away. Into the depths of darkness, so it would never come out."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hah, haaah... ugh... fuuuaah...！！」"
+    },
+    {
+        "message": "...Ah, I see."
+    },
+    {
+        "message": "Could it be that the secret art 'Tamukai' is... something that transformed that darkness into a 'dwelling for Keyou'."
+    },
+    {
+        "message": "The god within me is what I cast into the darkness, a long, long time ago—"
+    },
+    {
+        "message": "So, look."
+    },
+    {
+        "message": "If I drag out what lies at the bottom of the darkness—！！"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「...Sorry to keep you waiting, you pieces of shit.」"
+    },
+    {
+        "message": "As Setsugekka opened her eyes, she flashed a fearless smile."
+    },
+    {
+        "name": "Iori",
+        "message": "「...It's started, Shizuku.」"
+    },
+    {
+        "message": "It's been a while since I've seen Setsugekka go berserk."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hah... you lot are truly sinful people.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「How dare you presume to measure me on your pathetic scales！！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Shizuku... be careful, here it comes！」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Y-yes...！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I will never forgive you all. I shall send you to the afterlife right here and now！！！」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Nghhh…！！」"
+    },
+    {
+        "message": "Kicking off the ground, Setsugekka closed the distance to Shizuku and unleashed a sharp slash."
+    },
+    {
+        "message": "Shizuku barely managed to block it, but even from the sidelines, it was clear that the power behind the strike had increased exponentially."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「What’s wrong? Are you giving up with just this much?!」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「H-how could the spiritual resonance value be rising this high…！！」"
+    },
+    {
+        "message": "The way she swung the Origami was also on a completely different level."
+    },
+    {
+        "message": "Even though she was holding it in a reverse grip, the moment I thought she had struck from the right, the next slash was already following through."
+    },
+    {
+        "message": "And even more surprising was—"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Mishima-ryuu Type Kanoe: Hajoushou！！！」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Kyaaaa！」"
+    },
+    {
+        "message": "After forcing a block and freezing her opponent’s movement, she transitioned into close-quarters combat to unleash a strike."
+    },
+    {
+        "message": "It was unmistakably the same battle style she used before her rampage."
+    },
+    {
+        "name": "Iori",
+        "message": "（Setsugekka is undoubtedly in a berserk state right now. But at the same time, is she still maintaining her composure…？！）"
+    },
+    {
+        "message": "It was clearly different from the berserk state I had seen until now."
+    },
+    {
+        "message": "She wasn't just venting the overwhelming power of her Tenju; she was incorporating it into her tactics."
+    },
+    {
+        "name": "Iori",
+        "message": "（This is bad…！）"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「More, I’m not satisfied with just this much！！！」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Ngh…！」"
+    },
+    {
+        "message": "Setsugekka kept up the pursuit, deftly parrying every feint Shizuku used to create an opening for defense."
+    },
+    {
+        "message": "She then closed the distance, mixing in feints with her strikes."
+    },
+    {
+        "message": "Shizuku tried to grab Setsugekka’s arm to transition into jiu―jitsu as she had before, but―"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Got you…！」"
+    },
+    {
+        "name": "Iori",
+        "message": "（She caught her arm！ With this—）"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hah, how clever！！」"
+    },
+    {
+        "message": "Instead of being thrown, Setsugekka threw Shizuku back in return."
+    },
+    {
+        "message": "It was less a matter of technique and more a result of overwhelming power."
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Agh…！！」"
+    },
+    {
+        "message": "Shizuku seemed to manage a breakfall, but she stumbled as she stood up after slamming her back against the ground."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Is that the end? How disappointing. In that case, I’ll show you a parting gift for the afterlife…！！」"
+    },
+    {
+        "message": "Setsugekka took a stance, and I could feel her power surging."
+    },
+    {
+        "message": "I recognized that stance."
+    },
+    {
+        "message": "It was from the time I first met Setsugekka—when a berserk Setsugekka destroyed the stadium wall."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Mishima―ryuu Type Mizunoto―Banzetsu！！！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Damn it！ If that hits home…！」"
+    },
+    {
+        "message": "Just as I rushed over in a panic to help Shizuku."
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Please, stop it…！！！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Guh…！？ Ugh, ughaaaaaah…！？」"
+    },
+    {
+        "message": "Suddenly, Shizuku’s Origami began to glow."
+    },
+    {
+        "message": "A white, dazzling, and profoundly divine light—"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ngh… guhhh, this, I can’t… withstand this…！！」"
+    },
+    {
+        "message": "Setsugekka recoiled, writhing in agony."
+    },
+    {
+        "name": "Iori",
+        "message": "「Is this the work of spiritual machinery？ No, that’s not it…！」"
+    },
+    {
+        "message": "I could sense it somehow. That wasn’t just ordinary light. It was seeping into my very body, making my skin prickle."
+    },
+    {
+        "message": "A scent, pure and infinitely transparent."
+    },
+    {
+        "message": "It’s strange to say that light has a scent, but there is no other way to describe it."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ugh, urgh…！ Wh-what is that… ugh…！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Momiji, what’s wrong…？」"
+    },
+    {
+        "message": "Momiji, who had been watching beside me, suddenly doubled over."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Haa, haa… I don’t know, just looking at that light… it’s making me feel so sick…」"
+    },
+    {
+        "message": "While rubbing Momiji’s back, I looked toward Shizuku."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Gwah, ughhhhhh…! What is this…! What is this!!!」"
+    },
+    {
+        "message": "Like Momiji, Setsugekka was writhing in agony before Shizuku—no, even more violently than that."
+    },
+    {
+        "message": "With a look of sheer fury, Setsugekka charged at Shizuku while still writhing."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「You… stop it, stop itttttt！」"
+    },
+    {
+        "message": "Setsugekka swung the Origami with all her might."
+    },
+    {
+        "message": "In response, Shizuku stood there nonchalantly, simply holding her blade steady in the path of the oncoming Origami—"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ghwaaaaaa！？ Arghhhhhh！」"
+    },
+    {
+        "message": "The blades touched—that should have been all."
+    },
+    {
+        "message": "Yet it was Setsugekka who screamed and tumbled to the ground."
+    },
+    {
+        "message": "I don’t know what is happening."
+    },
+    {
+        "message": "But I intuitively understood that the light emitted by Shizuku’s Origami was the culprit."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "（St-stop… make it stop…）"
+    },
+    {
+        "message": "I don’t want to see it, while being bathed in that light—"
+    },
+    {
+        "message": "What I had forcibly dragged out was crumbling like sand, rapidly losing its form."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "（…Wait, is my Midare-Setsugekka melting away, bit by bit？）"
+    },
+    {
+        "message": "The rage that had been consuming me was fading. But the immense power of the god within me was still here."
+    },
+    {
+        "message": "The separation of the darkness and the power."
+    },
+    {
+        "message": "As I felt the darkness gradually peeling away from me and dissolving, I somehow understood what it signified."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "（I see... this isn't some god.）"
+    },
+    {
+        "message": "What lay in the depths of the darkness was 'me'."
+    },
+    {
+        "message": "The true nature of the inner god, the 'Mizuchi', was me—the 'thing that used to be me' which I had locked away when I was small."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "（Ah, that's why it comes out and runs wild whenever I get angry...！）"
+    },
+    {
+        "message": "Yes, that's why, that's why—"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「...Eh？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「G-gaah！？」"
+    },
+    {
+        "message": "With a tremendous impact, my consciousness was blown away—."
+    }
+]

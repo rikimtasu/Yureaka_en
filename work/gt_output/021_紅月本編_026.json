@@ -1,0 +1,462 @@
+[
+    {
+        "name": "Asahi",
+        "message": "「Good morning, Iori-sensei」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Morning, Asahi」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Iori-sensei, what will you be teaching me today?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Sorry, but you'll have to practice on your own today」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ehh~, even today？」"
+    },
+    {
+        "message": "It couldn't be helped; there weren't any students other than Asahi."
+    },
+    {
+        "name": "Asahi",
+        "message": "「You're so mean, Iori-sensei」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「When will you finally give me some intense, hands-on, limbs-intertwined instruction？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「There's no way I'm giving you that kind of sexual-harassment-style instruction」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「But that's what I live for!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Right, here's today's training menu」"
+    },
+    {
+        "message": "I hand her the list of exercises I put together this morning."
+    },
+    {
+        "name": "Asahi",
+        "message": "「I don't need something like this!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hey, what are you doing！？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I've been doing basic training since before you even got here, Iori-sensei」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I want to look at your face and hear your voice while I receive instruction that only you can provide, Iori-sensei」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Asahi...」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Well, and while we're at it, I also want us to touch each other」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, let's try resisting that urge」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「What do I have to do to get you to give me personal instruction, Iori-sensei？」"
+    },
+    {
+        "message": "Asahi's dissatisfaction was justified. I hadn't properly instructed everyone even once yet."
+    },
+    {
+        "name": "Iori",
+        "message": "「As far as I'm concerned, I want to set up a system where I can instruct everyone equally」"
+    },
+    {
+        "name": "Iori",
+        "message": "「To do that, I believe I need to gather the whole class in the classroom」"
+    },
+    {
+        "message": "If I couldn't even manage that much, then proper instruction was just a pipe dream."
+    },
+    {
+        "name": "Asahi",
+        "message": "「...Understood」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Though, personally, I'm not happy about having my time with Iori-sensei stolen by the other students」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「However, at this rate, I won't be able to receive your guidance either, Iori-sensei, and you'll end up losing your current position.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Therefore, deeply regrettable though it may be」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I would like to lend what little help I can so that the other students will feel inclined to come to class and receive your instruction, Iori-sensei.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Huh, you'll help me out？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Yes, though I do have one favor to ask in return」"
+    },
+    {
+        "name": "Iori",
+        "message": "「W-What would that be？」"
+    },
+    {
+        "message": "I hope it's something within my power to grant..."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Whenever you have some free time, please make time for just the two of us to be alone together, Sensei.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Huh? Are you saying you want to go on a <d0097>date</d>?」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Of course, I wouldn't mind a date at all.」"
+    },
+    {
+        "message": "U-Uhh... Well, if it's in the form of after-school tutoring or something like that, I suppose I could manage to make some one-on-one time."
+    },
+    {
+        "name": "Iori",
+        "message": "「Got it, I promise.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Really？ Hehe, I'm so happy!」"
+    },
+    {
+        "message": "Asahi's face lights up in an instant."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Then, starting right this moment, I shall support your mission with everything I have, Iori-sensei!」"
+    },
+    {
+        "message": "No sooner had she said that than Asahi pulled up several HR displays in front of herself."
+    },
+    {
+        "name": "Iori",
+        "message": "「Whoa, how dependable. What are you going to do？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「To start, I'll hack into the academy's central management system.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Uh-huh, uh-huh.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Accessing with a spoofed teacher account—success」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Next, I'll gather information on Kazamine Setsugekka, Suzakuin Momiji, Tobe Ririmu, and Kazamine Keisetsu.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「...Data collection complete. Now then, who should we win over first？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, let's hold on a second.」"
+    },
+    {
+        "message": "What she said was so hard to believe that my ears flat-out rejected it, but there's no way I can just let that slide."
+    },
+    {
+        "name": "Iori",
+        "message": "「Hey, Asahi, what did you just do？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I used a spoofed account to gather information on everyone in Takamura Class—was there a problem？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「At this point, there's nothing but problems here, right？！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Indeed, if I felt so inclined, I could even secretly record shower scenes.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Though even I would feel hesitant about going that far.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You can even do that？！」"
+    },
+    {
+        "message": "Actually, when on earth did Asahi even pick up skills like that?"
+    },
+    {
+        "name": "Iori",
+        "message": "「Anyway, stop the hacking immediately.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Still, I don't think we can get everyone in Takamura Class to budge unless we go at least this far.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, no, if I just meet with them and talk things through properly...」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Iori-sensei, the Martial Festival is coming up this summer.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「If we take a leisurely approach, one or two months will fly by in the blink of an eye.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ugh, th-that may be true, but...！」"
+    },
+    {
+        "message": "Just as Asahi says, the Martial Festival is in the summer and it's already May—we don't have much time left. Everything hinges on how much intensive guidance I can pack into this short period."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Don't worry, nobody is going to complain.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「If we get caught, it'll definitely be a huge problem！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「If any teacher complains, I'll just dig up their dirt and blackmail them.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「That's how I transferred into Takamura Class, too, so I have a proven track record♪」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That's less of a track record and more of a criminal record, isn't it？！」"
+    },
+    {
+        "message": "I get it now. It just hit me hard."
+    },
+    {
+        "message": "So this is what Sasaki-sensei meant by 'Asahi belongs in Takamura Class'...！"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Iori-sensei, this is war.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Between teacher and students, who will force their own will through? It's a blood-drenched school war.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I-Is it really that dramatic...？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Our opponents are little children whose mental age never grew past puberty.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「You can't expect them to have the social maturity to listen to reason.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You really say some brutal things so casually, don't you, Asahi...？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「They will use any means necessary to get their selfish way. Do you really intend to march into that quagmire of a battle completely unarmed, Sensei？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「You must master even wild powers like mine, and snatch victory for yourself.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Only with that level of resolve can one truly be called a teacher with leadership.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「T-that's true... I'm starting to think so too！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Iori-sensei, I'll take on the dirty work.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Please make the most of my skills and position, and exert your brilliant leadership to the fullest！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Got it！ Alright, let's do this！！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Yes, let's do our best.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「…………」"
+    },
+    {
+        "message": "We hide in the surrounding bushes, watching over the students passing through the school gate."
+    },
+    {
+        "message": "We decided to set Setsugekka as our target for the time being and attempt to make contact."
+    },
+    {
+        "name": "Iori",
+        "message": "「Hey Asahi, is Setsugekka really going to pass through here？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Setsugekka-san has filed for an absence, citing poor health.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「However, she left her dorm room about five minutes ago. She likely plans to cut class and go hang out.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「How on earth do you know that...」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Using Awashima, the advanced information-gathering AI, predicting Setsugekka-san's movements is a piece of cake.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hehe, it's a good era we live in, isn't it?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Does that mean you can monitor me too？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Of course. Shall we try it?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No thank you.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Based on her past behavioral patterns, the prediction results show that when Setsugekka-san cuts class, she naively heads out through the school gate.」"
+    },
+    {
+        "message": "To think my behavioral patterns are being read too... The information society is seriously scary."
+    },
+    {
+        "name": "Asahi",
+        "message": "「She should be appearing any minute now...」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ah, here she comes.」"
+    },
+    {
+        "message": "Just as the AI predicted, Setsugekka came along, checking her surroundings as she walked."
+    },
+    {
+        "name": "Iori",
+        "message": "「Nice one. Alright, then I'll go call out to her...」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「What are you saying? Stay hidden!」"
+    },
+    {
+        "message": "Asahi grabbed my sleeve and yanked me into the bushes."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Phew, she didn't notice us. That was a close call.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「W-Why are we hiding？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Let me ask you instead: what were you planning to do if you called out to her？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I was going to scold her for skipping and convince her to attend class, though.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hah... Iori-sensei, I told you earlier, didn't I?」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「She's not the kind of person a sound argument works on. If straightforward persuasion were enough to make her comply, we wouldn't be going through all this trouble in the first place.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That may be true, but then what are we supposed to do？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「We tail her, look for weaknesses, and if we find anything, we record it as blackmail material.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「If we stumble upon a decisive moment, we'll be in luck!」"
+    },
+    {
+        "message": "W-What a terrifying thing to..."
+    },
+    {
+        "name": "Iori",
+        "message": "「Haaah... The sweet, obedient Asahi-chan I used to know is no longer in this world...」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hehehe, everyone grows up whether they like it or not.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Setsugekka-san is on the move. Come on, let's go.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ugh, please don't let us get caught...！」"
+    },
+    {
+        "message": "Offering a prayer to God, I followed Asahi and began tailing Setsugekka."
+    }
+]

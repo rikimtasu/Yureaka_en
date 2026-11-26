@@ -1,0 +1,1087 @@
+[
+    {
+        "message": "Being up on stage gets me all excited."
+    },
+    {
+        "message": "Coming up this far, the crowd has grown too, and their gazes feel great. Well, Sensei’s anxious gaze is the strongest one, though."
+    },
+    {
+        "message": "……I’ve gotten stronger. I think that’s all thanks to Sensei and everyone else."
+    },
+    {
+        "message": "And just like that, Arakawa-senpai appeared right before me."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Your turn, huh... I hate the look on your face.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Senpai, you sure are hostile toward me, aren't you? Did I ever do anything to you?」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Oh, don’t worry. You didn’t do a damn thing.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「It’s just that I hate people who were born into rich families and grew up pampered without ever having to struggle.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「I’m talking about you, you little miss of the Tobe Family.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「What is that, talk about collateral damage.」"
+    },
+    {
+        "message": "Just because I was born rich doesn't mean I haven't known any struggle, so I wish she’d stop slapping these weird labels on me."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I’ve had my fair share of struggles too, you know~」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Fair share... haha, ‘fair share.’ Well, I’m sure it’s nothing much.」"
+    },
+    {
+        "message": "That ticked me off."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「……Alright then. If that’s how it is, I’ll teach you—with this blade.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「I’ll let you take the first move. Come at me.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Oh? Is that what ‘senior’s composure’ looks like?」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Wouldn't be any fun if you got taken down in one hit, would it？」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Your dull little blade wouldn't hurt or tickle me no matter how many times it hits, so go ahead and throw everything you've got.」"
+    },
+    {
+        "name": "Umpire",
+        "message": "「Both parties, take your stances！」"
+    },
+    {
+        "message": "I draw my Origami and point the tip at Arakawa-senpai’s face."
+    },
+    {
+        "name": "Ririmu",
+        "message": "（Ah, man, I am completely being looked down on, aren't I.）"
+    },
+    {
+        "message": "It pisses me off a little."
+    },
+    {
+        "name": "Ririmu",
+        "message": "（If you’re gonna talk that big, you’d better be ready to take it. I’m not holding anything back...！）"
+    },
+    {
+        "name": "Umpire",
+        "message": "「……Begin！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Alright then... I’ll show you right from the start！」"
+    },
+    {
+        "message": "Right after the Umpire’s voice echoed, I unleashed my phantom！"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Here I come—World is Mine！！！」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Huh？ What the hell did you just do, you bastard...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「You’ll find out soon enough！！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「—Hiyah！」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Coming at me with that cheap trick...！？」"
+    },
+    {
+        "message": "Slicing from the left at the opponent who just dealt with the phantom attacking from the right！"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Heh, where are you looking！?」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Tsk, I was wondering why my opponents in your matches were moving so strangely... so this is what it’s all about！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hey, hey, I went through all the trouble of doing this ‘for you,’ Senpai, shouldn't you be a little more happy about it！？」"
+    },
+    {
+        "message": "Yeah, Arakawa-senpai might not be that much of a tough opponent after all. She’s not as rock-solid as Asahi, either."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Tch, what an annoying technique you’ve got there...！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Idiot, it’s not that way！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Come on, come on, try and dodge this！！」"
+    },
+    {
+        "message": "While confusing her with phantoms, I keep landing small, repeated slashes."
+    },
+    {
+        "message": "A single full-powered strike would be scary if it landed, but as long as I don’t get greedy and try to land deep cuts, it’ll never hit."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Ugh, another fake！?」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "（Man, this is totally one-sided, isn't it？）"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「How about this！？」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Don’t screw with me, don’t you look down on me！！！」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「How’s that? I hit you, didn't I！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "（Ghhh, that strength is insane！ It's like Sensei’s...！！）"
+    },
+    {
+        "message": "I came at her from behind with both hands at full power, while Senpai only used one hand, and she was in the middle of turning around, too."
+    },
+    {
+        "name": "Ririmu",
+        "message": "（...And yet, I’m the one who got sent flying！）"
+    },
+    {
+        "name": "Ririmu",
+        "message": "（This is bad, just one good hit and the tables might turn.）"
+    },
+    {
+        "message": "I’m shivering at that incredible raw power."
+    },
+    {
+        "name": "Ririmu",
+        "message": "（Maybe Sensei was right. Evasion is key.）"
+    },
+    {
+        "message": "Safe and certain, but attack quickly without holding back."
+    },
+    {
+        "name": "Ririmu",
+        "message": "（Man, she’s even more dangerous than I expected...）"
+    },
+    {
+        "message": "Even though I was landing almost everything until a moment ago, she’s gradually starting to adjust to me."
+    },
+    {
+        "message": "She intentionally takes strikes that won't be fatal to get a read on the space, then slashes right through it."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ha! You really think that’s gonna hit me？」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「If it connects, it’s over, isn’t it？ You think you can keep dodging forever？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Obviously！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "（Halfway there… I’m gonna wear her down just like this！）"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Tch… you rich little princess, getting all cocky…」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「'Rich, rich,' that’s all you say! Why are you so obsessed with money anyway!？」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「You know damn well why.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Seeing people like you who’ve never known a day of hunger walking around with that high-and-mighty look on your face—it’s just infuriating！」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Waving a stick around to kill time, dressing yourself up in that flashy outfit…！！」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「People like you mistake the strength bought with money for your own damn power.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hah, is that sour grapes？」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「…While you were using your wealth to boss people around, I was drinking mud water and grinding my life away just to survive.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「So what！？ Your personal sob story, Senpai, has nothing to do with me！」"
+    },
+    {
+        "message": "As I retorted, her entire presence shifted."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Yeah, I guess it’s got nothin’ to do with you… but it’s got everything to do with me.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「So just shut up and let me eat you.」"
+    },
+    {
+        "message": "Killer intent—I forced my body, which had almost frozen in an instant, to move. A split second later, a slash cut through the space where I’d just been."
+    },
+    {
+        "name": "Ririmu",
+        "message": "（This one… she’s not playing with a full deck…！）"
+    },
+    {
+        "message": "Eyes like a starving beast glare down at me."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「…As if! There’s no way I’m losing to someone like you!」"
+    },
+    {
+        "message": "I’d already worn down most of her Barrier Jacket; it would be over in a moment."
+    },
+    {
+        "message": "Logically, I should be able to win from here, but something inside me is screaming that something is wrong."
+    },
+    {
+        "name": "Ririmu",
+        "message": "（…She really isn't the type of opponent I can hold back against！）"
+    },
+    {
+        "message": "Then I'll just keep pressing the attack！"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「There’s nothing more pathetic than losing while trying to act cool…！！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I’m dragging you into my world—Butterfly Effect！！！」"
+    },
+    {
+        "message": "The world changes. It begins to be dyed in the colors of my world."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Heh, what do you think！ This is my world. Everything goes exactly how I say.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「...How stupid. It's just a cheap imitation, right?」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Huh？ Care to repeat that？ Don't you dare look down on my worldview！」"
+    },
+    {
+        "message": "My world makes everything go mad."
+    },
+    {
+        "message": "Right is left, and up is down."
+    },
+    {
+        "message": "I intend to swing my right arm, but my left one goes up. The ground under my right foot suddenly disappears as I step forward."
+    },
+    {
+        "message": "In this space where anything goes, I’m the only one who can move freely！"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「This is it... the end for you！」"
+    },
+    {
+        "message": "I create a massive number of illusory copies of myself and launch a simultaneous attack."
+    },
+    {
+        "message": "A wide, uncontrolled swing like that isn't going to hit me. I’ll shower her with countless blades and shred her Barrier Jacket to pieces！"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Ugh, what the hell is this...!」"
+    },
+    {
+        "message": "Arakawa-senpai drops to one knee."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Nice, how’s that for ya！！」"
+    },
+    {
+        "message": "Win, just like always！"
+    },
+    {
+        "message": "...Or so I thought for a split second."
+    },
+    {
+        "name": "Iori",
+        "message": "「Don't let your guard down, Ririmu！ It's not over yet！」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Tch... that actually stung a little...」"
+    },
+    {
+        "message": "I should have shredded it completely, and yet."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「...You're actually getting back up. Still want more？」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「I thought you were just some weakling relying on a cheap imitation, but you’re actually not half bad.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「I'm relieved. Looks like this might actually be fun.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Sensei, what about senpai's Barrier Jacket...？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...It's regenerating.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「We have no choice but to take her down again... Stay focused, Ririmu！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I know that already！」"
+    },
+    {
+        "message": "Even though she’s staggering, Arakawa-senpai readies her nagamaki."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「But seriously, all your attacks are way too lukewarm. Give me a real hit with some muscle behind it.」"
+    },
+    {
+        "message": "Even though I’d heard about this beforehand."
+    },
+    {
+        "message": "It makes no sense that the Barrier Jacket I shredded is still there."
+    },
+    {
+        "message": "She’s being beaten one-sidedly, so how can she still keep that look on her face?"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「What is up with this person? It's creeping me out...！」"
+    },
+    {
+        "message": "It wasn't out of fear that I instinctively took a step back. It was because I felt an indescribable, unsettling eeriness."
+    },
+    {
+        "name": "Ririmu",
+        "message": "（That's all... yes, that's all it is!）"
+    },
+    {
+        "name": "Iori",
+        "message": "「So this is the nature of her Tenju...」"
+    },
+    {
+        "message": "Right after I thought she was defeated, Arakawa's VF value recovered."
+    },
+    {
+        "message": "VF value—short for Vital Force Field value."
+    },
+    {
+        "message": "This is the figure indicating the strength of a Barrier Jacket, a value that can be monitored externally."
+    },
+    {
+        "message": "The VF value of a Barrier Jacket, activated by the simultaneous use of Origami and Spirit-Type Armament, is constantly monitored during a match."
+    },
+    {
+        "message": "If a contestant's VF value falls below the threshold during a match, their loss is confirmed, and the match ends there."
+    },
+    {
+        "message": "It is a logical rule, given that if the Barrier Jacket is lost, there's a risk of fatality."
+    },
+    {
+        "message": "And Ririmu's attack had certainly depleted Arakawa's Barrier Jacket."
+    },
+    {
+        "message": "Even accounting for the slight lag in sensor readings, at that moment, the VF value reached a negative figure—below the threshold."
+    },
+    {
+        "message": "Yet, despite the significant drop, the Barrier Jacket recovered in the blink of an eye."
+    },
+    {
+        "message": "It now maintains a baseline just slightly lower than the normal value. It is a fluctuation in numbers that is absolutely impossible under normal circumstances."
+    },
+    {
+        "name": "Iori",
+        "message": "「How could such a thing... even happen？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ugh... no matter how many times I take her down...！」"
+    },
+    {
+        "message": "Even while I was lost in thought, Ririmu kept landing hits. Considering the VF values, she should have gone down at least twice already."
+    },
+    {
+        "message": "In reality, she does go down—only for her Barrier Jacket to revive each time, causing the person I should have defeated to simply stand back up."
+    },
+    {
+        "name": "Iori",
+        "message": "「Ah... could it be... this is...！」"
+    },
+    {
+        "message": "A phrase I heard in the past flashes through my mind. He was obsessed with researching special Tenju within the Tenju Special Forces."
+    },
+    {
+        "message": "It was a story about an Ikusabito who would revive no matter how many times they were struck down—"
+    },
+    {
+        "name": "Iori",
+        "message": "「I've got it... this is a special Tenju. The name he gave it was... I believe it was 'Yomigaeri'...！」"
+    },
+    {
+        "message": "When one's body and mind are driven to their absolute limit, they revive, gaining strength proportional to the damage received."
+    },
+    {
+        "message": "They say a bearer of such a ridiculous, almost joke-like special Tenju once existed in Japan."
+    },
+    {
+        "name": "Iori",
+        "message": "「Is it possible that she is a bearer of the 'Yomigaeri' Tenju...？」"
+    },
+    {
+        "message": "However, looking at the numbers, it doesn't seem like she is reviving with doubled strength proportional to the damage taken."
+    },
+    {
+        "message": "Special Tenju characteristics vary depending on the bearer. It's not identical, but she must possess a very similar aptitude."
+    },
+    {
+        "name": "Iori",
+        "message": "「Either way, this is going to be trouble...！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Damn it, just go down already...！」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Hah, curse your own pathetic ass for not being able to take me down！！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Haa, haah...！ Just how tough are you...！」"
+    },
+    {
+        "message": "I put some distance between us and take a deep breath. Not good... I'm starting to feel really winded..."
+    },
+    {
+        "message": "Even so, I can still fight."
+    },
+    {
+        "message": "Sensei had packed extra running into my training, saying I needed to build up more stamina."
+    },
+    {
+        "message": "Back then I was thinking, 'This sucks, give me a break,' but right now I'm nothing but grateful."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「I'm starting to get pretty used to this cheap-ass 'worldview' of yours.」"
+    },
+    {
+        "message": "She's the one who's all beat up, and I'm the one on the offensive, so it makes zero sense that I'm the one getting cornered."
+    },
+    {
+        "message": "Arakawa-paisen is whipping her nagamaki around like a baton."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Don't call it cheap when you don't even get it...！」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Over here... no, that's a feint—it's over here, right？ Hraaah！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I told you, wrong again！ Idiot！！」"
+    },
+    {
+        "message": "Even when I hit her with illusions, she doesn't drop it—she just keeps spinning it, and the moment she senses an attack, she throws a full-power counter in that direction."
+    },
+    {
+        "message": "She's probably just taking wild guesses, but if one connects I'm screwed, so I have no choice but to dodge."
+    },
+    {
+        "message": "As a result, I end up wasting movements and attacks, wearing myself out even faster. No matter how far we go, it's just back and forth."
+    },
+    {
+        "message": "Her strikes have grazed me a few times, sure, but I haven't taken a single direct hit."
+    },
+    {
+        "message": "Which makes it totally baffling how visibly worn down my Barrier Jacket is getting."
+    },
+    {
+        "message": "Meanwhile, I've already knocked Arakawa-paisen down more than five times. She's gotta be close to her limit too."
+    },
+    {
+        "message": "—If I don't believe that, I won't be able to keep going."
+    },
+    {
+        "name": "Ririmu",
+        "message": "（Ugh, this has turned into a total slog！ It's messy and totally not cute. My absolute least favorite way to fight）"
+    },
+    {
+        "message": "Still, I refuse to lose."
+    },
+    {
+        "name": "Ririmu",
+        "message": "（Like hell I'm gonna lose to someone who trashes my worldview！）"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Heh, already out of breath? We're just getting started, ya know?」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Haaah, haa... You're the one who's falling apart here！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "（Agh, dammit... If I knew it'd come to this, I would've done way more running drills）"
+    },
+    {
+        "message": "Not that complaining helps now. It's all on me, anyway."
+    },
+    {
+        "name": "Ririmu",
+        "message": "（Just gotta do what I can right now！）"
+    },
+    {
+        "message": "If I can't take her down in one hit, then I'll do it in five, or ten."
+    },
+    {
+        "message": "With her Barrier Jacket worn down this much, it's overkill."
+    },
+    {
+        "message": "Common sense says you hold back because it's dangerous, but."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I’ll never, ever do that！！！」"
+    },
+    {
+        "message": "I dodge her horizontally swept nagamaki by a hair’s breadth, step into her range, use a phantom clone, and unleash a full-power multi-hit combo."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I’ll land as many as it takes...！」"
+    },
+    {
+        "message": "It doesn't matter if I can hear the sound of her Barrier Jacket shattering."
+    },
+    {
+        "message": "Because the opponent is still moving. Every time I slash her, for some reason, her Barrier Jacket keeps regenerating."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Keep going, keep going...！！！」"
+    },
+    {
+        "message": "I don’t hesitate to unleash attacks that would be fatal if the jacket weren't regenerating."
+    },
+    {
+        "message": "I rain down more blades than even I can count upon Arakawa-senpai, who has been deceived by my all-out illusion."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「With this, it’s overrrrrrr！！！」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Urgh, uaaah...！！」"
+    },
+    {
+        "message": "Countless attacks rain down all over my body."
+    },
+    {
+        "message": "The impact coming from angles completely different from where I’m focused causes damage to accumulate faster than I expected."
+    },
+    {
+        "message": "I take a direct slash to the head, and my consciousness fades. Through the haze, I suddenly hear a voice from the past."
+    },
+    {
+        "name": "Mentor",
+        "message": "「You have talent.」"
+    },
+    {
+        "message": "...It was the voice of my mentor."
+    },
+    {
+        "name": "Mentor",
+        "message": "「What do you think? Don't you want to try Jindou?」"
+    },
+    {
+        "name": "Mentor",
+        "message": "「Don't worry about the tuition.」"
+    },
+    {
+        "name": "Mentor",
+        "message": "「It’s kind of a hobby of mine to help nurture the talent I find.」"
+    },
+    {
+        "name": "Mentor",
+        "message": "「Come if you want to. I’ll train you.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "（Even though I told him I didn't have any money, he just said that. In the end, he really never took a single cent from me...）"
+    },
+    {
+        "message": "I was born into a poor family in the countryside and grew up taking care of my younger siblings."
+    },
+    {
+        "message": "Living in extreme poverty, I faced all sorts of ugly things. I had to become strong to protect my little siblings."
+    },
+    {
+        "message": "Because if I didn't, I wouldn't have survived. I did whatever it took just to put food on the table."
+    },
+    {
+        "message": "It was while I was rampaging like that that I met my mentor. And that was how I became able to perform Jindou."
+    },
+    {
+        "message": "Meeting my Origami was the first moment in my life where I felt like it was worth living."
+    },
+    {
+        "message": "I didn't go to school, but I went to the dojo every single day. I have nothing but gratitude for the mentor who taught me without asking for a dime."
+    },
+    {
+        "name": "Mentor",
+        "message": "「...Right, why don't you try going to Murakumo Academy？」"
+    },
+    {
+        "name": "Master",
+        "message": "「The facilities over there are much better equipped than here. You'll have rivals, too. You can grow even stronger than you are now.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Like I told ya, we don't got that kinda cash. ...I mean, sure, I'd like to go and all, but...」"
+    },
+    {
+        "name": "Master",
+        "message": "「Don't worry. I'll cover the money.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Whoa, hold on, I appreciate it and all, but I got no way of payin' you back.」"
+    },
+    {
+        "name": "Master",
+        "message": "「You're definitely going to become a pro Jindou fighter, Sonomi. Once you make it, you can pay me back then.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「...And what if I don't make it?」"
+    },
+    {
+        "name": "Master",
+        "message": "「Then you don't have to pay me back.」"
+    },
+    {
+        "name": "Master",
+        "message": "「As long as you seize a future of your own, that's all I ask.」"
+    },
+    {
+        "message": "With those words, Master casually fronted a sum that was by no means small."
+    },
+    {
+        "name": "Sonomi",
+        "message": "（I'd never met anyone who saw that much worth in me before.）"
+    },
+    {
+        "name": "Sonomi",
+        "message": "（If only to repay Master, I'm never gonna give up. I'm gonna become a pro Jindou fighter, no matter what...！！）"
+    },
+    {
+        "message": "...Yeah, that's why."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Like hell I'm gonna go down in a place like this...！！」"
+    },
+    {
+        "message": "My whole body ached—I was already beat to hell."
+    },
+    {
+        "name": "Sonomi",
+        "message": "（I don't give a damn... I'm used to this kinda thing.）"
+    },
+    {
+        "message": "This pain is what tells me I'm \"alive.\""
+    },
+    {
+        "name": "Sonomi",
+        "message": "（All I know how to do anyway is grip a blade and slug it out—that's the only way I know how to live.）"
+    },
+    {
+        "message": "Master told me to take care of myself and all that, yeah."
+    },
+    {
+        "message": "My life's just something that happened to be lying around on the side of the road—that's all it's worth, ain't it?"
+    },
+    {
+        "message": "I ain't got a single thing to lose."
+    },
+    {
+        "name": "Sonomi",
+        "message": "（Then I'll claw and struggle until I'm worn down and shattered to pieces—！！！）"
+    },
+    {
+        "message": "A faint roar echoes right by my ears."
+    },
+    {
+        "message": "It's a familiar sound. Neither the searing pain shooting through my body nor the exhaustion goes away."
+    },
+    {
+        "message": "Just sheer grit. Only the will to fight kept me on my feet."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「...Hey, sorry to keep ya waiting. The match ain't over yet, is it...？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「No way... How many times does this make now...！？」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Who cares how many times it takes? All that matters is who's left standing at the end.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "（Ah, this is fun... So damn fun.）"
+    },
+    {
+        "message": "I can still go. I can push even harder. None of the pain or misery can hold a candle to how fun Jindou is."
+    },
+    {
+        "message": "I'm so thrilled I can keep going in this match, I can't even stand it."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Alright, let's keep this going...！！！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「You're crazy, you're actually insane...！」"
+    },
+    {
+        "message": "Tobe looks at me with a terrified expression as I call out to her."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Heh, what would someone like you know about this...！！」"
+    },
+    {
+        "message": "As if someone like you could ever understand the bitterness and agony I've tasted...！！"
+    },
+    {
+        "message": "I tilt my head with a grin, hoisting my nagamaki over my shoulder, and take a step forward."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Why... hey, why won't you go down...！！」"
+    },
+    {
+        "message": "—Just then, the illusions around us began to warp."
+    },
+    {
+        "message": "The landscape melted away, skulls rose from the darkness, and skeletal hands reached out to grab my ankles."
+    },
+    {
+        "message": "Countless arms stretched out from a puddle of pitch-black sludge, and the surroundings began to take on a hellish appearance."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Wh-what... what is this...！！！」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Ha... why ask me? This is your illusion, isn't it?」"
+    },
+    {
+        "message": "Skeletons, monsters... living corpses？ I see, so that's how she sees me."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「I suppose my role here is... a <d0100>zombie</d>...」"
+    },
+    {
+        "message": "The moment I said it, the flesh on my arms melted away."
+    },
+    {
+        "message": "Immediately following a heat so intense it made my body stiffen, the exposed bone sent a chill down to my very core."
+    },
+    {
+        "message": "Every step I took was met with a sharp, stabbing pain, as if countless needles had been driven into my feet."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Tch... so you're going to go to the trouble of messing with my pain receptors, too. So this isn't just a simple theater...」"
+    },
+    {
+        "message": "A sensation like being clawed all over my body rippled through me. A chill ran down my spine."
+    },
+    {
+        "message": "But it seemed I wasn't the only one."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ow-oww... guhh, wh-what is this...！ This isn't my... my vision of the world...！！」"
+    },
+    {
+        "message": "Tobe was screaming as she was racked by pain all over her body."
+    },
+    {
+        "name": "Sonomi",
+        "message": "（Could it be she can't control her own power? ...I see, it's running wild.）"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Stop it, enough of this... make it stop...！！」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Hey, hey, don't be such a waste and get rid of it. You went through the trouble of creating these illusions, right？」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Then let's enjoy them together a little longer...！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ar-are you stupid? There's no way I could enjoy this...!」"
+    },
+    {
+        "message": "Even as she said it, a centipede crawled up her face, and she screamed as she swatted it away."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「It hurts, it hurts... why, how did it come to this...！！」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Soft... don’t go crying over something like this.」"
+    },
+    {
+        "message": "I don’t know how these illusions work, but surely, you can’t create something you don’t know."
+    },
+    {
+        "message": "You shouldn't be able to inflict a pain you’ve never experienced."
+    },
+    {
+        "message": "Maybe that’s why—even though it looked freakishly real, the pain it dealt felt remarkably cheap."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Wh-why the hell can you keep such a calm face！？」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Ha... stuff like this, for me, it’s just routine.」"
+    },
+    {
+        "message": "The burning heat of melting flesh isn't as intense as the heat of a red-hot iron pipe pressed directly into my skin."
+    },
+    {
+        "message": "The bone-chilling cold isn't as bad as spending a night out in the winter rain."
+    },
+    {
+        "message": "The piercing pain isn't as bad as the time my old man stabbed me all over with a kitchen knife."
+    },
+    {
+        "message": "Compared to what I’ve tasted until now, such cheap pain as this is no different than a mosquito bite."
+    },
+    {
+        "message": "Cutting through the illusion, I take one step after another, closing in on Ririmu."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Stop it, don’t come closer！！」"
+    },
+    {
+        "message": "A slash of black darkness darts out, piercing my body. But that’s it."
+    },
+    {
+        "message": "There’s pain, but my body isn’t actually being destroyed."
+    },
+    {
+        "message": "If your bones are broken, you can’t move no matter how much pain you endure. She probably doesn’t have that kind of experience."
+    },
+    {
+        "message": "A hot, wincing sting."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Ha... something like this is just a gentle breeze.」"
+    },
+    {
+        "message": "The extending dark slash is an illusion. Maybe she just swung her weapon in the air right there."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I told you not to come here！！！」"
+    },
+    {
+        "message": "I walk on, ignoring her."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Why, why won’t you just go down...！！！」"
+    },
+    {
+        "message": "The moment I enter her range, Tobe raises her Origami."
+    },
+    {
+        "message": "I don’t bother dodging, taking the slash with my body, and grab Tobe’s arm firmly."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「...Gotcha！」"
+    },
+    {
+        "message": "A grin creeps onto my face, unbidden."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ugh...！」"
+    },
+    {
+        "message": "I press the blade that cut through nothing so many times during this match against Tobe’s throat."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「...This pathetic game of house is over, Tobe Ririmu！！」"
+    },
+    {
+        "message": "I’m sick of watching you make a fool of yourself in your own illusions, and I’m sick of this whole pathetic world."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ah, gaaaaaaahhhhhhh...！！」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「The rest of it, you can see on your own...！！」"
+    },
+    {
+        "message": "Pressing the blade against the throat, pulling it back slowly—"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「RAAAAAAAGHHHHHH！！！！」"
+    },
+    {
+        "name": "Umpire",
+        "message": "「That’s it！！」"
+    },
+    {
+        "name": "Umpire",
+        "message": "「...Winner, Arakawa Sonomi！！！」"
+    },
+    {
+        "message": "The illusion dissipated, and the Umpire's voice echoed through the area."
+    },
+    {
+        "name": "Sonomi",
+        "message": "（So it’s over, huh...）"
+    },
+    {
+        "message": "As I carelessly let go, Tobe collapsed right there on the spot."
+    },
+    {
+        "name": "Iori",
+        "message": "「Ririmu！！！」"
+    },
+    {
+        "message": "Teach came running over in a panic."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「...Yo, that was a pretty fun match, Teach. Never thought she'd be able to use illusions.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「But I wanted a little more of a challenge. Make sure you train her better for next time.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I'm sorry, but I don't have time to talk to you right now. If you'll excuse me.」"
+    },
+    {
+        "message": "After saying that, Teach carried Ririmu away."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「...Tch, boring.」"
+    },
+    {
+        "message": "Once the match is over, you're dragged right back to reality. The only fun is while the fight's going on."
+    },
+    {
+        "name": "Sonomi",
+        "message": "（...Fun times sure fly by.）"
+    },
+    {
+        "message": "Isn't there anyone else out there who can give me a real fight..."
+    }
+]

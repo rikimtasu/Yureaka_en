@@ -1,0 +1,328 @@
+{
+  "vn": {
+    "more": false,
+    "results": [
+      {
+        "aliases": [
+          "ゆれあか",
+          "Yureaka",
+          "紅月搖曳的戀之星火"
+        ],
+        "alttitle": "紅月ゆれる恋あかり",
+        "description": "\"Jindou\" it's a near-future sport where you fight with real swords that's really hot in Japan in the 2040s. Two girls enrolled into Murakumo Academy where said Jindou is taught. One of them is Kazamine Setsugekka, a rough and emotionally-driven girl who bolsters her blade with the unparalleled strength within her. The other is Suzakuin Momiji, a cool headed and incredibly precise girl with a prodigious sense for swordplay and a frightening sharp mind. These two, whose circumstances and personalities are completely different, both aim for the the title conferred upon the strongest in the academy, the \"Toujinegi\". \n\nThe protagonist, Muragaki Iori, is invited to the academy as a temporary teacher and is ordered to be the sub homeroom tutor of the special top class \"Takamura\", which Setsugekka and Momiji are a part of. However, the students in this Takamura class... turned out to all be incredibly troublesome kids! There's Kuki Asahi, a girl who has a serious and calm personality, but goes on fanatical rampages when it comes to Iori; and Tobe Ririmu, an incredibly selfish gyaru who believes her \"self\" only belongs to herself.\n\nJust will Iori be able to successfully guide these incredibly \"unique\" students? Just who will receive the title of the strongest in the academy, the \"Toujinegi\"? And in whom will the light of love for Iori be lit?\n\n[Translated from the [url=http://crystalia.amusecraft.com/yureaka/introduction.html]official website[/url]]",
+        "id": "v28712",
+        "title": "Akatsuki Yureru Koi Akari",
+        "titles": [
+          {
+            "lang": "ja",
+            "latin": "Akatsuki Yureru Koi Akari",
+            "title": "紅月ゆれる恋あかり"
+          },
+          {
+            "lang": "zh-Hans",
+            "latin": "Hongyue Yaoye de Lian zhi Xinghuo",
+            "title": "红月摇曳的恋之星火"
+          }
+        ]
+      }
+    ]
+  },
+  "characters": {
+    "more": false,
+    "results": [
+      {
+        "aliases": [],
+        "description": null,
+        "id": "c65005",
+        "name": "Sasaki Mikoto",
+        "original": "佐々木 巫琴",
+        "sex": [
+          "f",
+          "f"
+        ],
+        "vns": [
+          {
+            "id": "v21465",
+            "role": "side"
+          },
+          {
+            "id": "v23744",
+            "role": "side"
+          },
+          {
+            "id": "v26242",
+            "role": "side"
+          },
+          {
+            "id": "v28712",
+            "role": "side"
+          },
+          {
+            "id": "v47880",
+            "role": "side"
+          }
+        ]
+      },
+      {
+        "aliases": [],
+        "description": null,
+        "id": "c91888",
+        "name": "Kazamine Setsugekka",
+        "original": "風嶺 雪月花",
+        "sex": [
+          "f",
+          "f"
+        ],
+        "vns": [
+          {
+            "id": "v28712",
+            "role": "primary"
+          }
+        ]
+      },
+      {
+        "aliases": [],
+        "description": "Protagonist best friend, Kuki Takahisa younger sister. She had a crush on protagonist ever since her childhood. First year student of martial arts section and part of special class, Takamuragumi.",
+        "id": "c91889",
+        "name": "Kuki Asahi",
+        "original": "九鬼 旭",
+        "sex": [
+          "f",
+          "f"
+        ],
+        "vns": [
+          {
+            "id": "v28712",
+            "role": "primary"
+          },
+          {
+            "id": "v31178",
+            "role": "primary"
+          }
+        ]
+      },
+      {
+        "aliases": [],
+        "description": null,
+        "id": "c91890",
+        "name": "Suzakuin Momiji",
+        "original": "朱雀院 紅葉",
+        "sex": [
+          "f",
+          "f"
+        ],
+        "vns": [
+          {
+            "id": "v28712",
+            "role": "primary"
+          },
+          {
+            "id": "v31177",
+            "role": "primary"
+          },
+          {
+            "id": "v55293",
+            "role": "primary"
+          }
+        ]
+      },
+      {
+        "aliases": [],
+        "description": null,
+        "id": "c91891",
+        "name": "Tobe Ririmu",
+        "original": "十部 梨々夢",
+        "sex": [
+          "f",
+          "f"
+        ],
+        "vns": [
+          {
+            "id": "v28712",
+            "role": "primary"
+          }
+        ]
+      },
+      {
+        "aliases": [],
+        "description": null,
+        "id": "c91892",
+        "name": "Muragaki Iori",
+        "original": "村垣 伊織",
+        "sex": [
+          "m",
+          "m"
+        ],
+        "vns": [
+          {
+            "id": "v28712",
+            "role": "main"
+          },
+          {
+            "id": "v31177",
+            "role": "main"
+          },
+          {
+            "id": "v31178",
+            "role": "main"
+          }
+        ]
+      },
+      {
+        "aliases": [],
+        "description": null,
+        "id": "c92307",
+        "name": "Tennouji Victoria",
+        "original": "天王寺 ヴィクトリア",
+        "sex": [
+          "f",
+          "f"
+        ],
+        "vns": [
+          {
+            "id": "v28712",
+            "role": "side"
+          }
+        ]
+      },
+      {
+        "aliases": [],
+        "description": null,
+        "id": "c92308",
+        "name": "Minamoto Shizuku",
+        "original": "源 雫",
+        "sex": [
+          "f",
+          "f"
+        ],
+        "vns": [
+          {
+            "id": "v28712",
+            "role": "side"
+          }
+        ]
+      },
+      {
+        "aliases": [],
+        "description": null,
+        "id": "c92309",
+        "name": "Arakawa Sonomi",
+        "original": "荒川 園美",
+        "sex": [
+          "f",
+          "f"
+        ],
+        "vns": [
+          {
+            "id": "v28712",
+            "role": "side"
+          }
+        ]
+      },
+      {
+        "aliases": [],
+        "description": null,
+        "id": "c92310",
+        "name": "Kazamine Keisetsu",
+        "original": "風嶺 蛍雪",
+        "sex": [
+          "f",
+          "f"
+        ],
+        "vns": [
+          {
+            "id": "v28712",
+            "role": "side"
+          }
+        ]
+      },
+      {
+        "aliases": [],
+        "description": null,
+        "id": "c92970",
+        "name": "Suzakuin Miyako",
+        "original": "朱雀院 都子",
+        "sex": [
+          "f",
+          "f"
+        ],
+        "vns": [
+          {
+            "id": "v28712",
+            "role": "side"
+          }
+        ]
+      },
+      {
+        "aliases": [],
+        "description": null,
+        "id": "c92971",
+        "name": "Suzakuin Tsubaki",
+        "original": "朱雀院 椿",
+        "sex": [
+          "f",
+          "f"
+        ],
+        "vns": [
+          {
+            "id": "v28712",
+            "role": "side"
+          }
+        ]
+      },
+      {
+        "aliases": [],
+        "description": "Asahi's older brother.",
+        "id": "c94719",
+        "name": "Kuki Takahisa",
+        "original": "九鬼 隆久",
+        "sex": [
+          "m",
+          "m"
+        ],
+        "vns": [
+          {
+            "id": "v28712",
+            "role": "side"
+          }
+        ]
+      },
+      {
+        "aliases": [],
+        "description": null,
+        "id": "c157028",
+        "name": "Nakamura Sakura",
+        "original": "中邑 さくら",
+        "sex": null,
+        "vns": [
+          {
+            "id": "v28712",
+            "role": "side"
+          },
+          {
+            "id": "v47880",
+            "role": "side"
+          }
+        ]
+      },
+      {
+        "aliases": [],
+        "description": null,
+        "id": "c157029",
+        "name": "Sassa Naruko",
+        "original": "佐々 鳴子",
+        "sex": null,
+        "vns": [
+          {
+            "id": "v28712",
+            "role": "side"
+          },
+          {
+            "id": "v47880",
+            "role": "side"
+          }
+        ]
+      }
+    ]
+  }
+}

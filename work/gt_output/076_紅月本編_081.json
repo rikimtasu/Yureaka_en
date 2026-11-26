@@ -1,0 +1,1139 @@
+[
+    {
+        "message": "We all arrived at the outdoor training ground."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Alright, let's get started.」"
+    },
+    {
+        "message": "With a grin that showed she'd been waiting for this, she took up her Origami."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Muragaki-sensei, Sono-chan-senpai's Origami looks different from anything I've seen before.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ah, that is... a nagamaki. As you can see, its defining feature is the extremely long handle.」"
+    },
+    {
+        "message": "According to one theory, it’s a weapon born from lashing a blade to a spear handle after the spearhead had been shorn off on the battlefield."
+    },
+    {
+        "message": "It is also said that this later evolved into the naginata."
+    },
+    {
+        "name": "Asahi",
+        "message": "「It sounds like it would require specialized techniques to handle.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Indeed, the fighting style must be completely different from a regular sword. You should pay close attention; it'll be a good learning experience.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「As expected of Sono-chan-senpai！ That's so cool！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hmm... but, like, isn't that kinda lame？」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「...Huh？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hey now, Ririmu...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「No, I mean, seriously. It just looks like you made the handle longer, right？ It doesn't really match your vibe, does it？ And the balance looks off, too.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「It's a given that a swordsman should be strong, so you gotta express your worldview through how you look, too！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Mine's a custom-made job, you know？ It's all about the worldview！」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Talking all that flashy trash... I don't like it. People like you are exactly what I hate most.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Next time I see your face, I'm gonna crush you.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ha？ I don't get why you're snapping at me？」"
+    },
+    {
+        "message": "Ririmu shot a displeased glare back at the savage rage in her eyes."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ririmu-san, please leave it at that. We're just bystanders here to watch the two of them spar.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Eh~ but still~」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Damn it... Hey, Suzakuin, let's get this over with. That annoying brat is putting me in a bad mood.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Agreed. I don't want any more trouble than this, so let's start immediately.」"
+    },
+    {
+        "message": "Momiji drew her Origami as well, preparing for combat."
+    },
+    {
+        "name": "Momiji",
+        "message": "「...I'll tell you now, I won't be holding back once we start. Be ready for that.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Of course. I'll be going all out, too.」"
+    },
+    {
+        "message": "In response, Arakawa-san surged with energy and took up her stance anew."
+    },
+    {
+        "name": "Iori",
+        "message": "「Then... begin！」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Hraaaaaagh！！」"
+    },
+    {
+        "message": "The instant the signal sounded, Arakawa-san kicked off the ground and shot forward."
+    },
+    {
+        "message": "With a step so forceful it felt like the ground shook beneath our feet, she hurtled furiously toward Momiji like a bullet."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Charging straight at me—」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Try and stop me！！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ghh...？！」"
+    },
+    {
+        "message": "Momiji's body sank slightly as she blocked the overhead blow slammed down upon her."
+    },
+    {
+        "message": "Because a nagamaki has a greater distance between its fulcrum and point of force, the weight behind its slashes is far heavier than that of a standard katana."
+    },
+    {
+        "message": "Add the momentum of that lunging charge on top of it, and not even Asahi could block it unfazed."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「What's the matter?！ You're getting pushed back, honor student！！」"
+    },
+    {
+        "message": "Next, she spun the nagamaki around and knocked Momiji's Origami upward with the butt of its hilt."
+    },
+    {
+        "message": "Shifting her grip seamlessly, she launched strikes and thrusts with the hilt at Momiji's off-balance body."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「C'mon, c'mon! What's wrong!」"
+    },
+    {
+        "message": "They were bludgeoning strikes and thrusts rarely ever seen in regular Jindou."
+    },
+    {
+        "message": "Bewildered by the unfamiliar movements, Momiji still managed to barely evade them through sheer physical ability."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Whoa, she attacks with the hilt too！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Nagamaki forms incorporate staff techniques as well.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「It doesn't just slash—it can thrust and strike too. If you only focus on the blade, you'll get beaten flat.」"
+    },
+    {
+        "message": "And naturally, Arakawa-san fights in a way that takes full advantage of those traits."
+    },
+    {
+        "message": "Just as Setsugekka was surprised, Momiji was likely bewildered right now by an opponent using forms she had never experienced before."
+    },
+    {
+        "name": "Iori",
+        "message": "「On top of that, a nagamaki is really troublesome for Momiji.」"
+    },
+    {
+        "message": "While we were talking, Momiji retreated to put some distance between them."
+    },
+    {
+        "message": "Arakawa-san naturally pressed after her, only for Momiji to swing her long blade to ward her off."
+    },
+    {
+        "name": "Momiji",
+        "message": "「There！」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Whoa...！ Close one, close one.」"
+    },
+    {
+        "message": "Just before stepping into Momiji's range, Arakawa-san had halted in her tracks."
+    },
+    {
+        "message": "Taking an extra precaution, she backed off further, leaving about two meters of space between them."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「That's a mighty long weapon you've got there, huh？ Too bad for you, though.」"
+    },
+    {
+        "message": "Right where she stood, she raised her Origami high in a wide arc—"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「When you're up against me, that thing's still way too short！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Wh—?！」"
+    },
+    {
+        "message": "Without even taking a step forward from that spot, the swung-down blade had already reached Momiji."
+    },
+    {
+        "message": "Momiji looked like she couldn't believe it, though she seemed to have barely managed to block it."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「No way, she can reach from that far away？！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That nagamaki's total length, hilt included, is around two meters—at the very least, it's definitely longer than Momiji's long sword.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「If she grips the end of the hilt and swings it around, it gives her a reach that easily surpasses Momiji's long sword.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Even Momiji-san's long sword has troublesome reach, yet... that's much longer than hers, isn't it?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「And right now she hasn't even stepped in. That means her actual maximum reach is even longer than what we just saw.」"
+    },
+    {
+        "name": "Iori",
+        "message": "（Now then... how is Momiji going to handle this situation?）"
+    },
+    {
+        "message": "Up until now, Momiji must have trained to fight by taking advantage of her long sword's reach."
+    },
+    {
+        "message": "Right now, however, that won't work."
+    },
+    {
+        "message": "A nagamaki can be gripped at the end for long range or near the base for close range; contrary to its unusual appearance, it's an all-around weapon."
+    },
+    {
+        "name": "Iori",
+        "message": "（This will probably be a good experience for Momiji, for everyone watching, and for Arakawa-san, too.）"
+    },
+    {
+        "message": "As a teacher, I can't help thinking things like that, though."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Get crushed！」"
+    },
+    {
+        "message": "This time, a strike comes swinging down with a full step forward."
+    },
+    {
+        "message": "Packing even more force than before, the slash drove into the ground practically like a bludgeoning blow."
+    },
+    {
+        "message": "Momiji had already left that spot, leaping backward―but Arakawa―san immediately broke into a run after her."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Hraaah！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「If you're coming in close...！」"
+    },
+    {
+        "message": "Once they entered the range of her long sword, Momiji began fighting back, clashing blades with her."
+    },
+    {
+        "message": "However, against Arakawa-san steadily pressing in, she seemed unsure whether she should engage head-on or pull back."
+    },
+    {
+        "message": "And while her response remained indecisive, Arakawa-san closed the distance even further and ramped up the intensity of her assault."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Hey, what's the matter?！ Is that all you've got, Suzakuin?！」"
+    },
+    {
+        "message": "Spinning the nagamaki, she unleashed a slash from the right, only to follow up right after with a strike from the hilt on the left."
+    },
+    {
+        "message": "Just when she feinted a thrust, she swept across with the blade."
+    },
+    {
+        "message": "Left or right, high or low, whether Momiji blocked or dodged, attacks came flying fluidly from every conceivable angle out of that nagamaki."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Your fighting style is remarkably deft...！」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「If you think it’s just brute force, you’d better rethink that. After I’ve crushed you into the ground！」"
+    },
+    {
+        "message": "After shattering Momiji’s stance with a flurry of thrusts, she followed up with a high―speed sweep. Momiji managed to block it without issue, but―"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ugh…！」"
+    },
+    {
+        "message": "Every time Momiji blocked an attack, her torso wavered slightly. Sometimes, her whole body even slid back, feet and all, as she struggled to hold her ground."
+    },
+    {
+        "message": "That shouldn’t happen unless there was immense impact behind the blow. Even for Asahi, it would surely take a full-power strike to shake Momiji like that."
+    },
+    {
+        "message": "In short, it was proof of just how heavy and powerful every one of Arakawa-san’s strikes was."
+    },
+    {
+        "name": "Iori",
+        "message": "（It』s certainly not *just* brute force, but… I suppose that doesn't mean she isn't capable of it.）"
+    },
+    {
+        "message": "If anything, she was likely a pure power fighter at heart."
+    },
+    {
+        "message": "And yet, on top of that, she possessed a technical side that made maximum use of the advantages of her nagamaki."
+    },
+    {
+        "message": "An average swordsman would likely be completely helpless against her."
+    },
+    {
+        "name": "Iori",
+        "message": "（I see, so that’s why she’s said to be top-class among the second-years in the Martial Arts Division.）"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Hey, hey, hey, hey！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「You’re so… noisy…！」"
+    },
+    {
+        "message": "In contrast, Momiji had been forced entirely onto the defensive."
+    },
+    {
+        "message": "She did nothing but block and dodge Arakawa-san’s attacks."
+    },
+    {
+        "message": "Though she occasionally inserted a light counter, it was an ambiguous move that could be anything from a mere feint to a serious attempt."
+    },
+    {
+        "message": "She was likely committing herself to gathering information to sharpen the accuracy of her reads, but…"
+    },
+    {
+        "name": "Iori",
+        "message": "（Now then… how will she play this?）"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Hrah！」"
+    },
+    {
+        "message": "She caught the blade as it was swung down diagonally."
+    },
+    {
+        "message": "Arakawa-senpai’s attacks were all absurdly fast, and the way she moved made them difficult to dodge."
+    },
+    {
+        "message": "But above all—"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「There’s more where that came from！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "（Dammit…！ This is so heavy…！）"
+    },
+    {
+        "message": "This was the toughest part. To have this level of weight combined with such trickery was essentially foul play."
+    },
+    {
+        "message": "Each time she blocked, a dull, thudding shock reverberated through her body. Even though she was successfully blocking, it didn't feel like it at all."
+    },
+    {
+        "message": "If she took a hit like this head-on, she could lose consciousness in a single strike."
+    },
+    {
+        "name": "Momiji",
+        "message": "（I guess all that posturing isn't just for show after all…）"
+    },
+    {
+        "message": "The fact that she wielded a nagamaki was also troublesome. Until now, she had never been at a disadvantage in terms of reach."
+    },
+    {
+        "message": "To have the shorter reach—it was so frustrating… Now she knew how her opponents had felt when they fought her."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「What's the matter? Can't even make a move, huh！?」"
+    },
+    {
+        "message": "I dodge her transition from a hilt-strike to an upward swing, then manage to catch the follow-up diagonal slash."
+    },
+    {
+        "message": "My arm tingles from the impact, but there's no helping it."
+    },
+    {
+        "name": "Momiji",
+        "message": "（For now, she’s coming to me on her own, but it might get more troublesome if she decides to play defensively...）"
+    },
+    {
+        "message": "Given her personality, she likely wouldn't bunker down, but if I were to press the attack, it would inevitably force her into a defensive position."
+    },
+    {
+        "message": "To prevent that from happening—"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Hraaaaah！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "（A counter...！）"
+    },
+    {
+        "message": "I dive into her guard in time with her downward strike and swipe across her torso as I dash past！"
+    },
+    {
+        "message": "It wasn't a moment where she could dodge or defend; this should have been a direct hit—supposedly, anyway."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Hah, that didn't do jack... Not with an attack like that...！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Guh...！？」"
+    },
+    {
+        "message": "Even though it should have hit, she didn't flinch in the slightest, instead twisting her body and swinging her blade back around."
+    },
+    {
+        "message": "Fortunately, I managed to jump back and avoid it, but she just keeps charging forward without showing any sign of pain."
+    },
+    {
+        "name": "Momiji",
+        "message": "「You're stubborn... Then take this！」"
+    },
+    {
+        "message": "As she rushes straight at me—I aim for her midline."
+    },
+    {
+        "message": "I bring my blade down in a line passing from her forehead to the bridge of her nose."
+    },
+    {
+        "message": "This is less of an attack and more of a move to make her flinch by shoving the blade right before her eyes—"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Go ahead and try！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「...！？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Gaaaaah！！」"
+    },
+    {
+        "message": "It was me who got sent flying."
+    },
+    {
+        "message": "Even with the blade closing in on her face, she didn't look away, let alone blink—she just took the blow and unleashed a reciprocal strike without even trying to dodge."
+    },
+    {
+        "name": "Momiji",
+        "message": "「I suppose I really couldn't have predicted that...」"
+    },
+    {
+        "message": "Thanks to leaping back in the nick of time, I managed to mitigate the force somewhat."
+    },
+    {
+        "message": "Even so, despite it being only a single strike, nearly half of my Barrier Jacket has been depleted."
+    },
+    {
+        "name": "Momiji",
+        "message": "（What kind of power is that... such monstrous strength...）"
+    },
+    {
+        "message": "She doesn't fear being cut—"
+    },
+    {
+        "message": "No, more than that, she doesn't even seem to fear death. That’s the impression I’m getting."
+    },
+    {
+        "message": "Is she a master swordsman who thrives in life-or-death struggles, or a mad dog prowling the wilderness for prey?"
+    },
+    {
+        "message": "She's a terrifying presence, but still—"
+    },
+    {
+        "name": "Momiji",
+        "message": "「...Let's bring this to an end now.」"
+    },
+    {
+        "message": "I’ve more or less “figured her out” now."
+    },
+    {
+        "message": "Sword techniques used, tactical algorithms, every physiological reaction. Psychological tendencies, personality traits, interpersonal judgment, logical reasoning ability."
+    },
+    {
+        "message": "Roughly all the information that constitutes the person known as Arakawa Sonomi has been accumulated within my brain."
+    },
+    {
+        "message": "It's not enough, but it's perfect for now."
+    },
+    {
+        "name": "Momiji",
+        "message": "（…Shingan no Kiwamete, activate！）"
+    },
+    {
+        "message": "Reading through the entire path to victory—"
+    },
+    {
+        "message": "From this moment on, how will she move? And then next, and after that."
+    },
+    {
+        "message": "1st move, 2nd move, 3rd, 4th, 5th, 6th—"
+    },
+    {
+        "name": "Momiji",
+        "message": "（22 moves ahead… it's a long way, but I suppose that's fine. Checkmate there. The end of the match）"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「End, you say？ Hah, alright then, I'll bring it to an end. You're the one who's going to lose, and that'll be the end of it！」"
+    },
+    {
+        "message": "She charges. Her speed, direction, the number of steps; everything is exactly as I predicted."
+    },
+    {
+        "message": "She stops on her left foot and performs a sweeping strike while stepping in with her right. The distance is 94 centimeters. I step back by exactly one and a half steps."
+    },
+    {
+        "message": "The tip of her blade passes two centimeters in front of me."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Hraaah！」"
+    },
+    {
+        "message": "Immediately following, she flips the blade to strike upward from below at an angle. I step forward and counter."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Something like that, it's nothing！」"
+    },
+    {
+        "message": "A thrust with the hilt. I twist my body to dodge it by a hair's breadth and counter."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「You think you'll hit me again?！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I'm going to hit you again and again from now on—！」"
+    },
+    {
+        "message": "I can read all of her evasions too. And I can read that my next attack will land, every single one！"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Guh...！ You...！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Still more to come, just getting started！」"
+    },
+    {
+        "message": "Hit, hit. Avoid the counterattack. And it continues."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Don't screw with me！！」"
+    },
+    {
+        "message": "Evasion, defense, hit, hit—！"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Guh, arghhh！」"
+    },
+    {
+        "message": "Hit, hit, hit, hit—！！！"
+    },
+    {
+        "message": "Finally, she cries out, her movements dull, and my blade begins to carve into her body."
+    },
+    {
+        "message": "Everything is as read—her defense, her durability, where her movements will cease; I have read all of it completely."
+    },
+    {
+        "message": "And, I know exactly where she will run out of strength, everything."
+    },
+    {
+        "name": "Momiji",
+        "message": "「This is the 22nd move！」"
+    },
+    {
+        "message": "The finishing blow cuts across her body in a diagonal slash."
+    },
+    {
+        "message": "With that, she doesn't even have the breath to scream; her Tenju dissipates, and she drops to her knees."
+    },
+    {
+        "message": "She hangs her head, leaving nothing to do but collapse."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Now then, this match is—」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「...What are you acting so victorious for... it isn't over yet...！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Wha...」"
+    },
+    {
+        "message": "Just as it seemed she might collapse, she suddenly raised her head."
+    },
+    {
+        "message": "Then, as she slowly rose to her feet, an aura of Tenju began to envelop her body, as if flames were reigniting."
+    },
+    {
+        "name": "Momiji",
+        "message": "「No way... it hasn't run out yet...！？」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「The hell you think... the warm-up ends here...！」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Come on, let’s go at it until we drop...！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「You’re more of a stamina freak than I expected...！」"
+    },
+    {
+        "message": "Arakawa-senpai, I can't underestimate her...！"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「GRAAAAAAAH！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Wait... huh？ Wasn't she about to collapse just now！？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, for a split second, I thought her Barrier Jacket had flickered out.」"
+    },
+    {
+        "message": "Having taken Momiji’s precise, unerring barrage of attacks head-on, Arakawa’s Tenju should have undoubtedly run out."
+    },
+    {
+        "message": "Yet here she was, standing once again, cloaked in surging Tenju. It didn't seem possible that she had any energy left..."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「What’s wrong！ Didn't you say you were going to finish me off！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Guh... still this much power...」"
+    },
+    {
+        "message": "With the same intensity as before―no, with even greater ferocity―she launched another assault on Momiji."
+    },
+    {
+        "message": "Perhaps genuinely surprised, Momiji retreated while parrying the onslaught—"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Not yet, this is nothing！！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ngh...！！」"
+    },
+    {
+        "message": "Momiji’s body was sent flying back from the impact of a strike brimming with terrifying fighting spirit."
+    },
+    {
+        "message": "Even after taking that many attacks from Momiji, to the point where it looked like her Tenju had run dry."
+    },
+    {
+        "message": "What immense strength, what monstrous stamina."
+    },
+    {
+        "message": "Momiji is overwhelmingly superior in swordsmanship. But in Arakawa’s case, including her Tenju, there is no telling what her limits are."
+    },
+    {
+        "message": "If this continues until Momiji runs out of stamina—"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「RRAAAAAAH！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「You are... so persistent！」"
+    },
+    {
+        "message": "Aiming for the moment Arakawa wound up, Momiji unleashed a counterattacking combo."
+    },
+    {
+        "message": "Every strike landed perfectly―or rather, Arakawa didn't even attempt to dodge, taking every blow head―on before buckling at the knees without ever swinging her blade down."
+    },
+    {
+        "message": "However—"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「GRAAAAAAAAAA！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Still not down...!?」"
+    },
+    {
+        "message": "As she swung her blade upward, she stood back up once again."
+    },
+    {
+        "message": "Despite having taken considerable damage, she's laughing with genuine delight—and a touch of madness."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Niiice... This is what I've been waiting for...！ Come on, let's keep hacking each other up...！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Tch... You really are terribly persistent...！」"
+    },
+    {
+        "name": "Iori",
+        "message": "（Hmm, this might be bad...）"
+    },
+    {
+        "message": "Watching the two of them cross blades once again, an uneasy premonition took hold of me."
+    },
+    {
+        "message": "For now, Momiji is still parrying Arakawa-san's slashes and slipping in counterattacks between them."
+    },
+    {
+        "message": "However, her breathing had gradually begun to grow ragged."
+    },
+    {
+        "message": "She's burning through her stamina taking Arakawa-san's heavy strikes, all while unleashing slashes of her own."
+    },
+    {
+        "message": "Her energy is going to run out much faster than usual."
+    },
+    {
+        "message": "On the other hand, Arakawa-san, who should have been cut to ribbons by now, isn't just showing zero signs of slowing down—I'd even say her edge seems to be getting sharper as time goes on."
+    },
+    {
+        "message": "There are tough fighters in Jindou who can take a beating, sure, but moving around after taking that much punishment isn't normal."
+    },
+    {
+        "message": "No half-baked training could ever get someone to this level."
+    },
+    {
+        "name": "Iori",
+        "message": "（This... It's definitely not just physical strength. Mentally, too, there's probably something...）"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ngh... haah, haah...」"
+    },
+    {
+        "message": "Momiji fell back, practically knocked away, opening up some distance between them."
+    },
+    {
+        "message": "She reset her stance on the spot, and rather than giving chase, Arakawa-san rolled her neck with a loud, crunchy crack."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「All right then... My body's finally warmed up, so how about I pay you a little return visit?」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「A return visit...？」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Yeah, that's right... Every single hack and slash you've dumped on me so far, I'm gonna pay you back for all of it at once！」"
+    },
+    {
+        "message": "Just kicking off the ground sent a violent boom echoing through the air, and Arakawa-san charged straight at Momiji head-on."
+    },
+    {
+        "name": "Momiji",
+        "message": "「I'll cut you down...！」"
+    },
+    {
+        "message": "It wasn't a speed she could dodge. Making that call, Momiji braced herself to counter."
+    },
+    {
+        "message": "Fixing her eyes on her charging opponent, the instant Arakawa―san entered her lethal range, she swept out with her long blade―but."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Go ahead and try！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Guhk...？！」"
+    },
+    {
+        "message": "Without even trying to evade Momiji's counter, Arakawa-san took the slash head-on and slammed her whole body straight into her."
+    },
+    {
+        "message": "A brutal tackle caught Momiji dead center—"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Gotcha, Suzakuin...！！」"
+    },
+    {
+        "message": "Without missing a beat, Arakawa-san seized Momiji's dominant arm."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Oh no...！」"
+    },
+    {
+        "message": "Momiji frantically thrashed her body, trying to shake her off."
+    },
+    {
+        "message": "However, it had no effect on Arakawa-san, a born power fighter; no matter how hard Momiji resisted, she wouldn't budge an inch."
+    },
+    {
+        "name": "Momiji",
+        "message": "「In that case...！！」"
+    },
+    {
+        "message": "In a split second, Momiji switched her sword to her free hand and slashed at Arakawa-san's body at point-blank range."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Told ya, it's useless！ You think I'm letting you go after getting this far...！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ngh...！！」"
+    },
+    {
+        "message": "Even as she was slashed and the sound of her Barrier Jacket scraping away filled the air, Arakawa-san didn't flinch."
+    },
+    {
+        "message": "Instead, she flashed a ferocious grin and pressed her blade against the side of Momiji's neck."
+    },
+    {
+        "name": "Momiji",
+        "message": "「What are you...！」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Better surrender before your Barrier Jacket gives out, yeah？ Otherwise, your head's seriously gonna fly—！！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Gyaaaaaah？！」"
+    },
+    {
+        "message": "The blade pressed to her throat slowly drew back, letting out a deafening metallic screech."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「C'mon, what's the matter！ Show me some guts！！！」"
+    },
+    {
+        "message": "That ferocious sound, that aura, that motion―all of it looked as though she genuinely meant to slit her throat―"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「W-Wait, seriously？！ Is she actually doing this？！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Is that really Jindou...？！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「S-Sensei, isn't that seriously dangerous？！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No... it doesn't violate the regulations.」"
+    },
+    {
+        "message": "In the Martial Festival, grappling and chokeholds are fouls. That means grabbing an opponent and pinning them to the ground is a foul."
+    },
+    {
+        "message": "However, throws are not fouls. Grabbing the opponent is a means to that end, so it isn't a foul."
+    },
+    {
+        "message": "Therefore, as things stand―simply holding onto her opponent―it can't be ruled a foul."
+    },
+    {
+        "message": "As everyone else let out shriek-like cries, I watched intently."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Do not... get too full of yourself...！！」"
+    },
+    {
+        "message": "In that instant, Momiji had slipped her long blade between her own neck and the edge of the nagamaki."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Cut off my head...？ Don't make me laugh...！」"
+    },
+    {
+        "message": "With that, Momiji placed her hand against the spine of her own Origami, and—"
+    },
+    {
+        "message": "With all her might, she shoved Arakawa-san's blade back！"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Whoa...？！ You little...！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「If you want a fight to the death that badly...！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Then I shall gladly oblige...！！！！」"
+    },
+    {
+        "message": "Even watching from the sidelines, the aura she radiated was terrifying. Even Arakawa-san flinched for a split second."
+    },
+    {
+        "message": "Seizing that opening, Momiji swung her leg up and drove her foot straight into Arakawa-san's solar plexus."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Guh, gaaahhh……！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「It’s too late to regret it now……！！」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Guh……！？」"
+    },
+    {
+        "message": "With a front kick that seemed to shove her away, she tore Arakawa’s body from her own."
+    },
+    {
+        "name": "Momiji",
+        "message": "「I’ll be taking your life—！」"
+    },
+    {
+        "message": "Tenju surged, and Momiji’s eyes, burning with rage, glowed golden."
+    },
+    {
+        "message": "As she let a terrifying bloodlust erupt from her entire body, she chased after the staggering Arakawa—"
+    },
+    {
+        "name": "Momiji",
+        "message": "「――Secret Selection: Swallow Reversal！！！」"
+    },
+    {
+        "message": "Swinging her blade up high, she slashed diagonally—"
+    },
+    {
+        "message": "The blade had somehow flicked upwards, slicing Arakawa’s body vertically from the bottom up."
+    },
+    {
+        "message": "A two-stage strike delivered at a speed too fast for the eye to follow."
+    },
+    {
+        "message": "She traced the exact same line as the diagonal slash from above, only in reverse from below."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Gu, gahhh……！！」"
+    },
+    {
+        "message": "Having taken a combo that should have been impossible to dodge or block, Arakawa finally collapsed to the ground, defeated."
+    },
+    {
+        "name": "Iori",
+        "message": "「……That’s enough！ Match over！」"
+    },
+    {
+        "message": "Though I was momentarily stunned, I quickly stopped the match and rushed over."
+    },
+    {
+        "message": "From the others watching, I could hear sighs of relief that it was finally over."
+    },
+    {
+        "message": "With that at my back, as I reached the two who had finished their fight—"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Not yet…… not, not yet……！！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Wha…… no way……！」"
+    },
+    {
+        "message": "Arakawa raised her voice again and started to get up."
+    },
+    {
+        "message": "She was clearly unsteady, hands on her knees and legs wobbling, but she still managed to stand."
+    },
+    {
+        "message": "Blood was streaming down from her forehead."
+    },
+    {
+        "message": "Momiji’s earlier combo must have pierced through her Barrier Jacket."
+    },
+    {
+        "message": "The second strike, coming after the Barrier Jacket had been depleted by the first, dealt direct damage to her body."
+    },
+    {
+        "message": "However, her Barrier Jacket had somehow recovered."
+    },
+    {
+        "name": "Momiji",
+        "message": "「You’ve got to be kidding me……？」"
+    },
+    {
+        "message": "Momiji was genuinely taken aback, and the others all turned pale with expressions of disbelief."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「That last one really stung, but…… it’s not over yet……！ I can still fight……！ Come on, let’s keep going……！」"
+    },
+    {
+        "message": "With a twisted smirk, she still showed her will to fight."
+    },
+    {
+        "message": "While I admired Arakawa’s indomitable spirit, I slowly shook my head."
+    },
+    {
+        "name": "Iori",
+        "message": "「I’m sorry, but we’re ending the match here. It’s a draw.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Hah？ Shut up…！ What draw are you talking about…！ There’s no such thing in a deathmatch！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You’re injured and require treatment.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「I said don’t get in my way！ You wanna get killed?！」"
+    },
+    {
+        "message": "She tried to intimidate me, but—I shook my head once more."
+    },
+    {
+        "message": "Then, staring straight into her eyes, I told her slowly."
+    },
+    {
+        "name": "Iori",
+        "message": "「…Listen, this isn’t a fight to the death. As a teacher of this academy, I cannot permit this to go any further.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You are a student, and I am your teacher. Sorry, but you’ll have to comply.」"
+    },
+    {
+        "message": "It wasn't a question. It was a demand."
+    },
+    {
+        "message": "I kept my gaze fixed on her while I waited for a reply, just to keep her from acting out again. I didn't want to use force."
+    },
+    {
+        "message": "And so… after a while, Arakawa-san looked away and sheathed her Origami."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Tch… interrupting a one-on-one. How boring.」"
+    },
+    {
+        "message": "She clicked her tongue, glared at me once, and then shifted her gaze toward Momiji."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Hey, Suzakuin. I’ll make sure to settle this score someday. I don’t accept any damn draw.」"
+    },
+    {
+        "message": "Having spat that out, she turned on her heel and began to walk away."
+    },
+    {
+        "name": "Iori",
+        "message": "「Wait, Arakawa-san. You’re injured. Let’s go to the medical room together.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Shut it, I ain’t a kid. I’ll take care of my own business. Leave me alone.」"
+    },
+    {
+        "message": "With a cold glare, she walked quickly out of the training grounds."
+    }
+]

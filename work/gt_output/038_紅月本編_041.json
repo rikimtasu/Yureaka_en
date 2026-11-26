@@ -1,0 +1,464 @@
+[
+    {
+        "message": "The day after Operation \"Green Grass Belongs to Everyone\" wrapped up without a hitch."
+    },
+    {
+        "name": "Iori",
+        "message": "「Alright, everyone's here！」"
+    },
+    {
+        "message": "All five students of Takamura Class are properly gathered here from the morning. Just that alone makes me weirdly happy."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Good morning, Iori-sensei. I look forward to your instruction starting today.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hmph~, must be tiring acting like a goody-two-shoes today too~」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I am merely observing the proper etiquette owed to a teacher. Were you unaware of that？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Huh~？ You picking a fight with me again~？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hey Sensei, forget about Kijo, hurry up and teach me Jindou already♪」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I want Sensei to train with me more!」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Speaking to Iori-sensei in such a manner is disrespectful. Do you have no intention of correcting your attitude even slightly？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「God, you're so nagging~, I wasn't even asking you.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I am saying that is no attitude for someone seeking instruction.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Alright, you two, cut out the fighting already. I want to talk to everyone.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「My apologies. I have wasted Iori-sensei's precious time on account of a foolish and ignorant student.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hey you~, watch the way you phrase things!」"
+    },
+    {
+        "message": "Oof, Asahi and Ririmu have the worst compatibility in all of Takamura Class."
+    },
+    {
+        "message": "I wish they'd get along, though... For now, let's just move on with class."
+    },
+    {
+        "name": "Iori",
+        "message": "「Now then, moving on... First, as a bit of a review as well, let me explain the roadmap to everyone！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「First up are the midterm exams in one month. Getting everyone to pass these is our top priority.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「There are three main parts to the exams. First, the written exams for regular subjects.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Then there's the kata demonstration evaluation, and finally, the practical combat evaluation.」"
+    },
+    {
+        "message": "The ones making sour faces are the two who failed the quiz. I thought it'd only be Ririmu, but... Setsugekka too?！"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ugh~... Even just hearing the word 'exams' makes me sick~」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ooh, Sensei！ Doesn't being in Takamura Class mean we don't have to take exams or anything~？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Nope. Like I told Ririmu before, if anything, you could say the bar is even higher than in a normal class.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Whaaat~？！ N-Nobody told me anything about that！」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「I’ve explained this many times already, haven't I？ Setsugekka, you weren't listening to me again, were you？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Wait, wait, wait, Kei-chan! I just remembered! I remembered it just now, so that doesn't count!」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Honestly...」"
+    },
+    {
+        "message": "There are evaluation exams for both Enbu and live combat."
+    },
+    {
+        "message": "Enbu, which literally involves showing off sword forms, actually has a lot of depth. There are even competitions that focus on them, so it's considered just as important as live combat."
+    },
+    {
+        "message": "In these competitions, you’re required to have not just accuracy, but movements that captivate the audience. Things like fluidity, timing of the 'initiation,' and so on."
+    },
+    {
+        "name": "Iori",
+        "message": "「Usually, things like the 'Shirasagi' or 'Ama-no-Uzume' styles used in festivals and ceremonies are the assigned tasks. It’s expected if you’re into Jindou.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, Enbu is just memorizing the forms, so everyone should be fine.」"
+    },
+    {
+        "message": "They are used to express etiquette and to celebrate."
+    },
+    {
+        "message": "You could say it’s a mindset of never forgetting to pray to the eight million gods. They are sometimes performed for audiences during large tournaments."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「…………」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Setsugekka, why did you look away？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Huh？ Oh, no, it’s nothing.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Enbu is that thing, right? Where you strike a sharp pose with a sword. Like, *hiyah*！」"
+    },
+    {
+        "message": "……Something’s fishy."
+    },
+    {
+        "name": "Iori",
+        "message": "「Alright, here’s a question for you, Setsugekka！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Which of the following does not derive from the third stance of the Shirasagi form！ One, left and right Kesa-giri. Two, Yokote-barai. Three, Retraction-cut.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hmph, don’t underestimate me. If you practice Jindou, even a kid would know that much.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「……So, Kei-chan. What’s the answer？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Figure it out yourself.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Wait, you’re just pulling the rug out from under me here？ That’s not fair~！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「……You don’t actually know, do you？」"
+    },
+    {
+        "message": "This question is supposed to be the absolute basics of Enbu, but..."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「A-auuuu……！？ Uh, ummm……」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Secchan, do you really not know？ Why don't you try actually performing the form？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Th-that’s it！！ Um, the third stance goes like this, and then you do this, and then that……！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「There was a dance that used only your hands like that, wasn't there.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Right, right, pitter-patter-patter... wait, that’s not it！」"
+    },
+    {
+        "message": "She starts dancing while still seated, gesticulating wildly. The correct answer is 3, but isn't Setsugekka the only one who doesn't get it？"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ah, I got it！ The answer is... 1！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Bzzzt！ Kazamine Setsugekka, you’re out.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Wha, how come！？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ahaha, she actually got it wrong！ You’ve gotta be kidding me~」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ughhh... there might still be a chance I’m actually right, you know...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Looks like an unexpected tough opponent has appeared...」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「There’s no need to worry that much. Setsugekka doesn't learn with her head, she learns with her body.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「She almost always gets it right in practice.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「That’s right, Kei-chan said it best! I’ll just go ‘hiya!’ and ‘acho!’ and get it done!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「W-well, maybe we’ll have you demonstrate it sometime.」"
+    },
+    {
+        "message": "I'm a little uneasy, but well, if Keisetsu says so, I'll take her word for it."
+    },
+    {
+        "name": "Iori",
+        "message": "「Now, as for the final practical evaluation, it’s exactly as it sounds.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「In the exam, you’ll be sparring against your classmates—in other words, other first-years in the Martial Arts Division—and be evaluated accordingly.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「It’s not just about winning or losing; every piece of data during the match will be evaluated, so don't you dare let your guard down.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That concludes the Martial Arts Division midterm exam. Any questions？」"
+    },
+    {
+        "message": "Yeah, a few of them look like their souls have left their bodies..."
+    },
+    {
+        "name": "Iori",
+        "message": "「Now, here is where it gets real. The important thing is that this practical evaluation also serves as the selection process for the Martial Festival qualifiers.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ah, I know that！ Basically, as long as I win, I’m good, right?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Simply put, yes. If you don't get results in this midterm, you won't even make it to the qualifiers, let alone the main tournament.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Honestly, I have to say that it’s looking pretty tough for the current members of Takamura Class to even reach the qualifiers.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ehhhhh！？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Seriously！？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「N-no way, why！？ I heard that if I win my match in the exam, I’d get to go to the qualifiers！？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「No way！ I'm stronger than the kids in the other classes！ I can go fight them right now, you know？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I know everyone's capabilities well. You all possess talent that stands out even among the first-years.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Then why are you being so strict？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「The problem is the poor reputation of the Takamura Class.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Because only a small fraction of students from the Martial Arts Division are able to compete in the Martial Festival qualifiers, you see.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「If I were to get students from the Takamura Class in there, they would have to show enough skill to overturn those bad rumors.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I've heard that the teachers and assistant teachers in charge of each class have the right to nominate students for the qualifying round, though...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, I have the right to nominate you all.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Well then, that means everything's A-OK if you just nominate us, Teach？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, that alone won't be enough. All I have is the right to nominate students, you see.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「The same applies to the main tournament, but the Martial Festival qualifiers have a set number of entry spots from the start.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「The selection committee decides who makes it into the qualifying round from the pool of nominated students.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「If you aren't recognized here, you won't be able to participate in the qualifiers.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「In other words, it's entirely possible that the selection committee might exclude everyone in the Takamura Class from the qualifiers, using our reputation as an excuse.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Eeeh~, there's nothing we can do about that！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ugh, *sniff*... Waaaaah！ I broke that wall the other day, I'm definitely doomed！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Well, you brought that on yourself, didn't you?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Oooooh, if that's the case, I'm taking Momimomi down with me！ I'm gonna leak the video of Suzaku Hyper Dry！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Stop it, that's such a dirty move.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Shut uuuup！ Go to hell with me！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Both of you, it'll be fine. I'll figure something out.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Wait, for real？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「If I dig up some dirt on the selection committee and then ask them kindly and politely, I'm sure they'll let you into the qualifiers.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「As expected, Asahi-chan is so reliable at times like this!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「……Asahi, no cheating allowed, got it？ If you do, I won’t recommend you for the preliminary team.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ugh, my brilliant plan has been crushed……」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「You’re such a cheapskate, Sensei！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Anyway, we have to show enough results in the midterm exams to overturn our bad reputation.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「We just need to produce results so good that if you cut us from the preliminary team, people will suspect foul play, right？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, that’s exactly it.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I see！ So basically, we just have to try our best！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Roger that! Let’s do our best then!」"
+    },
+    {
+        "name": "Setsugekka & Ririmu",
+        "message": "「Yeah！」"
+    },
+    {
+        "message": "Setsugekka and Ririmu high-five each other."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Zero specificity, my head’s starting to spin……」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hehe, I envy how happy those two are inside their heads.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Will this class be okay, I wonder.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「W-well, I’m sure it’ll be fine…… maybe.」"
+    },
+    {
+        "message": "It feels like a rocky road ahead, but at least the current issues have been shared."
+    },
+    {
+        "name": "Iori",
+        "message": "「Alright everyone, let’s do our best for the midterm exams！」"
+    },
+    {
+        "name": "Everyone",
+        "message": "「Yeah！」"
+    },
+    {
+        "message": "Everyone raised their fists in the air, and the Takamura Class lesson began."
+    }
+]

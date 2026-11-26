@@ -1,0 +1,503 @@
+[
+  {
+    "message": "After the exhibition match with Victoria ended, we all headed to the cafe inside the academy."
+  },
+  {
+    "name": "Iori",
+    "message": "「Victoria, thanks for joining us today. I think the whole Takamura Class learned a lot because of it.」"
+  },
+  {
+    "name": "Victoria",
+    "message": "「Yeah, yeah! I had a super fun time, too!」"
+  },
+  {
+    "name": "Iori",
+    "message": "「So, my treat today. Everyone, feel free to order whatever you want.」"
+  },
+  {
+    "name": "Setsugekka",
+    "message": "「Yay! Teacher, you’re so generous!」"
+  },
+  {
+    "name": "Victoria",
+    "message": "「I want cake! I want to order cake!」"
+  },
+  {
+    "name": "Shizuku",
+    "message": "「Um, excuse me, I’m sorry for Vicky’s behavior...」"
+  },
+  {
+    "name": "Iori",
+    "message": "「Oh, don’t worry about it. It’s fine. Shizuku, you should order something you like, too.」"
+  },
+  {
+    "name": "Shizuku",
+    "message": "「Oh, t-thank you very much!」"
+  },
+  {
+    "name": "Iori",
+    "message": "「Setsugekka, could you gather everyone’s orders and go place them？」"
+  },
+  {
+    "name": "Setsugekka",
+    "message": "「Yes, yes~! Consider it done!」"
+  },
+  {
+    "message": "Setsugekka ran around between everyone, asking for their orders."
+  },
+  {
+    "name": "Victoria",
+    "message": "「But really, the Takamura Class, I’d heard the rumors, but you’re amazing！ Everyone was just so excellent！」"
+  },
+  {
+    "name": "Victoria",
+    "message": "「It only ended up being Kuki-chan today, but I really wanted to fight everyone else too.」"
+  },
+  {
+    "name": "Ririmu",
+    "message": "「No way, even after you were rampaging around like that！ Your stamina really is monstrous...」"
+  },
+  {
+    "name": "Iori",
+    "message": "「Victoria was amazing too, but I was surprised, Shizuku, because you were stronger than I expected.」"
+  },
+  {
+    "name": "Victoria",
+    "message": "「Yup! Shizu is super strong. Right, Shizu!」"
+  },
+  {
+    "name": "Shizuku",
+    "message": "「N-no, I’m not all that...！ I’m sorry...」"
+  },
+  {
+    "name": "Victoria",
+    "message": "「The suppleness of the muscles hidden in that slender body... I can tell just by touching it!」"
+  },
+  {
+    "name": "Shizuku",
+    "message": "「Vicky...！ I-it’s not good to make it sound like you’re always touching me！」"
+  },
+  {
+    "name": "Iori",
+    "message": "「There aren't many people in the Technical Division who can do as much as you can.」"
+  },
+  {
+    "name": "Shizuku",
+    "message": "「P-please don’t praise me so much...！」"
+  },
+  {
+    "name": "Setsugekka",
+    "message": "「Everyone~, sorry to keep you waiting~! Look, look, it’s a mountain of sweets!」"
+  },
+  {
+    "name": "Ririmu",
+    "message": "「It’s here, it’s here！ I’m having the cream anmitsu！」"
+  },
+  {
+    "name": "Momiji",
+    "message": "「H-hey, isn't there way too much here？」"
+  },
+  {
+    "name": "Iori",
+    "message": "「No matter how you look at it, there are more than ten dishes here...」"
+  },
+  {
+    "name": "Setsugekka",
+    "message": "「I didn't meff up or anyfin'~♪ *Nom*, I counted properly when I ordered」"
+  },
+  {
+    "name": "Asahi",
+    "message": "「Setsugekka-san, that's very bad manners」"
+  },
+  {
+    "name": "Iori",
+    "message": "「Come on, everyone, don't hold back and dig in」"
+  },
+  {
+    "name": "Setsugekka",
+    "message": "「*Nom, nom*... Mmm~, this exquisite harmony of cream and red bean paste！ It's so good~♪」"
+  },
+  {
+    "name": "Ririmu",
+    "message": "「Secchan, you really can eat~. Mine might be a bit too much for me. Want the rest？」"
+  },
+  {
+    "name": "Setsugekka",
+    "message": "「Really？ Gimme, gimme~！ Leaving sweets uneaten is an outrage, after all！」"
+  },
+  {
+    "name": "Ririmu",
+    "message": "「Good girl, good girl~. Eat it all up without leaving a bite, okay~？」"
+  },
+  {
+    "name": "Setsugekka",
+    "message": "「Woof, woof, whine~」"
+  },
+  {
+    "name": "Shizuku",
+    "message": "「Staaaaare...」"
+  },
+  {
+    "message": "For some reason, Shizuku-san was staring intently at Setsugekka being happily fed by Ririmu."
+  },
+  {
+    "name": "Setsugekka",
+    "message": "「Huh? Could it be that you want some too, Shizuku-senpai?」"
+  },
+  {
+    "name": "Shizuku",
+    "message": "「E-Eh? No, um... it's not like that...」"
+  },
+  {
+    "name": "Ririmu",
+    "message": "「Oh, there's still plenty of this left, so go right ahead and eat it~！」"
+  },
+  {
+    "name": "Shizuku",
+    "message": "「Um... are you sure？」"
+  },
+  {
+    "name": "Setsugekka",
+    "message": "「Of course! Sweets are meant to be shared with all humankind! So please, don't hesitate~♪」"
+  },
+  {
+    "name": "Shizuku",
+    "message": "「I'm so happy... Th-Thank you very much！」"
+  },
+  {
+    "message": "Accepting the cream anmitsu from Setsugekka, she immediately began eating."
+  },
+  {
+    "name": "Victoria",
+    "message": "「Shizu just loves sweet things, you know♪ She gets super happy whenever you give her manjuu as a gift~」"
+  },
+  {
+    "name": "Shizuku",
+    "message": "「S-So sweet...♪ Oh, this is bliss... *nom*. I really, truly love sweets...」"
+  },
+  {
+    "name": "Setsugekka",
+    "message": "「I totally get that feeling~！ I crave sweets like crazy after a match too~, *nom, nom*」"
+  },
+  {
+    "name": "Asahi",
+    "message": "「Isn't that 365 days a year for you, Setsugekka-san？」"
+  },
+  {
+    "name": "Momiji",
+    "message": "「Iori-sensei~, these gluttons won't stooop」"
+  },
+  {
+    "name": "Iori",
+    "message": "「Leave them be. Let's leave the rest to Shizuku-san and Setsugekka」"
+  },
+  {
+    "message": "They look happy, so I might as well let them enjoy themselves to their hearts' content."
+  },
+  {
+    "name": "Setsugekka",
+    "message": "「Got it, loud and clear! Leave it to me~!」"
+  },
+  {
+    "name": "Victoria",
+    "message": "「Hehe, the Takamura Class is full of such fun kids~♪」"
+  },
+  {
+    "message": "When Victoria laughs, Shizuku also smiles shyly."
+  },
+  {
+    "name": "Iori",
+    "message": "「You and Shizuku are really close, Victoria. Are you two always together?」"
+  },
+  {
+    "name": "Victoria",
+    "message": "「Yeah, pretty much. Right, Shizu？」"
+  },
+  {
+    "name": "Shizuku",
+    "message": "「Yes, I suppose so.」"
+  },
+  {
+    "name": "Setsugekka",
+    "message": "「Alrighty, can I ask how you two met?」"
+  },
+  {
+    "name": "Victoria",
+    "message": "「Oh, you want the story, huh？」"
+  },
+  {
+    "name": "Shizuku",
+    "message": "「H-how we met? That’s… not really…」"
+  },
+  {
+    "name": "Victoria",
+    "message": "「See, Shizu participated in last year’s Martial Festival and was winning with incredible momentum.」"
+  },
+  {
+    "name": "Victoria",
+    "message": "「But then she withdrew halfway through. I was so curious about that, I just had to go see her.」"
+  },
+  {
+    "name": "Victoria",
+    "message": "「And then she goes and says she only entered the Martial Festival for data collection！ I mean, like, whyyy, right?」"
+  },
+  {
+    "name": "Victoria",
+    "message": "「Anyway, as we kept talking, we became friends, and she started tuning my Origami.」"
+  },
+  {
+    "name": "Iori",
+    "message": "「So that’s how you managed to secure the title of Toujinegi, Victoria.」"
+  },
+  {
+    "name": "Victoria",
+    "message": "「Exactly！ I got so much stronger thanks to Shizu！」"
+  },
+  {
+    "name": "Shizuku",
+    "message": "「It’s not really thanks to me. It’s just that you were already strong to begin with, Vicky.」"
+  },
+  {
+    "message": "Shizuku fidgets and looks down."
+  },
+  {
+    "name": "Setsugekka",
+    "message": "「By the way, what school of swordsmanship do you practice, Victoria-senpai？」"
+  },
+  {
+    "name": "Victoria",
+    "message": "「Yeah, I’m Tennen Rishin-ryuu, the school that makes even crying children go silent！」"
+  },
+  {
+    "name": "Victoria",
+    "message": "「...Or that’s what I’d like to say, but I actually mix a lot of things. I guess it’s a self-styled variation based on Tennen Rishin-ryuu right now~」"
+  },
+  {
+    "name": "Setsugekka",
+    "message": "「Ah, come to think of it, you do say that when you use your special move-looking technique, Victoria-senpai.」"
+  },
+  {
+    "name": "Setsugekka",
+    "message": "「‘Our Tennen Rishin-ryuu is the number one sword style under the heavens！’」"
+  },
+  {
+    "name": "Victoria",
+    "message": "「Exactly, ‘Our Tennen Rishin-ryuu is the number one sword style under the heavens！’」"
+  },
+  {
+    "name": "Setsugekka",
+    "message": "「Ahahaha, this is fun.」"
+  },
+  {
+    "name": "Victoria",
+    "message": "「It is, isn't it~！」"
+  },
+  {
+    "name": "Momiji",
+    "message": "「No, isn't that embarrassing...?」"
+  },
+  {
+    "message": "W-Well, it's probably fine, just a little."
+  },
+  {
+    "name": "Victoria",
+    "message": "「My favorite is 'Okita-kun,' you know, so I've gotta show some respect!」"
+  },
+  {
+    "name": "Victoria",
+    "message": "「I even paid respect to it in my Origami's name!」"
+  },
+  {
+    "name": "Setsugekka",
+    "message": "「Ooh~, what is it called？」"
+  },
+  {
+    "name": "Victoria",
+    "message": "「<d0068>Ultimate Kikuichimonji Sword Kai</d>！」"
+  },
+  {
+    "name": "Setsugekka",
+    "message": "「U-Ultimate...！？ That's so cooool！ Truly worthy of the Toujinegi！」"
+  },
+  {
+    "name": "Setsugekka",
+    "message": "「I wanna come up with a cool name too~. I'm starting to feel like Momijigari really is kinda lame.」"
+  },
+  {
+    "name": "Momiji",
+    "message": "「Took you long enough to notice~」"
+  },
+  {
+    "name": "Setsugekka",
+    "message": "「The 'Momiji' part in particular is lame, right?」"
+  },
+  {
+    "name": "Momiji",
+    "message": "「Fufufu, do you want to die？」"
+  },
+  {
+    "name": "Iori",
+    "message": "「W-Well, well... setting the name aside」"
+  },
+  {
+    "name": "Iori",
+    "message": "「The base model is <d0069>SUMITANI</d>'s 'Ichimonji Shin,' right?」"
+  },
+  {
+    "message": "I like Origami parts myself and read up on them, so I can more or less tell."
+  },
+  {
+    "message": "Victoria-san's Origami uses parts from a Jindou brand called SUMITANI."
+  },
+  {
+    "name": "Iori",
+    "message": "「Still, both the internals and the design have been heavily modified. You could practically call it a whole different thing.」"
+  },
+  {
+    "name": "Shizuku",
+    "message": "「...Y-Yes, that's right! Amazing, you're the first person to see through that Origami's traits at a single glance!」"
+  },
+  {
+    "name": "Shizuku",
+    "message": "「U-Um...! If you'd like, shall I explain it in detail？」"
+  },
+  {
+    "name": "Iori",
+    "message": "「Yeah, of course. I'd love to hear it.」"
+  },
+  {
+    "name": "Shizuku",
+    "message": "「Let's see... As you know, the high-spec series 'FUKUOKA' boasts such high performance that it doesn't even need any fine-tuning.」"
+  },
+  {
+    "name": "Shizuku",
+    "message": "「On the flip side, the price is extremely steep, so most students can't get their hands on one. Taking that situation into account, SUMITANI created the 'Ichimonji Shin.' Of course its specs are inferior, but its great balance is its selling point！」"
+  },
+  {
+    "name": "Shizuku",
+    "message": "「Because it was created by ripping o—no, paying respect to the best parts of the FUKUOKA as a base, it's both affordable and high-performance. It's even used frequently for practice at dojos...」"
+  },
+  {
+    "name": "Shizuku",
+    "message": "「So I figure that made it easier for Vicky to acquire as well. Besides, speaking of Ichimonji, that's Okita-kun's beloved sword, you know. You could call it the very crystallization of her love for Okita-kun.」"
+  },
+  {
+    "message": "Shizuku-san, launching into her explanation with tremendous momentum."
+  },
+  {
+    "name": "Shizuku",
+    "message": "\"Its performance still fell short for a grueling tournament, so I overhauled and reforged it from scratch—upgrading its strength, toughness, and Tenju properties...\""
+  },
+  {
+    "name": "Shizuku",
+    "message": "「That's how I created this special custom Ultimate Kikuichimonji Sword Kai! Do you see what I mean?!」"
+  },
+  {
+    "name": "Iori",
+    "message": "「O-Ohhh...」"
+  },
+  {
+    "message": "Everyone was completely overwhelmed by the sheer intensity with which the usually quiet Shizuku-san had started talking."
+  },
+  {
+    "name": "Shizuku",
+    "message": "「Ah, I'm so sorry, I'm so sorry... I got a little too carried away...」"
+  },
+  {
+    "name": "Ririmu",
+    "message": "「Don't worry about it, Shizuku-senpai!」"
+  },
+  {
+    "name": "Ririmu",
+    "message": "「I talk a ton when I'm gushing about stuff I like too, y'know? Everyone's like that.」"
+  },
+  {
+    "name": "Shizuku",
+    "message": "「Th-Thank you...」"
+  },
+  {
+    "name": "Ririmu",
+    "message": "「In exchange, listen to me talk too, okay? I wanna start my own Jindou brand someday!」"
+  },
+  {
+    "name": "Ririmu",
+    "message": "「I bet more design-forward, fashionable Origami are gonna become super popular from now on！」"
+  },
+  {
+    "name": "Shizuku",
+    "message": "「Th-That sounds fascinating...！」"
+  },
+  {
+    "name": "Setsugekka",
+    "message": "「Whoaaa, Shizuku-senpai took the bait...」"
+  },
+  {
+    "message": "For the next thirty minutes or so, the two of them got completely absorbed in talking about Origami parts and Jindou brands."
+  },
+  {
+    "name": "Iori",
+    "message": "「Victoria-san, Shizuku-san, thank you so much for today. It was a lot of fun and really inspiring.」"
+  },
+  {
+    "name": "Victoria",
+    "message": "「No problem at all♪ Let's hang out again sometime！」"
+  },
+  {
+    "name": "Shizuku",
+    "message": "「I had a wonderful time as well. Thank you.」"
+  },
+  {
+    "name": "Victoria",
+    "message": "「Oh, in the future I'm planning to form a pro Jindou team. If you've got any strong fighters, definitely send them our way!」"
+  },
+  {
+    "name": "Shizuku",
+    "message": "「Vicky, aren't you getting a little ahead of yourself?」"
+  },
+  {
+    "name": "Iori",
+    "message": "「Hahaha, if you want to scout anyone from Takamura Class, make sure you go through me.」"
+  },
+  {
+    "name": "Victoria",
+    "message": "「Hehe, okay！」"
+  },
+  {
+    "name": "Momiji",
+    "message": "「Well, before all that, first up is the Martial Festival, right?」"
+  },
+  {
+    "name": "Ririmu",
+    "message": "「Totally! We're all rivals, after all!」"
+  },
+  {
+    "name": "Setsugekka",
+    "message": "「I'm gonna win! I'll win and win and definitely become Toujinegi! Oh, and I'm definitely gonna take down Momimomi!」"
+  },
+  {
+    "name": "Asahi",
+    "message": "「Hehe, I may have lost in today's practice match, but next time won't go the same way.」"
+  },
+  {
+    "name": "Asahi",
+    "message": "「I will win, and I'll be taking the title of Toujinegi for myself.」"
+  },
+  {
+    "name": "Victoria",
+    "message": "「Yes, bring it ooon！」"
+  },
+  {
+    "name": "Victoria",
+    "message": "「Mmm, I'm getting all fired up！ Let's train hard tomorrow too♪」"
+  },
+  {
+    "message": "Some quietly stoked their fighting spirit. Others traded sparks right along with her. Everyone reacted in their own way."
+  },
+  {
+    "name": "Iori",
+    "message": "「Alright, let's call it a day！」"
+  },
+  {
+    "message": "The match against the current Toujinegi got everyone's spirits running high. Let's keep this momentum going and give it our all for the Martial Festival."
+  }
+]

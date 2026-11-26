@@ -1,0 +1,271 @@
+[
+    {
+        "message": "Since there was still time until the next match, I decided to take a walk outside the arena to clear my head."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「...Are you sure it’s okay to go out when you have a match coming up next?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Well, as long as I’m back before it starts, it’ll be fine!」"
+    },
+    {
+        "message": "Victoria-senpai’s first match is over, and mine is the second."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Honestly, don't you have all sorts of things you need to prepare？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「If it’s just changing and getting set up, I don’t even need ten minutes, right？ I think this is better than sitting over there, wound up and nervous.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Well, if you say that will lead to a better result, I suppose I don’t mind, but...」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「It will~, it’ll definitely lead to a better result~!」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「*Sigh*... Muragaki-san has his hands full with you, doesn't he.」"
+    },
+    {
+        "message": "Kei-chan knit her brows in exasperation."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「...Hey, Kei-chan.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「What is it?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「The other day, you asked Muragaki-sensei if he would become your personal coach, didn't you?」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「...Did you happen to overhear that？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yeah, sorry. I was just curious.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「It’s fine. I thought I would have to explain it to you eventually anyway.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「However, let’s drop the subject for now. I want you to focus on the match right in front of you.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yeah, actually, that’s exactly why I wanted to tell you now—to help me focus.」"
+    },
+    {
+        "message": "I turned to face Kei-chan."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Look, Kei-chan... I’m going to become a Toujinegi.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I’ll definitely win this Martial Festival and become a Toujinegi.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「So... I want you to turn down the request from the family head.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「............!」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「You want to become the head of the Kazamine family, right？ If so, I’ll make you the head.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「If I beat the Suzakuin and become a Toujinegi, you’ll definitely be able to become the head without having to accept that request from the family head.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「That’s why, I don’t want you to go overseas.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「……I’m surprised. I never expected to hear those words from you.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「……Disappointed in me？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「No, you’re certainly right.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「If you were to earn the title of Toujinegi and nominate me as head of the family, then there is no doubt I would be closer to that position.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「But I didn't want to force that upon you.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Of course, you and I are one and the same. I assumed you would help me even without me having to say it.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「But… I didn’t want to make you carry that burden.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yeah, I kinda thought that might be it.」"
+    },
+    {
+        "message": "Kei-chan never forced anything on me. She always encouraged me to think things through with her and reach our own answer."
+    },
+    {
+        "message": "I’m the only one who truly knows that kindness of Kei-chan’s."
+    },
+    {
+        "message": "I think that’s why she was worried about whether or not to take on the head of the family's request."
+    },
+    {
+        "message": "Becoming the Toujinegi is impossible unless I give it my all, but the head of the family's request is something I can accomplish on my own."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I’m going to win this Martial Festival and become the Toujinegi.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「So, Kei-chan, promise me. If I can become the Toujinegi, you won't go overseas.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「……Why are you trying to keep me here？」"
+    },
+    {
+        "message": "Kei-chan looks troubled."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Isn't that obvious!」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Because！ Kei-chan is a student in the Takamura Class too！ Everyone would be so lonely if you left！」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「……I see, so that’s it.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「It seems you’ve been quite corrupted by Muragaki-san’s educational philosophy, too.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Don’t say 'corrupted'~! I think it’s actually really great.」"
+    },
+    {
+        "message": "I want to stay with everyone in the Takamura Class, and with Muragaki-sensei, until we graduate, without a single person missing."
+    },
+    {
+        "message": "I’ll work as hard as I can to make that happen."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Oh, that’s right. I have a side request, too.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I was wondering if you could fudge things a bit so Sensei can keep doing his ‘errands’ until we graduate~」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「That’s a pretty heavy request for a ‘side note’.」"
+    },
+    {
+        "message": "Kei-chan gives a bitter smile."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「But… I have certainly received your resolve, Setsugekka.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「If you insist, I’ll see what I can do.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「R-really！？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Though, the request from Makinojou-san is a once-in-a-lifetime opportunity.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「If we’re going to trade this for that, it wouldn’t be a fair deal unless what you offer is of equal value.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「In other words, you’re saying I absolutely have to become the Toujinegi, right？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Yes, that’s exactly what I mean.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Leave it to me！ I’ll absolutely, positively win！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「All right, I’m fired up now！」"
+    },
+    {
+        "message": "Ah, I’m glad I spoke with her before the main matches began. Now I can face the tournament without a single worry—！"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「…It’s about time.」"
+    },
+    {
+        "message": "After checking the time briefly on a hologram, Kei-chan looked me straight in the eye."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Setsugekka, I’ve been watching you by your side all the way until today.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「You have masterfully wielded the secret art of Tamukai. And you proved that strength in the qualifiers.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Be proud, Setsugekka. Within the Kazamine family, you are the strongest swordsman there ever was or ever will be.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「To all the martial families, and to every single person—show them that a Kazamine swordsman is here…！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yeah… thank you, Kei-chan！ I’m going now！！」"
+    },
+    {
+        "message": "Bidding Kei-chan farewell, I dashed toward the arena."
+    }
+]

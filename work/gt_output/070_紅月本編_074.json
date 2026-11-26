@@ -1,0 +1,556 @@
+[
+    {
+        "name": "Iori",
+        "message": "「...Alright, that’s good！ Since the distance is too far to step in, try to make your judgments a little faster and more accurate.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「You got it！ If they’re far, just go with Origami, and if they’re close, just smack ’em with a punch, right！」"
+    },
+    {
+        "message": "I go around observing the practice and offering advice to the students. It’s been my usual routine lately."
+    },
+    {
+        "message": "As I look around, I suddenly realize something."
+    },
+    {
+        "name": "Iori",
+        "message": "「Huh？ Where’s Ririmu？」"
+    },
+    {
+        "message": "Checking the schedule, she should be training against past Toujinegi using Yorishiro-kun, but I don’t see her anywhere."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Oh, Ririmu-chan？ She said something about her Origami acting up and headed to the workshop a bit ago.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Her Origami...？ As far as I checked yesterday, the readings were stable, though.」"
+    },
+    {
+        "message": "The Martial Festival is drawing near; I can’t afford to overlook any equipment trouble."
+    },
+    {
+        "name": "Iori",
+        "message": "「Alright, I’d better go check on her.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「...I’m tellin’ ya！ How does it end up like this！？」"
+    },
+    {
+        "message": "That’s Ririmu’s voice... Did something happen？"
+    },
+    {
+        "message": "I hear a voice berating someone with intense ferocity from the workshop. Ririmu and a Technical Division student are in there."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I asked you to increase the response speed so I could move faster, right！ Why hasn’t anything changed at all？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Why won’t you adjust it the way I told you to？」"
+    },
+    {
+        "name": "Technical Division Student",
+        "message": "「If you want any more precision than this, we’d have to re-forge the blade—I mean, rebuild it entirely from scratch. That’s just not possible...」"
+    },
+    {
+        "name": "Technical Division Student",
+        "message": "「Even if we did rebuild it, I don’t think you’d feel the difference. The data shows as much.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「It’s not about ‘feeling’ it, okay? I sent you the combat data from my match with Yorishiro-kun earlier, right?」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「You can see it right there, can’t you？ The numbers aren’t stable at all.」"
+    },
+    {
+        "name": "Technical Division Student",
+        "message": "「That’s...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Look, you said it yourself at the start. That you were skilled enough to get offers from pro teams.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「That’s why I trusted you and paid you to do this. The least you could do is earn your fee.」"
+    },
+    {
+        "name": "Technical Division Student",
+        "message": "「I-I’m sorry...」"
+    },
+    {
+        "message": "It seems Ririmu isn’t satisfied with the performance of her Origami. So that’s what this is about, despite the readings looking normal."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「My response was slow, so I lost to Yorishiro-kun again today. Seriously, give me a break.」"
+    },
+    {
+        "name": "Technical Division Student",
+        "message": "「I’m doing everything I can… but anything beyond this would require someone at the level of a Saishou, honestly.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「So, that’s just a fancy way of saying you’re not skilled enough？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ririmu, isn’t that a bit too harsh?」"
+    },
+    {
+        "message": "Feeling sorry for the Technical Division girl, I decide to step in and help."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Oh, Iorin！ Don’t just stand there, say something too~」"
+    },
+    {
+        "name": "Technical Division Student",
+        "message": "「…………」"
+    },
+    {
+        "message": "The girl from the Technical Division looks at me with an utterly troubled expression."
+    },
+    {
+        "name": "Iori",
+        "message": "「Ririmu, I think she’s doing the absolute best she can within her capabilities.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ehh~, so are you taking her side now, Sensei？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ririmu, there isn't a single perfect person anywhere in this world. This student from the Technical Division surely has her shortcomings, too.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「But if we’re talking about that, you have a mountain of shortcomings yourself, Ririmu.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I don’t think it’s right to turn a blind eye to your own flaws while attacking others for theirs.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Th-that might be… maybe true, but still~」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「You say everyone has flaws, but that kind of talk won’t fly once we’ve left the academy, you know.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「If you’re going to be a pro, the results are all that matter in the end. If you don't get results, isn't it only natural to be criticized？」"
+    },
+    {
+        "message": "A pro is defined by results; that might be true."
+    },
+    {
+        "message": "But even so, that doesn’t give one a free pass to emotionally lash out at others."
+    },
+    {
+        "name": "Iori",
+        "message": "「Regardless, let’s call it a day and pick this up another time.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ehh~, what about the adjustments for my Origami！？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「It’s fine, really. Come on, Ririmu, let’s go.」"
+    },
+    {
+        "message": "I push Ririmu from behind to get her moving, then speak to the Technical Division girl."
+    },
+    {
+        "name": "Iori",
+        "message": "「I apologize for Ririmu earlier. Please, don’t take it to heart.」"
+    },
+    {
+        "name": "Technical Division Student",
+        "message": "「O-oh, yes… thank you very much…」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Wait, why is it being made out like I’m the bad guy here? That doesn’t make sense at all~！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yes, yes, let’s go~」"
+    },
+    {
+        "message": "I pull Ririmu by the arm and lead her outside."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Whoa, hey~, you’re strong, Sensei~」"
+    },
+    {
+        "message": "And so, I dragged Ririmu all the way back to the classroom."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ugh, I'm so pissed off！ How did it turn out like this?！」"
+    },
+    {
+        "message": "Even after getting back, Ririmu's anger hadn't subsided."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I mean, sure, I got a little worked up too~」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「But if you're paying someone and they don't do a job you're satisfied with, it's totally normal to get mad, right！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I get where you're coming from, but calm down.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Like I said earlier, everyone has their own shortcomings.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Imperfect people like that work together and try their best to accomplish all kinds of things.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That's what this human society we live in is all about.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「…………」"
+    },
+    {
+        "name": "Iori",
+        "message": "「We mustn't lose sight of that fundamental principle—that we achieve things by working together.」"
+    },
+    {
+        "message": "There are people out there who forget that, and do nothing but hunt for other people's flaws just to pick them apart."
+    },
+    {
+        "message": "I don't want Ririmu to become that kind of person."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Yeah, well, I'm paying that girl a fee in exchange for lending me her help, you know？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「When you talk about 'working together,' Sensei, that's obviously one way of doing it too, isn't it？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「W-Well, that's true.」"
+    },
+    {
+        "message": "This is Japan, a capitalist society, so naturally I have to concede that point."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Then if you take money for a job, botch it, and get yelled at by the client, isn't that just reaping what you sow？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ririmu, people aren't motivated by money alone. You won't get the best results doing things your way.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Keeping up your motivation is part of being a pro, isn't it? Why is that something I have to worry about?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「U-Uhh...」"
+    },
+    {
+        "message": "Ririmu really is naturally sharp."
+    },
+    {
+        "message": "She properly understands what I'm saying, and then comes right back at me with a philosophy all her own."
+    },
+    {
+        "name": "Asahi",
+        "message": "「*Sigh*... What a despicable attitude.」"
+    },
+    {
+        "message": "With that, Asahi, who had been listening nearby, stands up."
+    },
+    {
+        "name": "Asahi",
+        "message": "「...I have been listening quietly for some time now, and all you do is spout selfish rationalizations.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Do you have no sense of human compassion whatsoever？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Huuuh？ Why the hell do I have to take that from you？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「You aren't even aware that you're only able to exist here because of the consideration shown by the people around you.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Yet, you don't show any consideration for those around you in return. In short, you are exploiting the kindness of others.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I don't have a clue what you're talking about.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Heh, I suppose so. That was probably a bit too complex for a monkey to understand.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「You, seriously, cut the crap already...！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「The one who needs to cut it out is you, Ririmu-san.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「You selfishly exploit Iori-sensei's kindness and consideration, all while brandishing your own crude logic to cause him grief.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I am thoroughly sick of that side of you.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Oh, yeah? Then I'm gonna have my say, too.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「That whole thing you do where you just naturally talk down to people and mutter your self-righteous crap? It makes me super pissed off！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「What？ What is it？ You think you're so high and mighty？ You're not exactly in a position to be lecturing me.」"
+    },
+    {
+        "message": "Asahi and Ririmu stand up and glare at one another."
+    },
+    {
+        "name": "Iori",
+        "message": "「Hey, both of you, that's enough...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「No way. Not even if you ask, Teach. Today, there's no way I'm letting this slide. I need to knock some sense into this chick.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Heh, the smallest dogs always bark the loudest, don't they?」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「...Your brother, Kuki Takahisa, was it？ I fought him in the Yorishiro-kun simulator the other day, you know.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「To put it bluntly, he's a total scrub.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「...What did you just say？」"
+    },
+    {
+        "message": "The air in the room freezes due to the killing intent leaking from Asahi."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I'll say it as many times as you want. Kuki Takahisa wasn't all that impressive compared to other Toujinegi.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「And you're the same—not that impressive at all.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「...I see. Understood.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「It seems I'll have to knock a blade into that empty head of yours just once...！！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Bring it on, let's see you try...!」"
+    },
+    {
+        "message": "Both of them reach for their Origami. Tenju is activated, and the tension in the room spikes instantly."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Wait, Sensei... what do we do about this！？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「This is bad, Sensei, this is really bad!」"
+    },
+    {
+        "message": "Good grief, so it finally came to this. I had a feeling a day like this might come."
+    },
+    {
+        "name": "Iori",
+        "message": "「Both of you, take your hands off the Origami.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Sorry, that’s impossible now.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I’m sorry, Iori-sensei. I’m at my limit as well.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...I told you to take your hands off, didn't I？」"
+    },
+    {
+        "message": "I stomped my foot down. The ground shook, and the ceiling lights flickered."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「…………」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「…………」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Whoa... that scared me.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Se, Sensei, there’s a crack in the floor where you’re standing...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Now, Asahi, Ririmu. Let go.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「R, roger...」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Yes...」"
+    },
+    {
+        "message": "The two girls pulled their hands away from the Origami, and the Tenju was released."
+    },
+    {
+        "name": "Iori",
+        "message": "「Well then.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You are not allowed to use Tenju in the classroom. It should be clearly written in the academy rules, shouldn't it?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Those who violate this will be suspended, or in the worst case, expelled. You won't get off with a light punishment.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I am sorry, Iori-sensei. I was reckless...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「...Sorry I triggered the Tenju, my bad.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「But still, I’m not convinced. I mean, it’s the Kijo’s fault for making fun of me.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「You...！ Do you not know the meaning of the word 'repent'？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「You’re the one who needs to repent!」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Hey Sensei, isn't this never going to end...？」"
+    },
+    {
+        "message": "Yeah, I think so too."
+    },
+    {
+        "name": "Iori",
+        "message": "「Asahi, Ririmu, I understand how you both feel.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「But I can't let the two of you keep quarreling here like this.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Even if you say that, come on！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I can't just let this rest...！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Then why don't we have a head-to-head sparring session！！」"
+    },
+    {
+        "message": "Both of their eyes go wide."
+    },
+    {
+        "name": "Iori",
+        "message": "「Fighting is one form of mutual understanding, too. If you've got something to get across, let's settle it in a match.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Just unleash everything you're feeling on your opponent there.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「...I like the sound of that. Let's do it, Kijo.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Understood. I accept your challenge.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ooooh, sounds fun！ Sensei, I wanna watch！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Setsugekka, that's inappropriate.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I don't mind at all.」"
+    },
+    {
+        "message": "If they each think they're in the right, I want them to put on a fight they wouldn't be ashamed for anyone to see."
+    },
+    {
+        "name": "Iori",
+        "message": "「Alright then, everyone, let's head to the training ground！」"
+    }
+]

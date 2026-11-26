@@ -1,0 +1,430 @@
+[
+    {
+        "message": "As the preliminary matches played out, one day passed after another. The final day of the Martial Festival qualifiers had finally arrived."
+    },
+    {
+        "name": "Iori",
+        "message": "「...Well then, today marks the end of the qualifiers.」"
+    },
+    {
+        "message": "I call out to everyone in the Takamura Class, all gathered together."
+    },
+    {
+        "name": "Iori",
+        "message": "「Let's review our current standing, everyone.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「First off, Momiji—you're currently undefeated and sitting at the top of the leaderboard alone. It's safe to say your spot in the main tournament is locked in.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Yeah, Victoria gave me a bit of a hard time, but the others weren't that much of a challenge, I suppose.」"
+    },
+    {
+        "message": "Fortunately, Momiji hadn't faced any members of the Takamura Class, so she hadn't handed anyone a loss."
+    },
+    {
+        "name": "Iori",
+        "message": "「And... Setsugekka, your performance has been remarkable. You won your last match, bringing you to third place in the qualifiers. You're in top form.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yes! I feel like I've finally managed to control my runaway power. At this rate, maybe becoming a Toujinegi will be a breeze, right? ...Or so I hope!」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Setsugekka, don't let your guard down.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Of course I know that! There were so many strong people in the qualifiers, too. The main tournament is probably going to be even tougher...」"
+    },
+    {
+        "message": "Even after defeating Asahi, Setsugekka continued to rack up victories with unstoppable momentum. She was drawing attention as the dark horse of this tournament."
+    },
+    {
+        "name": "Asahi",
+        "message": "「I may have lost to you in the qualifiers, Setsugekka, but I absolutely won't lose in the main tournament...！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ooh, that’s scary. Do you still have some hidden trick up your sleeve？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hehehe, it’s a secret.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I think it’s safe to say Setsugekka's spot in the main tournament is basically guaranteed as well.」"
+    },
+    {
+        "message": "Setsugekka has already finished all of her preliminary matches."
+    },
+    {
+        "message": "It is nearly impossible for any of the remaining members to knock Setsugekka down to eighth place or lower."
+    },
+    {
+        "name": "Iori",
+        "message": "「However... Asahi and Ririmu, you two are having a tougher time.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「U-ugh, I know it’s tough, but I can still do this！ There’s no way I’m finishing here！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「The third-years have studied Ririmu-san well, and they’ve been countering her illusions quite effectively.」"
+    },
+    {
+        "message": "Asahi was right."
+    },
+    {
+        "message": "It seems rumors of Ririmu's illusions had spread gradually among the first-years who encountered them during midterm exams and the like, and they had devised countermeasures based on them."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Well, now that I’ve come this far, there’s no point in panicking. I’m going all out without holding anything back！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, that’s all you can do.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Especially for the third-years, this Martial Festival is their last chance. They must be putting a lot of heart into it.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「The top-tier participants are Momiji, Setsugekka, Victoria, and Shizuku, but it's quite a chaotic scramble for the rest of the spots.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Asahi, Ririmu, you both still have plenty of chances to advance to the main tournament. The next match will likely be the make-or-break moment」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Asahi’s opponent is Taiga Igarashi. He’s a real powerhouse, easily in the top five among the third-years」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「……That sounds like it’s going to be a tough match. But, I will win.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ririmu, your opponent is… Arakawa Sonomi from the second year.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Whoa, *that* Arakawa-paisen? Seriously?！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ehh, it’s Sono-chan-senpai？ Lucky, so lucky！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Not lucky at all！ Unlike you, Secchan, I just don't get along with her. It feels like she's always angry.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I wish she’d just lighten up and have some fun.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Sono-chan-senpai is a cool beauty, you know. It wouldn't be cool if she were just sitting there grinning all the time!」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Are you talking about yourself when you say ‘grinning all the time’？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「No… wait, that makes it sound like I’m the uncool one!」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「You were the one who said it. You said grinning is uncool.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Geez! Anyway, Sono-chan-senpai might be hard to approach, but I'm telling you, she's not actually a bad person!」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Only you would have that sense for it, Setsugekka.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I find it completely impossible to understand as well.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Same here.」"
+    },
+    {
+        "message": "Hmm, it seems Arakawa isn't very popular in Takamura Class. I don't really dislike that wild type, though."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「……Hey, Muragaki. Isn't this match result a bit strange?」"
+    },
+    {
+        "message": "Keisetsu, who had been silent up until then, spoke up."
+    },
+    {
+        "name": "Iori",
+        "message": "「Hmm? Is there something wrong with Arakawa's match records?」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Every match she's lost was by judge's decision…」"
+    },
+    {
+        "message": "Now that she mentions it, I notice."
+    },
+    {
+        "message": "I had overlooked it because the summary field for the matches only had 'Decision' written in small print."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Wait, so that means Senpai has never lost except by decision？ That’s amazing, isn't it！？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ah… so that's it.」"
+    },
+    {
+        "message": "Momiji has a slightly grim look on her face."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Momitchi, what do you mean？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Just when you think you've taken her down, she recovers right away. Even though her Barrier Jacket should've been completely depleted」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「If that's the case, why did she lose by decision？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Even when she was on the back foot and getting beaten to a pulp, she stayed on her feet until the end with her Barrier Jacket still intact」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Throughout these qualifiers, not a single person managed to knock her out. That's why every one of those matches ended in a decision loss, right」"
+    },
+    {
+        "message": "A chill ran through the group."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Nobody could take her down... Hey, hold on a second」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「A Barrier Jacket that never goes down—that basically makes her invincible！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Iori-sensei, what on earth is...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「The only explanation I can think of... is her Tenju trait」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Judging from how her practice match with Momiji went earlier, there's no doubt the damage was getting through」"
+    },
+    {
+        "name": "Iori",
+        "message": "「However, she's probably restoring her Barrier Jacket by some means. Though I don't know how」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Whaaat, is that even allowed！？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「As long as it's a Tenju, it should basically stop functioning once her mental stamina and focus run out, though...」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Still, this is... pretty reckless, isn't it. If things go wrong, Arakawa-senpai could end up permanently out of commission」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「What do you mean, permanently out of commission？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「It's true that as long as her Barrier Jacket remains, no matter how many hits she takes, it doesn't count as a loss under match rules」"
+    },
+    {
+        "name": "Iori",
+        "message": "「However, a Barrier Jacket can't nullify the impact or pain of the blows. As you all already know」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Arakawa-san is likely taking heavy physical damage, and pushing through it on sheer willpower alone」"
+    },
+    {
+        "name": "Iori",
+        "message": "「If she's not careful, it wouldn't be surprising if she's left with lasting aftereffects. That's what Momiji meant」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「...A swordswoman who fights with total disregard for her own body, then. That is terrifying」"
+    },
+    {
+        "message": "Asahi already seemed to have grasped her true nature."
+    },
+    {
+        "name": "Iori",
+        "message": "「Fortunately, there is a way to deal with her. Arakawa-san didn't win every match in the qualifiers」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Decision losses—in other words, she lost on technical points and clean hits. It might rub you the wrong way, Ririmu, but you should aim for that」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Whaaat, aim for a decision win right from the start？ That totally doesn't fit my aesthetic, you know」"
+    },
+    {
+        "message": "As I expected, Ririmu shows hesitation."
+    },
+    {
+        "name": "Iori",
+        "message": "「Ririmu, this is an important bout. Think it through carefully.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Mmm... well, yeah, showing everyone my worldview in the main event is more important, but still...」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Arakawa-senpai has outstanding strength and stamina. She is likely even better than I am.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ugh, if she’s even better than you, Asahi, she’s basically a gorilla.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「...Leaving that assessment aside, Ririmu-san, the match against Arakawa-san will be a battle of attrition.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Please try to land effective hits while conserving your stamina as much as possible, and hold out until the 20-minute time limit of the preliminary match.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Never take the bait if she tries to provoke you. Is that clear？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ugh... this is gonna be such a drag of a match.」"
+    },
+    {
+        "message": "Ririmu’s enthusiasm is clearly fading. Hmm, that in itself is dangerous..."
+    },
+    {
+        "name": "Iori",
+        "message": "「...Ririmu, a word of advice.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Listen, your match is yours alone. Ultimately, I think you should do as you wish.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「How you fight is a reflection of how you show your own path. Sometimes there are things more important than just winning.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You should make the final decision yourself. Because in the end, it’s you who has to bear the result.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hehe... Sensei, you really do get me, don’t ya~」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「That’s right, I’ll decide everything about myself. I won’t let anyone else have their way with me.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Because that is my worldview！！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ririmu-san...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Asahi, thanks for all the advice. It was helpful. But I’ll be the one to decide in the end.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「The point is, I just need to knock her out without all this fuss.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I’m going to be the one to hand Arakawa-paisan her first non-decision loss in these preliminaries！」"
+    },
+    {
+        "message": "Ririmu is suddenly brimming with motivation. That’s right, you mustn't be overwhelmed before the fight even begins."
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, that’s the spirit. I know you can do it, Ririmu.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「...Good luck, Ririmu-san.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Asahi, you worry about yourself and go win your own match too！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Yes, of course.」"
+    },
+    {
+        "message": "A loud cheer went up from the venue. It seems the previous match has concluded."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「It looks like it's about time.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yeah！ I don't have any more matches, but you guys go give it your all！！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Right, let's keep a level head.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Yes, let's all do our best.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Alright, let's win this！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Everyone, you've all worked really hard to get here. Let's make it through this final day of the qualifiers safely！！」"
+    },
+    {
+        "message": "The competitors left the waiting area. Their faces were already those of people ready to fight."
+    }
+]

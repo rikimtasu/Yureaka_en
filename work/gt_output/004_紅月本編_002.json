@@ -1,0 +1,1996 @@
+[
+    {
+        "message": "Profiles of the students were sent over by Teacher Sasaki."
+    },
+    {
+        "message": "Checking and looking at the four faces on a hologram, I walk toward the stadium."
+    },
+    {
+        "name": "Iori",
+        "message": "「Kazamine Setsugekka... Martial Arts Division Year 1. Kazamine Keisetsu, <d0008>Quartermaster Division</d> Year 1.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「And then Tobe Ririmu and Suzakuin Momiji... Both Martial Arts Division Year 1, huh.」"
+    },
+    {
+        "message": "Murakumo Academy has three divisions: the Martial Arts Division, the <d0007>Technical Division</d>, and the Quartermaster Division."
+    },
+    {
+        "message": "The Martial Arts Division is for training swordsmen who wield the spiritual mechanical blade \"Origami.\""
+    },
+    {
+        "message": "The Technical Division is mainly for training swordsmiths who forge Origami."
+    },
+    {
+        "message": "The Quartermaster Division trains those who support duties related to <d0088>Jindou</d>."
+    },
+    {
+        "name": "Iori",
+        "message": "「Three in the Martial Arts Division and one in the Quartermaster Division—the ones I'll be teaching are probably the three, right?」"
+    },
+    {
+        "message": "Well, she did say we'd sort out the details later, so let's meet them in person first and see what kind of students they are."
+    },
+    {
+        "name": "Iori",
+        "message": "「...This is the place.」"
+    },
+    {
+        "message": "The students' names were listed on the academy's facility reservation system."
+    },
+    {
+        "message": "Murakumo Academy Stadium—"
+    },
+    {
+        "message": "This is where the academy students' summer festival, the <d0009>Murakumo Martial Festival</d>, is held."
+    },
+    {
+        "message": "The Martial Festival is a massive event that the academy's students pull together as one to put on."
+    },
+    {
+        "message": "Selected students from the Martial Arts Division test their skill against each other in matches to decide who is number one."
+    },
+    {
+        "message": "It is broadcast on TV nationwide and is famous enough to be called one of the \"Two Great Summer Traditions\" alongside Koshien baseball."
+    },
+    {
+        "name": "Iori",
+        "message": "「Never thought I'd come back here.」"
+    },
+    {
+        "message": "I remember the time I spent here during my third summer as an academy student. Even though I thought I'd never come back again..."
+    },
+    {
+        "message": "Funny how karma works."
+    },
+    {
+        "message": "Stepping inside, the familiar sound of blades clashing echoed out."
+    },
+    {
+        "name": "Iori",
+        "message": "「Oh, they're at it.」"
+    },
+    {
+        "message": "On the stadium stage, two girls were glaring at each other with their blades pointed at one another."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Quite the skill you have there, Tennouji Victoria-san.」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Ehehe, well yeah~！！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That's... Suzakuin Momiji?」"
+    },
+    {
+        "message": "With her white hair streaming, a petite girl was charging in boldly with strikes."
+    },
+    {
+        "message": "She's one of the girls from the profiles I got from Teacher Sasaki."
+    },
+    {
+        "message": "The <d0010>Suzakuin Family</d>—I know her background well, too. There probably isn't anyone in martial circles who doesn't know that name."
+    },
+    {
+        "message": "―After the war, GHQ ordered a ban on citizens wearing swords. However, many long―standing martial families opposed this."
+    },
+    {
+        "message": "The one who stood up to protect the sword, which could truly be called the soul of the samurai, was her ancestor, Suzakuin Ryouan."
+    },
+    {
+        "message": "He organized many martial families and founded the 『<d0011>Sword-Bearing Self-Defense Association</d>』."
+    },
+    {
+        "message": "Prepared even for armed uprising, he demanded that GHQ lift the ban on wearing swords. Through their efforts, the samurai succeeded in protecting their soul, the sword."
+    },
+    {
+        "message": "Ever since, the Sword-Bearing Self-Defense Association has been passed down unbroken through the Suzakuin bloodline, boasting its power even today in the twenty-first century."
+    },
+    {
+        "message": "Incidentally, the current chairman of the Sword-Bearing Self-Defense Association is Suzakuin Masamori. He is her grandfather."
+    },
+    {
+        "message": "He founded this Murakumo Academy in order to raise skilled swordsmen."
+    },
+    {
+        "name": "Iori",
+        "message": "「……So that girl is the founder of the academy's granddaughter, huh.」"
+    },
+    {
+        "message": "The Suzakuin are an elite family standing at the very top even among martial families."
+    },
+    {
+        "message": "Momiji, born into that family, is someone who could truly be called a princess."
+    },
+    {
+        "message": "To teach someone like her is a tremendous undertaking."
+    },
+    {
+        "name": "Iori",
+        "message": "「Haha, looks like it's going to get interesting.」"
+    },
+    {
+        "message": "The corners of my mouth involuntarily loosen."
+    },
+    {
+        "message": "A mission that comes with hardship is also one that brings a stronger sense of worth."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Your guard is wide open, Victoria-san！！」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Whoa！？ That was close, that one almost hit me~！」"
+    },
+    {
+        "message": "Victoria-san barely dodges Momiji's sharp strike."
+    },
+    {
+        "name": "Momiji",
+        "message": "「……Your movements seem rather sluggish. Are you holding back？」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Hmm—？ I don't mean to be, y'know.」"
+    },
+    {
+        "message": "Facing her, Victoria-san runs a hand through her blonde hair sparkling in the sunlight and laughs carefree."
+    },
+    {
+        "message": "Just as Momiji said, she doesn't seem to be in top form."
+    },
+    {
+        "name": "Victoria",
+        "message": "「But y'know, I just can't really get hyped up~」"
+    },
+    {
+        "message": "Tennouji Victoria—third year in the Martial Arts Division, champion of last year's Murakumo Martial Festival."
+    },
+    {
+        "message": "She holds the title of 『<d0012>Toujinegi</d>』, which signifies the pinnacle of Murakumo Academy."
+    },
+    {
+        "message": "In short, Victoria-san is currently the strongest in the academy."
+    },
+    {
+        "name": "Momiji",
+        "message": "「As for me, since it's a precious opportunity, I'd like to do my best so that it becomes meaningful time for both of us.」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Because it's a rare chance with me, the Toujinegi, fighting Suzakuin-chan, right？」"
+    },
+    {
+        "name": "Victoria",
+        "message": "\"Everyone definitely wanted to see this match, you know~\""
+    },
+    {
+        "name": "Victoria",
+        "message": "\"So wh~y?! Why is it a closed match with no audience?!\""
+    },
+    {
+        "name": "Momiji",
+        "message": "\"I already told you, this is a practice match. It is not something to put on display for outsiders.\""
+    },
+    {
+        "name": "Victoria",
+        "message": "\"Eeehh! No way, no wa~y, I want people watching us~!\""
+    },
+    {
+        "name": "Victoria",
+        "message": "\"We rented out the whole arena for a match, and I can't get fired up when the stands are this empty~!\""
+    },
+    {
+        "name": "Victoria",
+        "message": "\"<d0013>Fan service is important!</d> Suzakuin-chan, you need to give the fans some service too!\""
+    },
+    {
+        "name": "Momiji",
+        "message": "\"I have no need for fans or anything of the sort.\""
+    },
+    {
+        "name": "Victoria",
+        "message": "\"Huuuh?! What's the point of fighting if there aren't any fans watching?!\""
+    },
+    {
+        "message": "Apparently Victoria-san wanted to hold a flashy practice match with a crowd, but Momiji turned the idea down."
+    },
+    {
+        "message": "At this academy, every student in the Martial Arts Division aims to become the Toujinegi."
+    },
+    {
+        "message": "So whenever the reigning Toujinegi holds a practice match, eager students flock to study it."
+    },
+    {
+        "message": "Of course, the fighters themselves decide whether spectators are allowed. This time, they chose to keep outsiders out."
+    },
+    {
+        "name": "???",
+        "message": "\"Honestly, Vicky, stop being so selfish...\""
+    },
+    {
+        "message": "Another student was sitting in the front row of the spectator stands."
+    },
+    {
+        "name": "???",
+        "message": "\"Vicky, you were the one who agreed to the match even without an audience, weren't you?\""
+    },
+    {
+        "name": "???",
+        "message": "\"Throwing a tantrum about it now is hardly fair.\""
+    },
+    {
+        "name": "Victoria",
+        "message": "\"I kno~w, bu~t...!\""
+    },
+    {
+        "message": "So this girl is talking directly with Victoria-san down on the stage."
+    },
+    {
+        "name": "Muragaki Iori",
+        "message": "\"Are you Victoria-san's <d0014>Second</d>?\""
+    },
+    {
+        "name": "Girl",
+        "message": "「Hieek……！？」"
+    },
+    {
+        "message": "When I spoke to her, the girl flinched visibly and took a step back."
+    },
+    {
+        "name": "Muragaki Iori",
+        "message": "\"S-Sorry, did I startle you?\""
+    },
+    {
+        "name": "Girl",
+        "message": "\"B-But I set the facility reservation to private... How did you get in here?\""
+    },
+    {
+        "name": "Muragaki Iori",
+        "message": "\"Oh, I started working as a teacher at this academy today.\""
+    },
+    {
+        "message": "Normally, reserving a facility as private keeps unrelated people from entering."
+    },
+    {
+        "message": "Teachers are the exception, though—they can come and go freely even when a student sets a reservation to private."
+    },
+    {
+        "message": "When Sasaki-sensei sent me the student profiles earlier, she included my academy teacher ID as well."
+    },
+    {
+        "name": "Muragaki Iori",
+        "message": "\"I'm Muragaki Iori. I'll be taking charge of a first-year class.\""
+    },
+    {
+        "name": "Minamoto Shizuku",
+        "message": "\"I'm Minamoto Shizuku, a third-year in the Technical Division.\""
+    },
+    {
+        "name": "Iori",
+        "message": "Huh? <d0015>Minamoto</d> as in that Minamoto clan?"
+    },
+    {
+        "name": "Shizuku",
+        "message": "Yes, that Minamoto... as embarrassing as it is to admit"
+    },
+    {
+        "message": "The Minamoto family are descendants of Minamoto no Yoritomo, who established the Kamakura shogunate and became head of the warrior class."
+    },
+    {
+        "message": "Alongside the Suzakuin Family, there's probably no swordsman who doesn't know them."
+    },
+    {
+        "name": "Iori",
+        "message": "I'm getting to meet all kinds of legends today, huh"
+    },
+    {
+        "name": "Shizuku",
+        "message": "P-Please stop... I'm really not anything that grand..."
+    },
+    {
+        "message": "My eyes drifted to the tablet device hiding her mouth."
+    },
+    {
+        "name": "Iori",
+        "message": "Hm？ You're using a pretty old-fashioned gadget."
+    },
+    {
+        "message": "Holographic displays are common now, so only a serious eccentric uses a physical display."
+    },
+    {
+        "name": "Shizuku",
+        "message": "Ah, this is, well... sort of like a shield..."
+    },
+    {
+        "name": "Iori",
+        "message": "A shield？"
+    },
+    {
+        "name": "Shizuku",
+        "message": "Having a physical barrier between myself and other people makes me feel a little safer..."
+    },
+    {
+        "message": "Ah, so that's it."
+    },
+    {
+        "message": "Seems Shizuku is quite shy."
+    },
+    {
+        "name": "Iori",
+        "message": "Hold on. I feel like I've heard the name Minamoto Shizuku somewhere..."
+    },
+    {
+        "name": "Iori",
+        "message": "Right, I remember now. Shizuku, you were in last year's Martial Festival, weren't you?"
+    },
+    {
+        "message": "That was certainly last year's Martial Festival."
+    },
+    {
+        "name": "Shizuku",
+        "message": "Y-Yes... though it was just for data collection, not that I was being serious..."
+    },
+    {
+        "name": "Iori",
+        "message": "Huh, you mean you made it all the way to the Martial Festival finals without even being serious？ If anything, isn't that even more amazing...！？"
+    },
+    {
+        "name": "Shizuku",
+        "message": "Hauu, sorry"
+    },
+    {
+        "message": "Shizuku shuffled backward with a frightened look."
+    },
+    {
+        "name": "Iori",
+        "message": "Oops, did I scare you again？"
+    },
+    {
+        "name": "Shizuku",
+        "message": "No, it's not that... it's not that Sensei is at fault...！"
+    },
+    {
+        "name": "Shizuku",
+        "message": "I'm just bad at talking to people I don't know, and I don't really know how to act around them..."
+    },
+    {
+        "name": "Iori",
+        "message": "Got it. Sorry for not being more considerate."
+    },
+    {
+        "message": "I put a little space between us."
+    },
+    {
+        "name": "Shizuku",
+        "message": "No, it's fine... thank you"
+    },
+    {
+        "message": "Once I actually talked to her, she had no arrogance at all despite being a descendant of the Minamoto. She's such an adorable student."
+    },
+    {
+        "name": "Victoria",
+        "message": "Huh, feels like there's somehow one more stranger here"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Shizu's acquaintance？　Maybe a lover？」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「N-n-no, that's not it, he's my teacher」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「A teacher？ I don't recognize him, though……」"
+    },
+    {
+        "message": "A suspicious gaze is directed at me from Momiji."
+    },
+    {
+        "name": "Iori",
+        "message": "「Is it alright if I watch the match, you two？」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Sure, sure～！ Watch as much as you want～！」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Suzakuin-chan's okay with it too, right？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「……Well, if he is a teacher」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Yes! My hype's starting to go up a bit～」"
+    },
+    {
+        "message": "Victoria swings her arms around with a whoosh-whoosh."
+    },
+    {
+        "name": "Victoria",
+        "message": "「Still, it's no fun without an audience, right～. A match has to be hot and excitin'！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Does that mean you're going to get serious for us？」"
+    },
+    {
+        "message": "Smiling calmly, Momiji readies her Origami again."
+    },
+    {
+        "name": "Victoria",
+        "message": "「Hmm～, but it's just one more spectator～」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「What will it take for you to get serious？」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Oh, I know. Then give me a reward if I win」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Is there something you want?」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Non-non, as long as you let me savor Suzakuin-chan's body, I'm good」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「S-savor, you say……！？」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Fufufu, I like touching muscles～」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Suzakuin-chan, I'm thinking your build is slender, yet toned and has a nice body」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「So y'know, if I win, let me touch Suzakuin-chan's body」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「N-no, no way, that's……!」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「N fufu, it's fine. Everyone'll be happy, right？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I-I'm sorry, but between women or stuff like that, I really can't……！」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Hmph？ Both are OK with me, you know？」"
+    },
+    {
+        "message": "O-oh…… is that right, it's moving along then"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Vicky, give it a rest. That's sexual harassment.」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Aww, but I want a reward……」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Hold back, please.」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Then if I win, will Shiz let me touch you instead？」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「A-again？ I let you touch it before, didn't I……」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「A reward, a reward～!」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Geez, there's no helping you……」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Hyahha! Yes! That got me just a little motivated!」"
+    },
+    {
+        "message": "Victoria starts doing a little hop on the stage."
+    },
+    {
+        "name": "Iori",
+        "message": "「Shizuku-san, is that okay……？」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「With Vicky, it's because she 'wants to check how someone's muscles are built,' so originally it's not really anything lewd……」"
+    },
+    {
+        "message": "I see, so she's trying to size up physical ability by actually touching them"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Still, she comes in to touch pretty much without holding back, so…… um…… I guess it might be tough for people who aren't used to it……」"
+    },
+    {
+        "message": "Being Victoria's Second looks pretty rough too."
+    },
+    {
+        "name": "Victoria",
+        "message": "「Okay！ Then Suzakuin-chan, let's resume！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I was growing weary of waiting. Whenever you're ready.」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Okay, okay, then I'll try just a little bit～！」"
+    },
+    {
+        "message": "Grinning, Victoria pulls her hips way back."
+    },
+    {
+        "name": "Victoria",
+        "message": "「Listen up and watch closely, you unruly, outrageous, reckless punks who cross Lord Shogun！」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Now that thi-is Okita-kun has arrived, I won't let you have your way！」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Our <d0067>Tennen Rishin-ryuu</d> is the number-one swordsmanship under heaven！！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「What is that」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Apparently it's the catchphrase from Vicky's favorite anime, '<d0016>Go-Go Okita-kun</d>'……」"
+    },
+    {
+        "message": "Come to think of it, she blurted out something like that during last year's Martial Festival too……"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I see, so I am a patriot of <d0017>Sonnou Joui</d>. Well, that is not entirely mistaken.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Since I'm going to defeat Victoria-san, the <d0018>barbarian</d> who came all the way from America, right here and now.」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Fufuuh, are you provoking me？ Are you agitating me？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「You're welcome to take it that way.」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Niiice, I really love stuff like that！ Good, good~！！」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Let's keep hyping up this matchmaking~」"
+    },
+    {
+        "message": "In stark contrast to just a moment ago, Victoria-san's vigor swells."
+    },
+    {
+        "name": "Victoria",
+        "message": "「So then, today's rush forecast~！！」"
+    },
+    {
+        "message": "Just as she held the Origami's blade level with the ground――"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Right now, I'm feeling like……」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「……Yeah！ Three katanas！！」"
+    },
+    {
+        "message": "The instant she shouted――the Origami Victoria-san was holding split into three."
+    },
+    {
+        "name": "Iori",
+        "message": "「W-Whoa there, what is that……！」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Here I come, Suzakuin-chan！！」"
+    },
+    {
+        "message": "In a single step, Victoria-san invades Momiji's striking range."
+    },
+    {
+        "name": "Momiji",
+        "message": "「I won't let you……！！」"
+    },
+    {
+        "message": "Responding, Momiji steps forward."
+    },
+    {
+        "name": "Victoria",
+        "message": "「――Yugen Mugen, Sonic Rush！！！」"
+    },
+    {
+        "message": "Super-high-speed, multi-hit thrusting out of a dash――a three-stage thrust attacks Momiji."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Guh……！」"
+    },
+    {
+        "message": "As expected of a Suzakuin, one might say."
+    },
+    {
+        "message": "Even while wearing a pained expression, Momiji deflected every single thrust Victoria-san unleashed."
+    },
+    {
+        "message": "Yet from the final blow she met head-on, she is sent flying far backward."
+    },
+    {
+        "name": "Momiji",
+        "message": "「……So this is Victoria-san's thrust. It's my first time taking it firsthand, and despite how fast it is, it packs tremendous power.」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Whoa, you blocked all of that？ Amazing~」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Naturally. Still, that wasn't your full power, was it？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「At last year's Martial Festival, you should have shown even fiercer thrusts.」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Hmm, was it like that？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I told you, didn't I, that I want you to get serious. Why don't you stop holding back soon？」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Hmm, asking me to get hyped up to the same level as the Martial Festival right here is pretty unreasonable~」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「So you're saying facing someone like me doesn't get you hyped up？」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Huff-huff, maybe so」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Look how thoroughly I'm being looked down on……！！」"
+    },
+    {
+        "message": "This time Momiji charges――developing into a fierce clash of blades."
+    },
+    {
+        "name": "Iori",
+        "message": "「Hey, Shizuku-san. That thing Victoria-san used just now…… the blade suddenly split into 3, right? How does that mechanism work?」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「That's a visual effect Vicky asked me to build in……. It displays floating Origami using HR」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「It's supposedly a special move from Go-Go Okita-kun」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I see, so it's a presentation gimmick that triggers based on mental resonance value」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Come to think of it, even in pro matches there are players who use Origami with that kind of presentation gimmick built in to hype up the crowd」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Still, it's the first time I've seen an academy student use one. It's elaborate and fun」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「I-I'm so glad…… to have someone who understands」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「That doesn't just display a holographic sword—it also puts out a light fog to set the atmosphere, you know」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Though effects like that have strict regulations」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Displays that block an opponent's vision are prohibited, and effects that camouflage attacks are NG too」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「That effect is properly tuned to pro standards. It would make me sad too if people thought she cheated」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I see, so you're the one who made it. Pretty impressive」"
+    },
+    {
+        "message": "Being able to prepare pro-spec Origami complete with effects makes her a blacksmith with a bright future."
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Yes! I contacted the regulations rep at the Jindou Association and went back and forth so many times—it really was tough……！」"
+    },
+    {
+        "message": "Saying that, she inches closer and closer to me."
+    },
+    {
+        "name": "Iori",
+        "message": "「Um, don't you think that's a little close……」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「W-Whoa, s-s-sorry, sorry！」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Whenever it comes to Origami, I end up getting carried away……」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Nah, don't worry about it. Having passion is a good thing」"
+    },
+    {
+        "message": "Everything starts with curiosity and passion. Strong, boiling-hot feelings become the driving force that elevates yourself."
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Even so……」"
+    },
+    {
+        "message": "Shizuku-san shifts her gaze to the match between Victoria-san and Momiji."
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Vicky isn't showing her usual strength at all today. I guess she really can't get into gear unless it's the real thing...」"
+    },
+    {
+        "message": "Even if she isn't fighting at her best, she's still trading blows evenly with Momiji."
+    },
+    {
+        "name": "Iori",
+        "message": "「Momiji-san looks like she's holding back too, doesn't she」"
+    },
+    {
+        "message": "Suzakuin Momiji has never once appeared in an official match. Because of that, her true ability is an unknown quantity."
+    },
+    {
+        "message": "Even so, just watching her is enough to tell that she isn't going all out."
+    },
+    {
+        "message": "Just what on earth is she thinking—"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Hey, hey, heeey, what's the matter, Suzakuin-chan? You're not landing a single hit~?」"
+    },
+    {
+        "name": "Momiji",
+        "message": "（Sigh... This really won't do）"
+    },
+    {
+        "message": "Irritation builds inside me as Victoria-san keeps nonchalantly deflecting my blade."
+    },
+    {
+        "message": "In April―right after enrolling at Murakumo Academy, I challenged Tennouji Victoria―san to a practice match."
+    },
+    {
+        "message": "However, she's the reigning Toujinegi. Being quite the popular figure, her schedule was booked solid until May."
+    },
+    {
+        "message": "And then, the long-awaited Golden Week came to an end. At last, I finally got my chance to have a practice match with Victoria-san."
+    },
+    {
+        "message": "A practice match with her was the perfect opportunity to see the Toujinegi's true strength, and I was simply looking forward to fighting her."
+    },
+    {
+        "message": "And yet, this pathetic state of affairs."
+    },
+    {
+        "message": "Even though I went out of my way to prepare my <d0019>Spirit-Type Armament</d> for today, she won't get serious at all."
+    },
+    {
+        "message": "At this rate, it's just a one-woman show—a complete waste of effort."
+    },
+    {
+        "name": "Momiji",
+        "message": "（I'm not practicing Jindou for fun...！）"
+    },
+    {
+        "message": "My Origami—Tsubakuro Nagamitsu—let out a high-pitched shriek."
+    },
+    {
+        "message": "Its exceedingly long blade is reinforced by my Tenju, maintaining enough durability to withstand even a direct collision with a 4-ton truck."
+    },
+    {
+        "message": "Yet that very Origami trembled slightly upon taking a single blow from Victoria-san."
+    },
+    {
+        "name": "Momiji",
+        "message": "「As expected of the reigning Toujinegi—what a heavy strike...！」"
+    },
+    {
+        "message": "Tennouji Victoria-san's true strength, something you only understand after taking a blow yourself. She's a pure power fighter."
+    },
+    {
+        "message": "Her heavy, power-packed attacks steadily sap her opponent's arm strength and stamina. Dragging this out in a sluggish exchange will only put me at a disadvantage."
+    },
+    {
+        "name": "Victoria",
+        "message": "「All right, here I come again~！！」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Listen up and watch closely, you unruly, outrageous, reckless punks who cross Lord Shogun！」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Now that thi-is Okita-kun has arrived, I won't let you have your way！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Do you really have to announce that every single time！？」"
+    },
+    {
+        "message": "Seeing no obligation to play along, I unleash a thrust without hesitation."
+    },
+    {
+        "name": "Victoria",
+        "message": "「Of course！ The intro spiel is important！」"
+    },
+    {
+        "message": "Without even parrying or dodging my strike, she absorbed it completely using only the <d0086>Barrier Jacket</d> deployed around her."
+    },
+    {
+        "name": "Victoria",
+        "message": "「How's it feel right now~？」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「...Three katanas！！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Hff...！」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「I won't let you get away！！」"
+    },
+    {
+        "message": "As I fall back, Victoria-san closes in right on my heels."
+    },
+    {
+        "name": "Victoria",
+        "message": "「Ethereal Phantasm, Sonic Ruuuush！！！」"
+    },
+    {
+        "message": "The thrust unleashed by Victoria-san shoots forward at terrifying speed."
+    },
+    {
+        "message": "Three times in a split second—from the receiving end, there's no way I could make it in time dealing with them one by one."
+    },
+    {
+        "message": "A wide sweep, neutralizing every thrust. My Origami lets out a high-pitched ring."
+    },
+    {
+        "name": "Momiji",
+        "message": "（If I take this head-on, my Origami won't hold up...！）"
+    },
+    {
+        "message": "A terrifying sonic thrust, despite being a power fighter. An ordinary Barrier Jacket could shatter from a single blow."
+    },
+    {
+        "message": "It was a thrusting technique that made it easy to see how Tennouji Victoria-san climbed all the way to Toujinegi."
+    },
+    {
+        "name": "Momiji",
+        "message": "（Still, that's within expectations. I really wanted to learn her upper limit, though...）"
+    },
+    {
+        "message": "It doesn't look like I can hope for that in this practice match."
+    },
+    {
+        "name": "Momiji",
+        "message": "「...I see.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「In that case, that's enough.」"
+    },
+    {
+        "message": "From our exchange so far, I've pretty much \"figured her out.\""
+    },
+    {
+        "message": "Sword techniques used, telegraphing motions, spacing, tactical algorithms, offensive and defensive skills, frequent routines, combination patterns, and their combination probabilities."
+    },
+    {
+        "message": "Gaze, facial expressions, blinking, breathing methods, muscle reflexes, hand habits, weight shifting, blind-spot compensation, and every other physiological reaction."
+    },
+    {
+        "message": "Psychological tendencies, personality traits, interpersonal judgment, logical reasoning ability, thinking speed, stress tolerance, emotional restraint, and their strategic impact."
+    },
+    {
+        "message": "Roughly all the information that makes up the person known as Tennouji Victoria-san has been accumulated in my brain."
+    },
+    {
+        "message": "<center>Not enough, yet for now, entirely sufficient.</center>"
+    },
+    {
+        "name": "Momiji",
+        "message": "（...<d0020>Shingan no Kiwamete</d>, initiate）"
+    },
+    {
+        "message": "Muttering softly, I switch the circuits in my head."
+    },
+    {
+        "message": "Move 1, approximately 14 predicted opening actions."
+    },
+    {
+        "message": "Move 2, 13 effective counters against predicted tactical action #1, 16 effective counters against #2, effective counters against #3—"
+    },
+    {
+        "message": "Approximately 156 nodes in the Move 2 action tree; next, Move 3."
+    },
+    {
+        "message": "Move 3: 1,728, Move 4: 20,829, Move 5: 285,326"
+    },
+    {
+        "message": "Move 6: 3,084,498, Move 7: 40,831,639,"
+    },
+    {
+        "message": "Move 8, Move 9, Move 10――"
+    },
+    {
+        "message": "Instantly forming an action tree up to 20 moves ahead. Roughly 3.8e+21 terminal nodes."
+    },
+    {
+        "message": "Deriving the optimal solution from a vast number of predicted futures via an empirical evaluation function."
+    },
+    {
+        "name": "Momiji",
+        "message": "「――Route search complete」"
+    },
+    {
+        "message": "I don't know if I can carry it all the way to checkmate, but it's just right for testing how effective it is against a Toujinegi."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Here I come, Victoria-san」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Yeah, GO GO～！！」"
+    },
+    {
+        "message": "The precognitive Tennouji Victoria-san created by my brain takes shape."
+    },
+    {
+        "message": "A phantom image of mine, visible only to me, generated by high-sensitivity, high-definition foresight."
+    },
+    {
+        "message": "And so, reality begins to trace the shadow I've generated――"
+    },
+    {
+        "message": "Move 1, a diagonal slash from the opponent's upper stance. Reality match rate 93.482 percent. 1 cm to the right of the prediction, data corrected――evaded."
+    },
+    {
+        "message": "Move 2, a gaze feint toward the right shoulder followed by a grazing slash at 320 m/s 6 cm below the right foot――hit."
+    },
+    {
+        "name": "Victoria",
+        "message": "「Nku…… SHIT！」"
+    },
+    {
+        "message": "Move 3, a thrust toward the opponent's chest, reality match rate 94.842 percent――blade angle plus 4.5 degrees from prediction, data corrected――evaded."
+    },
+    {
+        "message": "Move 4, right-foot load 2.195 kN, thrust to the dantian after a lower feint――hit."
+    },
+    {
+        "message": "Move 5――evaded."
+    },
+    {
+        "message": "Move 6――hit."
+    },
+    {
+        "message": "Just as traced, I simply keep swinging the blade."
+    },
+    {
+        "message": "Move 7 evaded, Move 8 hit, Move 9 evaded, Move 10 hit――！！ Evaded, hit, evaded, hit, hit, hit――！！！"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Ngaaaaaaaahhh！？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「That's the end！！」"
+    },
+    {
+        "message": "Landed a full-power horizontal torso sweep on the staggering Victoria-san, completing the trace――"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Vicky！！」"
+    },
+    {
+        "message": "Shizuku-san leans forward out of the spectator stands."
+    },
+    {
+        "name": "Iori",
+        "message": "「This is…… amazing」"
+    },
+    {
+        "message": "That sequence of moves Momiji just showed had reached the realm of a master."
+    },
+    {
+        "message": "Controlling the opponent's movements in advance and making them act as if following oneself. It's a pinnacle of martial arts akin to an aikido air throw."
+    },
+    {
+        "name": "Iori",
+        "message": "「Shizuku-san, how many matches has this been for Momiji-san and Victoria-san？」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「This is the first time……」"
+    },
+    {
+        "message": "Then did Momiji pull off that line of reading from the very first move……？"
+    },
+    {
+        "message": "Given her Suzakuin heritage, I figured she was no ordinary person…… though I never expected it to go this far."
+    },
+    {
+        "name": "Victoria",
+        "message": "「……Haaah, aah, I'm done for, I'm done for～」"
+    },
+    {
+        "message": "Victoria-san, getting back up as if nothing had happened."
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Vicky, are you okay...？」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Yeah, my Barrier Jacket's still intact, so I'm totally fine~」"
+    },
+    {
+        "message": "She hopped lightly on her feet to prove it. She wasn't just putting on a brave front—she genuinely didn't seem to have taken much damage."
+    },
+    {
+        "name": "Iori",
+        "message": "「Incredible, even after taking that much...」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「...You're sturdier than I expected.」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Well, yeah！ I've always been tough！」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Still, what you just did was amazing~！ It felt like I was being controlled or something！」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「How do you do that？ I wanna try it too~！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「There is no way to control people at will.」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「I see~, too bad. Well, whatever~」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「If that's all you've got, I don't think I'll lose in the main event anyway.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「...Are you saying you're confident you can beat me at the Martial Festival？」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Yep, I'll win with ease~♪」"
+    },
+    {
+        "message": "Victoria-san, flashing a carefree smile. It was clearly a provocation."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Unfortunately, you shouldn't count on that prediction.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「After all, in this practice match, you haven't even managed to touch my Barrier Jacket.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「You should at least land a single blow on me before saying something like that.」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「OK, then I'll do just that.」"
+    },
+    {
+        "message": "Blades raised, the two of them glaring at each other once more. Just as Momiji and Victoria―san were about to move again―"
+    },
+    {
+        "name": "???",
+        "message": "「Hold that match right theeeere！！！！」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Whoa！？ What's happening！？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「...Ah」"
+    },
+    {
+        "message": "A loud voice echoed throughout the arena."
+    },
+    {
+        "message": "Above the entrance on the opposite side. In that conspicuous spot, someone of equally conspicuous appearance stood in an imposing stance."
+    },
+    {
+        "name": "Female Student",
+        "message": "「Hey, you there, Suzakuin Momiji！」"
+    },
+    {
+        "name": "Female Student",
+        "message": "「Sneaking around behind my back to have a match—how could such a thing be allowed！」"
+    },
+    {
+        "name": "Female Student",
+        "message": "「No, definitely not！！」"
+    },
+    {
+        "name": "Female Student",
+        "message": "「I'm the one who'll put an end to your life. That's been decided since before the dawn of... creation？ Or something...！」"
+    },
+    {
+        "name": "Female Student",
+        "message": "「In other words, this is fate！ And destiny！」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Hey YOU！ Who the heck are you, anyway！？」"
+    },
+    {
+        "name": "Female Student",
+        "message": "「Hahahaha, good thing you asked—I'll tell you！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「My family name is Kazamine, and my given name is Setsugekka！ The wild child of Kazamine—that's me！！」"
+    },
+    {
+        "message": "The one who appeared was Kazamine Setsugekka, one of the students in Takamura Class that I'll be taking charge of"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「And the weapon I'm using is <d0021>Momijigari</d>！ Ho~w's that, bitter about it, Momiji?！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「The 'Definitely gonna take down Suzakuin' person has arrived, ya know~？」"
+    },
+    {
+        "message": "She shows off the Origami she equipped herself"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Haa... is that so.」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Suzakuin-chan, is that one your friend？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「No, she's not. I don't have a friend like that, and even if she begged me, I wouldn't want to be friends with her.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Guh, that's a lonely thing to say...」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hmph, well, I guess it's only natural！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「You and I aren't friends—we don't need cozying up.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Because we're arch-enemies, <d0022>rivals</d>！」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Whoa, that's cool！ Having rivals is super good！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Right~, Senpai gets it！」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Fufufu, well, yeah~！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I'm glad you two found kindred spirits in each other.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ki~nda sounds like you're saying something loaded.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Anyway, Kazamine Setsugekka-san.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I'm currently in the middle of a practice match with Victoria-san. Since it's a nuisance, could you please leave?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「No way！ Why should I have to listen to what you say？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I booked this facility privately to have a match with Victoria-san」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Outsiders are not permitted inside」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Besides, how did you even get in here？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Huh？ I climbed up the wall」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Are you a monkey?！ Don't climb a side wall taller than a five-story building！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Honestly, what if you fell? That's dangerous！」"
+    },
+    {
+        "message": "She really is off the charts in every sense... this Setsugekka-san."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Shut up, shut up, it's 'cause you ignore me！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「You don't even reply when I send replies on <d0023>Tretter</d>！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Because I have you muted」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Don't mute me！ Don't be so cold or I'll cry！」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「So, Kazamine-chan. What are YOU doing here？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Oh, oh, now you're asking—listen to this, Victoria-senpai！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I've been challenging Suzakuin Momiji right here to a duel since way back」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「A duel？ Are you gonna fight to the death？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「That seems to be what she calls a practice match」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Even so, Momiji keeps running around saying she's busy and won't face me」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I'm receiving practice match requests from various other people as well」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Everyone's interested in Suzakuin-chan, y'know~ Can't really be helped」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Nuh-uh, it can't just not be helped！！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「'Cause Suzakuin Momiji hasn't had a practice match with anyone from the day she enrolled until today！」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Eh, really？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I have, she just doesn't know about them」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Don't screw with me, you think you can fool me just 'cause I'm an idiot！？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I sneak into the places you book claiming you’re having practice matches every single time, and nobody’s ever there！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「You shouldn’t be sneaking in, if you think about it with basic common sense.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Today I figured nobody would be there either, and then you actually are！ And on top of that, you’re having a match with someone other than me！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「This is a terrible betrayal！ Totally guilty！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「So that’s that—I’m gonna beat Suzakuin！ That’s my destiny~！」"
+    },
+    {
+        "message": "Momiji sighs at Setsugekka, who points a sharp finger at her."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Haa... everyone’s ‘Suzakuin, Suzakuin’ this and that... it’s exhausting.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「True, I am the eldest daughter of the Suzakuin Family. I understand both the duties I must shoulder and everyone’s expectations.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「However, I am not a sideshow.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「If you want to know my true strength, I’ll show you as much as you like at the Murakumo Martial Festival.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Aside from that, I have no intention of drawing my blade needlessly.」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Then what about challenging me to a match？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Tennouji Victoria-san is in a league of her own. Because she’s this academy’s current Toujinegi.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I thought I would cross blades once out of respect, in place of a greeting.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Then show me some respect too.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I have no respect to spare for some unknown wretch who barges into other people’s matches.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Gwaaah！ That pisses me off！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Fine, if that’s how you wanna play it, I’ve got a plan of my own！」"
+    },
+    {
+        "message": "No sooner had she spoken than Setsugekka drew her Origami."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Suzakuin Momiji！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Your smug face, your cocky attitude, your put-on words—from the very tip of your ahoge to the tips of your toenails！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Every single bit of it, I can’t stand a damn thing！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Sorry, but I’m gonna wreck this match！！」"
+    },
+    {
+        "message": "Setsugekka charged at terrifying speed and thrust her blade toward Momiji."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Wha—... stop it, we’re in the middle of a match！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Like I care, you goddamn idiot！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「You're the idiot！ That's so rude to Victoria-san！」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「It's fine, it's fine~, don't worry about it!」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Besides, maybe I'll jump in and join the fun too~！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Huh！？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「W-Wait, why are you attacking me too, Victoria-san！？」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Going by how things are shaping up right now, Suzakuin-chan's the bad guy here, isn't she？」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Evil—instantly—slaaaashed！！！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Exaaactly！！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「No I'm not, are you an idiot?！ Kazamine Setsugekka is the bad guy！」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Mmm, well, I think the audience would be happier seeing Suzakuin-chan get taught a lesson~」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「The audience always roots for justice, after all！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Who's the audience！?」"
+    },
+    {
+        "message": "Almost simultaneously―Momiji spins and wards off the blades of Setsugekka and Victoria―san closing in from front and back."
+    },
+    {
+        "name": "Iori",
+        "message": "「Ooh…… nice moves, Momiji-san.」"
+    },
+    {
+        "message": "Jindou is built around one-on-one matches and doesn't account for multiple opponents in the first place."
+    },
+    {
+        "message": "Even so, Momiji is handling a two-on-one properly. She looks capable of real combat, not just Jindou."
+    },
+    {
+        "name": "Shizuku",
+        "message": "「U-Um, shouldn't we stop them……！?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「It's fine, it's fine. Recklessness like this turns into youth eventually, you know, yeah.」"
+    },
+    {
+        "message": "Back when I attended this academy too, I got into fights with all sorts of guys. Looking back now, they're all good memories."
+    },
+    {
+        "message": "Well, on top of that, there's also the fact that I want to see Suzakuin Momiji and Kazamine Setsugekka—how those two fight—with my own two eyes."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yoooou, shatter to pieces！！！」"
+    },
+    {
+        "message": "Catching Momiji off guard while she was distracted by Victoria-san, Setsugekka slipped inside her guard. Right after landing a punch, she unleashed a ferocious kick."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ghk……！ You know hand-to-hand martial arts……！？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Damn right, that was Mishima-ryuu Type Hinoto: Enga！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Oh, Setsugekka-san's a practitioner of Mishima-ryuu！」"
+    },
+    {
+        "message": "<d0024>Mishima-ryuu Martial Arts</d> is an ancient school and a practical martial art specialized in taking on sword-wielding fighters."
+    },
+    {
+        "message": "There's someone from the Mishima Family in the Tenju Special Forces Group too. He's a good-natured middle-aged guy who dotes on his niece and always shows off pictures of her."
+    },
+    {
+        "name": "Momiji",
+        "message": "「I see…… In that case, I won’t let you get any closer！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Auh……！」"
+    },
+    {
+        "message": "Setsugekka blocks a flurry of longsword strikes swung at the speed of sound with her arms crossed in an X."
+    },
+    {
+        "message": "In the blink of an eye, the distance between them had been widened."
+    },
+    {
+        "name": "Victoria",
+        "message": "「Hey-hey~ Suzakuin-chan, don’t forget about me, okay！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Guh…… How troublesome……！！」"
+    },
+    {
+        "message": "Just when she thought she’d pushed one back, the other comes closing in. Because of that, Momiji was forced onto the defensive."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Nnyaroooh, take another hit！！」"
+    },
+    {
+        "message": "Using <d0025>Shukuchi</d>, Setsugekka leaps right above the ground to close the gap."
+    },
+    {
+        "message": "Mishima-ryuu originally relies on bare hands and fists and doesn’t use things like Origami."
+    },
+    {
+        "message": "However, she’d added tweaks here and there to make full use of a body strengthened by Origami’s Tenju."
+    },
+    {
+        "name": "Momiji",
+        "message": "「I told you I wouldn’t let you get close！」"
+    },
+    {
+        "message": "Even so, Momiji had the upper hand."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Nnaaaahhh！？」"
+    },
+    {
+        "message": "Taking the full force of Momiji’s all-out blade strike, Setsugekka gets sent flying dramatically all the way to the wings of the stage."
+    },
+    {
+        "message": "Just like that, Setsugekka stopped moving."
+    },
+    {
+        "name": "Shizuku",
+        "message": "「K-, Kazamine-san, is she going to be okay……」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Her Barrier Jacket was deployed, so I think she isn’t injured, but……」"
+    },
+    {
+        "message": "Having taken Momiji’s blow straight on, she might have a concussion."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Now then, the nuisance is gone. Victoria-san, let’s resume our practice match.」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Hmm~, I wonder about that~」"
+    },
+    {
+        "message": "Ahead of Victoria―san’s gaze―Setsugekka staggers to her feet."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Tch…… Damn it all, my guts are boiling over……！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Getting cocky just ‘cause I was playing nice. Should I knock that damn head right off your shoulders……！！」"
+    },
+    {
+        "message": "Setsugekka’s aura completely shifted."
+    },
+    {
+        "message": "Something pitch-black—neither fighting spirit nor miasma—is pouring out from all over her body."
+    },
+    {
+        "message": "Her sharply gleaming eyes held a murderous intent that looked ready to shoot you dead."
+    },
+    {
+        "name": "Iori",
+        "message": "「What is that…… What’s going on！？」"
+    },
+    {
+        "message": "Her vibe is completely different from the Setsugekka from just a moment ago. Like that, she’s practically—"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Suzakuin Momiji…… I’m gonna kill you right here！！！」"
+    },
+    {
+        "message": "The instant Setsugekka kicked off the ground. Before they knew it, Setsugekka’s body was right beside Momiji."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Guh！？」"
+    },
+    {
+        "message": "Setsugekka's fist swings down casually, and Momiji hurriedly catches it. Having caught it, Momiji loses her balance."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Type Kanoe: Gouhou！！！」"
+    },
+    {
+        "message": "Right then, the instant Setsugekka stomps the ground――Setsugekka's fist, thrust straight upward, crosses paths with Momiji's Origami."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Guaaah！？」"
+    },
+    {
+        "message": "Unable to kill the momentum, Momiji is sent flying all the way to the edge of the stage."
+    },
+    {
+        "name": "Victoria",
+        "message": "「Amazin'！ You suddenly got strong, Super Saiya-jin！？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Shut up, you barbarian！」"
+    },
+    {
+        "message": "Setsugekka's arm strikes Victoria like a lariat, knocking her flying toward the edge too."
+    },
+    {
+        "name": "Iori",
+        "message": "「Whoa, whoa……！」"
+    },
+    {
+        "message": "Speed and power beyond any comparison to Setsugekka just moments ago. Including her aura, she's practically a different person."
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Th-That's Kazamine-san going berserk…… We have to call Sasaki-sensei……！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Shizuku-san, you know what that is！？」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Um, Kazamine Setsugekka-san is famous for having a slightly special constitution.」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「From what I've heard, when her emotions flare up, her telepathy/mental-resonance reading shoots up astronomically and becomes immeasurable.」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Her physical ability, speed, and durability are all boosted by orders of magnitude. Because of that, rumors spread even among the third-years.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I see, so she's the type whose potential fluctuates with emotion, just like Victoria-san.」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「If only she just got stronger………」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「When Kazamine-san starts going berserk, her personality suddenly changes and turns violent, and she stops listening to anyone.」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「I heard that around mid-April, Kazamine-san went berserk during class, and the homeroom teacher who tried to stop her got injured.」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「So the homeroom teacher threw in the towel, and Kazamine-san was transferred to another class.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「N-No way, another class……」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Among the first-years who enrolled this year, a class that gathered only problem children that ordinary teachers can't handle……」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「The name is, if I remember right, Takamura Class.」"
+    },
+    {
+        "message": "……I see, so that's how it is."
+    },
+    {
+        "message": "Murakumo Academy is the highest-level educational institution for Jindou."
+    },
+    {
+        "message": "In an academy like that, lacking teachers to teach is strange if you think about it normally."
+    },
+    {
+        "message": "I'd wondered about it, and I finally understand the trick behind it."
+    },
+    {
+        "message": "What do you mean 『It's fine because it's all fun, cute girls』！"
+    },
+    {
+        "name": "Iori",
+        "message": "「Huff, huff, huff... I'll have a good, unhurried talk with Sasaki-sensei later...！」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Um, this isn't the time to be saying leisurely things like having a good talk... If we don't stop Kazamine-san, something terrible is going to happen...！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, that's fine. Leave it to me.」"
+    },
+    {
+        "message": "I take off my jacket and undo the cuff buttons of my dress shirt."
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Huh, b-but...！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「About Takamura Class that I mentioned earlier,」"
+    },
+    {
+        "name": "Iori",
+        "message": "「as of today, I became their sub-homeroom teacher.」"
+    },
+    {
+        "message": "I leap down from the stands onto the stage and approach Setsugekka."
+    },
+    {
+        "name": "Iori",
+        "message": "「You're Kazamine Setsugekka-san, right?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「...What is it, you bastard?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I'm Muragaki Iori, who became your sub-homeroom teacher today. Nice to meet you.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hmph... Like I care. I have no business with you, stand back. I'm going to strike down Suzakuin now.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I can't let you do that. She's my student, too.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「You bastard... Are you planning to get in my way？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Less get in your way and more that I want to talk.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Shut up! I have nothing to talk about with the likes of you!!」"
+    },
+    {
+        "message": "Just as I think she shifts her weight, she charges in like a bullet."
+    },
+    {
+        "name": "Iori",
+        "message": "「...Your back's wide open！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Wha...！？」"
+    },
+    {
+        "message": "Carried by her own momentum, Setsugekka lunges forward and stumbles clumsily. It's because I got behind her and pushed her back."
+    },
+    {
+        "name": "Iori",
+        "message": "「That's dangerous, attacking out of nowhere like that. I don't even have an Origami on me.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「You little...！」"
+    },
+    {
+        "message": "The fist Setsugekka throws only slices through the air where I used to be. It doesn't even graze me."
+    },
+    {
+        "name": "Iori",
+        "message": "「Look closer—your footing's sloppy！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Gah...！？」"
+    },
+    {
+        "message": "Sweeping the leg she stepped forward with toward me, Setsugekka loses her balance and rolls across the ground."
+    },
+    {
+        "name": "Iori",
+        "message": "「Your movements are sloppy. At this rate, you were stronger before you went berserk.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Damn you, looking down on me like that…… I won't forgive you！！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Go easy on you and you let it go to your head, you lowlife！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I'll make you taste the fate of someone who mocked me！！！」"
+    },
+    {
+        "message": "With a roaring sound, a ferocious fighting spirit condenses onto Setsugekka's fist."
+    },
+    {
+        "name": "Iori",
+        "message": "「Whoa, whoa, that's bad news……！」"
+    },
+    {
+        "message": "If she unleashes that all at once, it's going to be a disaster."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hahaha, the fool who had the audacity to call himself my teacher before took this and stayed bedridden for a whole week！！」"
+    },
+    {
+        "message": "It really is a miracle he got away with just being bedridden."
+    },
+    {
+        "message": "If a human without a Barrier Jacket took a hit like that, they'd get blown away without even leaving bones behind."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Here I come, lowlife…… Return to nothingness beneath my fist！」"
+    },
+    {
+        "message": "Setsugekka closing in with Shukuchi"
+    },
+    {
+        "name": "Iori",
+        "message": "「Gah……！！」"
+    },
+    {
+        "message": "No matter what, taking that would be bad news. I scramble backward recklessly."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Take this――Mishima-ryuu Type Mizunoto: Banzetsu！！！」"
+    },
+    {
+        "message": "Her gleaming fist shot out at godlike speed."
+    },
+    {
+        "message": "The form is a pure straight punch, yet with an earth-shaking stomp and Tenju focused on a single point, that blow became a power strike beyond words――"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Whoa, that's amazing……」"
+    },
+    {
+        "message": "In my place, having dodged Setsugekka's devastating blow at the last split second"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Aah…… t-th-the stadium wall」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「We're supposed to use this for the summer Martial Festival…… What are we going to do about this」"
+    },
+    {
+        "message": "The stadium's reinforced outer wall shattered into pieces……. A huge, gaping hole was blown right through it."
+    }
+]

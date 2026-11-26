@@ -1,0 +1,647 @@
+[
+    {
+        "name": "Iori",
+        "message": "「Right, time to head home. Today was a productive day...」"
+    },
+    {
+        "message": "After finishing some errands along the way, I hurried home."
+    },
+    {
+        "message": "The sun was beginning to set—and it was then."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ah, Teacher！ Wait, wait！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ririmu？」"
+    },
+    {
+        "message": "Suddenly, Ririmu came over, waving her hand to stop me."
+    },
+    {
+        "name": "Iori",
+        "message": "「What’s the matter？ I thought you’d already gone home.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「About that. I was waiting to ambush you, Teacher.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Why would you do something like that...？ If you needed something, you could have just messaged me, and I would have come to you.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ah... I guess I just felt like it had to be me doing the approaching this time.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「What do you mean by that？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Well, you know. Uh... I’m sorry about today！」"
+    },
+    {
+        "message": "With that, Ririmu bowed her head."
+    },
+    {
+        "name": "Iori",
+        "message": "「Eh, wh-what！？ What happened？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Well, you know... with the Technical Division kids, and Asahi, and all that stuff, right？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I felt like I’d caused you a lot of trouble, Teacher.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ah, is that what this is about?」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Oh, don’t get me wrong, I don’t think it was all my fault, okay？ I have my own way of thinking too.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「But, well... I actually kinda knew that what you were saying was right, too.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I guess I just couldn’t be honest, or something like that... so, sorry！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Haha, there’s no need to apologize. I’m not angry at all.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「For real？ You’re really not mad？ Even though you warned me over and over, I...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I couldn’t be a teacher if I got angry over something like that. As long as you understand and we’ve cleared the air, that’s all that matters.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Besides, I don’t think what you said was wrong either, Ririmu.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Oh... ehehe, I’m glad to hear that.」"
+    },
+    {
+        "message": "Seemingly relieved by my words, Ririmu smiled shyly."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Oh, that’s right！ I made sure to apologize to the kid from the Technical Division, too.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「And I handed over my Origami, and they said they’d do as much as they could！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Oh, that’s great！ I’m sure they’ll do their best. It’s also very admirable that you were able to apologize properly, Ririmu！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Though, they said it’ll probably break if they try to force it near the limit. That’s why they’re going to try coating it.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「It’s amazing, you know？ They said it was just approved using the latest method. Doesn’t the word ‘latest’ sound so cool？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「The latest... <d0072>Monomolecular Coating</d>, huh. So it’s been completed. If I recall correctly, it’s supposed to be effective, albeit temporarily.」"
+    },
+    {
+        "message": "Still, it’s a time-consuming technique that requires application before every match. I can feel the heart and ambition of that kid in the Technical Division."
+    },
+    {
+        "name": "Iori",
+        "message": "「If you can improve each other, that’s all that matters.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I’ve also been doing some reflecting, I guess you could say. Thanks to you, Teacher, I think I was able to realize a lot of things.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「So... thank you, Teacher.」"
+    },
+    {
+        "message": "Though she averted her eyes slightly, Ririmu thanked me and smiled shyly."
+    },
+    {
+        "message": "Seeing that, I start to feel happy too."
+    },
+    {
+        "name": "Iori",
+        "message": "「I didn’t do anything to be thanked for, but if it helped you grow even a little, Ririmu, then I’m glad.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「But really, I said a lot of awful things. I feel so down whenever I think back on it.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I might be feeling pretty down for a while...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Would you like me to keep you company？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Huh？ Keep me company... what do you mean？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「If you’re feeling down, I thought maybe we could enjoy doing something that’ll cheer you up together.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Of course, we have class tomorrow, so there’s a limit to how long we can stay out.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「For real！？ You’ll keep me company, Teacher！？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, I’ll go along with anything.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Then let’s go, let’s go, let’s go right now！ Let’s go have some fun！ Hurry, hurry, let’s not waste any time！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hahaha, you sure change your mood quickly, Ririmu.」"
+    },
+    {
+        "message": "As she said that, Ririmu pulled my sleeve and started running."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hey, look here, look at this place！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「This is... clothing... no, a boutique for girls?」"
+    },
+    {
+        "message": "Stepping into the shop, it’s an explosion of color. Clothes of every hue are beautifully displayed."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Found ya! Manager! I'm here♪」"
+    },
+    {
+        "name": "Manager",
+        "message": "「Oh, my, my, my, Lily-chan♪ Welcome, I’m so glad you could make it～♪」"
+    },
+    {
+        "message": "It’s just like the Manager to be hugging Ririmu in delight. She’s a broad-shouldered, <d0073>muscular lady</d>."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Sorry I'm late, Manager. And congrats on the shop opening～♪」"
+    },
+    {
+        "name": "Manager",
+        "message": "「Oh, don't you worry about that at all♪ Thank you, Lily-chan.」"
+    },
+    {
+        "name": "Manager",
+        "message": "「But more importantly... I can't believe Lily brought a boyfriend！？ And he’s actually a normal, decent guy. What’s going on？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Too baaad, he’s not my boyfriend. He’s the Sensei who’s teaching me Jindou!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hello. We’ve come here as things have panned out.」"
+    },
+    {
+        "name": "Manager",
+        "message": "「Oh my, oh my, oh my! Is that so!」"
+    },
+    {
+        "name": "Manager",
+        "message": "「Wait, a teacher！？ This girl is close with a teacher！？ No way... I can't believe it！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Heh-heh-hem, your info is outdated, Manager! I’m a serious, diligent student now, you know!」"
+    },
+    {
+        "name": "Manager",
+        "message": "「G-goodness, how times have changed...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Anyway, Manager, show me your prized clothes！」"
+    },
+    {
+        "name": "Manager",
+        "message": "「Yes, of course, take your time～♪」"
+    },
+    {
+        "message": "As she said that, Ririmu started browsing here and there. She really is a bundle of raw action."
+    },
+    {
+        "name": "Manager",
+        "message": "「Ufufu, Lily-chan is a bit eccentric, isn't she？ But at her core, she's a very good girl.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yes, I know. She's a wonderful girl.」"
+    },
+    {
+        "message": "From what I heard, she and the Manager met while Ririmu was running away from home."
+    },
+    {
+        "message": "Back then, she was selling vintage clothes on the street, but after many turns of events, she finally managed to open her dream shop."
+    },
+    {
+        "name": "Manager",
+        "message": "「Back then, Ririmu was really edgy. All the playboys around here were Ririmu's lackeys.」"
+    },
+    {
+        "name": "Manager",
+        "message": "「If she gave the word, it would spark a feud that would put real gangs to shame.」"
+    },
+    {
+        "name": "Manager",
+        "message": "「Compared to those days, she’s really mellowed out, hasn't she～」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ha, ha-ha-ha... That’s incredible...」"
+    },
+    {
+        "message": "What the... Ririmu’s past is way too unsettling. I’m just going to pretend I didn’t hear that..."
+    },
+    {
+        "name": "Iori",
+        "message": "「Wait, come to think of it, where did Ririmu go？ I don't see her—」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「This is amazing！？ It’s super stylish. And this one... wait, they used ruffles here！？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「It’s literally a dream world~♪ Also, this and this and... ugh, there are just too many coordinate materials, I can't decide！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Are you sure about that...」"
+    },
+    {
+        "name": "Manager",
+        "message": "「Lily-chan has <d0096>impeccable</d> taste, you know♪ Much better than mine.」"
+    },
+    {
+        "name": "Manager",
+        "message": "「So just sit back and watch, okay？ Ufufufu.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Oh, is that so.」"
+    },
+    {
+        "message": "According to the manager, Ririmu’s sense of coordination is outstanding. However, it seems she only pursues what fits her own worldview."
+    },
+    {
+        "name": "Iori",
+        "message": "「Ririmu has the soul of a professional even here, I see.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Alrighty！ Manager, lend me the fitting room！」"
+    },
+    {
+        "name": "Manager",
+        "message": "「Take your time♪ Here, it’s going to be a while, so have a seat.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Thank you very much.」"
+    },
+    {
+        "message": "She brought a mountain of clothes into the fitting room and is rummaging around. She must be trying them on to compare."
+    },
+    {
+        "name": "Iori",
+        "message": "「This is definitely going to take a while—」"
+    },
+    {
+        "message": "Or so I thought."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hey~ Iorin, you got a second！？」"
+    },
+    {
+        "message": "At that shout—the fitting room curtain flew open！"
+    },
+    {
+        "name": "Iori",
+        "message": "「W-Whoa！? Ririmu, what are you wearing...！?」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Iorin, this and this！ Which one do you think suits me better？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Eh, no, don't ask me... I mean, more importantly, put something on quickly...！」"
+    },
+    {
+        "message": "Ririmu shows off the clothes she picked out while still in her underwear."
+    },
+    {
+        "message": "She seems to be choosing clothes with the utmost seriousness, but... I don't know where to look！"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Listen, this one is pretty 'me,' right？ A bit devilish, and the color scheme is amazing！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「But like~ it feels like it lacks that girlish touch, you know？ I want more of a girly accent~」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hmm~ oh, I know！ What if I add a scarf? If I do, then the color... maybe orange? Ugh, I can't decide.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「And look at this shirt！ It’s amazing！ The pattern changes depending on the angle you look at it from！ This must be a new material~」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「How do they even do the pattern... look, isn't it crazy how it changes every time you look？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「It’s new and trendy, but the color isn't quite my thing. It needs more of a, how do I put it... ugh, this is hard！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hey Iorin, are you even paying attention~？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ah, I am looking, but... is it really okay for me to be looking...？」"
+    },
+    {
+        "message": "Being this close, there’s no way I couldn't see. Everything from the swell of her chest to the line of her waist is perfectly in view."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ah, geez, I can’t discard either of them！ Think, me... there has to be some kind of, like, snap-worthy combination！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「...Right, there’s no point in choosing just one！ Uh, looking at what I had before... maybe like this？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Yes！ Look, look, isn’t this just perfect！？ It’s a super edgy design, but isn’t it just naturally good？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Eh？ Uh... ah, yeah, I think it’s really good.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「The individual pieces are all different, but they match up really well. It really doesn’t feel out of place at all.」"
+    },
+    {
+        "message": "...But isn't it opened up a bit too much at the chest?"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Right~?! Iorin, you really get it! And to think you chose this, as expected of the Manager~」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ah, bring me that one over there. Which one is the base... yeah, those shorts are good！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Eh, which one is ‘that one over there’！？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Over there, over there！ You should be able to feel it！」"
+    },
+    {
+        "message": "As I stand there confused, the Manager hands me the clothes she was talking about. Do they think I’m some kind of assistant?"
+    },
+    {
+        "name": "Iori",
+        "message": "「You keep coming up with one idea after another, but maybe it’s time to actually... you know, wear them？」"
+    },
+    {
+        "name": "Manager",
+        "message": "「Ufufufu. It’s no use, Sensei, she won’t listen to a word. When Lily-chan gets like that, she’s just like a model.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「A model... you say?」"
+    },
+    {
+        "message": "I ask while balancing the clothes shoved into my arms."
+    },
+    {
+        "name": "Manager",
+        "message": "「Yes, a professional model. During a fashion show, they come out changing outfits one after another, don't they？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Those are all pretty eccentric fashions, though.」"
+    },
+    {
+        "name": "Manager",
+        "message": "「Well, you see, models change clothes stark naked in front of tons of staff members backstage.」"
+    },
+    {
+        "name": "Manager",
+        "message": "「Since changing and fittings are a matter of seconds, after all. That’s why models don’t mind at all if they’re seen naked.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I see, so Ririmu is in that state of mind right now...」"
+    },
+    {
+        "message": "Ririmu's sense and focus are amazing even in Jindou. But perhaps even more so when it comes to fashion."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「...Look! Yes! It came, it came! Iorin, Iorin, isn’t this combination super good too？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「New fashion born！ It really feels like a Flying Lily, doesn’t it?」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「This is definitely the one! Manager, we’re going with this set for today!」"
+    },
+    {
+        "name": "Manager",
+        "message": "「Oh my, so many？ Thank you~♪」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I knew your sense was amazing, Manager. I can always count on finding great stuff here~」"
+    },
+    {
+        "name": "Manager",
+        "message": "「Hehe, you’re the one who’s a natural with style. Oh, would you mind if I used these for a display？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Of course! Go ahead and decorate to your heart’s content~」"
+    },
+    {
+        "name": "Manager",
+        "message": "「Hehe, why not just come work here after you graduate？ I’d love to leave all the coordinating to you, Lily-chan.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Sooo sorry, but I’m planning on launching my own brand, you know~♪」"
+    },
+    {
+        "message": "Seemingly satisfied at last, she hands over the clothes."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Sensei, lend me that thing from before~」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Oh, sure... wait, what’s wrong？」"
+    },
+    {
+        "message": "Just then, Ririmu’s hands suddenly stop moving."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「H-huh...？ Sensei is there, and I’m here... and I’m currently in my underwear...？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Whaaaaaaaaaaah！？ W-w-why are you looking, Sensei！？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I-it’s a bit late to bring that up now, don't you think！？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hey, don't look so much！ Even if it’s you, Sensei, it’s still embarrassing, you know~！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Attacking your student is against the rules, right！？ That kind of thing is off-limits until I give the go-ahead！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I-I have no idea what you’re talking about！？ Just put your clothes on！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I will！ I’m gonna wear something super cute！ The only time I’d ever be caught without clothes is ‘those times,’ anyway！」"
+    },
+    {
+        "name": "Manager",
+        "message": "「Fufu. I’m relieved to see you two get along so well.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Don't just stand there feeling all warm and fuzzy, help me out！」"
+    },
+    {
+        "name": "Manager",
+        "message": "「Yes, yes. There now, Lily-chan, calm down. Let’s just head back to the fitting room.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Uuu, he saw... Sensei saw everything~」"
+    },
+    {
+        "message": "Calmed slightly by the manager’s words, Ririmu heads back into the fitting room."
+    },
+    {
+        "message": "However, even after she went inside, her embarrassed voice could be heard for a while."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Nom, munch munch... nnh~！ The crepes at this shop really are delicious~♪」"
+    },
+    {
+        "message": "We left the boutique—and to get her back in a good mood, we ended up touring a few sweets shops."
+    },
+    {
+        "message": "Since every one of them was recommended by Ririmu, they were indeed delicious."
+    },
+    {
+        "name": "Iori",
+        "message": "「Have you cheered up even a little bit？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Fixed it, fixed it. I totally forgive you！ I'm in such a good mood I could forgive any villain in the world right now～」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Is it really that big of a deal?」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Eating sweets just makes you happy, doesn't it? Oh, let's head to that shop next! Their eclairs look super Instagrammable～」"
+    },
+    {
+        "name": "Iori",
+        "message": "「A-aren't you eating a bit too much？ This is the fifth shop already.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「It's fine, it's fine. I'll just burn it off by moving around later!」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Instead of holding back on what you love just to stay lazy, isn't it better to work hard so you can do what you love？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You're right... I suppose that's true.」"
+    },
+    {
+        "message": "That, too, was truly like Ririmu, and it wasn't a bad thing."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「So with that said, let's keep going full steam ahead！ I'm pretty sure that place over there has those mega-sized sweets that look great in photos too～♪」"
+    },
+    {
+        "message": "Ririmu truly gives her all for the things she loves."
+    },
+    {
+        "message": "As I chased after the free―spirited Ririmu―I felt myself naturally starting to have fun as well."
+    }
+]

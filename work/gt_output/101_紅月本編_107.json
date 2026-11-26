@@ -1,0 +1,560 @@
+[
+    {
+        "message": "All matches concluded, and the Martial Festival qualifiers came to an end."
+    },
+    {
+        "message": "Momiji and Setsugekka had already secured their spots in the main tournament, so I had them head home early."
+    },
+    {
+        "message": "The only ones here now are Ririmu, who has regained consciousness, and Asahi, who was looking after her."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「…………」"
+    },
+    {
+        "message": "Ririmu is crestfallen and has been silent for a while now."
+    },
+    {
+        "name": "Iori",
+        "message": "「You both did your best today. Let's get some proper rest now.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「…………」"
+    },
+    {
+        "message": "Neither Ririmu nor Asahi responds. Having lost the words they should say, they walk the path toward the dorms in silence."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「……Hey, how did it go for you, Asahi？」"
+    },
+    {
+        "message": "In that moment, it was Ririmu who broke the silence."
+    },
+    {
+        "name": "Asahi",
+        "message": "「I...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Just tell me. You're not the type to be bashful about something like that, right?」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Well... I won.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I see. Congrats, Asahi.」"
+    },
+    {
+        "message": "With her victory in today's match, Asahi had scraped into 8th place in the qualifiers, securing her spot in the main tournament."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「*Sigh*... I guess I'm the only one who got knocked out of the qualifiers, huh?」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ririmu...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「What's with that face, Asahi！ It's fine, really. I just didn't have enough strength, that's all there is to it.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「If I wanted to win for real, I should've listened to your advice and played a war of attrition, right?」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「But I didn't. Because that's just not my style！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I lost because of that, so it's all on me. It just means I wasn't strong enough to power through.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「But...」"
+    },
+    {
+        "message": "Asahi looks like she wants to say something, but falls silent."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Well, my Martial Festival is over, but deciding what happens next is up to me.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Right? Isn't that so, Iori-rin?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「……That's right. It's cruel, but that's the world of competition.」"
+    },
+    {
+        "message": "The 'style' Ririmu has been talking about... Unfortunately, this is as far as it goes this time."
+    },
+    {
+        "message": "A harsh reality every athlete faces at least once. She has to overcome it."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ririmu, I...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hey, stop it, Asahi. It's not fair that you're making a gloomier face than me, the one who lost!」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Asahi, you've still got the main tournament coming up. You should be thinking only about that right now.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「…………」"
+    },
+    {
+        "message": "Up until now, Asahi had been refining her skills alongside Ririmu, analyzing their matches and pointing out each other's flaws together."
+    },
+    {
+        "message": "Perhaps that’s exactly why she couldn't just let it go."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「More importantly, the real problem is that Arakawa-senpai has qualified for the main tournament, right?」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Personally, that's what's actually frustrating me...！」"
+    },
+    {
+        "message": "By securing a victory against Ririmu, Arakawa had locked in her spot for the main tournament as the 6th qualifier."
+    },
+    {
+        "name": "Asahi",
+        "message": "「...I suppose so.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ugh, seriously! Arakawa-senpai is so annoying!」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「...Huh？」"
+    },
+    {
+        "message": "Just as they were talking about her, the person in question was nearby."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「What? Oh, it's the phantom girl from earlier.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「It's Tobe Ririmu! At least try to remember my name!」"
+    },
+    {
+        "message": "Arakawa approached with a languid look on her face."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「My bad. I've got a crappy memory.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Besides, there's no point in remembering the name of some small-fry fencer, is there?」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「...You really have such a foul mouth, you know that?！」"
+    },
+    {
+        "message": "Perhaps still keyed up from the match, Ririmu snapped back."
+    },
+    {
+        "name": "Iori",
+        "message": "「Ririmu, that's enough.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「No, this isn't a situation where I should be holding back. Sensei, just stay quiet for a second！」"
+    },
+    {
+        "message": "She stepped forward aggressively, glaring at Arakawa."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I was thinking this during the match, too—what's your deal？ Swinging a stick around just to kill time while wearing that flashy outfit！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I'm betting my life on Jindou, and this outfit is part of my world view！」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Heh... if that's the case, then yours is a pretty cheap life.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hah！？ I don't know what kind of painful experiences you've been through, Senpai！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「But my life isn't so carefree that you can just dismiss it as cheap！」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「...Then tell me, have you ever had an iron rod that was stuck in a bonfire pressed against you？」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Ever spent the night in the middle of a winter rain wearing nothing but a T-shirt？」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Ever been stabbed by your own father with a kitchen knife without a Barrier Jacket on, and come that close to dying?」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I-I haven't... ever experienced anything like that...」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「That little stunt you pulled at the end? Compared to what I've been through, it was nothing.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「But you were pissing your pants over that little bit, weren't you？ That’s what it really comes down to.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「The pain and problems of you rich kids are superficial at best. As far as I'm concerned, they don't even count as hardship.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「There are plenty of people out there living through hellish struggles you don't even know exist...！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「…………」"
+    },
+    {
+        "message": "Ririmu falls silent under the sheer intensity of Arakawa's presence."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Jindou is nothing more than a game for the warrior class.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「But y'know, it's also a game that can be used to crush those very people from the warrior class who take it so seriously.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「You get that, Tobe Ririmu?」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「I do Jindou for the sole purpose of knocking down flighty little princesses like you who don't know the first thing about the real world.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Hmph, serves you right.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「What is that... is that what I lost to...！？」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Yeah, that's it. Feel the sting of it, princess.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「You lost to a shitty, poor nobody who uses a lame nagamaki and can't even afford to dress herself properly.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Guh... ughhh...」"
+    },
+    {
+        "message": "Ririmu gnashes her teeth."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「That last move of yours—you couldn't even control your own power. What was that？」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「I don't know how you even managed to show up for a match in that state. You haven't trained enough, you idiot！」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Worst of all, you were screaming your head off at a phantom you created yourself.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Don't go getting spooked by your own damn tricks！ Don't you have any shame as a swordsman?」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hic... b-but I... I tried my best...！」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「You ran out of breath halfway through, and that's your 'best'？ That's exactly why you're just a pampered rich girl！」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「If you really wanted to win, you should've been running five hours a day！ That’s what it means to actually try！」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Everything you do is half-assed！ That's why you're always coddling yourself！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Gh... u, uuu... uuuuuuu...！！」"
+    },
+    {
+        "message": "Finally, Ririmu burst into tears."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「You don't put in any real effort, but you still bark like a loser. That's why your Jindou is nothing more than child's play.」"
+    },
+    {
+        "message": "...I had stayed quiet because Ririmu told me to, but my patience was wearing thin."
+    },
+    {
+        "message": "Just as I thought that and started to speak up—"
+    },
+    {
+        "name": "Asahi",
+        "message": "「...That is enough！！！」"
+    },
+    {
+        "message": "Asahi shouted."
+    },
+    {
+        "name": "Asahi",
+        "message": "「I've been listening to you in silence, but you keep saying whatever you please. Without even knowing the first thing about Ririmu-san...！！」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「No, I know plenty. We just fought, and I won. She put on a pathetic display and lost to me.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「What else do I need to know beyond that？」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「In the world of competition, once you lose, anything you say is just the howling of a loser...！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ririmu-san has... put in more effort than any normal person. I have been by her side watching that the whole time.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「She has never once let her wealth make her arrogant, nor has she ever neglected her training.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ririmu-san does not deserve to be insulted by a despicable, pathetic person like you who turns their own circumstances into violence against others.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「So, retract your statement right now...！」"
+    },
+    {
+        "message": "With her words filled with indignation and resolve, Asahi declares."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Heh, so you're trying to pick a fight with me? Interesting...！」"
+    },
+    {
+        "message": "She met Asahi’s gaze, glaring back with eyes full of madness."
+    },
+    {
+        "name": "Asahi",
+        "message": "「You will apologize to Ririmu-san, one way or another...！！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...Asahi, let's leave it at that.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「No, Iori-sensei... I cannot back down here！」"
+    },
+    {
+        "message": "It was fortunate that neither of them had their Origami in hand, but the situation was at a breaking point."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「...Tch, I can't even get into a proper fight with a teacher hanging around.」"
+    },
+    {
+        "message": "Perhaps feeling her momentum fade, Arakawa-san turned on her heel."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Wait! Are you trying to run away!!」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「...Demanding I retract my words or bow my head—how annoying. If you're a fencer, there's a more straightforward way to handle this, right?」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「If it burns you up so much, try beating me. If you do that, I'll be forced to bow my head whether I like it or not.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Fine. I’ll be the one to avenge you, Ririmu.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Hah, what spirit. Then you’d better make sure you survive until you face me.」"
+    },
+    {
+        "message": "Saying that much, Arakawa finally left."
+    },
+    {
+        "name": "Iori",
+        "message": "「…………」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「……sniff, ugh……」"
+    },
+    {
+        "message": "Beaten to the punch by Asahi, I found myself with no role to play. I reached out, thinking to at least comfort Ririmu."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「……what do you think you’re doing.」"
+    },
+    {
+        "message": "Startled, I pulled my hand back."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ririmu...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「What do you think you’re doing, Asahi！」"
+    },
+    {
+        "message": "Ririmu looked up, her face burning with anger."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「My match is my own, and my loss is my own, too!」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「It has nothing to do with you, Asahi！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ririmu, that’s……」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Stay out of this, Teach！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ah, right……」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I…… I couldn’t say a single thing back to her. It was so, so frustrating……！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「But, that frustration is mine！ Don’t go taking it for yourself, Asahi！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「……I’m sorry.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ugh, jeez, I wanted to win too！ I wanted to go to the main tournament too！！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「If you just swoop in and steal the spotlight like that, then I’m just a joke, aren’t I！！！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「‘Avenge me,’ my foot！ Don’t act so cool！ I never asked you to do that for me！！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I hate this! You’re an idiot, Asahi, waaaaaaah!!!」"
+    },
+    {
+        "message": "Crying, Ririmu ran off."
+    },
+    {
+        "name": "Asahi",
+        "message": "「…………」"
+    },
+    {
+        "message": "Neither Asahi nor I went after her. Because even if we did, we had no words to offer her."
+    },
+    {
+        "name": "Asahi",
+        "message": "「I wonder… did I hurt Ririmu’s feelings……」"
+    },
+    {
+        "name": "Iori",
+        "message": "「It’ll be okay, Asahi.」"
+    },
+    {
+        "message": "Ririmu must know that Asahi didn't speak up to Arakawa with any malicious intent."
+    },
+    {
+        "message": "But that is exactly why it hurts."
+    },
+    {
+        "message": "There are times when a person just can't honestly accept the kindness directed toward them."
+    },
+    {
+        "name": "Iori",
+        "message": "「Ririmu will surely bounce back. So until then, it's best we leave her be.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「...Understood.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「However, whether Ririmu-san wants it or not, I will not budge on this.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I will make sure Arakawa Sonomi bows her head to her.」"
+    },
+    {
+        "message": "Asahi's eyes, filled with hidden resolve, looked as though they wouldn't change no matter what words were spoken to her."
+    },
+    {
+        "name": "Iori",
+        "message": "「...You're right. Let's do our best.」"
+    },
+    {
+        "message": "With that encouragement, I gave Asahi's shoulder a gentle pat."
+    }
+]

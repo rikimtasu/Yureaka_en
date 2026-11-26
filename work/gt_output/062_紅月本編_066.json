@@ -1,0 +1,391 @@
+[
+    {
+        "name": "Setsugekka",
+        "message": "「Ugh, ow, ow, ow……」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「You okay?」"
+    },
+    {
+        "message": "Setsugekka walks over slowly, holding her lower back."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「'Okay'? How could I possibly be okay? You beat the living daylights out of me, you jerk！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「You could’ve held back a little!」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「You were the one who told me to come at you with no holding back, weren’t you?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Did I？ Well, I forgot all about that！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「How convenient your brain is.」"
+    },
+    {
+        "message": "I walk slowly alongside Setsugekka, who has finally caught up to me."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Haaah, Momimomi really is strong, huh.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Well, yeah.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「At this rate, there’s no way I can win, huh? What a pain.」"
+    },
+    {
+        "message": "I’ve practiced sparring matches against Setsugekka many times now."
+    },
+    {
+        "message": "My record is 23 wins and zero losses. In fact, Setsugekka hasn’t even landed a single hit on me."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Why don't you just give up already？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Are you stupid? If I did that, I wouldn't even know why I came to this academy anymore!」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I’m going to beat Suzakuin no matter what！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Geez, what’s so fun about that?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Well, win or lose, Jindou is fun. Just doing it is enjoyable, you know~」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Is that right? Then it doesn't really matter if you can't beat me, does it?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「That’s a completely different story.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「The Setsugekka in me finds Jindou fun just for the sake of it, but the Kazamine in me has to beat Suzakuin.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Well, I might not look it, but I’m a complicated person.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I don’t think you’re as complicated as you say. I’m the same way, after all.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「The Suzakuin in me has to become Toujinegi no matter what, but personally, I don’t really feel that way at all.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Then why do you do Jindou, Momimomi, personally speaking？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Huh？ Um... I wonder why.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「You don't even know?!」"
+    },
+    {
+        "message": "Now that she mentions it, I realize."
+    },
+    {
+        "message": "Ever since I was born, as a Suzakuin, I've been expected to win in Jindou as a matter of course."
+    },
+    {
+        "message": "Because of that, I never really thought about what I myself wanted to do."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Well, I'll find something eventually.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Not being able to beat someone who practices Jindou with such a half-hearted attitude... This world really is unfair!」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Don't call it half-hearted.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yowch... Ow, ow, it's not just my back, my butt hurts too...」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Are you okay？ Want to lean on my shoulder？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hmph! As if a Kazamine could ever lean on a Suzakuin's shoulder!」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Yeah, yeah, if you say so.」"
+    },
+    {
+        "message": "Honestly, she's so stubborn."
+    },
+    {
+        "message": "—Just then, a few female academy students came walking toward us."
+    },
+    {
+        "name": "Female Student A",
+        "message": "「Ah...？！ H-Hello there...」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Hello.」"
+    },
+    {
+        "name": "Female Student A",
+        "message": "「Well then, please excuse me...」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Yes, good day.」"
+    },
+    {
+        "message": "I see them off with a bright smile."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Phew, time for a little break...」"
+    },
+    {
+        "message": "Setsugekka comes to a halt, lightly tapping her lower back."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「That girl just now—someone you know, Momimomi？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Yeah, well, an old acquaintance.」"
+    },
+    {
+        "message": "I can hear the voices of the girls walking away."
+    },
+    {
+        "name": "Female Student B",
+        "message": "「Hey, hey, that was her just now, right—one of the Suzakuins? You know her?」"
+    },
+    {
+        "name": "Female Student A",
+        "message": "「H-Hey, keep your voice down...！ I just used to practice at the same dojo with her in the past, that's all.」"
+    },
+    {
+        "name": "Female Student B",
+        "message": "「Whoa, so you're from the same school？ That's awesome！ Introduce me next time—I've been wanting to talk to her.」"
+    },
+    {
+        "name": "Female Student A",
+        "message": "「...You'd better not get too involved with her.」"
+    },
+    {
+        "name": "Female Student B",
+        "message": "「Huh? Why?」"
+    },
+    {
+        "name": "Female Student A",
+        "message": "「I mean, she's just way too strong. She's on a completely different level—it's totally demoralizing, and just being around her would break your spirit.」"
+    },
+    {
+        "name": "Female Student B",
+        "message": "「Really？ Isn't she a first-year just like us, though？」"
+    },
+    {
+        "name": "Female Student A",
+        "message": "「We used to go to the same dojo back in elementary school, and even back then she was already stronger than the head instructor.」"
+    },
+    {
+        "name": "Female Student B",
+        "message": "「Yikes, what the heck... Isn't she a monster？」"
+    },
+    {
+        "name": "Female Student A",
+        "message": "「Yeah, the Suzakuin bloodline is pure thoroughbred. Ordinary people have nothing to gain by getting close to them.」"
+    },
+    {
+        "name": "Female Student B",
+        "message": "「More importantly, who was that girl next to her again？」"
+    },
+    {
+        "name": "Female Student A",
+        "message": "「Oh, I feel like I've seen her somewhere before, too. ...Oh, I remember! That's it—she's from the Kazamine family.」"
+    },
+    {
+        "name": "Female Student B",
+        "message": "「Oh right, the Kazamine Group！」"
+    },
+    {
+        "message": "Their voices gradually grew more distant. Still, because they were talking so loudly, every word carried straight over to us."
+    },
+    {
+        "name": "Female Student B",
+        "message": "「Still, I wonder why a Kazamine is hanging out with a Suzakuin.」"
+    },
+    {
+        "name": "Female Student A",
+        "message": "「Well, you know, probably trying to curry favor with them. I mean, they're merchants at heart, right？」"
+    },
+    {
+        "name": "Female Student B",
+        "message": "「Oh, maybe that's it. If they can't rise on actual skill, they should just give up being a martial family and stick to business... Hehe.」"
+    },
+    {
+        "message": "After that, they walked off into the distance, still chatting away happily about something or other."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「…………」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「…………」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hey, Momimomi.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「W-What？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「What are you planning to have for dinner tonight？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I haven't really decided yet, though.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Oh, I see. Okay, I'll come over later, then.」"
+    },
+    {
+        "message": "I wonder if Setsugekka didn't hear that conversation just now."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「...Aww man, you've got it so good, Momimomi！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「About what？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Just thinking how the difference between the Suzakuins and the Kazamines really shows at times like this.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「So you really did hear them.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Of course I heard them when they were talking that loudly.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「...Does it bother you？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Well, I'd be lying if I said it didn't.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「In fact, it's because the public thinks of us like that that Kei-chan's working so hard to lift up the Kazamine name.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Still, I guess it can't be helped. Truth is, Kazamine hasn't had any strong swordsmen up until now.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Which is exactly why this year, I'm gonna wiiin！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Once I win the Martial Festival and become Toujinegi, they'll be way too embarrassed to say stuff like that anymore.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hmph, they can go ahead and borrow all the sore-loser whining they want in advance while they still can.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Once I make it big, they can suffer under all that debt!」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Pfft, ahahaha!」"
+    },
+    {
+        "message": "I couldn't help bursting out laughing at Setsugekka's endless positivity."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Wh-What are you laughing at？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Nothing, I just thought that's really great. You're the best, Secchan.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hey, you're making fun of me again, aren't you!」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Not at all. I genuinely envy you.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Huh~ Are you really sure about that~」"
+    },
+    {
+        "message": "I stepped up beside Setsugekka and draped her arm around my neck."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Wh-What are you doing？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Your back hurts, doesn't it? Stop acting tough and come on, let's go.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ah, yeah... thanks.」"
+    },
+    {
+        "message": "And so, feeling Setsugekka's weight on my shoulder."
+    },
+    {
+        "message": "We leaned close against each other and headed for the dorms."
+    }
+]

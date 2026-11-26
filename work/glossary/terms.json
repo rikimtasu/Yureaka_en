@@ -1,0 +1,2063 @@
+{
+  "schema": "yureaka-en-glossary/1",
+  "reference": "https://vndb.org/v28712",
+  "title_jp": "紅月ゆれる恋あかり",
+  "title_en": "Akatsuki Yureru Koi Akari",
+  "conventions": {
+    "honorifics": "keep",
+    "ruby": "drop",
+    "name_order": "Family Given for full formal names (matching VNDB), Given name in casual speech/speaker box"
+  },
+  "characters": [
+    {
+      "jp": "村垣伊織",
+      "en": "Muragaki Iori",
+      "note": "Protagonist (VNDB c91892), male, homeroom sub-teacher"
+    },
+    {
+      "jp": "村垣",
+      "en": "Muragaki",
+      "note": "Surname of Muragaki Iori"
+    },
+    {
+      "jp": "伊織",
+      "en": "Iori",
+      "note": "Given name of Muragaki Iori (male)"
+    },
+    {
+      "jp": "朱雀院紅葉",
+      "en": "Suzakuin Momiji",
+      "note": "Heroine (VNDB c91890), female"
+    },
+    {
+      "jp": "朱雀院",
+      "en": "Suzakuin",
+      "note": "Surname of Suzakuin family (Momiji, Miyako, Tsubaki)"
+    },
+    {
+      "jp": "紅葉",
+      "en": "Momiji",
+      "note": "Given name of Suzakuin Momiji (female)"
+    },
+    {
+      "jp": "風嶺雪月花",
+      "en": "Kazamine Setsugekka",
+      "note": "Heroine (VNDB c91888), female"
+    },
+    {
+      "jp": "風嶺",
+      "en": "Kazamine",
+      "note": "Surname of Kazamine family (Setsugekka, Keisetsu)"
+    },
+    {
+      "jp": "雪月花",
+      "en": "Setsugekka",
+      "note": "Given name of Kazamine Setsugekka (female)"
+    },
+    {
+      "jp": "九鬼旭",
+      "en": "Kuki Asahi",
+      "note": "Heroine (VNDB c91889), female"
+    },
+    {
+      "jp": "九鬼",
+      "en": "Kuki",
+      "note": "Surname of Kuki family (Asahi, Takahisa)"
+    },
+    {
+      "jp": "旭",
+      "en": "Asahi",
+      "note": "Given name of Kuki Asahi (female)"
+    },
+    {
+      "jp": "十部梨々夢",
+      "en": "Tobe Ririmu",
+      "note": "Heroine (VNDB c91891), female"
+    },
+    {
+      "jp": "十部",
+      "en": "Tobe",
+      "note": "Surname of Tobe Ririmu"
+    },
+    {
+      "jp": "梨々夢",
+      "en": "Ririmu",
+      "note": "Given name of Tobe Ririmu (female)"
+    },
+    {
+      "jp": "リリィ",
+      "en": "Lily",
+      "note": "Nickname for Tobe Ririmu"
+    },
+    {
+      "jp": "天王寺ヴィクトリア",
+      "en": "Tennouji Victoria",
+      "note": "Side character (VNDB c92307), female, reigning Toujinegi"
+    },
+    {
+      "jp": "天王寺",
+      "en": "Tennouji",
+      "note": "Surname of Tennouji Victoria"
+    },
+    {
+      "jp": "ヴィクトリア",
+      "en": "Victoria",
+      "note": "Given name of Tennouji Victoria (female)"
+    },
+    {
+      "jp": "ヴィッキー",
+      "en": "Vicky",
+      "note": "Nickname for Tennouji Victoria"
+    },
+    {
+      "jp": "源雫",
+      "en": "Minamoto Shizuku",
+      "note": "Side character (VNDB c92308), female, Victoria's second/attendant"
+    },
+    {
+      "jp": "源",
+      "en": "Minamoto",
+      "note": "Surname of Minamoto Shizuku (also TIPS d0015 Minamoto clan)"
+    },
+    {
+      "jp": "雫",
+      "en": "Shizuku",
+      "note": "Given name of Minamoto Shizuku (female)"
+    },
+    {
+      "jp": "荒川園美",
+      "en": "Arakawa Sonomi",
+      "note": "Side character (VNDB c92309), female"
+    },
+    {
+      "jp": "荒川",
+      "en": "Arakawa",
+      "note": "Surname of Arakawa Sonomi"
+    },
+    {
+      "jp": "園美",
+      "en": "Sonomi",
+      "note": "Given name of Arakawa Sonomi (female)"
+    },
+    {
+      "jp": "風嶺蛍雪",
+      "en": "Kazamine Keisetsu",
+      "note": "Side character (VNDB c92310), female, Setsugekka's relative/client"
+    },
+    {
+      "jp": "蛍雪",
+      "en": "Keisetsu",
+      "note": "Given name of Kazamine Keisetsu (female)"
+    },
+    {
+      "jp": "ケイちゃん",
+      "en": "Kei-chan",
+      "note": "Nickname for Kazamine Keisetsu"
+    },
+    {
+      "jp": "佐々木巫琴",
+      "en": "Sasaki Mikoto",
+      "note": "Side character (VNDB c65005), female, academy doctor"
+    },
+    {
+      "jp": "佐々木",
+      "en": "Sasaki",
+      "note": "Surname of Sasaki Mikoto"
+    },
+    {
+      "jp": "巫琴",
+      "en": "Mikoto",
+      "note": "Given name of Sasaki Mikoto (female)"
+    },
+    {
+      "jp": "朱雀院都子",
+      "en": "Suzakuin Miyako",
+      "note": "Side character (VNDB c92970), female"
+    },
+    {
+      "jp": "都子",
+      "en": "Miyako",
+      "note": "Given name of Suzakuin Miyako (female)"
+    },
+    {
+      "jp": "朱雀院椿",
+      "en": "Suzakuin Tsubaki",
+      "note": "Side character (VNDB c92971), female"
+    },
+    {
+      "jp": "椿",
+      "en": "Tsubaki",
+      "note": "Given name of Suzakuin Tsubaki (female)"
+    },
+    {
+      "jp": "九鬼隆久",
+      "en": "Kuki Takahisa",
+      "note": "Side character (VNDB c94719), male (also TIPS d0028)"
+    },
+    {
+      "jp": "隆久",
+      "en": "Takahisa",
+      "note": "Given name of Kuki Takahisa (male)"
+    },
+    {
+      "jp": "中邑さくら",
+      "en": "Nakamura Sakura",
+      "note": "Side character (VNDB c157028), female (also TIPS d0026)"
+    },
+    {
+      "jp": "中邑",
+      "en": "Nakamura",
+      "note": "Surname of Nakamura Sakura"
+    },
+    {
+      "jp": "さくら",
+      "en": "Sakura",
+      "note": "Given name of Nakamura Sakura (female)"
+    },
+    {
+      "jp": "佐々鳴子",
+      "en": "Sassa Naruko",
+      "note": "Side character (VNDB c157029), female"
+    },
+    {
+      "jp": "佐々",
+      "en": "Sassa",
+      "note": "Surname of Sassa Naruko"
+    },
+    {
+      "jp": "鳴子",
+      "en": "Naruko",
+      "note": "Given name of Sassa Naruko (female)"
+    },
+    {
+      "jp": "朝霧ミドリ",
+      "en": "Asagiri Midori",
+      "note": "Recurring character, JGSDF Major (三等陸佐, TIPS d0040)"
+    },
+    {
+      "jp": "柾胤",
+      "en": "Masatane",
+      "note": "Named character (also TIPS d0033)"
+    },
+    {
+      "jp": "柾盛",
+      "en": "Masamori",
+      "note": "Named historical/family figure"
+    },
+    {
+      "jp": "凛",
+      "en": "Rin",
+      "note": "Minor named character"
+    },
+    {
+      "jp": "紗月",
+      "en": "Satsuki",
+      "note": "Referenced character (TIPS d0059)"
+    },
+    {
+      "jp": "槇之丞",
+      "en": "Makinojou",
+      "note": "Named historical/martial figure"
+    },
+    {
+      "jp": "嶺庵",
+      "en": "Ryouan",
+      "note": "Named figure"
+    },
+    {
+      "jp": "ジェームズ・主水",
+      "en": "James Mondo",
+      "note": "Parody/referenced name (TIPS d0047)"
+    },
+    {
+      "jp": "ヨリシロくん",
+      "en": "Yorishiro-kun",
+      "note": "Mascot/device character (TIPS d0085)"
+    }
+  ],
+  "speaker_names": {
+    "伊織": "Iori",
+    "雪月花": "Setsugekka",
+    "紅葉": "Momiji",
+    "旭": "Asahi",
+    "梨々夢": "Ririmu",
+    "蛍雪": "Keisetsu",
+    "ヴィクトリア": "Victoria",
+    "園美": "Sonomi",
+    "雫": "Shizuku",
+    "巫琴": "Mikoto",
+    "都子": "Miyako",
+    "佐々鳴子": "Sassa Naruko",
+    "中邑さくら": "Nakamura Sakura",
+    "隆久": "Takahisa",
+    "立会人": "Umpire",
+    "椿": "Tsubaki",
+    "朝霧ミドリ": "Asagiri Midori",
+    "？？？": "???",
+    "店長": "Manager",
+    "柾胤": "Masatane",
+    "女の子": "Girl",
+    "凛": "Rin",
+    "女子生徒Ａ": "Female Student A",
+    "女子生徒Ｂ": "Female Student B",
+    "師匠": "Master",
+    "ナレーター": "Narrator",
+    "観客Ａ": "Spectator A",
+    "ヨリシロくん": "Yorishiro-kun",
+    "全員": "Everyone",
+    "女子生徒": "Female Student",
+    "観客Ｂ": "Spectator B",
+    "技巧科の生徒": "Technical Division Student",
+    "梨々夢の父": "Ririmu's Father",
+    "道場の後輩Ａ": "Dojo Junior A",
+    "店員": "Clerk",
+    "メイド": "Maid",
+    "教師": "Teacher",
+    "アナウンサー": "Announcer",
+    "秘書": "Secretary",
+    "蛍雪の部下": "Keisetsu's Subordinate",
+    "観客Ｃ": "Spectator C",
+    "観客Ｄ": "Spectator D",
+    "警察官": "Police Officer",
+    "みんな": "Everyone",
+    "刃道トレーナー": "Jindou Trainer",
+    "場内アナウンス": "PA Announcement",
+    "旭＆梨々夢": "Asahi & Ririmu",
+    "梨々夢の母": "Ririmu's Mother",
+    "琴の先生": "Koto Instructor",
+    "男の子": "Boy",
+    "観客たち": "Spectators",
+    "観客Ｅ": "Spectator E",
+    "観客Ｆ": "Spectator F",
+    "道場の後輩Ｂ": "Dojo Junior B",
+    "雪月花＆旭＆梨々夢": "Setsugekka, Asahi & Ririmu",
+    "雪月花＆梨々夢": "Setsugekka & Ririmu",
+    "雪月花＆紅葉": "Setsugekka & Momiji",
+    "ヴィクトリア＆雪月花": "Victoria & Setsugekka",
+    "学園システム": "Academy System",
+    "旭＆紅葉": "Asahi & Momiji",
+    "親戚Ａ": "Relative A",
+    "親戚Ｂ": "Relative B",
+    "運転手": "Driver",
+    "雪月花＆園美": "Setsugekka & Sonomi",
+    "雪月花＆都子": "Setsugekka & Miyako",
+    "雫＆紅葉": "Shizuku & Momiji"
+  },
+  "terms": [
+    {
+      "jp": "紅月ゆれる恋あかり",
+      "en": "Akatsuki Yureru Koi Akari",
+      "cat": "title",
+      "note": "Official VNDB romaji title"
+    },
+    {
+      "jp": "叢雲学園",
+      "en": "Murakumo Academy",
+      "cat": "location",
+      "note": "TIPS d0000; Jindou academy"
+    },
+    {
+      "jp": "住吉学府",
+      "en": "Sumiyoshi Academic Island",
+      "cat": "location",
+      "note": "Artificial island in Osaka Bay"
+    },
+    {
+      "jp": "篁組",
+      "en": "Takamura Class",
+      "cat": "organization",
+      "note": "Iori's homeroom class (篁=Takamura)"
+    },
+    {
+      "jp": "武芸科",
+      "en": "Martial Arts Division",
+      "cat": "organization",
+      "note": "TIPS d0006"
+    },
+    {
+      "jp": "技巧科",
+      "en": "Technical Division",
+      "cat": "organization",
+      "note": "TIPS d0007"
+    },
+    {
+      "jp": "主計科",
+      "en": "Quartermaster Division",
+      "cat": "organization",
+      "note": "TIPS d0008"
+    },
+    {
+      "jp": "叢雲演武祭",
+      "en": "Murakumo Martial Festival",
+      "cat": "event",
+      "note": "TIPS d0009; annual academy tournament"
+    },
+    {
+      "jp": "天呪特科群『武蔵』",
+      "en": "Tenju Special Forces Group \"Musashi\"",
+      "cat": "organization",
+      "note": "TIPS d0002; JGSDF special unit"
+    },
+    {
+      "jp": "武蔵",
+      "en": "Musashi",
+      "cat": "organization",
+      "note": "Short for Tenju Special Forces Group Musashi"
+    },
+    {
+      "jp": "朱鴉",
+      "en": "Akegarasu",
+      "cat": "organization",
+      "note": "JGSDF special unit (reading: あけがらす)"
+    },
+    {
+      "jp": "神所霊庁",
+      "en": "Spirit Agency",
+      "cat": "organization",
+      "note": "TIPS d0106; government supernatural bureau"
+    },
+    {
+      "jp": "佩刀護身会",
+      "en": "Sword-Bearing Self-Defense Association",
+      "cat": "organization",
+      "note": "TIPS d0011"
+    },
+    {
+      "jp": "朱雀院家",
+      "en": "Suzakuin Family",
+      "cat": "organization",
+      "note": "TIPS d0010"
+    },
+    {
+      "jp": "風嶺家",
+      "en": "Kazamine Family",
+      "cat": "organization",
+      "note": "TIPS d0030"
+    },
+    {
+      "jp": "風嶺グループ",
+      "en": "Kazamine Group",
+      "cat": "organization",
+      "note": "TIPS d0038"
+    },
+    {
+      "jp": "大上家",
+      "en": "Ookami Family",
+      "cat": "organization",
+      "note": "TIPS d0076 (reading: おおかみけ)"
+    },
+    {
+      "jp": "三城家",
+      "en": "Sanjou Family",
+      "cat": "organization",
+      "note": "TIPS d0087"
+    },
+    {
+      "jp": "豊原狐平堂",
+      "en": "Toyohara Konpeidou",
+      "cat": "location",
+      "note": "TIPS d0095; shop name"
+    },
+    {
+      "jp": "堺の鮮魚市場",
+      "en": "Sakai Fresh Fish Market",
+      "cat": "location",
+      "note": "TIPS d0053"
+    },
+    {
+      "jp": "刃道",
+      "en": "Jindou",
+      "cat": "lore",
+      "note": "TIPS d0088; Way of the Blade competitive martial art"
+    },
+    {
+      "jp": "刀仕禰宜",
+      "en": "Toujinegi",
+      "cat": "title",
+      "note": "TIPS d0012; champion title at Murakumo Academy"
+    },
+    {
+      "jp": "介添人",
+      "en": "Second",
+      "cat": "role",
+      "note": "TIPS d0014; match attendant/second (like Victoria's Shizuku)"
+    },
+    {
+      "jp": "天呪",
+      "en": "Tenju",
+      "cat": "lore",
+      "note": "TIPS d0004; supernatural spirit arts/curses"
+    },
+    {
+      "jp": "折紙",
+      "en": "Origami",
+      "cat": "lore",
+      "note": "TIPS d0003; spiritual talisman/fold-paper"
+    },
+    {
+      "jp": "霊式具装",
+      "en": "Spirit-Type Armament",
+      "cat": "lore",
+      "note": "TIPS d0019"
+    },
+    {
+      "jp": "霊式機巧デバイス",
+      "en": "Spirit-Type Mechanical Device",
+      "cat": "lore",
+      "note": "TIPS d0105"
+    },
+    {
+      "jp": "バリアジャケット",
+      "en": "Barrier Jacket",
+      "cat": "lore",
+      "note": "TIPS d0086; protective Jindou outfit"
+    },
+    {
+      "jp": "精神感応係数",
+      "en": "Mental Resonance Coefficient",
+      "cat": "lore",
+      "note": "TIPS d0056"
+    },
+    {
+      "jp": "魂来",
+      "en": "Tamukai",
+      "cat": "lore",
+      "note": "TIPS d0057; spirit summoning/channeling (reading: たむかい)"
+    },
+    {
+      "jp": "審神者",
+      "en": "Saniwa",
+      "cat": "lore",
+      "note": "TIPS d0058; spirit medium/diviner"
+    },
+    {
+      "jp": "戦人",
+      "en": "Ikusabito",
+      "cat": "lore",
+      "note": "TIPS d0078; warrior spirit/fighter (reading: いくさびと)"
+    },
+    {
+      "jp": "化妖",
+      "en": "Keyou",
+      "cat": "lore",
+      "note": "TIPS d0079; apparition/demonized spirit (reading: けよう)"
+    },
+    {
+      "jp": "半妖",
+      "en": "Hanyou",
+      "cat": "lore",
+      "note": "TIPS d0089; half-apparition"
+    },
+    {
+      "jp": "鬼女",
+      "en": "Kijo",
+      "cat": "lore",
+      "note": "TIPS d0048; oni woman / demoness (reading: おにおんな)"
+    },
+    {
+      "jp": "魂鋼",
+      "en": "Tamahagane",
+      "cat": "lore",
+      "note": "Spirit steel / jewel steel"
+    },
+    {
+      "jp": "祝詞",
+      "en": "Norito",
+      "cat": "lore",
+      "note": "TIPS d0090; Shinto ritual prayer/incantation"
+    },
+    {
+      "jp": "ＨＲ",
+      "en": "HR",
+      "cat": "tech",
+      "note": "TIPS d0001; Holographic Reality"
+    },
+    {
+      "jp": "ホログラフィックリアリティ",
+      "en": "Holographic Reality",
+      "cat": "tech",
+      "note": "Full expansion of HR"
+    },
+    {
+      "jp": "単分子コーティング",
+      "en": "Monomolecular Coating",
+      "cat": "tech",
+      "note": "TIPS d0072"
+    },
+    {
+      "jp": "天元齊命流",
+      "en": "Tengen Saimei-ryuu",
+      "cat": "martial_art",
+      "note": "TIPS d0034; Iori's sword style"
+    },
+    {
+      "jp": "天然理心流",
+      "en": "Tennen Rishin-ryuu",
+      "cat": "martial_art",
+      "note": "TIPS d0067"
+    },
+    {
+      "jp": "三島流格闘術",
+      "en": "Mishima-ryuu Martial Arts",
+      "cat": "martial_art",
+      "note": "TIPS d0024"
+    },
+    {
+      "jp": "三島流",
+      "en": "Mishima-ryuu",
+      "cat": "martial_art",
+      "note": "Short for Mishima-ryuu Martial Arts"
+    },
+    {
+      "jp": "神眼極手",
+      "en": "Shingan no Kiwamete",
+      "cat": "technique",
+      "note": "TIPS d0020; Divine Eye Ultimate Hand"
+    },
+    {
+      "jp": "紅葉狩",
+      "en": "Momijigari",
+      "cat": "technique",
+      "note": "TIPS d0021; Momiji's technique"
+    },
+    {
+      "jp": "八紘我観",
+      "en": "World is Mine",
+      "cat": "technique",
+      "note": "TIPS d0029; Ririmu's technique (ruby: ワールド・イズ・マイン)"
+    },
+    {
+      "jp": "胡蝶爛漫",
+      "en": "Butterfly Effect",
+      "cat": "technique",
+      "note": "Ruby reading: バタフライ・エフェクト"
+    },
+    {
+      "jp": "横溢一閃",
+      "en": "Ouitsu Issen",
+      "cat": "technique",
+      "note": "TIPS d0035; Overflowing Flash"
+    },
+    {
+      "jp": "雷霆一閃",
+      "en": "Raitei Issen",
+      "cat": "technique",
+      "note": "Thunderbolt Flash"
+    },
+    {
+      "jp": "炎虎猛巴斬",
+      "en": "Enko Mouhazan",
+      "cat": "technique",
+      "note": "Blazing Tiger Slash"
+    },
+    {
+      "jp": "朱雀演舞",
+      "en": "Suzaku Enbu",
+      "cat": "technique",
+      "note": "Vermilion Bird Dance"
+    },
+    {
+      "jp": "波濤乱舞",
+      "en": "Hatou Ranbu",
+      "cat": "technique",
+      "note": "Surging Wave Dance"
+    },
+    {
+      "jp": "峰打頂肘",
+      "en": "Houda Chouchuu",
+      "cat": "technique",
+      "note": "Martial strike"
+    },
+    {
+      "jp": "破城掌",
+      "en": "Hajoushou",
+      "cat": "technique",
+      "note": "Castle-Breaker Palm"
+    },
+    {
+      "jp": "金剛砲",
+      "en": "Kongouhou",
+      "cat": "technique",
+      "note": "Vajra Cannon"
+    },
+    {
+      "jp": "剛砲",
+      "en": "Gouhou",
+      "cat": "technique",
+      "note": "Heavy Cannon"
+    },
+    {
+      "jp": "天山靠",
+      "en": "Tenzankou",
+      "cat": "technique",
+      "note": "Shoulder ram technique"
+    },
+    {
+      "jp": "万絶",
+      "en": "Banzetsu",
+      "cat": "technique",
+      "note": "Sword technique"
+    },
+    {
+      "jp": "穿火",
+      "en": "Ugachibi",
+      "cat": "technique",
+      "note": "Piercing Flame"
+    },
+    {
+      "jp": "銀楯",
+      "en": "Ginjun",
+      "cat": "technique",
+      "note": "Silver Shield"
+    },
+    {
+      "jp": "炎牙",
+      "en": "Enga",
+      "cat": "technique",
+      "note": "Flame Fang"
+    },
+    {
+      "jp": "枝薙",
+      "en": "Edanagi",
+      "cat": "technique",
+      "note": "Branch Sweep"
+    },
+    {
+      "jp": "地走",
+      "en": "Chibashiri",
+      "cat": "technique",
+      "note": "Ground Runner"
+    },
+    {
+      "jp": "湧流",
+      "en": "Wakinagashi",
+      "cat": "technique",
+      "note": "Spring Flow"
+    },
+    {
+      "jp": "燕長光",
+      "en": "Tsubakuro Nagamitsu",
+      "cat": "weapon",
+      "note": "Named sword"
+    },
+    {
+      "jp": "縮地",
+      "en": "Shukuchi",
+      "cat": "technique",
+      "note": "TIPS d0025; shrunk-earth footwork"
+    },
+    {
+      "jp": "居合",
+      "en": "Iai",
+      "cat": "technique",
+      "note": "TIPS d0091; quick-draw swordsmanship"
+    },
+    {
+      "jp": "諸法無我",
+      "en": "Shohou Muga",
+      "cat": "lore",
+      "note": "TIPS d0062; Buddhist principle / state of selflessness"
+    },
+    {
+      "jp": "甲型",
+      "en": "Type Kou",
+      "cat": "form",
+      "note": "Heavenly Stem form 1 (きのえがた)"
+    },
+    {
+      "jp": "丙型",
+      "en": "Type Hinoe",
+      "cat": "form",
+      "note": "Heavenly Stem form 3 (ひのえがた)"
+    },
+    {
+      "jp": "丁型",
+      "en": "Type Hinoto",
+      "cat": "form",
+      "note": "Heavenly Stem form 4 (ひのとがた)"
+    },
+    {
+      "jp": "戊型",
+      "en": "Type Tsuchinoe",
+      "cat": "form",
+      "note": "Heavenly Stem form 5 (つちのえがた)"
+    },
+    {
+      "jp": "己型",
+      "en": "Type Tsuchinoto",
+      "cat": "form",
+      "note": "Heavenly Stem form 6 (つちのとがた)"
+    },
+    {
+      "jp": "庚型",
+      "en": "Type Kanoe",
+      "cat": "form",
+      "note": "Heavenly Stem form 7 (かのえがた)"
+    },
+    {
+      "jp": "辛型",
+      "en": "Type Kanoto",
+      "cat": "form",
+      "note": "Heavenly Stem form 8 (かのとがた)"
+    },
+    {
+      "jp": "壬型",
+      "en": "Type Mizunoe",
+      "cat": "form",
+      "note": "Heavenly Stem form 9 (みずのえがた)"
+    },
+    {
+      "jp": "癸型",
+      "en": "Type Mizunoto",
+      "cat": "form",
+      "note": "Heavenly Stem form 10 (みずのとがた)"
+    },
+    {
+      "jp": "トレッター",
+      "en": "Tretter",
+      "cat": "misc",
+      "note": "TIPS d0023; Twitter parody"
+    },
+    {
+      "jp": "ポシェモン",
+      "en": "Pochemon",
+      "cat": "misc",
+      "note": "TIPS d0060; Pokemon parody"
+    },
+    {
+      "jp": "スザクハイパードラァイ",
+      "en": "Suzaku Hyper Dry",
+      "cat": "misc",
+      "note": "TIPS d0054; beer parody"
+    },
+    {
+      "jp": "Ｕ・キクイチモンジソード改",
+      "en": "Ultimate Kikuichimonji Sword Kai",
+      "cat": "weapon",
+      "note": "TIPS d0068"
+    },
+    {
+      "jp": "ＳＵＭＩＴＡＮＩ",
+      "en": "SUMITANI",
+      "cat": "misc",
+      "note": "TIPS d0069; brand parody"
+    },
+    {
+      "jp": "いけいけオキタくん",
+      "en": "Go-Go Okita-kun",
+      "cat": "misc",
+      "note": "TIPS d0016"
+    },
+    {
+      "jp": "ビミヤン",
+      "en": "Bimiyan",
+      "cat": "misc",
+      "note": "TIPS d0045; Bamiyan restaurant parody"
+    },
+    {
+      "jp": "村垣チャーハン",
+      "en": "Muragaki Fried Rice",
+      "cat": "misc",
+      "note": "TIPS d0050"
+    },
+    {
+      "jp": "理想郷",
+      "en": "Arcadia",
+      "cat": "lore",
+      "note": "TIPS d0036 (ruby: アルカディア)"
+    },
+    {
+      "jp": "悪鬼討滅",
+      "en": "Demon Extermination",
+      "cat": "lore",
+      "note": "TIPS d0080"
+    },
+    {
+      "jp": "道場破り",
+      "en": "Dojo Crashing",
+      "cat": "martial_art",
+      "note": "TIPS d0066"
+    },
+    {
+      "jp": "プロリーグ",
+      "en": "Pro League",
+      "cat": "organization",
+      "note": "TIPS d0093"
+    }
+  ],
+  "tips_csv_reference": [
+    {
+      "id": "d0000",
+      "jp": "叢雲学園",
+      "reading": "むらくもがくえん",
+      "img_small": "tips0000S",
+      "img_big": "tips0000B",
+      "link_texts": [
+        "叢雲学園"
+      ],
+      "occurrences": 59
+    },
+    {
+      "id": "d0001",
+      "jp": "ＨＲ",
+      "reading": "ほろぐらふぃっくりありてぃ",
+      "img_small": "tips0001S",
+      "img_big": "tips0001B",
+      "link_texts": [
+        "ＨＲ"
+      ],
+      "occurrences": 15
+    },
+    {
+      "id": "d0002",
+      "jp": "天呪特科群『武蔵』",
+      "reading": "てんじゅとっかぐんむさし",
+      "img_small": "tips0002S",
+      "img_big": "tips0002B",
+      "link_texts": [
+        "天呪特科群『武蔵』"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "d0003",
+      "jp": "折紙",
+      "reading": "おりがみ",
+      "img_small": "tips0003S",
+      "img_big": "tips0003B",
+      "link_texts": [
+        "折紙"
+      ],
+      "occurrences": 2
+    },
+    {
+      "id": "d0004",
+      "jp": "天呪",
+      "reading": "てんじゅ",
+      "img_small": "tips0004S",
+      "img_big": "tips0004B",
+      "link_texts": [
+        "天呪"
+      ],
+      "occurrences": 158
+    },
+    {
+      "id": "d0005",
+      "jp": "中隊規模",
+      "reading": "ちゅうたいきぼ",
+      "img_small": "tips0005S",
+      "img_big": "tips0005B",
+      "link_texts": [
+        "中隊規模"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "d0006",
+      "jp": "武芸科",
+      "reading": "ぶげいか",
+      "img_small": "tips0006S",
+      "img_big": "tips0006B",
+      "link_texts": [
+        "武芸科"
+      ],
+      "occurrences": 88
+    },
+    {
+      "id": "d0007",
+      "jp": "技巧科",
+      "reading": "ぎこうか",
+      "img_small": "tips0007S",
+      "img_big": "tips0007B",
+      "link_texts": [
+        "技巧科"
+      ],
+      "occurrences": 39
+    },
+    {
+      "id": "d0008",
+      "jp": "主計科",
+      "reading": "しゅけいか",
+      "img_small": "tips0008S",
+      "img_big": "tips0008B",
+      "link_texts": [
+        "主計科"
+      ],
+      "occurrences": 9
+    },
+    {
+      "id": "d0009",
+      "jp": "叢雲演武祭",
+      "reading": "むらくもえんぶさい",
+      "img_small": "tips0009S",
+      "img_big": "tips0009B",
+      "link_texts": [
+        "叢雲演武祭"
+      ],
+      "occurrences": 16
+    },
+    {
+      "id": "d0010",
+      "jp": "朱雀院家",
+      "reading": "すざくいんけ",
+      "img_small": "tips0010S",
+      "img_big": "tips0010B",
+      "link_texts": [
+        "朱雀院家"
+      ],
+      "occurrences": 37
+    },
+    {
+      "id": "d0011",
+      "jp": "佩刀護身会",
+      "reading": "はいとうごしんかい",
+      "img_small": "tips0011S",
+      "img_big": "tips0011B",
+      "link_texts": [
+        "佩刀護身会"
+      ],
+      "occurrences": 24
+    },
+    {
+      "id": "d0012",
+      "jp": "刀仕禰宜",
+      "reading": "とうじねぎ",
+      "img_small": "tips0012S",
+      "img_big": "tips0012B",
+      "link_texts": [
+        "刀仕禰宜"
+      ],
+      "occurrences": 194
+    },
+    {
+      "id": "d0013",
+      "jp": "サービスだいじ！",
+      "reading": "さーびすだいじ",
+      "img_small": "tips0013S",
+      "img_big": "tips0013B",
+      "link_texts": [
+        "サービスだいじ！"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "d0014",
+      "jp": "介添人",
+      "reading": "かいぞえにん",
+      "img_small": "tips0014S",
+      "img_big": "tips0014B",
+      "link_texts": [
+        "介添人"
+      ],
+      "occurrences": 23
+    },
+    {
+      "id": "d0015",
+      "jp": "源",
+      "reading": "みなもと",
+      "img_small": "tips0015S",
+      "img_big": "tips0015B",
+      "link_texts": [
+        "源"
+      ],
+      "occurrences": 75
+    },
+    {
+      "id": "d0016",
+      "jp": "いけいけオキタくん",
+      "reading": "いけいけおきたくん",
+      "img_small": "tips0016S",
+      "img_big": "tips0016B",
+      "link_texts": [
+        "いけいけオキタくん"
+      ],
+      "occurrences": 3
+    },
+    {
+      "id": "d0017",
+      "jp": "尊王攘夷",
+      "reading": "そんのうじょうい",
+      "img_small": "tips0017S",
+      "img_big": "tips0017B",
+      "link_texts": [
+        "尊王攘夷"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "d0018",
+      "jp": "夷狄",
+      "reading": "いてき",
+      "img_small": "tips0018S",
+      "img_big": "tips0018B",
+      "link_texts": [
+        "夷狄"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "d0019",
+      "jp": "霊式具装",
+      "reading": "れいしきぐそう",
+      "img_small": "tips0019S",
+      "img_big": "tips0019B",
+      "link_texts": [
+        "霊式具装"
+      ],
+      "occurrences": 15
+    },
+    {
+      "id": "d0020",
+      "jp": "神眼極手",
+      "reading": "しんがんのきわめて",
+      "img_small": "tips0020S",
+      "img_big": "tips0020B",
+      "link_texts": [
+        "神眼極手"
+      ],
+      "occurrences": 29
+    },
+    {
+      "id": "d0021",
+      "jp": "紅葉狩",
+      "reading": "もみじがり",
+      "img_small": "tips0021S",
+      "img_big": "tips0021B",
+      "link_texts": [
+        "紅葉狩"
+      ],
+      "occurrences": 3
+    },
+    {
+      "id": "d0022",
+      "jp": "ライバル",
+      "reading": "らいばる",
+      "img_small": "tips0022S",
+      "img_big": "tips0022B",
+      "link_texts": [
+        "ライバル"
+      ],
+      "occurrences": 21
+    },
+    {
+      "id": "d0023",
+      "jp": "トレッター",
+      "reading": "とれったー",
+      "img_small": "tips0023S",
+      "img_big": "tips0023B",
+      "link_texts": [
+        "トレッター"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "d0024",
+      "jp": "三島流格闘術",
+      "reading": "みしまりゅうかくとうじゅつ",
+      "img_small": "tips0024S",
+      "img_big": "tips0024B",
+      "link_texts": [
+        "三島流格闘術"
+      ],
+      "occurrences": 5
+    },
+    {
+      "id": "d0025",
+      "jp": "縮地",
+      "reading": "しゅくち",
+      "img_small": "tips0025S",
+      "img_big": "tips0025B",
+      "link_texts": [
+        "縮地"
+      ],
+      "occurrences": 3
+    },
+    {
+      "id": "d0026",
+      "jp": "中邑さくら",
+      "reading": "なかむらさくら",
+      "img_small": "tips0026S",
+      "img_big": "tips0026B",
+      "link_texts": [
+        "中邑さくら"
+      ],
+      "occurrences": 219
+    },
+    {
+      "id": "d0027",
+      "jp": "切歯扼腕",
+      "reading": "せっしやくわん",
+      "img_small": "tips0027S",
+      "img_big": "tips0027B",
+      "link_texts": [
+        "切歯扼腕"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "d0028",
+      "jp": "九鬼隆久",
+      "reading": "くきたかひさ",
+      "img_small": "tips0028S",
+      "img_big": "tips0028B",
+      "link_texts": [
+        "九鬼隆久"
+      ],
+      "occurrences": 13
+    },
+    {
+      "id": "d0029",
+      "jp": "八紘我観",
+      "reading": "わーるどいずまいん",
+      "img_small": "tips0029S",
+      "img_big": "tips0029B",
+      "link_texts": [
+        "八紘我観"
+      ],
+      "occurrences": 6
+    },
+    {
+      "id": "d0030",
+      "jp": "風嶺家",
+      "reading": "かざみねけ",
+      "img_small": "tips0030S",
+      "img_big": "tips0030B",
+      "link_texts": [
+        "風嶺家"
+      ],
+      "occurrences": 31
+    },
+    {
+      "id": "d0031",
+      "jp": "最近のコンビニはなっとらん",
+      "reading": "さいきんのこんびにはなっとらん",
+      "img_small": "tips0031S",
+      "img_big": "tips0031B",
+      "link_texts": [
+        "最近のコンビニはなっとらん"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "d0032",
+      "jp": "朝令暮改",
+      "reading": "ちょうれいぼかい",
+      "img_small": "tips0032S",
+      "img_big": "tips0032B",
+      "link_texts": [
+        "朝令暮改"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "d0033",
+      "jp": "柾胤",
+      "reading": "まさたね",
+      "img_small": "tips0033S",
+      "img_big": "tips0033B",
+      "link_texts": [
+        "柾胤"
+      ],
+      "occurrences": 41
+    },
+    {
+      "id": "d0034",
+      "jp": "天元齊命流",
+      "reading": "てんげんさいめいりゅう",
+      "img_small": "tips0034S",
+      "img_big": "tips0034B",
+      "link_texts": [
+        "天元齊命流"
+      ],
+      "occurrences": 40
+    },
+    {
+      "id": "d0035",
+      "jp": "横溢一閃",
+      "reading": "おういついっせん",
+      "img_small": "tips0035S",
+      "img_big": "tips0035B",
+      "link_texts": [
+        "横溢一閃"
+      ],
+      "occurrences": 4
+    },
+    {
+      "id": "d0036",
+      "jp": "理想郷",
+      "reading": "りそうきょう",
+      "img_small": "tips0036S",
+      "img_big": "tips0036B",
+      "link_texts": [
+        "理想郷"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "d0037",
+      "jp": "客寄せパンダ",
+      "reading": "きゃくよせぱんた",
+      "img_small": "tips0037S",
+      "img_big": "tips0037B",
+      "link_texts": [
+        "客寄せパンダ"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "d0038",
+      "jp": "風嶺グループによる複合型施設",
+      "reading": "かざみねぐるーぷによるふくごうしせつ",
+      "img_small": "tips0038S",
+      "img_big": "tips0038B",
+      "link_texts": [
+        "風嶺グループによる複合型施設"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "d0039",
+      "jp": "橋頭堡",
+      "reading": "きょうとうほ",
+      "img_small": "tips0039S",
+      "img_big": "tips0039B",
+      "link_texts": [
+        "橋頭堡"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "d0040",
+      "jp": "朝霧ミドリ三等陸佐",
+      "reading": "あさぎりみどりさんとうりくさ",
+      "img_small": "tips0040S",
+      "img_big": "tips0040B",
+      "link_texts": [
+        "朝霧ミドリ三等陸佐"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "d0041",
+      "jp": "マイ鉄フライパン",
+      "reading": "まいてつふらいぱん",
+      "img_small": "tips0041S",
+      "img_big": "tips0041B",
+      "link_texts": [
+        "マイ鉄フライパン"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "d0042",
+      "jp": "鬼退治",
+      "reading": "おにたいじ",
+      "img_small": "tips0042S",
+      "img_big": "tips0042B",
+      "link_texts": [
+        "鬼退治"
+      ],
+      "occurrences": 5
+    },
+    {
+      "id": "d0043",
+      "jp": "江戸時代",
+      "reading": "えどじだい",
+      "img_small": "tips0043S",
+      "img_big": "tips0043B",
+      "link_texts": [
+        "江戸時代"
+      ],
+      "occurrences": 2
+    },
+    {
+      "id": "d0044",
+      "jp": "クールビューティ",
+      "reading": "くーるびゅーてぃ",
+      "img_small": "tips0044S",
+      "img_big": "tips0044B",
+      "link_texts": [
+        "クールビューティ"
+      ],
+      "occurrences": 3
+    },
+    {
+      "id": "d0045",
+      "jp": "ビミヤン",
+      "reading": "びにやん",
+      "img_small": "tips0045S",
+      "img_big": "tips0045B",
+      "link_texts": [
+        "ビミヤン"
+      ],
+      "occurrences": 2
+    },
+    {
+      "id": "d0046",
+      "jp": "バーミアン",
+      "reading": "ばーみあん",
+      "img_small": "tips0046S",
+      "img_big": "tips0046B",
+      "link_texts": [
+        "バーミアン"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "d0047",
+      "jp": "ジェームズ・主水",
+      "reading": "じぇーむず・もんど",
+      "img_small": "tips0047S",
+      "img_big": "tips0047B",
+      "link_texts": [
+        "ジェームズ・主水"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "d0048",
+      "jp": "鬼女",
+      "reading": "おにおんな",
+      "img_small": "tips0048S",
+      "img_big": "tips0048B",
+      "link_texts": [
+        "鬼女"
+      ],
+      "occurrences": 26
+    },
+    {
+      "id": "d0049",
+      "jp": "不倶戴天の敵",
+      "reading": "ふぐたいてんのてき",
+      "img_small": "tips0049S",
+      "img_big": "tips0049B",
+      "link_texts": [
+        "不倶戴天の敵"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "d0050",
+      "jp": "村垣チャーハン",
+      "reading": "むらがきちゃーはん",
+      "img_small": "tips0050S",
+      "img_big": "tips0050B",
+      "link_texts": [
+        "村垣チャーハン"
+      ],
+      "occurrences": 2
+    },
+    {
+      "id": "d0051",
+      "jp": "糖質制限メニュー",
+      "reading": "とうしつせいげんめにゅー",
+      "img_small": "tips0051S",
+      "img_big": "tips0051B",
+      "link_texts": [
+        "糖質制限メニュー"
+      ],
+      "occurrences": 2
+    },
+    {
+      "id": "d0052",
+      "jp": "修行僧",
+      "reading": "しゅぎょうそう",
+      "img_small": "tips0052S",
+      "img_big": "tips0052B",
+      "link_texts": [
+        "修行僧"
+      ],
+      "occurrences": 2
+    },
+    {
+      "id": "d0053",
+      "jp": "堺の鮮魚市場",
+      "reading": "さかいのせんぎょいちば",
+      "img_small": "tips0053S",
+      "img_big": "tips0053B",
+      "link_texts": [
+        "堺の鮮魚市場"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "d0054",
+      "jp": "スザクハイパードラァイ",
+      "reading": "すざくはいぱーどらぁい",
+      "img_small": "tips0054S",
+      "img_big": "tips0054B",
+      "link_texts": [
+        "スザクハイパードラァイ"
+      ],
+      "occurrences": 11
+    },
+    {
+      "id": "d0055",
+      "jp": "六法全書",
+      "reading": "ろっぽうぜんしょ",
+      "img_small": "tips0055S",
+      "img_big": "tips0055B",
+      "link_texts": [
+        "六法全書"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "d0056",
+      "jp": "精神感応係数",
+      "reading": "せいしんかんのうけいすう",
+      "img_small": "tips0056S",
+      "img_big": "tips0056B",
+      "link_texts": [
+        "精神感応係数"
+      ],
+      "occurrences": 10
+    },
+    {
+      "id": "d0057",
+      "jp": "魂来",
+      "reading": "たむかい",
+      "img_small": "tips0057S",
+      "img_big": "tips0057B",
+      "link_texts": [
+        "魂来"
+      ],
+      "occurrences": 14
+    },
+    {
+      "id": "d0058",
+      "jp": "審神者",
+      "reading": "さにわ",
+      "img_small": "tips0058S",
+      "img_big": "tips0058B",
+      "link_texts": [
+        "審神者"
+      ],
+      "occurrences": 16
+    },
+    {
+      "id": "d0059",
+      "jp": "紗月",
+      "reading": "さつき",
+      "img_small": "tips0059S",
+      "img_big": "tips0059B",
+      "link_texts": [
+        "紗月"
+      ],
+      "occurrences": 3
+    },
+    {
+      "id": "d0060",
+      "jp": "ポシェモン",
+      "reading": "ぽしぇもん",
+      "img_small": "tips0060S",
+      "img_big": "tips0060B",
+      "link_texts": [
+        "ポシェモン"
+      ],
+      "occurrences": 16
+    },
+    {
+      "id": "d0061",
+      "jp": "ゾーン",
+      "reading": "ぞーん",
+      "img_small": "tips0061S",
+      "img_big": "tips0061B",
+      "link_texts": [
+        "ゾーン"
+      ],
+      "occurrences": 5
+    },
+    {
+      "id": "d0062",
+      "jp": "諸法無我",
+      "reading": "しょほうむが",
+      "img_small": "tips0062S",
+      "img_big": "tips0062B",
+      "link_texts": [
+        "諸法無我"
+      ],
+      "occurrences": 26
+    },
+    {
+      "id": "d0063",
+      "jp": "鬼のゼロカロリー理論",
+      "reading": "おにのぜろかろりーりろん",
+      "img_small": "tips0063S",
+      "img_big": "tips0063B",
+      "link_texts": [
+        "鬼のゼロカロリー理論"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "d0064",
+      "jp": "個室サウナ",
+      "reading": "こしつさうな",
+      "img_small": "tips0064S",
+      "img_big": "tips0064B",
+      "link_texts": [
+        "個室サウナ"
+      ],
+      "occurrences": 4
+    },
+    {
+      "id": "d0065",
+      "jp": "世界征服",
+      "reading": "せかいせいふく",
+      "img_small": "tips0065S",
+      "img_big": "tips0065B",
+      "link_texts": [
+        "世界征服"
+      ],
+      "occurrences": 9
+    },
+    {
+      "id": "d0066",
+      "jp": "道場破り",
+      "reading": "どうじょうやぶり",
+      "img_small": "tips0066S",
+      "img_big": "tips0066B",
+      "link_texts": [
+        "道場破り"
+      ],
+      "occurrences": 5
+    },
+    {
+      "id": "d0067",
+      "jp": "天然理心流",
+      "reading": "てんねんりしんりゅう",
+      "img_small": "tips0067S",
+      "img_big": "tips0067B",
+      "link_texts": [
+        "天然理心流"
+      ],
+      "occurrences": 8
+    },
+    {
+      "id": "d0068",
+      "jp": "Ｕ・キクイチモンジソード改",
+      "reading": "あるてぃめっと・きくいちもんじそーどかい",
+      "img_small": "tips0068S",
+      "img_big": "tips0068B",
+      "link_texts": [
+        "Ｕ・キクイチモンジソード改"
+      ],
+      "occurrences": 2
+    },
+    {
+      "id": "d0069",
+      "jp": "ＳＵＭＩＴＡＮＩ",
+      "reading": "すみたに",
+      "img_small": "tips0069S",
+      "img_big": "tips0069B",
+      "link_texts": [
+        "ＳＵＭＩＴＡＮＩ"
+      ],
+      "occurrences": 3
+    },
+    {
+      "id": "d0070",
+      "jp": "チャラい",
+      "reading": "ちゃらい",
+      "img_small": "tips0070S",
+      "img_big": "tips0070B",
+      "link_texts": [
+        "チャラい"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "d0071",
+      "jp": "職権乱用",
+      "reading": "しょっけんらんよう",
+      "img_small": "tips0071S",
+      "img_big": "tips0071B",
+      "link_texts": [
+        "職権乱用"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "d0072",
+      "jp": "単分子コーティング",
+      "reading": "たんぶんしこーてぃんぐ",
+      "img_small": "tips0072S",
+      "img_big": "tips0072B",
+      "link_texts": [
+        "単分子コーティング"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "d0073",
+      "jp": "筋骨隆々のお姉さん",
+      "reading": "きんこつりゅうりゅうのおねえさん",
+      "img_small": "tips0073S",
+      "img_big": "tips0073B",
+      "link_texts": [
+        "筋骨隆々のお姉さん"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "d0074",
+      "jp": "今日のブツ",
+      "reading": "きょうのぶつ",
+      "img_small": "tips0074S",
+      "img_big": "tips0074B",
+      "link_texts": [
+        "今日のブツ"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "d0075",
+      "jp": "お礼参り",
+      "reading": "おれいまいり",
+      "img_small": "tips0075S",
+      "img_big": "tips0075B",
+      "link_texts": [
+        "お礼参り"
+      ],
+      "occurrences": 4
+    },
+    {
+      "id": "d0076",
+      "jp": "大上家",
+      "reading": "おおかみけ",
+      "img_small": "tips0076S",
+      "img_big": "tips0076B",
+      "link_texts": [
+        "大上家"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "d0077",
+      "jp": "麒麟児",
+      "reading": "きりんじ",
+      "img_small": "tips0077S",
+      "img_big": "tips0077B",
+      "link_texts": [
+        "麒麟児"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "d0078",
+      "jp": "戦人",
+      "reading": "いくさびと",
+      "img_small": "tips0078S",
+      "img_big": "tips0078B",
+      "link_texts": [
+        "戦人"
+      ],
+      "occurrences": 13
+    },
+    {
+      "id": "d0079",
+      "jp": "化妖",
+      "reading": "けよう",
+      "img_small": "tips0079S",
+      "img_big": "tips0079B",
+      "link_texts": [
+        "化妖"
+      ],
+      "occurrences": 37
+    },
+    {
+      "id": "d0080",
+      "jp": "悪鬼討滅",
+      "reading": "あっきとうめつ",
+      "img_small": "tips0080S",
+      "img_big": "tips0080B",
+      "link_texts": [
+        "悪鬼討滅"
+      ],
+      "occurrences": 10
+    },
+    {
+      "id": "d0081",
+      "jp": "狐",
+      "reading": "きつね",
+      "img_small": "tips0081S",
+      "img_big": "tips0081B",
+      "link_texts": [
+        "狐"
+      ],
+      "occurrences": 7
+    },
+    {
+      "id": "d0082",
+      "jp": "モク",
+      "reading": "もく",
+      "img_small": "tips0082S",
+      "img_big": "tips0082B",
+      "link_texts": [
+        "モク"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "d0083",
+      "jp": "奉行",
+      "reading": "ぶぎょう",
+      "img_small": "tips0083S",
+      "img_big": "tips0083B",
+      "link_texts": [
+        "奉行"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "d0084",
+      "jp": "仙人",
+      "reading": "せんにん",
+      "img_small": "tips0084S",
+      "img_big": "tips0084B",
+      "link_texts": [
+        "仙人"
+      ],
+      "occurrences": 2
+    },
+    {
+      "id": "d0085",
+      "jp": "ヨリシロくん",
+      "reading": "よりしろくん",
+      "img_small": "tips0085S",
+      "img_big": "tips0085B",
+      "link_texts": [
+        "ヨリシロくん"
+      ],
+      "occurrences": 37
+    },
+    {
+      "id": "d0086",
+      "jp": "バリアジャケット",
+      "reading": "ばりあじゃけっと",
+      "img_small": "tips0086S",
+      "img_big": "tips0086B",
+      "link_texts": [
+        "バリアジャケット"
+      ],
+      "occurrences": 135
+    },
+    {
+      "id": "d0087",
+      "jp": "三城家",
+      "reading": "さんじょうけ",
+      "img_small": "tips0087S",
+      "img_big": "tips0087B",
+      "link_texts": [
+        "三城家"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "d0088",
+      "jp": "刃道",
+      "reading": "じんどう",
+      "img_small": "tips0088S",
+      "img_big": "tips0088B",
+      "link_texts": [
+        "刃道"
+      ],
+      "occurrences": 200
+    },
+    {
+      "id": "d0089",
+      "jp": "半妖",
+      "reading": "はんよう",
+      "img_small": "tips0089S",
+      "img_big": "tips0089B",
+      "link_texts": [
+        "半妖"
+      ],
+      "occurrences": 2
+    },
+    {
+      "id": "d0090",
+      "jp": "祝詞",
+      "reading": "のりと",
+      "img_small": "tips0090S",
+      "img_big": "tips0090B",
+      "link_texts": [
+        "祝詞"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "d0091",
+      "jp": "居合",
+      "reading": "いあい",
+      "img_small": "tips0091S",
+      "img_big": "tips0091B",
+      "link_texts": [
+        "居合"
+      ],
+      "occurrences": 57
+    },
+    {
+      "id": "d0092",
+      "jp": "陸自の特殊部隊",
+      "reading": "りくじのとくしゅぶたい",
+      "img_small": "tips0092S",
+      "img_big": "tips0092B",
+      "link_texts": [
+        "陸自の特殊部隊"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "d0093",
+      "jp": "プロリーグ",
+      "reading": "ぷろりーぐ",
+      "img_small": "tips0093S",
+      "img_big": "tips0093B",
+      "link_texts": [
+        "プロリーグ"
+      ],
+      "occurrences": 7
+    },
+    {
+      "id": "d0094",
+      "jp": "いなり寿司",
+      "reading": "いなりずし",
+      "img_small": "tips0094S",
+      "img_big": "tips0094B",
+      "link_texts": [
+        "いなり寿司"
+      ],
+      "occurrences": 6
+    },
+    {
+      "id": "d0095",
+      "jp": "豊原狐平堂",
+      "reading": "とよはらこんぺいどう",
+      "img_small": "tips0095S",
+      "img_big": "tips0095B",
+      "link_texts": [
+        "豊原狐平堂"
+      ],
+      "occurrences": 2
+    },
+    {
+      "id": "d0096",
+      "jp": "バツギュン",
+      "reading": "ばつぎゅん",
+      "img_small": "tips0096S",
+      "img_big": "tips0096B",
+      "link_texts": [
+        "バツギュン"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "d0097",
+      "jp": "デート",
+      "reading": "でーと",
+      "img_small": "tips0097S",
+      "img_big": "tips0097B",
+      "link_texts": [
+        "デート"
+      ],
+      "occurrences": 113
+    },
+    {
+      "id": "d0098",
+      "jp": "大食いちゃんぴおーん",
+      "reading": "おおぐいちゃんぴおん",
+      "img_small": "tips0098S",
+      "img_big": "tips0098B",
+      "link_texts": [
+        "大食いちゃんぴおーん"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "d0099",
+      "jp": "ざわ",
+      "reading": "ざわ",
+      "img_small": "tips0099S",
+      "img_big": "tips0099B",
+      "link_texts": [
+        "ざわ"
+      ],
+      "occurrences": 24
+    },
+    {
+      "id": "d0100",
+      "jp": "ゾンビ",
+      "reading": "ぞんび",
+      "img_small": "tips0100S",
+      "img_big": "tips0100B",
+      "link_texts": [
+        "ゾンビ"
+      ],
+      "occurrences": 2
+    },
+    {
+      "id": "d0101",
+      "jp": "トドメ",
+      "reading": "とどめ",
+      "img_small": "tips0101S",
+      "img_big": "tips0101B",
+      "link_texts": [
+        "トドメ"
+      ],
+      "occurrences": 3
+    },
+    {
+      "id": "d0102",
+      "jp": "焼き肉",
+      "reading": "やきにく",
+      "img_small": "tips0102S",
+      "img_big": "tips0102B",
+      "link_texts": [
+        "焼き肉"
+      ],
+      "occurrences": 10
+    },
+    {
+      "id": "d0103",
+      "jp": "ハーレム",
+      "reading": "はーれむ",
+      "img_small": "tips0103S",
+      "img_big": "tips0103B",
+      "link_texts": [
+        "ハーレム"
+      ],
+      "occurrences": 6
+    },
+    {
+      "id": "d0104",
+      "jp": "ヒモ",
+      "reading": "ひも",
+      "img_small": "tips0104S",
+      "img_big": "tips0104B",
+      "link_texts": [],
+      "occurrences": 0
+    },
+    {
+      "id": "d0105",
+      "jp": "霊式機巧デバイス",
+      "reading": "れいしききこうでばいす",
+      "img_small": "tips0105S",
+      "img_big": "tips0105B",
+      "link_texts": [],
+      "occurrences": 0
+    },
+    {
+      "id": "d0106",
+      "jp": "神所霊庁",
+      "reading": "しんしょれいちょう",
+      "img_small": "tips0106S",
+      "img_big": "tips0106B",
+      "link_texts": [
+        "神所霊庁"
+      ],
+      "occurrences": 6
+    }
+  ]
+}

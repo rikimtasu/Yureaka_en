@@ -1,0 +1,20 @@
+{
+  "ok": true,
+  "output_overlay": {
+    "path": "d:\\Documents\\yureaka_en\\dist\\yureaka_en.dat",
+    "entries": 47317,
+    "size": 2835298,
+    "sha256": "4db4d4be1d294b29d39340c1bc9f73bf0198f8a5ecec558373538eede79aebd1"
+  },
+  "stats": {
+    "files_total": 138,
+    "files_translated": 137,
+    "files_missing_kept_original": 0,
+    "records_updated": 27958,
+    "names_updated": 19359,
+    "overflow_warnings": [],
+    "tag_errors": [],
+    "encoding_errors": [],
+    "overflow_warning_count": 0
+  }
+}

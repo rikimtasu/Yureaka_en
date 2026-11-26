@@ -1,0 +1,463 @@
+[
+    {
+        "name": "Setsugekka",
+        "message": "「Whew, hearing the teacher’s past story... that was a real shock, wasn't it~」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Yeah, I guess.」"
+    },
+    {
+        "message": "After that, I didn't go back to the dorm and ended up taking a walk with Setsugekka. Somehow, I just couldn't help but talk about it."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Well, I always figured there was definitely something there. I’m a little relieved you told us without holding back.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yeah... Muragaki-sensei must have had it really rough, not being able to tell anyone until now, right?」"
+    },
+    {
+        "message": "Muragaki Iori is almost foolishly earnest."
+    },
+    {
+        "message": "He shows absolutely no sign of selfishness, is always kind, and gives us sincere encouragement."
+    },
+    {
+        "message": "A person like a saint couldn't possibly be born from nothing."
+    },
+    {
+        "message": "I’m sure the teacher’s kindness is just the flip side of the guilt he feels himself."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「...I wonder if Sensei will disappear once the Martial Festival is over.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Setsugekka, you’ve got other things to worry about, don't you? What are you planning to do about Keisetsu?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ah—! That too! What should I do~!」"
+    },
+    {
+        "message": "Setsugekka starts holding her head in distress."
+    },
+    {
+        "name": "Momiji",
+        "message": "「You don't want to leave Keisetsu and live in Japan？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「It’s not that I don't want to... but I don't think that’s right. Because I’ve been getting help from Kei-chan non-stop, after all.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I can’t let Kei-chan go to dangerous places all by herself.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「So, if Kei-chan is going, I plan on going too.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I see... then it’s goodbye for us too, Setsugekka.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Uuu... I don't want that.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Eh？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I don't want to! I don't want to say goodbye to Momimomi, Momimomi come with me too~!」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Th-there’s no way I could do something like that!」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Uuu, yeah, I guess so... oh man, what do I do...」"
+    },
+    {
+        "message": "Setsugekka’s words saved me just a little bit. It means she doesn't want to be separated from me."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hey, isn't there some way for me to stay with Kei-chan and not have to say goodbye to Momimomi either？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Like, use your Shingan no Kiwamete and think it up real quick.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I’ve told you, that’s not what it’s for!」"
+    },
+    {
+        "message": "Honestly, what a handful she is."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Well, though... there is one way.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Eh, really！？ What kind of way？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Get Keisetsu to stop going abroad. That's it.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「...I see. But that’s impossible, right?」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I wouldn’t say it’s impossible, though.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Eh？ What do you mean？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Keisetsu’s dream is to become the head of the Kazamine family. Going abroad isn’t the only way to achieve that.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「So, we just need to present her with a different way to become the head.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「A different way...」"
+    },
+    {
+        "message": "I mean, if such a way really existed, Keisetsu would have jumped on it long ago. In reality, it’s as good as nonexistent."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Oh, that’s it! That’s the way!」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Wh-what is？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Basically, Kei-chan just needs to be recognized by the head of the family, right？ If so, it’s simple. There’s only one thing to do！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I just have to become the Toujinegi！！！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yes, if I win the Martial Festival and become the Toujinegi, Keisetsu shouldn’t have to go abroad anymore！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「W-well, I wonder about that.」"
+    },
+    {
+        "message": "I don’t think it’s quite that simple, though."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Oh right, I’ll try asking about the teacher while I’m at it too.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「That ‘errand’ Muragaki-sensei mentioned? It turns out Kei-chan actually asked her boss to assign it to him, you know.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Eh, really！？」"
+    },
+    {
+        "message": "That’s news to me. I mean, Keisetsu has more power than I thought..."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「If she has that kind of influence, she should be able to ask him to keep sending us on these ‘errands’ until we graduate！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I wonder if it’ll go that smoothly...」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I don’t know, but I’m going to try asking at least. I don’t want to give up without doing anything.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I see... yeah, you’re right.」"
+    },
+    {
+        "message": "If Keisetsu and Setsugekka could both stay at the academy just like this. And if Sensei could stay just the same as always."
+    },
+    {
+        "name": "Momiji",
+        "message": "（I really hope it turns out that way...）"
+    },
+    {
+        "name": "Momiji",
+        "message": "「...Still, in the end, that's only if you can actually become Toujinegi, right, Setsugekka？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hm？ Well, yeah.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Then that's impossible. I'm the one who's going to become Toujinegi.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「H-Hey, don't get cocky! Why are you talking like your victory's already in the bag, you jerk!」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I already told you, I'm gonna win and become Toujinegi！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「And like I said, I'm going to stop you.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「You're not stopping me！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Oh, yes I am.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I'm definitely gonna take you down, Momimomi！」"
+    },
+    {
+        "name": "Setsugekka & Momiji",
+        "message": "「Hmph...！」"
+    },
+    {
+        "message": "We glare at each other."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Haah, let's drop this already. We'll be at it all day.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「That's right—you never know who's gonna win or lose a match until you actually fight, right?」"
+    },
+    {
+        "message": "Maybe so. After all, upsets do happen in this world."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Just you wait—I'm definitely gonna convince Kei-chan!」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Yeah, yeah, I'll wait without getting my hopes up.」"
+    },
+    {
+        "message": "Still, I hope it goes well."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Oh, by the way, Momimomi, there's something I wanted to ask you.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Hmm？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「What are you planning to do after graduating from Murakumo Academy？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Huh...? You mean my dream for the future? Hmm, I wonder.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Oh, as for me...」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I know. A pro Jindou player, right?」"
+    },
+    {
+        "message": "As if I wouldn't know—I've heard it enough times to give my ears calluses. Still, Secchan always talks about it so happily, no matter how many times."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「That's right! I'm gonna market myself with a super-cool heel persona, just like Nakamura Sakura!」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Is that even okay for the Kazamine image？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Huh, could it be a no-go？ Uwaaah, I never thought of that！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I've gotta ask Kei-chan about this too!」"
+    },
+    {
+        "message": "Keisetsu sure has it rough..."
+    },
+    {
+        "message": "I can totally understand why Keisetsu said she wanted Sensei to take her place."
+    },
+    {
+        "message": "Still, though. Honestly, when I see Setsugekka like that... I envy her."
+    },
+    {
+        "message": "Pure, heading straight toward whatever she sets her mind to. I don't have that kind of beauty."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「So, so？ What's your dream, Momimomi？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Hmm, if I had to say... a <d0084>hermit</d>, maybe.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「A hermit？ Living all alone deep in the mountains all the time？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Yeah, that kind of hermit.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Normally I'd just laze around deep in the mountains drinking sake, and act all high and mighty to whatever youngsters drop by every now and then.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「That is the kind of person I wish to become.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「You're way too much of a hopeless bum, Momimomi.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ah, that's not nice, making fun of someone's dream.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Besides, if you did that, I wouldn't be able to see you whenever I wanted. Pick a different dream.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Why do I have to change it to suit you, Setsugekka？！」"
+    },
+    {
+        "message": "Setsugekka is as selfish as ever."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「...Hey, Momimomi.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「What？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「The Martial Festival starts next week, huh.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Yeah.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Once the Martial Festival starts, I wonder if that means we'll be enemies.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Who knows... It won't be any different from usual, right?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I see—so we can just keep things as usual, right？！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「That's what I'm planning on doing, anyway.」"
+    },
+    {
+        "message": "Of course, during an actual match is another story."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Thank goodness. I was wondering what I’d do if Momimomi suddenly turned into a cold person.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ahaha, I wouldn’t do that.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Momimomi… let’s do our best at the Martial Festival！」"
+    },
+    {
+        "message": "Setsugekka thrust her fist out toward me."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Yeah, of course.」"
+    },
+    {
+        "message": "I made a fist of my own and bumped it gently against hers."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Win or lose, let’s make sure we have no regrets.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Though it’ll be me who wins.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Heh, I’m used to that taunting by now. Keep underestimating me and you’re going to be embarrassed at the Martial Festival, you know？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I’m not underestimating you. I’m going all out.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yeah, me too. Momimomi is my rival, after all!」"
+    },
+    {
+        "message": "With our fists pressed together, we fueled each other’s fighting spirit."
+    },
+    {
+        "name": "Momiji",
+        "message": "（…A rival, huh）"
+    },
+    {
+        "message": "Iori-sensei had a friend who was both his rival and his best friend."
+    },
+    {
+        "message": "That must have been a girl just like this Setsugekka, who is standing right in front of me now—"
+    }
+]

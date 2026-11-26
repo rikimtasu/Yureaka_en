@@ -1,0 +1,5544 @@
+[
+    {
+        "message": "A ceiling—"
+    },
+    {
+        "message": "It was an unfamiliar ceiling."
+    },
+    {
+        "message": "When I opened my eyes, that was all I could see."
+    },
+    {
+        "message": "Not my house. Not the barracks. Not the academy either."
+    },
+    {
+        "message": "Where am I—"
+    },
+    {
+        "message": "I reflexively tried to move my body, but it wouldn't budge an inch. It wasn't sleep paralysis. Something was pinning me down with sheer force."
+    },
+    {
+        "message": "There was no mistaking the sense of danger I felt. However, a voice cut in on my panic. A familiar voice—"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ahh, Iori-san's sleeping face...！ I have to take plenty of pictures of this...！！」"
+    },
+    {
+        "message": "Kuki Asahi."
+    },
+    {
+        "message": "She's here, and I can't move. And she doesn't look panicked at all—in fact, she seems to be enjoying herself."
+    },
+    {
+        "message": "Which means..."
+    },
+    {
+        "name": "Iori",
+        "message": "「Wait... have I been held captive？！」"
+    },
+    {
+        "message": "I desperately tried to move my head in a panic. And then—"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Held captive？ Whatever are you talking about, Iori-san？」"
+    },
+    {
+        "message": "Looking completely bewildered, Asahi peered down into my face."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Good morning, Iori-san. Did you sleep well？」"
+    },
+    {
+        "message": "Instead of her usual uniform, Asahi was wearing casual clothes I still wasn't quite used to seeing. The sight jogged my memory all at once."
+    },
+    {
+        "name": "Iori",
+        "message": "「...Right. I'm not being held captive.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Of course not. I would never do something like that today. After all—」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「We finally came on a trip together, just the two of us, Iori-san！」"
+    },
+    {
+        "message": "Seeing Asahi's eyes sparkling with joy, I decided to set aside the various doubts popping into my head for now—like, 'Wait, so you WOULD hold me captive on any other day？'"
+    },
+    {
+        "name": "Iori",
+        "message": "（That's right, the two of us came on a trip）"
+    },
+    {
+        "message": "I knew why Asahi was looking so happy. It wasn't just because she was always like this."
+    },
+    {
+        "message": "This trip was Asahi's―no, it was fair to call it our long―cherished wish."
+    },
+    {
+        "message": "When was that, again?"
+    },
+    {
+        "message": "If I tried to trace it back, I felt like I could go back endlessly. After all, you could even say it started the moment Asahi and I met."
+    },
+    {
+        "message": "Still, I suppose it's best to say it started right after the Martial Festival ended—"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Sigh...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「So this is where you were, Asahi.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ah, Iori-sensei... Were you looking for me？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well... something like that.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hehe, that makes me happy. Thank you.」"
+    },
+    {
+        "message": "Even as she said that, Asahi didn't pounce on me or launch into any of her usual passionate leaps of fancy."
+    },
+    {
+        "message": "...Which meant she really was that disappointed, huh."
+    },
+    {
+        "name": "Iori",
+        "message": "\"Is it about the Martial Festival after all?\""
+    },
+    {
+        "name": "Asahi",
+        "message": "「……Iori-sensei can see right through my heart, huh. I actually like that side of you, though」"
+    },
+    {
+        "name": "Iori",
+        "message": "\"I think it was a great match. I'm not just trying to console you—you really had a solid shot at winning, Asahi.\""
+    },
+    {
+        "name": "Asahi",
+        "message": "\"Thank you. Even so... in the end, I lost. Failing to turn that chance into victory was my own weakness.\""
+    },
+    {
+        "name": "Iori",
+        "message": "「Asahi……」"
+    },
+    {
+        "name": "Asahi",
+        "message": "\"No, I'm not being self-deprecating. I'm simply, genuinely frustrated.\""
+    },
+    {
+        "name": "Asahi",
+        "message": "\"More than simply losing, I can't stand that I lost even after receiving your guidance, Iori-sensei.\""
+    },
+    {
+        "name": "Asahi",
+        "message": "\"And to lose to someone else who was also taught by you, Iori-sensei...\""
+    },
+    {
+        "name": "Asahi",
+        "message": "\"I truly believed I had turned your teachings into strength better than anyone else...!\""
+    },
+    {
+        "name": "Asahi",
+        "message": "\"Feeling like I lost even on that front makes it all the more frustrating!\""
+    },
+    {
+        "name": "Iori",
+        "message": "\"You don't need to worry about that—as far as I'm concerned, every one of you gave it 100%.\""
+    },
+    {
+        "name": "Asahi",
+        "message": "\"I gave it 120%!\""
+    },
+    {
+        "message": "She seems to be getting her usual spirit back."
+    },
+    {
+        "name": "Iori",
+        "message": "\"Either way, it's only natural to feel frustrated after a loss. Hold onto that frustration and carry it into your next match.\""
+    },
+    {
+        "name": "Iori",
+        "message": "\"There's no question you've gotten stronger too, Asahi. You still have a long way to climb.\""
+    },
+    {
+        "name": "Asahi",
+        "message": "\"...You're right. And unlike back then, I have you by my side now, Iori-sensei.\""
+    },
+    {
+        "name": "Asahi",
+        "message": "\"With your guidance—no, with your love, Iori-sensei—I'll grow stronger without limit!\""
+    },
+    {
+        "name": "Iori",
+        "message": "「Love……！？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "\"Not just with your hands, either—with my feet, my head, my waist... have you teach every inch of my body!\""
+    },
+    {
+        "name": "Iori",
+        "message": "\"...You never change, Asahi.\""
+    },
+    {
+        "name": "Asahi",
+        "message": "\"Hehe. When it comes to these feelings, I have zero intention of changing. If anything, they only keep growing stronger!\""
+    },
+    {
+        "message": "She's completely back to her usual self. ...Maybe a little too back to normal."
+    },
+    {
+        "name": "Asahi",
+        "message": "\"Come to think of it, the first time we made love was back when you were still a student at this academy, Iori-sensei...\""
+    },
+    {
+        "name": "Iori",
+        "message": "\"Don't rephrase 'training' into something weird!\""
+    },
+    {
+        "name": "Asahi",
+        "message": "\"Even so, that was when I fell in love with you, Iori-sensei, and before I knew it, Jindou lessons became lessons of passion...\""
+    },
+    {
+        "name": "Iori",
+        "message": "\"We haven't done anything yet!\""
+    },
+    {
+        "name": "Asahi",
+        "message": "「……Not yet?」"
+    },
+    {
+        "name": "Iori",
+        "message": "\"Ugh... N-No, that was just a figure of speech...\""
+    },
+    {
+        "name": "Asahi",
+        "message": "「…………」"
+    },
+    {
+        "message": "Asahi stared straight into my face with total intensity. Dodging her gaze, I scrambled to play it off."
+    },
+    {
+        "message": "She kept doggedly chasing my eyes as I looked away... before finally giving up and stepping back slowly."
+    },
+    {
+        "message": "Instead, she hit me with another question."
+    },
+    {
+        "name": "Asahi",
+        "message": "\"By the way, you remember the first time I confessed to you, Iori-sensei, don't you?\""
+    },
+    {
+        "name": "Iori",
+        "message": "\"Huh? Yeah... of course I do.\""
+    },
+    {
+        "name": "Asahi",
+        "message": "\"And do you also remember what you said when you turned me down?\""
+    },
+    {
+        "name": "Iori",
+        "message": "\"What I said? Let's see... 'If I'm still single when you grow up, Asahi,' wasn't it...?\""
+    },
+    {
+        "name": "Asahi",
+        "message": "\"Hehe. I'm glad you remembered.\""
+    },
+    {
+        "name": "Iori",
+        "message": "\"Why bring that up now?\""
+    },
+    {
+        "name": "Asahi",
+        "message": "\"Those conditions... they're all met right now, aren't they?\""
+    },
+    {
+        "name": "Iori",
+        "message": "「Huh……！？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "\"I've grown up, and you don't have anyone else, Iori-sensei.\""
+    },
+    {
+        "name": "Asahi",
+        "message": "\"Which means right now... you'll accept my feelings, won't you?\""
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, that's……」"
+    },
+    {
+        "message": "Back then, I hadn't said those words with that kind of solemn resolve."
+    },
+    {
+        "message": "Still, Asahi believed my words and stayed true to them. No matter what, I owe responsibility for what I said."
+    },
+    {
+        "message": "And above all else—"
+    },
+    {
+        "message": "Coming to this academy and reuniting with Asahi..."
+    },
+    {
+        "message": "How she threw everything she had into helping me whenever I was in trouble..."
+    },
+    {
+        "message": "Asahi has kept loving me all this time."
+    },
+    {
+        "message": "Sure, her forwardness left me flustered plenty of times, but every bit of it came from how much she cared for me."
+    },
+    {
+        "message": "Falling for a girl like that was only natural."
+    },
+    {
+        "name": "Iori",
+        "message": "(Wait, no...! I can't get swept away right now...!)"
+    },
+    {
+        "message": "As long as we're teacher and student, I can't act recklessly!"
+    },
+    {
+        "message": "I try to hold firm on that principle alone, yet looking into Asahi's earnest eyes makes my resolve waver."
+    },
+    {
+        "message": "While I'm desperately trying to resist—"
+    },
+    {
+        "message": "As if sensing something in my expression, Asahi smiled softly and stepped slowly toward me."
+    },
+    {
+        "message": "Before I could instinctively pull back, she caught my arm and tugged me firmly toward her."
+    },
+    {
+        "name": "Iori",
+        "message": "「W-Wait a second, Asahi...！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hehe... No, I won't wait. Please let me hear your answer, Iori-san.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「For you, Iori-san, I'll cook every single day. Breakfast, lunch, and dinner♪ And after dinner, I'll let you eat me up...」"
+    },
+    {
+        "message": "Her mind's already jumping to some weird places, but—"
+    },
+    {
+        "message": "On the contrary, though, those words just gave me a glimmer of hope！"
+    },
+    {
+        "name": "Iori",
+        "message": "「Th-That's right！ I'm starving！ Aren't you hungry too, Asahi！？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「So you want to check my cooking skills as a final test of whether I'm worthy of being your bride.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, and you're already calling yourself my bride！ A-Anyway, come on, let's just eat first and calm down！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「...Understood. I certainly can't let you go hungry, Iori-san.」"
+    },
+    {
+        "message": "After some desperate persuasion, Asahi finally let go of me for now."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Then, in answer to your request, Iori-san, I'll put my cooking skills to work♪」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...Just so we're clear, this isn't some final test or anything, okay？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Mmph... This is delicious！」"
+    },
+    {
+        "message": "Asahi came to my room and treated me to a home-cooked meal."
+    },
+    {
+        "message": "Every single dish is exquisite—once I start eating, I can't stop."
+    },
+    {
+        "name": "Iori",
+        "message": "「Nom, munch... You're amazing, Asahi. Not just Jindou, you've gotten this good at cooking too.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「It's for you, Iori-san, so it's only natural. Every bit of seasoning should be just to your liking.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You've even got that figured out...？ Well, it really is right up my alley.」"
+    },
+    {
+        "message": "Asahi really does devote herself to me in every way."
+    },
+    {
+        "message": "Honestly, you couldn't ask for a better wife than her."
+    },
+    {
+        "message": "You rarely meet a girl who pours this much love into you, and that's exactly why I..."
+    },
+    {
+        "name": "Asahi",
+        "message": "「By the way, Iori-san？ Sitting across from each other and eating together like this... don't you think we look just like a married couple？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ghk...！」"
+    },
+    {
+        "name": "Iori",
+        "message": "（Crap... Hearing her say that only makes me even more self-conscious...！）"
+    },
+    {
+        "name": "Iori",
+        "message": "「N-No, isn't this pretty normal these days...？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Do you think so？ I think it's very much like a married couple...♪」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Urgh... Oh, more importantly, Asahi！ You've got a grain of rice by your mouth！」"
+    },
+    {
+        "message": "Spotting another lifeline, I reached out while trying to change the subject."
+    },
+    {
+        "message": "I picked the grain of rice off the corner of Asahi's mouth with my finger and ate it."
+    },
+    {
+        "message": "All that's left is to brush it off as a classic klutz move and change the subject—or so I thought, but"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Iori-san...」"
+    },
+    {
+        "message": "For some reason, Asahi was blushing shyly."
+    },
+    {
+        "name": "Asahi",
+        "message": "「For you to make a move on me first, Iori-san... My heart is pounding so fast...♪」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I wasn't trying to make a move on you！？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「What are you talking about？ Doing something like that is nothing short of what lovers do.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Oh, though if we were husband and wife, being a little more forward and using your mouth instead of your fingers would also be...♪」"
+    },
+    {
+        "message": "Saying that, Asahi sticking a grain of rice onto her own lips."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Come on, Iori-san？ Whenever you're ready...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ready for what！？」"
+    },
+    {
+        "message": "...After all that, we somehow managed to finish our meal without further incident."
+    },
+    {
+        "name": "Iori",
+        "message": "「Thanks for the meal. It was delicious, thank you.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Not at all, I'm glad you enjoyed it. I'll go do the dishes.」"
+    },
+    {
+        "message": "Perhaps having a full stomach calmed her down a bit, because Asahi began cleaning up in a calm, gentle manner."
+    },
+    {
+        "message": "Even the deft way she handles it really gives off the air of a good wife."
+    },
+    {
+        "message": "Watching Asahi's back as she washes the dishes while humming to herself, I feel like there isn't a man alive who wouldn't imagine married life with her."
+    },
+    {
+        "name": "Iori",
+        "message": "「...Honestly, Asahi really is such a good girl that I'd want to make her my wife.」"
+    },
+    {
+        "message": "Before I know it, those words slip right out of my mouth."
+    },
+    {
+        "message": "It was undeniably my true feelings—so much so that if I could, I wanted to confess to Asahi right then and there."
+    },
+    {
+        "message": "Forgetting our positions as teacher and student, with Asahi—"
+    },
+    {
+        "name": "Iori",
+        "message": "「...Hm？」"
+    },
+    {
+        "message": "Before I realized it, Asahi had vanished from the sink."
+    },
+    {
+        "message": "And instead, I feel a presence right beside me."
+    },
+    {
+        "message": "When I slowly turn around..."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Iori-san... Did you really mean what you just said？」"
+    },
+    {
+        "name": "Iori",
+        "message": "<s38>\"Huh？\"</s>"
+    },
+    {
+        "name": "Asahi",
+        "message": "「About wanting to make me your wife...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Y-You heard that...！？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Iori-san, I... I...！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「W-Wait！ Calm down, Asahi...！ What I just said was, um, how do I put it...！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I...... can't hold back anymore！」"
+    },
+    {
+        "name": "Iori",
+        "message": "<s38>\"Whoa！??\"</s>"
+    },
+    {
+        "message": "With a face completely worked up with excitement, Asahi pinned me down."
+    },
+    {
+        "message": "I reflexively resisted, trying to at least break free from this restraint, but—"
+    },
+    {
+        "name": "Iori",
+        "message": "「W-Whoa, you're strong！」"
+    },
+    {
+        "message": "Even though I put up resistance close to going all out, Asahi didn't even flinch."
+    },
+    {
+        "message": "Just like Asahi, showing off her superhuman strength...... not that I have time to be saying things like that！"
+    },
+    {
+        "name": "Iori",
+        "message": "「A-Asahi, calm down......！ Right now, I feel like this is turning into a pretty bad look in all sorts of ways......！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I don't care！ I can't put up with being teased like this anymore！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I like you, Iori-san！ I love you so much！ I'm in love with you！ Please go out with me with marriage in mind！ Or rather, just marry me already！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Th-That's why I'm saying wait！ Wait a second, Asahi！ I also, umm......！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I really do like you too, Asahi！ I think a future like that is on the table too！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Iori-san...... Iori-san！！！！」"
+    },
+    {
+        "name": "Iori",
+        "message": "（Crap！ Swept up in the momentum, my true feelings slipped out too......！）"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I knew it, you were thinking that too！ I knew it after all！ I'm so happy, way too happy！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, I mean I am, but hold on a second！ For now, just wait a little......！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「After getting me this excited, making my heart race this much, doing all this to me—there's no way I can wait anymore！」"
+    },
+    {
+        "message": "Excitement, joy, happiness...... Asahi's face, packed full of nothing but positive emotions, came closer and closer."
+    },
+    {
+        "name": "Iori",
+        "message": "「A-Asahi......！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I love you, Iori-san！ I dedicate my entire life to you, Iori-san—！」"
+    },
+    {
+        "message": "Those sweet, soft―looking, adorable lips pressed against my―"
+    },
+    {
+        "name": "Iori",
+        "message": "（......It got stolen）"
+    },
+    {
+        "message": "Yesterday, just like that...... with Asahi pushing me right through it, my first was stolen away."
+    },
+    {
+        "message": "It's not like I hated it. In fact, it's even something I wanted."
+    },
+    {
+        "message": "Still, I never expected my— at a timing like that"
+    },
+    {
+        "name": "Iori",
+        "message": "（To steal my first kiss......！）"
+    },
+    {
+        "message": "By the way, as for anything beyond that, Asahi showed restraint, as expected."
+    },
+    {
+        "message": "Or rather, Asahi told me, 'I want you to tell me your feelings clearly. Otherwise, I won't be able to hold back on going any further than this either.'"
+    },
+    {
+        "message": "Because of that, I gave in and once again told Asahi how I felt—that I liked her."
+    },
+    {
+        "message": "And just like that, Asahi and I became lovers."
+    },
+    {
+        "message": "I had wanted her to wait, though after going this far, I couldn't really say we weren't lovers."
+    },
+    {
+        "message": "Besides, more than anything—after that kiss, I couldn't hold back anymore either."
+    },
+    {
+        "name": "Iori",
+        "message": "（I know my willpower's weak even by my own standards... but since it's come to this, I've got to switch gears！）"
+    },
+    {
+        "message": "Even if it was unplanned, it was something I'd wanted."
+    },
+    {
+        "message": "That's why my spirits are soaring, and that's why I have to pull myself together."
+    },
+    {
+        "message": "Without forgetting our positions as teacher and student, I need to keep my public and private lives strictly separate."
+    },
+    {
+        "name": "Iori",
+        "message": "「At least the Martial Festival is over and we're into summer break. If there were classes, what would the other students say—」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ah, there you are！ Sensei！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ooh？」"
+    },
+    {
+        "message": "When I turned around at the call, Setsugekka was running over."
+    },
+    {
+        "name": "Iori",
+        "message": "「What's up？ Even though it's summer break. I gave you a training sheet for homework, didn't I？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I'll do that too, of course, but I want separate coaching besides that！ Even when there are no classes, please teach me！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ooh, that's a pretty admirable attitude. Since you're being so enthusiastic, Sensei's happy too！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yes！ So let's head to the training grounds right away！」"
+    },
+    {
+        "message": "Saying that, Setsugekka hugged my arm and pulled hard."
+    },
+    {
+        "name": "Iori",
+        "message": "「W-Whoa？ You don't have to rush that much... or rather, things are pressing against me...！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ah, found you, found you...♪ I-iorin！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Whoa！？」"
+    },
+    {
+        "message": "Just as I was about to start walking, Ririmu suddenly glomped onto my other arm."
+    },
+    {
+        "name": "Iori",
+        "message": "「W-What is it？ What's wrong, Ririmu...！？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「What's with 'what's wrong'？ It's not fair if it's just Secchan, right？ I wanna get Iorin's personal coaching too♪」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ririmu asking for coaching on your own...！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I lost at the Martial Festival and it's frustrating. So... hey, Iorin？ I'm okay too, right？」"
+    },
+    {
+        "message": "With a somehow seductive smile on her face, she tugs firmly at my arm just like Setsugekka."
+    },
+    {
+        "name": "Iori",
+        "message": "「Hey, like I said, things are pressing against me...！ No, forget pressing, my arm's getting rubbed...！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Hup.」"
+    },
+    {
+        "name": "Iori",
+        "message": "<s38>\"Nwoah！？\"</s>"
+    },
+    {
+        "message": "This time, a weight of several dozen kilograms suddenly landed on my back."
+    },
+    {
+        "message": "And pale arms dangled limply over both of my shoulders..."
+    },
+    {
+        "name": "Iori",
+        "message": "「Hey, what are you doing, Momiji！？」"
+    },
+    {
+        "message": "Somehow managing to move my eyes and look behind me, there was Momiji, flaunting a slack, lazy expression."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Hmm？ It's nothing special~？ I just got a little tired, so I figured I'd weight myself down on you.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Don't use a person as a substitute bench！ And besides, Momiji, various parts of you are pressing right against me……！！」"
+    },
+    {
+        "message": "For some reason out of nowhere, I ended up restrained by three students."
+    },
+    {
+        "message": "On top of that, softness was being pressed against me in all sorts of places, leaving me torn over whether it was painful or not and what on earth to do……"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Oh my, you're quite popular today.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ah, Keisetsu！ Help me out！ I don't know why, but things ended up like this……！」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「I suppose so…… fufu. Since I am a member of Takamura Class too, perhaps I ought to deepen my bond here as well.」"
+    },
+    {
+        "message": "Saying that, Keisetsu slowly approached from the front――！"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Fufu, nnfufu……♪」"
+    },
+    {
+        "message": "Even just walking down the hallway, a smile couldn't help slipping out. My steps felt light, almost turning into a skip."
+    },
+    {
+        "message": "Still, it couldn't be helped. After all――"
+    },
+    {
+        "name": "Asahi",
+        "message": "「At long last, I'm lovers with Iori-san……！！」"
+    },
+    {
+        "message": "A wish of many years. Feelings I had kept yearning for had finally come true. That joy alone made me feel like I might ascend straight to heaven."
+    },
+    {
+        "message": "Even more so when I thought about the happy days ahead."
+    },
+    {
+        "message": "After all, summer vacation had started, so there were no classes. Having no classes meant I could monopolize Iori-san！"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Right after becoming lovers, getting to spend dense, intimate time just the two of us…… is it really okay for me to be this happy！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「For that reason too, I need to find Iori-san quickly and have a private lesson…… wait, over there is……？」"
+    },
+    {
+        "message": "What I spotted ahead of my gaze was none other than Iori-san. However……"
+    },
+    {
+        "name": "Iori",
+        "message": "「I mean, why are all of you clinging onto me at once！？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I simply wish to receive instruction promptly！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I just wanna get some instruction too, ya know~？ Ahaha♪」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I'm just using him as a bench.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Fufu, how curious.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Wai…… wait just a second, all of you！！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ah, Asahi！ Help me out！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「What are you doing！ Please let go of Iori-san right away！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Eh~？ Isn't it fine？ He's 'our' teacher, after all~♪」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「That way of putting it…… could it be that my relationship with Iori-san is already……！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Oh, you two became a couple, right? Congratulations！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You already found out？！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Anyone would figure it out after seeing Asahi look happier than she's ever been before, wouldn't they？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Besides, we'd kind of already noticed that Sensei probably felt that way about Asahi too.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You noticed...？！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「So you're all hugging Iori-san even though you know about our relationship？！」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「That's one thing, and this is another.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Within the bounds of a student-teacher relationship, you shouldn't give special treatment to just one person.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Guh, well... Even so, you've never been this clingy before, have you？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「We're just overflowing with motivation, y'know？ It's not like we're doing anything bad, riiight？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ughhh...！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Then I should have the right to hug him too!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Wh—hey, wait, Asahi...？！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Iori-san, please catch me！」"
+    },
+    {
+        "name": "Iori",
+        "message": "<s38>\"Nooooooooooo？！\"</s>"
+    },
+    {
+        "message": "I apologized for sending Iori―san crashing into the wall, so putting that aside―"
+    },
+    {
+        "message": "In the end, even after that, the members of Takamura Class started seeking Iori-san out and clinging to him every single day."
+    },
+    {
+        "message": "Iori-san even put together extra self-training menus for everyone, so they shouldn't have any excuse to cling to him anymore！"
+    },
+    {
+        "message": "They even tell such obvious lies like, \"There's a part I don't get~\"！"
+    },
+    {
+        "message": "Keisetsu-san told me, \"It's their way of showing they won't let you have the teacher side of him all to yourself,\" and I can sort of understand that, though."
+    },
+    {
+        "message": "Meanwhile, Ririmu-san was just saying things like \"Seeing Iorin and Asahi freak out is totally hilarious！\" though！"
+    },
+    {
+        "message": "And sometimes, it wasn't even just Takamura Class—"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Iori-san！ ...Wait, Tennouji-senpai and Minamoto-senpai？」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Hiii, Kuki-chaaan. What's up？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Well, I mean... what are the two of you doing with Iori-san？」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Ah, we just happened to run into him over there and got to talking...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I was asking them about what kind of training they usually do. Shizuku-san in particular collects all sorts of data, so I thought it might be helpful as a reference.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I see, so that's how it was」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「A-A-Sorry！ I'll be right there……！」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Huh？ Why？ I still haven't talked enough, yo！ And I wanna hear Muragaki-san's advice too！」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「True, but……！ Still, look, if we get in the way of their hard-earned alone time……！」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「There are four of us right here, you know？」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「N-Not that……！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「……Ah, no, I don't really mind. Still, may I listen in too？ Since I'm interested in Senpai's special training as well」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Of couuurse it's fine, yo！」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「A-A-Somehow, sorry……？」"
+    },
+    {
+        "message": "It's nice that these two aren't all clingy like Takamura Class……but because of that, I can't just brush them off, either."
+    },
+    {
+        "name": "Asahi",
+        "message": "（So I can't get him all to myself again after all……）"
+    },
+    {
+        "message": "On yet another day――"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ah, Iori-san……！」"
+    },
+    {
+        "message": "This time I spotted Iori-san in the dorm hallway."
+    },
+    {
+        "message": "What's more, today all the members of Takamura Class are somewhere else, and Victoria-senpai and Shizuku-senpai are out too."
+    },
+    {
+        "message": "Which means this is――my chance to be alone with him！"
+    },
+    {
+        "message": "Today's the day for that long-awaited, intense time alone together……！！"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Iori-sa――！」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「Oh, Iori, you're here. Got a sec」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Gyaaaaaaaaah-teaaaaaaaah！！」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "<s38>「Gubuu！？」</s>"
+    },
+    {
+        "message": "With the momentum of rushing over, I slam my fist into the brother-like matter that suddenly appeared from the side."
+    },
+    {
+        "message": "Thanks to piercing his solar plexus with a surprise attack, the thing that looks just like my brother crumples over as if folding in half."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Just the two of us, Iori-san♪」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「Hold up, dammit」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hm, surprisingly tough, aren't you, mysterious inorganic matter」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「I'm a living creature！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Uhh……what are you doing？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Oh no, please don't worry about it, Iori. I'll finish him off right away.」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「Don't finish off your own brother！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「What is it? You've been awfully noisy this whole time.」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「'What is it?' is my line. Why did you punch me out of nowhere?」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Because my brother was there.」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「Unconditionally...？！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hahaha, you two sure get along well.」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「What part of this looks like we get along...」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「First of all, why are you even here? Outsiders aren't allowed in, and suspicious characters are supposed to be arrested.」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「Don't call me a suspicious character. I just had something to talk to Iori about. About none other than—Asahi.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「About Asahi... You mean...」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「W-What is it！ Don't tell me... you're planning to object to my relationship with Iori？！」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「No, I don't have a problem with that. In fact, if it's Iori, I can rest easy. It's just—」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「If you tie the knot with Asahi, that makes you my younger brother-in-law, right, Iori！」"
+    },
+    {
+        "name": "Iori",
+        "message": "<s38>\"...Huh？\"</s>"
+    },
+    {
+        "name": "Asahi",
+        "message": "「...What？」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「Well, I figured I'd tease Iori about it! Like, 'From now on, you better respect me as your big brother!' and stuff!」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「...Maybe I should finish him off after all.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Right now, I have no objections.」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「I have objections！ Tons of them！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「What on earth is that pathetic little scheme?」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「My best friend getting married is already prime teasing material, and when it's to my own little sister, how could I possibly resist teasing him？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「For that matter, we aren't even married yet.」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「Don't tell me you're planning to dump my little sister？！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Please don't say something so annoying.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Talk about getting ahead of yourself. Besides... wouldn't I be the older brother-in-law in the first place？」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「No, no, if you're marrying my little sister, her older brother is your older brother-in-law, right?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「When was your birthday again, Takahisa？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「This guy's birthday is December 34th.」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「Don't call your own flesh-and-blood brother 'this guy.' That birthday's a lie, too. Besides, that date doesn't even exist！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I won't allow the likes of this to stand above Iori-san.」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「'This' is banned too！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Well, ordinarily I wouldn't even want him as a younger brother-in-law, though since even a thing like this is technically supposed to be my older brother...」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「Stop finding so many different ways to treat your brother like garbage！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You two really do get along well, huh.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「We don't get along in the slightest！」"
+    },
+    {
+        "message": "...In the end, we couldn't be alone together again."
+    },
+    {
+        "message": "However, this time it's perfect."
+    },
+    {
+        "message": "Takamura Class is all out, and neither Tennouji-senpai nor Minamoto-senpai is around. As for the nuisance known as my brother, I strictly warned him to stay away."
+    },
+    {
+        "message": "And I know where Iori-san is, too. I don't know why, but apparently he's in the infirmary."
+    },
+    {
+        "message": "The infirmary—a place where few people go. How convenient. Today should finally go smoothly...！"
+    },
+    {
+        "name": "Asahi",
+        "message": "「All right then, let's check inside first and charge right in—！」"
+    },
+    {
+        "message": "Fired up, I gently opened the infirmary door, and..."
+    },
+    {
+        "name": "Iori",
+        "message": "「All right, that does it for this document. Next is this one... Wait, huh？ Is this the one I have to match up with the previous document？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Where was that again... There are so many documents, I can't tell where anything is. I feel like I checked it a while back... Dammit, I wish they'd keep this stuff properly organized.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「…………」"
+    },
+    {
+        "message": "Sitting at the infirmary desk, Iori-san was wrestling with a huge pile of documents. Seeing that... I quietly backed away."
+    },
+    {
+        "name": "Asahi",
+        "message": "（Even though I want us to be alone together, I can't just get in the way of his work, can I...）"
+    },
+    {
+        "message": "I like to think I'm not selfish enough to make unreasonable demands in a situation like that."
+    },
+    {
+        "message": "『When you're all grown up, Asahi, if I don't have anyone else』—"
+    },
+    {
+        "message": "That's what Iori-san said."
+    },
+    {
+        "message": "In other words, I can't act selfish like a child. If I do, I won't be able to fulfill that condition."
+    },
+    {
+        "name": "Asahi",
+        "message": "（We're already lovers... We have all the time in the world, so there's no need to rush, right...？）"
+    },
+    {
+        "message": "Thinking that, I turned on my heel."
+    },
+    {
+        "message": "Yet deep down in my heart, that restless, unsettled feeling still lingered..."
+    },
+    {
+        "name": "Iori",
+        "message": "（...I wonder how Asahi is doing.）"
+    },
+    {
+        "message": "While wrestling with a mountain of paperwork, the thought slips into my mind."
+    },
+    {
+        "message": "Work is hectic. Still, Asahi is on my mind. Ever since the confession, we haven't been able to get any time alone together."
+    },
+    {
+        "message": "Of course we've been keeping in touch, but I want more physical affection. I want to do couple things. Work is too busy."
+    },
+    {
+        "name": "Iori",
+        "message": "（Damn this work...！）"
+    },
+    {
+        "message": "Channeling that frustration, I look through the documents—"
+    },
+    {
+        "name": "Iori",
+        "message": "「...Huh？」"
+    },
+    {
+        "message": "Suddenly sensing a presence behind me, I turned around. Just then, I saw the door being quietly shut."
+    },
+    {
+        "message": "And for a split second—I thought I saw Asahi's back."
+    },
+    {
+        "name": "Iori",
+        "message": "「Asahi？」"
+    },
+    {
+        "message": "It was only for an instant, and from behind, so I can't be certain."
+    },
+    {
+        "message": "Just as I start to get up to go after her and see for myself—"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Hey now, where do you think you're going？ You're not done yet. Here, the next stack of paperwork.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...There's even more? There was something I wanted to check on real quick.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「You don't have time to rest for even a single second right now. Until you finish this, there's no break for a teacher.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, that's true, though.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「You'd better do your job properly. You've gone and gotten into a romantic relationship with a student, after all. If you leave a bad impression...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ugh...！ When you put it like that...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...Understood. I want to get this work over with quickly too.」"
+    },
+    {
+        "message": "Unsurprisingly, word about me and Asahi had reached Ms. Sasaki as well."
+    },
+    {
+        "message": "Though on the flip side, since Ms. Sasaki has kept her mouth shut, you could say it's stayed contained to the Takamura Class students."
+    },
+    {
+        "message": "In short, she's doing me a huge favor... which also means she has dirt on me."
+    },
+    {
+        "name": "Iori",
+        "message": "「...By the way, Ms. Sasaki. Why do I have to go out of my way to do clerical work in the infirmary?」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「It can't be helped. Someone broke the air conditioning in the faculty room, after all. The other teachers can use the prep rooms and such, but you're strictly a temporary hire, so that's out of the question.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「So, out of the depths of my mercy, I extended a helping hand and let you use the infirmary like this. You really ought to be grateful.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...I wonder who broke it, that air conditioning.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「No idea at all. Rest assured, though. It should be back up and running right around the time your work is finished.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, isn't that convenient...」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Actually, it's pretty convenient for you, isn't it？ Better than having the faculty gather right now and clumsily swap gossip. By the time all this is over, the rumor will have blown over.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...I really am grateful.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Splendid. Then keep up that momentum and check over these documents for me too♪」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...I've been wondering this for a while now, but aren't almost all of these documents your job, Sasaki-sensei？」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Man, having you here in the infirmary has been a real lifesaver. I'm terribly busy with 'things only I can do,' after all. I couldn't be more grateful to share replaceable paperwork with you.」"
+    },
+    {
+        "message": "...How terribly convenient for her."
+    },
+    {
+        "name": "Iori",
+        "message": "「By the way, what exactly is it that only you can do, Sasaki-sensei？」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Me enjoying a cigarette.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That's not even work...！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Sigh... So the students' summer break is the teachers' busy season, huh...」"
+    },
+    {
+        "message": "I somehow managed to finish today's paperwork too and returned to my room."
+    },
+    {
+        "message": "A different kind of hardship from dealing with students. So this is also what being a teacher is like—"
+    },
+    {
+        "message": "No, it's really just because Sasaki-sensei is dumping her share on me."
+    },
+    {
+        "name": "Iori",
+        "message": "（Still, the end is finally in sight. Once this is over, I'll have a little more breathing room, and with Asahi...）"
+    },
+    {
+        "message": "Come to think of it, ever since Asahi and I became a couple, I feel like we haven't been able to get any time alone together."
+    },
+    {
+        "message": "It hasn't been all that long, yet we finally became lovers and still..."
+    },
+    {
+        "name": "Iori",
+        "message": "「Once work settles down, I'd like to take it easy and make up for lost time.」"
+    },
+    {
+        "message": "I had the wish but no actual plan, so I sat down in my chair wondering what to do."
+    },
+    {
+        "message": "Just then—a magazine lying right in front of me caught my eye."
+    },
+    {
+        "message": "It was just a weekly magazine I'd casually read and casually left sitting there, yet when I casually picked it up..."
+    },
+    {
+        "message": "Inside, there was an article with travel information."
+    },
+    {
+        "name": "Iori",
+        "message": "「A hot spring trip... Cheap, fun, delicious food... A relaxing time alone with your lover...」"
+    },
+    {
+        "message": "They were cliché slogans, yet to me right now, they looked irresistibly appealing—"
+    },
+    {
+        "name": "Iori",
+        "message": "「Here you go, Sasaki-sensei. I'm all done.」"
+    },
+    {
+        "message": "I set the final stack of documents right in front of Sasaki-sensei, who was enjoying a cigarette."
+    },
+    {
+        "message": "With this, the mountain of paperwork in front of me was finally gone."
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Oh, that was surprisingly fast. Is this what they call the power of love?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...Well, it might be something like that. Anyway, that's everything, right？」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Yeah. Good work. Well then, I suppose it's about time I started praying for the air conditioning to get fixed.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, no, it's fine, but... ah, actually, maybe the air conditioning doesn't need to be fixed just yet」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「What？ Have you grown that fond of the infirmary？ ...Or could it be that you're trying to seduce me this time？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Absolutely not. That's slanderous.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「What do you mean 'slanderous'? Slanderous, indeed.」"
+    },
+    {
+        "message": "Anyway—"
+    },
+    {
+        "message": "After seeing off Sasaki-sensei as she went to submit some paperwork, I immediately made a phone call."
+    },
+    {
+        "message": "The person on the other end was, of course—Asahi."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Iori-san...? What's wrong? You should be at work right now, right?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I actually just finished. More importantly, there's something I wanted to ask you as soon as possible, Asahi.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Something you wanted to ask...？ What could it be？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hey, Asahi... do you like things like, say, hot spring trips？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Let's go！！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That was a quick decision...！」"
+    },
+    {
+        "message": "Over the phone, I could already hear the sounds of her starting to pack for the trip."
+    },
+    {
+        "message": "Naturally, not wanting to be outdone, I immediately started my own preparations—"
+    },
+    {
+        "message": "—and just like that, we arrived at our hot spring getaway."
+    },
+    {
+        "message": "Since we arrived at night on the first day, it was already time for bed by the time we reached the hotel and took a bath."
+    },
+    {
+        "message": "Setting that aside, though...."
+    },
+    {
+        "name": "Iori",
+        "message": "「...I can't get up.」"
+    },
+    {
+        "message": "When I woke up in the morning, I remained unable to move, just lying on my back looking up at Asahi."
+    },
+    {
+        "message": "But looking closely, it was no wonder—Asahi was lying on top of me."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Oh, Iori-san, being so bold this early in the morning...♪」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You're the one who climbed on top of me！」"
+    },
+    {
+        "message": "I managed to move Asahi aside and sit up, her cheeks flushed."
+    },
+    {
+        "message": "For some reason, she was still squirming around, looking embarrassed."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Iori-san, last night was such a passionate one, wasn't it...♪」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I told you！ We haven't done anything yet！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Yet？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「…………」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...Well, where shall we look around today！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Fufu. Well, alright, I suppose. But before sightseeing... here goes♪」"
+    },
+    {
+        "name": "Iori",
+        "message": "<s38>「Whoa, Asahi！？」</s>"
+    },
+    {
+        "message": "Asahi suddenly hugged me head-on from the front."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Since we came all the way to a place where I can have you all to myself, I have to savor Iori-san to my heart's content♪」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Haha, fair enough. In that case, I'm going to savor Asahi too！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Kyaa...！ Fufu, Iori-san really is bold, isn't he♪」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Putting that aside for a second, even I was looking forward to having time like this, just the two of us, Asahi.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「That makes me happy, Iori-san...♪ Then let's take our time, just the two of us, to our heart's content...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...Um, Asahi？ About an hour has already passed, you know.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「It's still not enough. I need to savor Iori-san even more♪」"
+    },
+    {
+        "name": "Iori",
+        "message": "「We're gonna run out of time for sightseeing...！」"
+    },
+    {
+        "message": "Asahi finally grew satisfied after about another hour from there."
+    },
+    {
+        "message": "And at last, the two of us head outside."
+    },
+    {
+        "name": "Asahi",
+        "message": "「It's a nice atmosphere, isn't it? So calm and relaxing.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah. It really feels like the real deal.」"
+    },
+    {
+        "message": "We walk at a leisurely pace through the post town."
+    },
+    {
+        "message": "Plenty of other tourists can be seen too, and everyone looks like they're enjoying the charm of the place."
+    },
+    {
+        "message": "There are lots of inns besides the one we're staying at, and souvenir shops lined up alongside them tempt the tourists."
+    },
+    {
+        "message": "Sometimes a shopkeeper is standing out in front of a shop――"
+    },
+    {
+        "name": "Shopkeeper",
+        "message": "「Hey, you two over there！ Any chance you're siblings on a trip？ You get along so well！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「We're lovers！」"
+    },
+    {
+        "name": "Shopkeeper",
+        "message": "「Oh！ Sorry 'bout that. You're both so cute, I just slipped.」"
+    },
+    {
+        "name": "Shopkeeper",
+        "message": "「Ah, as an apology, I'll give you a discount！ Like these heart-shaped handcuffs I recommend for lovers！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「How much would those be?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You're gonna buy 'em！？」"
+    },
+    {
+        "message": "After getting her to reconsider for now――"
+    },
+    {
+        "message": "Once we started walking again, Asahi looked a little dissatisfied. Not about the handcuffs."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Do we really not look like lovers?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Haha... well, truth is, we're teacher and student. Plus, above all else, we only just became lovers.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「True... we still might not be giving off that couple-like vibe.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, I don't really know how we're supposed to create that vibe either.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Being like a couple...」"
+    },
+    {
+        "message": "As we walked along muttering things like that—"
+    },
+    {
+        "message": "Asahi suddenly stopped in her tracks, looking into an alley."
+    },
+    {
+        "name": "Iori",
+        "message": "「Asahi？ What's wrong？」"
+    },
+    {
+        "message": "Just as I tried to peer into the alley too, Asahi abruptly spun around."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Iori-san, let's go somewhere with a lot more people walking around！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Huh？ You'd rather go somewhere lively？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Yes. We'll kiss there.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Why the hell would we do that！？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Do you not want to kiss me...？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「N-No, it's not like that, but... why go out of our way to a crowded place？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Just now, I happened to see a couple who looked like they were traveling kissing in that alley over there.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I-Is that right...？ That's, uh, kind of...」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「That's when I realized—lovers are supposed to kiss in public！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You've got it all wrong！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「However, if you look closely around us, that kind of thing is happening all over the place.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, that's……」"
+    },
+    {
+        "message": "In fact, when I strained my eyes to look around, I spotted several couples kissing, lightly though it was."
+    },
+    {
+        "name": "Asahi",
+        "message": "「So let's go somewhere with lots of people！ I think there was a theme park around here, wasn't there?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Is it really okay to go for a reason like that?」"
+    },
+    {
+        "message": "And just like that, we came to the theme park."
+    },
+    {
+        "name": "Iori",
+        "message": "「It's got kind of an old-fashioned vibe to it, doesn't it. Feels like something I saw in footage of an old amusement park.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「This theme park too, of course, but it seems this whole area is adopting that kind of theme. They say the post-town scenery follows the same style.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I see. Stuff like this has a nice charm to it too.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「There’s something so soothing about traditional things. I wonder if that’s just because I come from a family of warriors.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Haha, maybe so.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Alright！ Let’s let our inner children out and have some fun！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Yes！ Let’s play to our hearts’ content.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「……By the way, are there any attractions like, say, a room you can’t leave unless you kiss someone？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Is that even an attraction…？」"
+    },
+    {
+        "message": "Anyway—that is how we ended up spending the day at a theme park."
+    },
+    {
+        "message": "There were plenty of attractions there—a great many others, excluding the room you can’t leave without kissing."
+    },
+    {
+        "message": "Some were quite twisted and modern, but since we’d come all this way, I felt like embracing the traditional—"
+    },
+    {
+        "name": "Asahi",
+        "message": "「A roller coaster…？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「It’s a thrill ride. Seems it’s supposed to be pretty terrifying.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hehe. Someone as trained in Jindou as I am won’t be screaming in terror at this point. Especially not when Iori-san is right here beside me.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Is that so？ Then let’s give it a try！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「…………」"
+    },
+    {
+        "name": "Iori",
+        "message": "「……That was unexpectedly scary.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I, I never imagined it would be that fast.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「But thanks to that, I got to hold onto Iori-san, so I suppose it was worth it♪」"
+    },
+    {
+        "message": "Regardless. Since it seemed we enjoyed it, I began looking for the next attraction."
+    },
+    {
+        "message": "This time, something that is both traditional and a staple of theme parks―and dates, for that matter―"
+    },
+    {
+        "name": "Asahi",
+        "message": "「A haunted house? Are there actually people who get scared by artificial paranormal phenomena?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Apparently, it’s built quite authentically.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hehe. Someone as trained in Jindou as I am won’t be scared by ghosts at this point. I’ve even faced Ririmu-san’s illusions before, after all.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Though, walking through the dark with Iori-san does sound nice. We wouldn’t be found if we kissed in here, right？ Although, I wouldn’t mind if we were.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Kissing aside, if that’s the case, let’s go！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「…………」"
+    },
+    {
+        "name": "Iori",
+        "message": "「A-are you okay？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「It’s cowardly to just pop out and startle someone like that…! Anyone would be surprised by that!」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「But, I got to hold onto Iori-san, so I suppose this was worth it too.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hahaha, that's all you're talking about.」"
+    },
+    {
+        "message": "At any rate. That was how we went about enjoying the theme park."
+    },
+    {
+        "message": "Since we'd agreed to skip the scary stuff, we ended up focusing on peaceful attractions, though."
+    },
+    {
+        "message": "For instance—"
+    },
+    {
+        "name": "Iori",
+        "message": "「This place is... a hero show, huh?」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「'Go-Go Okita-kun'... was it? That's the swordsman anime Tennouji-senpai likes, right?」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「The anime should have already finished airing, though, so I wonder if it's recreating an old amusement park？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Makes sense.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ooh. That's some pretty impressive action.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「True... With swordplay like that, I'd love to spar with them once. Do you think I could ask after the show ends？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hey, Asahi, what do you think we came here for...？」"
+    },
+    {
+        "message": "Stuff like that happened. And on top of that—"
+    },
+    {
+        "name": "Asahi",
+        "message": "「A Ferris wheel... Is this thing really going to be okay?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Okay how？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Even though it goes up so high, it's swaying way too much... Could this actually be a scream machine too...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Enjoying the view from up high is supposed to be a classic date spot, you know.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I feel like we're going to fall, so I don't think I'll have the headroom to enjoy the view...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Now, now. Come on, let's go.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「W-Wait a second, Iori-san...！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Oh, look！ We can see the whole post town from earlier！ And over that way there are mountains too...！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Haha. Glad to see you're enjoying it. Even though you were so scared when we got on.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I-It's embarrassing when you put it like that... Still, looking at a nice view really calms you down.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「True enough. Do you not mind the swaying anymore？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I can use the swaying as an excuse to cling to you, Iori-san, so it's actually a good thing！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Using it like that... well, there's that.」"
+    },
+    {
+        "message": "—And so on, we had a blast at the theme park."
+    },
+    {
+        "message": "We didn't end up kissing in public, though."
+    },
+    {
+        "name": "Iori",
+        "message": "「Whew. That was a great bath.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「It really lived up to being a hot spring inn. Though it was a shame it wasn't mixed bathing.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Haha, well, you can't really expect that.」"
+    },
+    {
+        "message": "After having our fill of playing around, we had dinner at the hotel and soaked in the hot spring."
+    },
+    {
+        "message": "All that's left is to spend the time until bed relaxing with Asahi."
+    },
+    {
+        "message": "Because we'd walked around so much during the day, this unhurried time seemed to sink right into my heart."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Since we're here, why don't we go in one more time later？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Oh, sounds good. In that case, maybe I'll even go in the morning too！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hehe, good idea. Let's enjoy it to our hearts' content.」"
+    },
+    {
+        "message": "Sitting down next to her, I share a laugh with Asahi and let out a big, long stretch."
+    },
+    {
+        "message": "Time alone with Asahi, undisturbed by anyone. It makes me unbearably happy."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Today was so much fun.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah. I got to have a ton of fun with you, Asahi. Oh, right, we took photos too, didn't we?」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Would you like to see them？ We have the one from that, um, whatever-coaster too. Though I never imagined they'd snap a picture while we were actually on the ride.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Oh, this one, this one. Yep, you really do look scared, Asahi.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Th-That's embarrassing... More importantly, there are other photos too！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Oh yeah, we strolled around this area too, didn't we? There was great scenery everywhere we went—it was a lot of fun.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Everywhere you take a picture looks like a postcard. Let's brag about it to everyone in Takamura Class too！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I have a feeling that's going to cause all sorts of trouble again...」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Right now, I have the composure of knowing I went on a trip alone with you like this, Iori-san, so it'll be fine.」"
+    },
+    {
+        "message": "Wouldn't I be the one who's not fine... physically."
+    },
+    {
+        "name": "Iori",
+        "message": "「Anyway, I had fun too, and more than anything, I'm glad you enjoyed yourself, Asahi.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I'm all alone with you, Iori-san, so there's no way it wouldn't be fun！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Though going so long without being able to be alone together did leave me feeling a little uneasy...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Sorry. For making you worry.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「N-No, I wasn't worried...！ If we're talking about that, I'm the one who...」"
+    },
+    {
+        "message": "Asahi suddenly looked down slightly, looking apologetic."
+    },
+    {
+        "message": "Hunching her shoulders, averting her gaze..."
+    },
+    {
+        "name": "Asahi",
+        "message": "「I am so happy that I could become your lover, Iori-san. It’s just... there’s something I can’t help but worry about...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Worry...？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Back when I confessed... I couldn't hold back, and I forced myself on you... I feel like I might have made you say those things against your will...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You don't need to worry about that. It’s true that you were a bit aggressive, but... my confession was sincere.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「But Iori-san, you said you wanted me to wait...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Haha... well, we are teacher and student, after all. I did have those kinds of reservations.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「But my feelings for you, Asahi, are undeniably real, and I was just as unable to hold back as you were.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「If I could, I wanted to become your lover as soon as possible and enjoy nothing but time alone with you, Asahi.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Perhaps I was just waiting for you to give me that push. ...I suppose that’s a bit pathetic of me.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「No！ That’s not true at all！ If that’s what you want, Iori-san, I’ll push you as much as you need！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Haha, thank you. Actually, because you do that for me, I’m able to be honest with myself.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「So there’s no need to worry. If anything, thanks to you, Asahi, I’m incredibly happy right now.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Iori-san...」"
+    },
+    {
+        "message": "Asahi looks up at me as if she has found hope."
+    },
+    {
+        "message": "I gently wrap my arm around her shoulders, and..."
+    },
+    {
+        "name": "Iori",
+        "message": "「That’s why... I want to do things like this, too.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「That... I feel the same. I’ve always wanted to be in this kind of relationship with you, Iori-san...」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「It’s finally coming true... isn’t it？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah. Asahi...」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Iori-san...」"
+    },
+    {
+        "message": "Asahi gently closes her eyes."
+    },
+    {
+        "message": "I respond to her, pulling her body into my embrace—"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ngh... haa, ahh...」"
+    },
+    {
+        "message": "We undress each other—and as we hold one another again, I begin to stroke her body."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Nnn... Iori-san, um... ugh... is there... is there something wrong with me...？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Wrong...？ No, not at all. You’re beautiful.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「R-really...？ But, um... my breasts, or rather... m-my nipples...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Your nipples...？」"
+    },
+    {
+        "message": "When I look, prompted by her words—Asahi’s nipples are hidden, as if sunken into her breasts."
+    },
+    {
+        "name": "Iori",
+        "message": "「Could it be... inverted nipples, or something like that?」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hauu...！ I-I knew it looks weird, doesn't it...」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Uuuhh... I'm sorry... Even though this body is supposed to be for making you happy, Iori-san...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You don't need to apologize, man. I didn't say it was weird.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Still...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Besides, I like everything about Asahi's body. I think stuff like this is cute too.」"
+    },
+    {
+        "message": "As if to prove those words, I touch her chest and lightly tickle the hidden nipples with my fingertips."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hyauuu...！ Nn-ah, haa... auuuhh...！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I-I'm so happy, Iori-san... nn-aah, haa... I'm glad you don't hate me, Iori-san... hauuu...！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「There's no way I'd ever hate you, Asahi.」"
+    },
+    {
+        "message": "Saying that, I continue caressing not just her chest, but all over her body."
+    },
+    {
+        "message": "Her smooth-feeling skin, fitting for such a pretty body, makes me want to keep touching it endlessly without even thinking."
+    },
+    {
+        "message": "Even though I'm the one caressing her, it almost feels like I'm the one getting off on it."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ah, nnn... Iori-san's hands... It's my first time being touched like this...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, yeah. If I'd touched you like this before, it would've been a huge problem.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I wouldn't have minded at any time, though...？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Still, unless we've become this kind of couple, it's only natural.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Fufu, you're right... nnuuuh...！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「But because of that... haa, aah... I can really feel that we've become the kind of relationship where this is allowed now, and it makes me feel so happy... ♪」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah. Now nobody's going to scold us, so as much as I want...」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Yes... Please do as much as you like, Iori-san... ♪ Nn-ah, haa... hauuu...！」"
+    },
+    {
+        "message": "As if answering Asahi's words, I slowly knead her breasts and savor how they feel."
+    },
+    {
+        "message": "At the same time, I slide my hands over her waist and thighs, enjoying the feel of her smooth skin."
+    },
+    {
+        "message": "However, as I caress her like that, I notice a faint sheen of sweat beginning to bead on Asahi's skin."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hyau, nnn...！ Iori-san, you're so good at this... ah, aah...！ It feels so good... nnn-uu！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Every time you touch me, Iori-san, my body gets hot... aah, hauuu...！ My head is starting to feel all floaty...！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Does that mean it feels good？ I'm glad.」"
+    },
+    {
+        "message": "Relieved, I keep stroking all over Asahi's body. Every time I do, she shudders and shows me a melted expression..."
+    },
+    {
+        "name": "Iori",
+        "message": "（...So this is the face Asahi makes during sex...）"
+    },
+    {
+        "message": "Seeing an expression I've never seen before makes my heart race. ...No, to be completely honest, it turns me on."
+    },
+    {
+        "message": "And because of that, a fierce urge wells up from deep inside my body—in other words, the feeling that I can't hold back anymore！"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ah, nngh...！ Iori-san, right there... haah...！ Um, down there, ah, aah...！ It feels, so good...！」"
+    },
+    {
+        "message": "It's not just her face. Her voice, too, is sweeter and more melted than ever."
+    },
+    {
+        "message": "Hearing it up close makes it feel even harder to hold back..."
+    },
+    {
+        "name": "Iori",
+        "message": "（No, it's not just my first time, it's Asahi's too...！ If I rush too much, I'll end up hurting her. Right now, I need to be as careful as I can and take my time getting her used to it...）"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Haah, aah... hyaah...！ Nngh... I-Iori-san, I... ah, nnah...！」"
+    },
+    {
+        "message": "Taking my time, I gently caress around her belly and thighs, almost tickling her."
+    },
+    {
+        "message": "Asahi looks even more alluring as she writhes and squirms, but I hold back my urges and carefully massage around her secret place to loosen her up..."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Nngh...！ Iori-san... please, um... d-don't... tease me anymore, please...！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Huh！？ N-No, I wasn't trying to tease you...！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Nnh, haah... I, um... haah, aah... my whole body is aching and tingling... ngh...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「R-Really？ I just thought it'd be bad for you if I rushed things too much.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I'm happy you're being so considerate, but... rather, um, how should I put it... when you touch me so skillfully and tease me like that...」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Nngh... I'm already... so ready that anytime is fine now, so...」"
+    },
+    {
+        "message": "Saying that with an embarrassed look, Asahi gently took my hand... and guided it to her secret place."
+    },
+    {
+        "message": "I feel wetness at my fingertips, along with a faint, tightening sensation."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ah, haah... So, Iori-san... it's about time...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...Okay. Then...」"
+    },
+    {
+        "message": "Determined to answer her feelings this time, I gently laid Asahi down."
+    },
+    {
+        "name": "Asahi",
+        "message": "「S-So this is... yours, Iori-san...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「It's kind of embarrassing when you stare so intently...」"
+    },
+    {
+        "message": "Asahi gazes right at me, wearing a look of mixed awe and delight."
+    },
+    {
+        "message": "Though the embarrassment almost makes me want to cover myself with my hands."
+    },
+    {
+        "name": "Asahi",
+        "message": "「But... you've been staring intently at me too, haven't you, Iori-san...♪ That makes us even♪」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, that's... I just couldn't help it」"
+    },
+    {
+        "message": "Even though her words make me self-conscious, my eyes are still drawn straight to Asahi's pussy."
+    },
+    {
+        "message": "Just as it felt moments ago, she's already wet there, glistening sensually alongside her sweat-slicked inner thighs."
+    },
+    {
+        "message": "Maybe because Asahi is caught between nerves and arousal, I can see her pussy twitching slightly every now and then... and that only turns me on even more."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Something this big and thick is really going to go inside me...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「If it hurts or feels too tight, tell me right away. I'm going to try to be as gentle as I can, though」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Thank you very much. Since it's yours, though, Iori-san, I'm sure I'll be fine...！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Iori-san... please, come to me... become one with me...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah... Alright, I'm putting it in」"
+    },
+    {
+        "message": "With a nod, I push my hips forward as slowly as I possibly can—"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hghuuu...！ Ngh, aaaaah...！！」"
+    },
+    {
+        "message": "As I finally slide inside her, Asahi lets out a loud cry, her whole body trembling."
+    },
+    {
+        "message": "Blood trickles from her pussy as proof that we've become one... It must still hurt, because Asahi clings desperately to me."
+    },
+    {
+        "name": "Iori",
+        "message": "「Ngh... Asahi, are you okay？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Haa, haah... Y-Yes, I'm alright... It's my first time feeling this, so it startled me, but... mmgh... the pain isn't that bad...」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I'm used to this much from Jindou, anyway... and more than anything, it's you, Iori-san...！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Knowing that even this is something you're giving me—ahh, haah... even the pain feels like bliss...！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That sounds a little dangerous to say... but if you're really okay, I'm glad」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Yes...！ So please, keep going just like this... You don't have to hold back either, Iori-san...」"
+    },
+    {
+        "message": "Looks like she saw right through me holding back."
+    },
+    {
+        "message": "Asahi's insides are melted completely soft, taking my cock in with ease."
+    },
+    {
+        "message": "Yet because she clamped down tightly with that softness, even staying still felt good enough to make my spine writhe."
+    },
+    {
+        "message": "Because of that, even while feeling bad for Asahi, I was driven by the thought that moving would feel even better..."
+    },
+    {
+        "name": "Iori",
+        "message": "「Alright then... if you're okay with it, Asahi, I'm gonna move？ You make sure not to force yourself through it if it hurts, though.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I'm okay...！ I've been, um... looking forward to it, too, so...」"
+    },
+    {
+        "message": "Grateful that Asahi said that―still holding myself back a little just in case―I slowly began to move."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Akh...! Ugh, mngh... N-nngh...!! N-naah...!!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Tch... you okay, Asahi...？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Y-yes, of course...！ Nkh, nh-aah...！ Far from hurting, ah, mnn... it almost feels good...！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Iori-san's, um... s-so thick, your thing... ukh, mnn...！ Hah, haa... It's hot, and it feels, good... hyuu...！」"
+    },
+    {
+        "message": "Every now and then Asahi gritted her back teeth and tensed as if holding her breath, still looking a little pained after all."
+    },
+    {
+        "message": "Even so, seeing her try so bravely like that made me happy."
+    },
+    {
+        "message": "Besides, whenever Asahi tried to endure the ache, her pussy seemed to tense up too... and that squeezed my cock even tighter."
+    },
+    {
+        "name": "Iori",
+        "message": "「Tch-kuh...！ Asahi, this feels so good...！ I've never felt anything like this...！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「N-ah, haa...！ Me too, Iori-san... I never knew anything like this... hauu...！ Somehow, ah, nnn... I can't hold my voice back...！」"
+    },
+    {
+        "message": "Asahi looked embarrassed and tried to keep her lips shut, but—"
+    },
+    {
+        "message": "Every time I moved, her mouth parted naturally, and cute little sounds spilled out."
+    },
+    {
+        "name": "Asahi",
+        "message": "「No... auh, nnn...！ My voice is coming out no matter what...！ N-ah, aaah...！ This is so embarrassing, hyuu！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I can't hold back either...！」"
+    },
+    {
+        "message": "Listening to Asahi's cute yet lewd voice combined with the tight squeezing inside her, my self-control was slipping more and more."
+    },
+    {
+        "message": "Even when she tried to hold it in, Asahi's melted pussy seemed to move and guide my cock deeper and deeper inside..."
+    },
+    {
+        "name": "Asahi",
+        "message": "「N-nhaaah, ahuuu...！ Iori-san, not so deep...！ Uguh, nfhuuu！ That, it's amazing, hiuuu...！」"
+    },
+    {
+        "message": "Unable to hold back, I thrust my hips wide, and Asahi cried out even louder, her body twitching and trembling."
+    },
+    {
+        "name": "Iori",
+        "message": "「Guh... sorry, Asahi...！ But inside you really feels so good...！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Auh, nnhu！ I-it's okay...！ I'm fine！ As long as it feels good for you, Iori-san, aaah, haa！ That makes me happiest of all, nhaah...！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I'm... connected with you so deeply too, Iori-san, nnhu！ It makes me happy, haaah, aaah, and it feels so good...！」"
+    },
+    {
+        "message": "Saying that, Asahi clung tightly to me."
+    },
+    {
+        "message": "Maybe her strength was draining away, because she didn't have her usual superhuman strength—yet seeing Asahi like this sent shivers down my spine all over again."
+    },
+    {
+        "message": "On top of that, Asahi's pussy clamped down on my cock in the exact same way, as if refusing to let go."
+    },
+    {
+        "name": "Iori",
+        "message": "「Asahi, so tight...！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Auh, nhaaa...！ Even I can't stop it...！ Hyauuu！ Nnnh, every time you move, Iori-san... my body reacts on its own...！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Haaah, aaaah...！ It's surely because, hauuu...！ Because your big, thick one is just too amazing, you know...！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「If you're going to say that, then inside you is...！」"
+    },
+    {
+        "message": "Asahi's pussy, which had been wet from the very start, was now so soaked it made squelching sounds every time we moved."
+    },
+    {
+        "message": "Waves of love juice kept overflowing and clinging to my cock inside her, and that thick, gooey sensation gave me pleasure too."
+    },
+    {
+        "message": "From that pleasure, I couldn't hold back anymore this time――"
+    },
+    {
+        "name": "Asahi",
+        "message": "「N-nhaaaa！？ I-Iori-san...！ Haguuu, nnhu！ So rough again...！ Nhah, aaaaah！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Sorry, Asahi...！ But I can't hold back anymore...！」"
+    },
+    {
+        "message": "With all my strength, I pressed my hips hard into Asahi. My hips slammed against Asahi's skin, slick with love juice and sweat, making loud smacking sounds."
+    },
+    {
+        "message": "Even when I tried to restrain my movements, the sensation of Asahi's pussy clinging to me every time I thrust in and pulled out steadily stripped away my reason."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Nhaaah, aaah！ It's good…… it's okay！ Do it as rough as you want, Iori-san……！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「But, Asahi……！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「My own feelings always end up getting ahead of themselves…… so at least right now, I want to feel yours……！ I want to feel that you want me……！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「That's why…… having you be rough with me makes me so happy！ Because it lets me know you like me……！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hmph…… of course I like you, Asahi……！」"
+    },
+    {
+        "message": "Asahi clung to me even tighter, yet lifted her hips so she was positioned for me to slip inside easily."
+    },
+    {
+        "message": "Because of that, I poured my feelings into her without holding back either."
+    },
+    {
+        "message": "Not only moving on my own, when I gripped Asahi's sweaty hips and pulled her in, she trembled even harder and cried out for me."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hauuu, nnaaaah！ Iori-san, amazing, hiuuu！ Completely different from a moment ago！ All the way deep inside like this, I……！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Feeling this good from deep inside my body, auuuu！ I don't know it…… I don't know anything like this！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「For me too, feeling this good is a first……！ Asahi……！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ah, aaah！ Iori-san, nnah, auuu！ My head is going numb, I'm getting all floaty, hauuu……！ No……！ It's turning completely white……！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Something that feels this good and makes me this happy, hauuu, nnaah！ I don't want to let go anymore！ Staying like this forever, ah, aaah！ Together with Iori-san……！ As one……！」"
+    },
+    {
+        "message": "While letting out lewd, coaxing moans, I could tell Asahi was thrusting her hips back from her side too."
+    },
+    {
+        "message": "Especially when she moved at the exact moment I thrust in, she hung her mouth slackly open and twitched, jerking her body as if lightly climaxing from the pleasure."
+    },
+    {
+        "message": "Asahi was completely melted by pleasure too, seeming to have even less strength left than an ordinary girl, yet she still clung to me desperately."
+    },
+    {
+        "name": "Iori",
+        "message": "「Asahi……！ I'm getting close……！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Nhaa, aah！ I'm—I'm gonna cum too...！ Together with you, Iori-san, hiu, nnaah, auuu！ It's amazing... I'm gonna cum from the deepest spot！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Tch, Asahi, I love you...！ I love you so much...！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Me too...！ I love you so much, Iori-san！ Hiaa, aaaa！ Iori-san, Iori-san...！ Nnaaaaa！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hauuuu！ Nfuaaaaaaaaa！」"
+    },
+    {
+        "message": "While calling out each other's names――"
+    },
+    {
+        "message": "The moment I thrust all the way to the deepest spot, I poured everything I had deep inside Asahi."
+    },
+    {
+        "message": "Taking it inside her pussy, Asahi arches her body way back and climaxes too."
+    },
+    {
+        "message": "Her arched body twitches and trembles, and along with that her pussy contracts again and again, still trying to squeeze out every drop of my semen."
+    },
+    {
+        "message": "Unable to endure that stimulation, I spilled even the remaining amount all inside Asahi and……"
+    },
+    {
+        "name": "Iori",
+        "message": "「Nn-aah, haa... amazing... it's so hot... and, nn-nn... it feels so good……」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Haa, haa... I'm a mess... my body is still shaking and won't stop... my head feels all hazy too... I can't think about anything except how good it feels……」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I'm... still feeling the afterglow too... is it okay if we stay like this a little longer……？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Y-yes, of course... even forever like this……♪」"
+    },
+    {
+        "message": "Breathing heavily in the afterglow and trembling slightly, Asahi somehow tried to pull me into an embrace."
+    },
+    {
+        "message": "Finding that completely limp figure endearing, I pulled her into a hug from my side instead."
+    },
+    {
+        "message": "Soaking in the afterglow, Asahi's flushed, melting face comes right in front of me."
+    },
+    {
+        "name": "Iori",
+        "message": "「Asahi, you're drooling a little...? Does that mean you felt that good?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ya... that's embarrassing... because you make me feel so good, Iori-san……」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You're cute, Asahi……」"
+    },
+    {
+        "message": "I whisper, and softly kiss her."
+    },
+    {
+        "name": "Iori",
+        "message": "「Nn, chuu, nmu... nna... amu, nn-chuu... nnuu……」"
+    },
+    {
+        "message": "Still not over the afterglow and with our breathing still ragged, we press our lips together as if trading those hot breaths."
+    },
+    {
+        "message": "When I lightly move my tongue as if licking the inside of her mouth, Asahi accepts it while wriggling her body bashfully."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Nuu, chubu... nn, ndju, nnn...！ Nfuaa...」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hhaa, aa... Iori-san... I like you, I love you so much...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I love you too, Asahi...」"
+    },
+    {
+        "message": "We whisper to each other and hold each other close."
+    },
+    {
+        "message": "Each other's still-flushed body heat comes through, making it a wonderfully comfortable time."
+    },
+    {
+        "name": "Asahi",
+        "message": "「To be able to have this kind of relationship with Iori-san... to become one in both heart and body... I'm truly happy...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「We're staying together forever from here on out, Asahi.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Yes... forever, right by Iori-san's side... ♪」"
+    },
+    {
+        "message": "Once more—this time, Asahi is the one to kiss me."
+    },
+    {
+        "message": "Just like that, for a little while, we savored our happy time with our bodies pressed together."
+    },
+    {
+        "message": "About two days after returning from my fun trip with Asahi, on a certain day—"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Sensei！ I want to see this place called Iguazu Falls！ Plus, the name 'Devil's Throat' sounds so cool！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Huh~？ More than that, the ocean's the way to go, right！ Not Hawaii or Guam either—somewhere like the Seychelles！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I feel like trips are just tiring, though a domestic hot spring or something might be nice, I guess. Even if it'd be your second time, Sensei.」"
+    },
+    {
+        "message": "And so on."
+    },
+    {
+        "message": "My cute students from Takamura Class all come up to me saying things like that."
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah…… well, whatever. Say what you want. Talking doesn't cost anything」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah... well, that's fine. Just saying it is fine. Talking doesn't cost anything.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「First of all, though, I haven't said a single word about taking everyone on a trip！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ehh, no waay！」"
+    },
+    {
+        "message": "“Also, why is everybody saying this while clinging to me!?”"
+    },
+    {
+        "message": "Just like that other time, Setsugekka was latched onto my right arm, Ririmu onto my left arm, and Momiji onto my back."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Why... 'cause it's fun？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Why, you ask... 'cause it's fun?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「It's not fun! Or rather, you're heavy! Plus, like I said before, stuff is pressing against me!」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ahaha, knew that reaction would be so fun~」"
+    },
+    {
+        "name": "Iori",
+        "message": "「For starters, don't mess around with your teacher like that」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「But 'all students are equal,' right?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「That's right, it's unfair！ Students are supposed to be treated equally, so going on a trip with just one person isn't fair—you should take all of us on a trip too！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「――Kei-chan put me up to saying that, telling me it'd work！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「What are you putting her up to?！」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Fufu. Well, I don't recall a thing」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I mean, I don't really need to go, though honestly, it might be a little unfair. Since Asahi's the only one who went on a trip with 'Sensei'」"
+    },
+    {
+        "name": "Iori",
+        "message": "「When you put it like that……」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「If you say it was also a scouting trip so you could take everyone later, they might let it slide, you know？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Even making a dead end disguised as an escape route……！」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「I suppose that can't be helped. Since they were shown photos of such a fun-looking trip」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ngh…… well, that's true……」"
+    },
+    {
+        "message": "Just as she had declared, Asahi was showing everyone the photos and bragging about the trip."
+    },
+    {
+        "message": "Well, that part couldn't be helped. Since we'd been away together just the two of us, there was no way they wouldn't find out we went on a trip."
+    },
+    {
+        "message": "Still, I never expected it would turn out like this."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「By the way, I'd like to tour World Heritage sites」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That's why……！」"
+    },
+    {
+        "message": "Right as I was saying that――"
+    },
+    {
+        "message": "I saw Asahi coming from straight ahead."
+    },
+    {
+        "name": "Iori",
+        "message": "「Ah, Asahi！ Help――」"
+    },
+    {
+        "message": "I almost cried out for help without thinking…… before it suddenly hit me."
+    },
+    {
+        "message": "If I remember right, last time Asahi saw me being clung to like this, she charged straight at me in a fit of jealousy！"
+    },
+    {
+        "message": "If that's the case, then that's going to happen again……！"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Oh, Iori-san. You were here」"
+    },
+    {
+        "message": "Yet mercilessly, Asahi noticed us and walked over with a smile."
+    },
+    {
+        "message": "Yes, a smile……！！"
+    },
+    {
+        "name": "Iori",
+        "message": "「W-Wait a second, Asahi！ This isn't what it looks like――！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Everyone, clinging to him too much isn't good, okay？ The temperature is already high as it is, so Iori-san might get heatstroke」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...Huh？」"
+    },
+    {
+        "message": "Still wearing a soft smile, Asahi gave that light warning…… and after that, she didn't do anything at all."
+    },
+    {
+        "message": "She didn't charge at me in jealousy and anger, nor did she draw an Origami with a smile that had gone past jealousy."
+    },
+    {
+        "message": "She's genuinely not jealous……？！"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「N-No way……！ Seeing this scene, and Asahi-chan doesn't do anything……！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Wh-What do you mean……？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Whaaat！？ Asahi not getting jealous is so boooring！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「What is wrong with all of you? Who do you think I am?」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Kijo」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ririmu-san, I will dote on you completely separate from this matter.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ooh？ Sounds good, let’s do it！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Don’t suddenly start a fight」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Or rather…… Seriously, what’s going on？ When something like this happened before, you were so……」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Then was then, now is now.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I am no longer the woman yearning for love like I used to be.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yearning for love……」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Now that I’ve savored time alone with Iori-san on our trip and deeply confirmed our feelings, I won’t go crazy with jealousy over something like this.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「You could call it the composure of a legal wife.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「True…… Right now, I feel an overwhelming aura of a powerhouse coming from Asahi-chan！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「So this is Asahi’s legal-wife power……！ I can’t really say Asahi doesn’t look bigger somehow……！」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「She looks the same as usual to me, though」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Guh……！ The Kijo is growing huge like a real oni……！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Who are you calling an oni? Just be honest and cower.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Anyway！ I don’t care about legal wife or whatever, it’s just kinda annoying how composed this Kijo is, so I’m monopolizing Iorin for the whole day today！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「For a reason like that……！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Aw, Ririmu-chan, that’s unfair！ I want Sensei to coach me too！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I don’t particularly want to be coached or anything, though backing down alone here might be a pain.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Then I’ll cast one vote for ‘Setsugekka should be coached,’ so by majority rule, it’s decided that Setsugekka gets coached.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yay！ Just as expected of Kei-chan！ Thank you！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Agh！ Now that's cheating！ Fine, then I'll just use an illusion to cast three votes, okay？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Wouldn't the votes themselves be illusions too, making that meaningless？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Then I can just somehow have ten votes, right?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Without even a reason？！ This is why the Suzakuins...！！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Why is this even a voting system in the first place...」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hehe. You all really do get along so well.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Well then, Iori-sensei, let's enjoy some fun time together, just the two of us, later♪」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Huh？ Oh, uh, yeah...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Whoa, she actually left！ Dammit！ Man, that Kijo just rubs me the wrong way for some reason！」"
+    },
+    {
+        "message": "With the graceful stride of a noblewoman or something of the sort, Asahi walked away, leaving the commotion behind."
+    },
+    {
+        "message": "...In the end, the uproar on my end didn't let up at all, so she didn't save me in the slightest."
+    },
+    {
+        "name": "Iori",
+        "message": "（...Well, the whole trip talk got swept under the rug, and Asahi wasn't mad either, so I guess it turned out okay... maybe？）"
+    },
+    {
+        "name": "Iori",
+        "message": "「Phew... I'm even more wiped out today than usual...」"
+    },
+    {
+        "message": "After that—on the grounds that all students are equal, I ended up giving all three of them private lessons at the same time."
+    },
+    {
+        "message": "The headcount itself was no different from a regular class, yet even with Asahi gone, the three of them kept competing to call me over, leaving me drained in all sorts of ways."
+    },
+    {
+        "message": "Well, I'm certainly glad to see those three getting so proactive, though."
+    },
+    {
+        "name": "Iori",
+        "message": "「Is this also a result of becoming Asahi's boyfriend... or what？」"
+    },
+    {
+        "message": "Something about that feels off, though I suppose it doesn't matter."
+    },
+    {
+        "name": "Iori",
+        "message": "（Still, if things keep going like this, I'll probably have even less quiet time with Asahi again...）"
+    },
+    {
+        "name": "Iori",
+        "message": "（Asahi said she can handle it just fine, but if it drags on too long, sooner or later, just like before...）"
+    },
+    {
+        "message": "Just as that thought crossed my mind, the intercom rang."
+    },
+    {
+        "message": "Glancing at the clock, it's already fairly late at night—"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, yeah. I'll be right there.」"
+    },
+    {
+        "message": "When I answered for now and went to open the door."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Um... good evening, Iori-san.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Huh, Asahi? What's up, coming by at this hour?」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Well, um... do you have a moment right now？ Might I come in for a little while...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Huh？ Yeah, of course you can, but...」"
+    },
+    {
+        "message": "Asahi, wearing a complicated expression—partly embarrassed, partly apologetic."
+    },
+    {
+        "message": "I didn't know why she had that look on her face, so for now, I just did as she asked and invited Asahi into my room—"
+    },
+    {
+        "name": "Iori",
+        "message": "「Come on in. Seriously though, what's wro—」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Iori-san！！」"
+    },
+    {
+        "name": "Iori",
+        "message": "<s38>「Whoa, Asahi！？」</s>"
+    },
+    {
+        "message": "The moment she stepped inside, Asahi suddenly threw her arms around me."
+    },
+    {
+        "name": "Iori",
+        "message": "「W-What's wrong？！ Did something happen？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「No... It's not that something happened, exactly...」"
+    },
+    {
+        "message": "Asahi, holding me tightly without letting go, looking away as if growing a little more embarrassed."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Do you remember... what happened earlier today？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Earlier today... You mean when everyone in Takamura Class was hugging me？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Yes... Back then, I said it was the composure of a legal wife, but...」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I still felt a little lonely after all...！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「So that's how you felt...」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Of course, I really do have more composure now, okay？ I don't get so jealous that I lose myself anymore.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「It's just that I always... if I could, I'd want to keep you all to myself, Iori-san, and stay holding each other like this forever...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I see... I'm sorry I didn't notice.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「No. I think that was for the best in that situation. Besides, there's no denying that we're still student and teacher.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「So, I wanted to make up for it starting right now, at least, and ended up coming over... Am I bothering you？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Not a chance. If anything, I'm happy.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「If I had my way, I'd want to stay with you forever too, Asahi.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Iori-san... I'm so happy！」"
+    },
+    {
+        "message": "Looking deeply moved, hugging me even tighter—Asahi."
+    },
+    {
+        "message": "Her superhuman strength hurt a little—though in its own way, it also seemed to convey just how she felt."
+    },
+    {
+        "message": "So I gently wrapped my arms around Asahi's body in return..."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Your body, Iori-san... it feels so comforting, it makes me so happy. Could we stay like this just a little longer...？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Of course. If you get tired of hugging while standing up, we can sit in a chair or lie down on the bed.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Iori-san... I never want to let go...」"
+    },
+    {
+        "message": "Asahi stood on tiptoe just a little and brought her face close to mine."
+    },
+    {
+        "message": "When I leaned in to meet her... it wasn't just our bodies pressed together, but our lips as well."
+    },
+    {
+        "name": "Asahi",
+        "message": "「……Sorry. It's completely morning already」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I'm the one who's sorry. I was so happy being with you, Asahi, that I lost track of time」"
+    },
+    {
+        "message": "We were spending some laid-back time together, and ended up taking it a little too easy."
+    },
+    {
+        "message": "As a teacher I probably should've sent her back sooner, or maybe my feelings as her boyfriend just won out."
+    },
+    {
+        "name": "Asahi",
+        "message": "「For now, I'll head back to my room once. If we don't hurry, it'll be a huge deal if someone sees us after staying out till morning」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Haha, true. ……Well, we didn't do anything today, though」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I wouldn't have minded anytime, you know？ More than that, I was waiting eagerly for when you'd pounce on me……！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Pounce……！？ W-well, it wasn't really that kind of mood either, y'know」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Fufu, that's true. It was kind of mellow and calm time」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Totally. Anyway, your private lesson is tomorrow, Asahi, so get plenty of rest today」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「As for you, Iori-san…… you had Momiji-san's lesson, right？ Is your physical condition okay going like this？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Something like this is no problem. More than that, our time together mattered more anyway」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Iori-san…… thank you. However, please don't push yourself too hard, okay？ Since it's no longer just one person's body！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Don't rub your stomach while saying that！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Fufu, I'm joking. Anyway, I'm going back」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, goodnight」"
+    },
+    {
+        "message": "Saying that all over again and waving lightly to each other――"
+    },
+    {
+        "name": "Asahi",
+        "message": "「…………」"
+    },
+    {
+        "name": "Iori",
+        "message": "「…………」"
+    },
+    {
+        "message": "Yet both Asahi and I just kept looking at each other without trying to move."
+    },
+    {
+        "message": "The reason…… is surely the same for both of us."
+    },
+    {
+        "name": "Iori",
+        "message": "（Is it because we were together for so long？ Even though it's supposed to be just a brief moment, parting like this feels lonely……）"
+    },
+    {
+        "message": "Even so, we couldn't stay like this, and when I somehow shook off that feeling and tried to go back to my room――"
+    },
+    {
+        "name": "Asahi",
+        "message": "「……Iori-san, do you know？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Huh？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「They say a lover decides to get married when they feel lonely parting after a date or an overnight stay, you know！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Marriage……！？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「In other words, there's a possibility that right now can be called the best timing！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「W-wait a sec！ That's way too big a leap no matter how you look at it！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「We only just started going out, and we’re teacher and student to begin with…！ Well, okay, on top of that we are dating, though…！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Fufu, that’s the second joke today. Don’t panic so much.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「What, the second one… Still, it didn’t really feel like a joke on my end, so I got a little flustered.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I’m sorry. But honestly, in my heart, I can’t really call it all that much of a joke either.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Even if it’s a joke right now, I’m looking ahead to a future like that！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「In fact, all my eyes can see is a future walking alongside you, Iori-san！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「T-That much… Well, it makes me happy that you’re thinking that far ahead, though.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Fufu, since it’s you, Iori-san, it’s only natural.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Well, I’ve stayed a little too long, so I’m really heading back this time. I’ll hold back the loneliness for now, too.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah… I’ll manage to hold back too and do my best today as well.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Yes, I’m cheering for you！ Excuse me then, Iori-san.」"
+    },
+    {
+        "message": "Giving a quick bow, Asahi jogged back to her room as if shaking off her loneliness."
+    },
+    {
+        "message": "I watched her back leave—and suddenly found myself lost in thought."
+    },
+    {
+        "name": "Iori",
+        "message": "「……Marriage, huh.」"
+    },
+    {
+        "message": "A future like that, a future walking alongside Asahi"
+    },
+    {
+        "message": "There was no way I wasn’t looking ahead to that too."
+    },
+    {
+        "message": "The next day—"
+    },
+    {
+        "message": "Individual instruction ran on a rotation system, and this day was Asahi’s turn."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Right there！ Hyaaaaaah！」"
+    },
+    {
+        "message": "As if striking at an opening in my guard, Asahi lunges in like a flash of light."
+    },
+    {
+        "message": "And from a draw aimed at a vital spot, she follows up with a second strike on the return swing, targeting another vital spot even harder to evade"
+    },
+    {
+        "message": "I parried it while forcing my body to twist"
+    },
+    {
+        "name": "Iori",
+        "message": "「Good sword line… but still too soft！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Kyaaaaaaaah！」"
+    },
+    {
+        "name": "Yorishiro-kun",
+        "message": "「Barrier Jacket has fallen below the safe threshold. Please terminate the combat simulation.」"
+    },
+    {
+        "message": "My counter landed cleanly, and Asahi cried out and went down. Right on its heels, that system voice echoed out."
+    },
+    {
+        "message": "I released the tension in my body, shut down the combat mode inside me as well, and walked over to Asahi."
+    },
+    {
+        "name": "Iori",
+        "message": "「You okay, Asahi？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Haa, haa… I’m okay, thank you.」"
+    },
+    {
+        "message": "When I held out my hand, Asahi took it without hesitation and stood up as if pulled up by me."
+    },
+    {
+        "message": "Looking understandably tired, her breathing is heavy, sweat is seeping onto her face, and her clothes are clinging slightly to her body from sweat."
+    },
+    {
+        "name": "Iori",
+        "message": "「Let's call it a day here. It'll probably start getting dark outside soon too.」"
+    },
+    {
+        "message": "It had been hard to tell from inside, but before I realized it, night was nearly upon us."
+    },
+    {
+        "message": "Even though I had eaten lunch, we'd been going almost nonstop since morning, so I felt a bit fatigued too, understandably."
+    },
+    {
+        "name": "Asahi",
+        "message": "「As for me, I can still keep going, though……」"
+    },
+    {
+        "message": "Having finished catching her breath, Asahi speaks up as if making a suggestion."
+    },
+    {
+        "message": "But I shook my head."
+    },
+    {
+        "name": "Iori",
+        "message": "「It's not just a matter of doing it for a long time. You do end up needing combat experience while fatigued and all, but we're not at that stage right now.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「……Understood. If that's what Coach Iori says.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah. Resting up properly is part of special training too.」"
+    },
+    {
+        "message": "Nodding at my words, Asahi begins getting ready to head back."
+    },
+    {
+        "message": "Then, after I get ready in the same way, the two of us leave the training hall together."
+    },
+    {
+        "name": "Asahi",
+        "message": "「――Do pro athletes also end up playing matches without having fully recovered from fatigue, after all？」"
+    },
+    {
+        "message": "On the way back to the dorms. As if continuing our conversation, Asahi suddenly asks."
+    },
+    {
+        "message": "Walking alongside Asahi, I nod to that."
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, that probably happens sometimes. Jindou matches drain both stamina and mental strength just as they are.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Still, like I said earlier, now isn't the stage to build that kind of experience. First is improving your performance at peak condition. And next is learning how to get yourself closer to peak condition.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Yes. Of course I know that. They even say the greatest pros are the ones who don't get injured.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That's right. If you carry over fatigue and get hurt, it's pointless.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「……Come to think of it, Asahi, you're aiming to become a pro Jindou athlete, right?」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Yes！ There have been all sorts of twists and turns…… but that goal hasn't changed.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Not just for my brother's sake, but as my own goal too, I'm aiming to become a pro athlete.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Those feelings are really important, and I think it's a good thing.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「And for that reason too, I have to train even harder and become even stronger……！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Of course, I plan to support you properly too！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Come to think of it…… what about you, Iori-san？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「'What about me,' you ask？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Your 'future'... might sound a bit strange to say, or rather, your own plans going forward, Iori-san」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Still balancing the JSDF and teaching？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah... that's right. I intend to aim for that as much as possible.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Teaching was my dream, and I want to keep doing it going forward. Still, that doesn't mean quitting the JSDF feels right to me either.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「We still need to talk things over to see what shape it'll take, though... Just like now, I might end up in a position like a part-time lecturer.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「So you mean serving actively in the JSDF while occasionally being called to the academy as a teacher?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah. Though of course, it's settled that I'll stay on at the academy as a teacher until you and the others graduate, so don't worry about that.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「...It just occurred to me, but if you aren't on staff as a teacher, wouldn't it stop being a problem for us to be lovers, or even husband and wife？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「If you put it like that...！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hehe, I'm only joking. I want to be instructed by you, Iori-san, so I'd be disappointed too if you stopped being a teacher.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「In fact, I can't even imagine being instructed by anyone other than you from now on, Iori-san！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I-I think that's going a bit too far, honestly... Once you go pro, you're going to need a dedicated Second, after all.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Of course, though, I intend to give you the very best guidance I can while I'm at the academy.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Yes！ I'm counting on you！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Still... saying that when my own future is still uncertain makes me feel a little pathetic.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「That's not true at all. Whether one is a teacher or a student, the future is always uncertain by nature.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「If anything, watching you continue to press forward toward your goals right now, Iori-san, makes you the best role model we could possibly ask for.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hearing you say that makes me happy. ...Though, being cheered up like this by a student is also a little pathetic.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hehe. Right now, I'm not your student—I'm your girlfriend, so you don't have to hold back. Feel free to let me pamper you, okay？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Haha. I'm a lucky guy to have such a dependable girlfriend.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Phew, I'm home.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Yes. Welcome home.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「For now, guess I'll wash off this sweat before dinner.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「That sounds good. Oh, in that case, would you like me to wash your back？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「N-No, that's a bit much...」"
+    },
+    {
+        "message": "As we were talking like that—it suddenly hit me."
+    },
+    {
+        "message": "Asahi standing right beside me, and the interior of my own room stretching out around us. Looking back and forth between them..."
+    },
+    {
+        "name": "Iori",
+        "message": "「...You just waltzed right in！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Oh, you noticed？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Of course I noticed！ ...Well, okay, I didn't for a second.」"
+    },
+    {
+        "message": "Worse yet, I'd even said \"I'm home\" to Asahi."
+    },
+    {
+        "name": "Asahi",
+        "message": "「That just goes to show how natural it felt to come home to the same room together♪」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ngh, well... No, wait, this is still really bad, isn't it？ Especially after what happened the other day...」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hehe, I know. I can't keep staying out until morning over and over again, after all. Today was just a little bit of playfulness—a lover's prank♪」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You really are one bold girlfriend, aren't you.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Believe it or not, I'm actually holding my feelings back, you know？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...Yeah, of course I know that. Besides, I'm holding back just as much as you are, you know？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hehe. Just hearing you say that makes me happy♪」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Well then, I'll head home for tonight. You have private tutoring again tomorrow, Iori-san, so please get plenty of rest.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Same to you, Asahi. Make sure you get some good rest and recover your strength.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Yes！ Good night, then.」"
+    },
+    {
+        "message": "Giving a quick little bow, Asahi left the room with a light step."
+    },
+    {
+        "message": "And as the front door quietly clicked shut... I couldn't help feeling kind of lonely after all."
+    },
+    {
+        "message": "『They say a couple decides to get married when they feel lonely saying goodbye after a date or a sleepover！』—"
+    },
+    {
+        "message": "Those words of Asahi's crossed my mind."
+    },
+    {
+        "name": "Iori",
+        "message": "「...Marriage, huh.」"
+    },
+    {
+        "message": "And once again, I found myself thinking about it."
+    },
+    {
+        "name": "Iori",
+        "message": "「...Mmm？」"
+    },
+    {
+        "message": "Morning—I woke up to the sound of a strange noise."
+    },
+    {
+        "message": "There was no way it was my alarm, and it wasn't coming from the next room either."
+    },
+    {
+        "message": "Without a doubt, it was inside my place. And coming from the kitchen, no less..."
+    },
+    {
+        "name": "Iori",
+        "message": "「What is that...？」"
+    },
+    {
+        "message": "Opening my eyes warily, I headed toward the sound, and—"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Oh, Iori-san. Good morning. Did I wake you？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Asahi……！？」"
+    },
+    {
+        "message": "Asahi was cooking something in my room."
+    },
+    {
+        "name": "Iori",
+        "message": "「Why are you here…… or rather, how did you get in？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Just through the front entrance, of course. The door was unlocked.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Honestly, Iori-san…… just because it's a dorm doesn't mean you should be careless, you know？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「The lock…… come to think of it, I feel like I didn't lock it.」"
+    },
+    {
+        "message": "Yesterday, after Asahi went home――because of the loneliness, I'd hesitated to lock the door."
+    },
+    {
+        "message": "Thinking that maybe she could come back unexpectedly again."
+    },
+    {
+        "name": "Iori",
+        "message": "（Pretty pathetic even to me…… I've got it worse than I thought, man）"
+    },
+    {
+        "message": "I'm made to realize my feelings for Asahi all over again. Not that I mind at all."
+    },
+    {
+        "message": "Besides, because of that, Asahi really did come over out of the blue like this."
+    },
+    {
+        "name": "Iori",
+        "message": "「Even so, why are you cooking？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「……Iori-san, I realized something.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「For a future walking alongside you, Iori-san, we need Jindou training, of course, but another kind of training too！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Another kind of training？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「So to speak――bridal training！」"
+    },
+    {
+        "name": "Iori",
+        "message": "<s38>\"B-Bridal training……！？\"</s>"
+    },
+    {
+        "message": "With a sharp crack, it looked like lightning struck behind Asahi. At the same time, a jolt ran through me too."
+    },
+    {
+        "name": "Asahi",
+        "message": "「So I figured I'd start with my cooking skills.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Besides, preparing breakfast right next to where your husband is sleeping feels so much like newlyweds, doesn't it……♪」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, that's true, I guess……」"
+    },
+    {
+        "message": "In truth, even though it's a cliché, experiencing it makes my heart race and leaves me feeling kind of happy."
+    },
+    {
+        "name": "Asahi",
+        "message": "「So please stay seated, Iori-san. I'll bring it right over♪」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Then…… I'll take you up on that. I'll be waiting, Asahi.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Yes! Leave it to me!」"
+    },
+    {
+        "message": "Once we finished breakfast and tidying up, it was about time to head out. Though going out meant private instruction."
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, I'll be heading out soon…… are you going back to your room now, Asahi？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ah, about that…… if it's alright with you, Iori-san, I'd like to do some cleaning in your room！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Cleaning？ Wait... could that also be part of the bridal training you were talking about earlier？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Yes！ I wanted you to see how capable I am as a bride！ Oh, of course I'll deliberately skip cleaning any 'places where something is hidden,' so you don't need to worry♪」"
+    },
+    {
+        "name": "Iori",
+        "message": "「There's no place like that！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Is that so？ I figured there might be teacher-and-student stuff, or childhood-friend-little-sister stuff, or things like that.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「How weirdly specific...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Anyway, there's nothing to worry about, and if you're offering to do it, Asahi, I practically want to ask you myself. I'm counting on you.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Yes, leave it to me！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「...Oh, and Iori-san. Take this.」"
+    },
+    {
+        "message": "With that, Asahi handed me a small square bundle."
+    },
+    {
+        "name": "Iori",
+        "message": "「Is this... could it be a lunchbox？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Yes！ Actually, coming here to give you this was my original reason.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Is that right... Thanks. I'm really happy. I'll eat it at lunch.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I'd be happy if it suits your tastes, Iori-san♪」"
+    },
+    {
+        "message": "Having exchanges like this makes it really feel like we're newlyweds."
+    },
+    {
+        "message": "Asahi's smiling face looked even cuter and dearer than usual, and my heart started pounding, so..."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Well then, Iori-san, have a safe trip.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ah, yeah. See you later... I'm heading out, Asahi.」"
+    },
+    {
+        "message": "Saying that, I—suddenly, gently kissed her."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Mmph...！？ I-Iori-san...！？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ahaha... A bit cliché, I know. Like a 'see you later' greeting, sort of...」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Iori-san... Iori-san made the first move... hwaaaaaah...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「A-Anyway, I'm getting going！ Take care of the rest！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Y-Yesh... hab a shafe triph...♪ Funyaaaah...♪」"
+    },
+    {
+        "message": "Leaving Asahi behind as she slumped down with a melted expression"
+    },
+    {
+        "message": "My face was bright red too, and I broke into a run as if fleeing my embarrassment."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hyaaaaaaah！」"
+    },
+    {
+        "message": "From morning on this day, I was coaching Setsugekka."
+    },
+    {
+        "message": "I kept taking Setsugekka's strikes—without her going berserk—one after another."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hyaaaah！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Not bad at all...！ I can really feel how much stronger you've gotten！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Heheheh！ It's all thanks to my daily training！ Even your face is turning bright red just from blocking it, Sensei！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Guh... Please don't bring up my red face！ There are a lot of reasons for that！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Reasons？ I don't really get it, but... that means now's my chance！ In that case, today's the day I land a hit on you, Sensei！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Toryaaaaah—！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Aaaahhhh...」"
+    },
+    {
+        "message": "The moment a loud grrrrowl rang out, Setsugekka lost all her strength and slumped limply to the ground. Gently sidestepping the Origami she'd swung down just in case—"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「My face isn't wet, yet I'm so hungry I can't muster any strength...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Come to think of it, it's almost noon. Let's take a break for now and have some lunch！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yay！ Fooood！」"
+    },
+    {
+        "message": "Reinvigorated, Setsugekka sprang up and dashed over to her belongings."
+    },
+    {
+        "name": "Iori",
+        "message": "「Looks like you're already getting your energy back before even eating.」"
+    },
+    {
+        "message": "Chuckling, I went to grab my own bento as well."
+    },
+    {
+        "message": "Honestly, I'd been looking forward to this too—after all, it was a homemade bento from Asahi！"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Luunch time, luunch time♪ Oh, you brought a bento today, Sensei？ Wait, did you make it yourself？！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Haha. It's homemade alright, though actually—」"
+    },
+    {
+        "message": "Saying that, I opened the lid of the bento box. Inside was—"
+    },
+    {
+        "message": "...Hearts."
+    },
+    {
+        "message": "Well, no, there was food in it. There was definitely plenty of food in there, but..."
+    },
+    {
+        "message": "Every single piece of it was shaped like a heart, there was even a heart drawn on the white rice, and to top it all off, the word \"LOVE\" was written across it in huge letters."
+    },
+    {
+        "message": "And come to think of it, the cloth wrapping was covered in hearts, too."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「C-Could this possibly be... a loving wife's bento！！！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Loving wife？！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Way to go, Sensei！ A loving wife's bento！ Made by your wife！ A gift from a bride, drenched in love for her dear husband！ Which means you and Asahi-chan have already...！！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Why the hell would we do that！？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Am I wrong？ Asahi-chan made it, didn't she？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, yeah, that part's true, but...」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Then it really is a loving wife's bento！ Woo-hoo！ Oh, let me take a picture.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Why are you taking a picture？！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「So I can send it to everyone！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You're going to spread it around？！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Don't worry! I'll make sure it's only to everyone in Takamura Class! Oh, look, replies are coming in. This one's from Ririmu-chan. She says, 'Teach, you're totally gushing!'」"
+    },
+    {
+        "name": "Iori",
+        "message": "「It's already been spread...！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Whoa, the replies are pouring in！ Momimomi says, 'You gushing fiend,' and Sasaki―sensei says, 'You Great Demon King of Gushing'―」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Why am I being treated like some demonic entity...」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Oh, Kei-chan replied too. Let's see... She says, 'You should certainly respond to your wife with the utmost love, though impregnating her already would make things a bit troublesome！'」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Impregnating her...？！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Be careful, Sensei！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Shut up！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Oh, get in the frame this time, Sensei！ A two-shot with your loving wife's bento！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Who takes a two-shot like that？！」"
+    },
+    {
+        "message": "...In the end, I kept getting teased about my loving wife's bento for a while into the afternoon too."
+    },
+    {
+        "message": "Not that I felt bad about it. I was just embarrassed. Being teased like that meant they accepted us just as much."
+    },
+    {
+        "message": "Besides, the bento itself was genuinely delicious, and every bite seemed to convey Asahi's feelings."
+    },
+    {
+        "message": "All in all, I could safely call it a blissful time."
+    },
+    {
+        "name": "Iori",
+        "message": "（Well, the sheer fact that it's a handmade bento from Asahi makes everything blissful anyway）"
+    },
+    {
+        "message": "With those thoughts in mind, I arrived back in front of my room."
+    },
+    {
+        "message": "I casually paused for a moment, but there wasn't a sound coming from inside."
+    },
+    {
+        "name": "Iori",
+        "message": "（Did Asahi head back to her own room already？ I don't think I left the place that messy to begin with, so it probably didn't take her very long）"
+    },
+    {
+        "message": "Part of me even thought that if it was going to be like this, maybe I should have made more of a mess."
+    },
+    {
+        "message": "Anyway, as I opened the front door."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Welcome home, Iori-san！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Whoa, Asahi？！」"
+    },
+    {
+        "message": "The instant I stepped inside, Asahi lunged at me, and I frantically caught her."
+    },
+    {
+        "name": "Asahi",
+        "message": "「I was waiting for you to come home！ Right by the front door, holding my breath！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Why wait while holding your breath」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「It's a surprise！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Sure, I don't mind」"
+    },
+    {
+        "message": "Trading words while still holding each other, I glanced around the room."
+    },
+    {
+        "message": "At a glance, nothing major had changed. Yet every trace of dust was completely gone, and I could tell the place had been cleaned down to the finest detail."
+    },
+    {
+        "name": "Iori",
+        "message": "「Whoa... You cleaned it this thoroughly? Thanks, Asahi」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「It's for you, Iori-san, so of course！ Oh, and the bath and dinner are ready too」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Even that much... You're amazing, Asahi. You said you needed bridal training, but it's like you've already graduated」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hearing you say that makes me so happy♪」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Though I suppose you could say I've already been doing bridal training」"
+    },
+    {
+        "name": "Iori",
+        "message": "「What do you mean？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I mean, from the very day I first met you, Iori―san―that's when my bridal training began！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Cooking, cleaning, laundry—I've worked hard at all of it while dreaming of a future with you, Iori-san！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Haha. You're practically a veteran bride already. That's reassuring」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「It's all for you, Iori-san, so even after we're married, please leave every bit of the housework to me♪」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Every bit, huh... I really appreciate the offer, but wouldn't that be too much for you, Asahi？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Once you become a pro Jindou athlete, you'll be busy with that too, so let's split whatever I can help with」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「No, I won't allow it！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「An instant answer...？！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「If we're talking about hard work, you're juggling being both a teacher and in the Self-Defense Forces, Iori-san. I'll aim to balance Jindou and being a housewife too！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You don't have to push yourself that hard...」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「And above all―I want you to depend on my care to live, Iori―san！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That sounds kind of dangerous...！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Don't worry. I won't get that unhinged」"
+    },
+    {
+        "message": "Does that mean she'll get a little unhinged, I wondered... though I decided not to ask."
+    },
+    {
+        "message": "Anyway, pulling myself together."
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, for now... since you went to the trouble of getting everything ready, I think I'll take a bath first」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ah, yes！ Understood！」"
+    },
+    {
+        "message": "Nodding as she said that—"
+    },
+    {
+        "message": "Yet Asahi kept clinging to me, fidgeting for some reason as she looked up into my face."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Um... Iori-san, you just got home, didn't you？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Huh？ Well, yeah, I did.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Then, um... what you did for me when you were leaving... now that you've come home, um...」"
+    },
+    {
+        "message": "Blushing, she spoke in a roundabout way—unusual for Asahi."
+    },
+    {
+        "message": "Yet ironically, that made me understand what Asahi wanted."
+    },
+    {
+        "message": "It was embarrassing for me too, though—"
+    },
+    {
+        "name": "Iori",
+        "message": "「...True, since we did it when I left, I guess I have to do it when I get back too.」"
+    },
+    {
+        "message": "Saying that, I lightly lifted Asahi's chin, slowly bringing my face closer..."
+    },
+    {
+        "name": "Iori",
+        "message": "「...I'm home, Asahi.」"
+    },
+    {
+        "message": "Whispering that. Just like this morning, I softly pressed my lips to hers."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Mm, nnhm... mhaaah...♪」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I-Is that good enough？ Are you... satisfied？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Yeth... very shatishfied...♪」"
+    },
+    {
+        "message": "Asahi, intoxicated by the newlywed feeling, melting into mush all over again."
+    },
+    {
+        "name": "Iori",
+        "message": "「W-Well then, I'm going to go take a bath！」"
+    },
+    {
+        "message": "Feeling nervous and bashful myself—along with a welling rush of exhilaration—I bolted for the bathroom, once again fleeing from the embarrassment."
+    },
+    {
+        "message": "—Once our baths and dinner were done, all that remained was time for Asahi and me to unwind together."
+    },
+    {
+        "name": "Iori",
+        "message": "「I really do think you'll make a great wife, Asahi.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hehe. Nothing could make me happier than hearing you say that, Iori-san.」"
+    },
+    {
+        "message": "Smiling, Asahi sat down beside me—and softly leaned her shoulder against mine."
+    },
+    {
+        "name": "Asahi",
+        "message": "「I'm truly... happy. To think the day would come when you'd say that to me.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Asahi……」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I'm sorry. I got a little sentimental there.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No need to apologize. Knowing you've cared about me that much makes me happy too.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Caring about you is only natural for me, Iori-san.」"
+    },
+    {
+        "message": "Asahi leaned a little more of her weight against me."
+    },
+    {
+        "message": "Taking her weight and supporting her—"
+    },
+    {
+        "name": "Asahi",
+        "message": "「It's just, looking back on everything up to now like this, um... my feelings for you keep swelling even stronger, you see...？」"
+    },
+    {
+        "message": "Saying that with an embarrassed look on her face, Asahi pressed herself even closer to me."
+    },
+    {
+        "message": "Or rather, she slowly pressed them against me."
+    },
+    {
+        "message": "Even through her clothes, the soft sensation of her breasts reaching my arm..."
+    },
+    {
+        "message": "And even feeling her shift slightly like that, rubbing them against my arm..."
+    },
+    {
+        "name": "Iori",
+        "message": "「A-Asahi...」"
+    },
+    {
+        "message": "Reading her intentions, my face involuntarily turned red."
+    },
+    {
+        "message": "Turning to look at Asahi, she was blushing too—though flushing with arousal rather than shyness."
+    },
+    {
+        "name": "Asahi",
+        "message": "「I'm sorry, Iori-san... Actually, I've been feeling all pent-up ever since this morning...」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Because you kissed me like that, Iori-san... ♪」"
+    },
+    {
+        "name": "Iori",
+        "message": "「T-That was just in the heat of the moment, or...」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「After that, my head was filled with you even more than usual...」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「And besides, Iori-san, you left an unwashed shirt lying around, didn't you？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ugh... I was planning to wash that today, so I only left it out for a bit, okay？ It's not like I'm a slob, you know？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hehe. You don't need to worry about that.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「It's just... if you leave a shirt like that right in front of me, how could I possibly resist burying my face in it? ♪」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I-Is that how it works...？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「That's just how it is. Even for you, Iori-san, if our positions were reversed... what would you do？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「W-When you ask me that, it's a little...」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hehe. Of course, I didn't do anything more than that, okay？ But then after you got home, you kissed me again...！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I just couldn't hold back how worked up I was getting...！ If I hadn't gone weak in the knees, I might've even barged right into the bath with you, you know？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Barged in...！？」"
+    },
+    {
+        "message": "If that had happened, I definitely would've..."
+    },
+    {
+        "name": "Asahi",
+        "message": "「...Do you think I'm a lewd girl now？ Have I... disappointed you？」"
+    },
+    {
+        "message": "She asked, sounding somewhat uneasy."
+    },
+    {
+        "message": "Yet even while asking, pressing her body against mine and looking up at me through her lashes..."
+    },
+    {
+        "name": "Iori",
+        "message": "「...Asahi.」"
+    },
+    {
+        "message": "Pulling Asahi close, I whispered back to her."
+    },
+    {
+        "name": "Iori",
+        "message": "「I'm happier having a girlfriend who's a little lewd.」"
+    },
+    {
+        "message": "With those words—this time, I fiercely claimed Asahi's lips."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Mch, nnfh, nhaa... Iori-san, that feels so good... ahm, mch... shlrp...！」"
+    },
+    {
+        "message": "Even though I kissed her, she didn't melt immediately like she had this morning."
+    },
+    {
+        "message": "……Well, in a sense, she was melting even more than before, but I suppose her urge for lewdness was just stronger."
+    },
+    {
+        "message": "In fact, even though I was the one who initiated the kiss, Asahi was actively tangling her tongue with mine."
+    },
+    {
+        "name": "Asahi",
+        "message": "「H-hnn, nchuu……！ Nnfu, jupa……ahh, haa…… Iori-san…… you’re feeling rather bold today, aren't you……？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「If we're talking about being bold, you're the one... you became so aggressive the moment we started kissing.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Because just having you kiss me so many times, Iori-san, feels like a dream come true……♪」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well…… I'm feeling pretty worked up myself.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「So, that means we're two of a kind, then……♪」"
+    },
+    {
+        "message": "As she said that, Asahi clung to me and let her hand crawl toward my crotch."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Right here, Iori-san, you're already completely hard…… I can even tell through your pants……？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Anyone would get like this if a lewd lover tempted them with kisses like that.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Fufu……♪ Then, Iori-san…… is there anything you want me to do for you？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Anything I want you to do？ What do you mean by that？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Since today is for my bridal training, I want to fulfill your wishes as much as I possibly can.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Like, wanting to do it in a certain position…… or wanting me to do something specific. Do you have any requests？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Requests, huh……」"
+    },
+    {
+        "message": "It’s a bit hard to come up with one on the spot, but……"
+    },
+    {
+        "message": "When I actually thought about it, one thing came to mind."
+    },
+    {
+        "name": "Iori",
+        "message": "「I think I'd like... to be serviced.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Serviced……！！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「That means, using my hands or mouth to make your... um... your big one feel good, right！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well…… that's right. Though, if possible, rather than just my hands or mouth, it's a slightly different kind of service……」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Different, you say…… could it be with my feet or armpits……！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Asahi, you’re quite knowledgeable……」"
+    },
+    {
+        "name": "Iori",
+        "message": "「But, it's a bit different from that…… I think.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「There's another kind of service…… what on earth could it be？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That's…… hey, could you lend me your ear for a second？」"
+    },
+    {
+        "message": "Even though we were alone together, saying it out loud was too embarrassing, so I whispered what kind of service I wanted into her ear—"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Like this... is this right？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Y-Yeah... Just as I asked. I'm really glad.」"
+    },
+    {
+        "message": "Though looking a little bewildered, Asahi did just as I asked—and draped her own panties over my cock."
+    },
+    {
+        "name": "Asahi",
+        "message": "「And now, I just... um, stroke you with my panties like this, right...？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, please do.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Unlike doing it the usual way, it ends up being all about me, so I felt a bit bad asking...」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「No, I don't mind at all...！ Devoting myself to you and making you feel good, Iori―san―that is truly my own wish as well！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Besides, I'm sure my panties couldn't ask for anything better than to be used in service to you, Iori-san...♪」"
+    },
+    {
+        "name": "Iori",
+        "message": "「R-Really？ Well, if you say so...」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Yes！ Then... I, Kuki Asahi, shall serve you with all my heart and soul！」"
+    },
+    {
+        "message": "Smiling as she said that, Asahi began moving her hand. Just being gripped through her panties was already a brand―new kind of pleasure, but―"
+    },
+    {
+        "message": "Even more than that, the sensation of her panties rubbing against me sent an involuntary shiver down my spine."
+    },
+    {
+        "name": "Iori",
+        "message": "「Ngh...！ This is even better than I thought...！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hehe, I'm so glad to hear you're enjoying it...♪ Please savor it as much as you like, okay？」"
+    },
+    {
+        "message": "Asahi's panties felt smooth against my skin, which was pleasurable in its own right. On top of that, though, the feel of her hand gripping me over the fabric was wonderful too."
+    },
+    {
+        "message": "She wasn't squeezing all that tightly, yet that unaccustomed touch felt fresh, sending a tingling sensation all the way up my back."
+    },
+    {
+        "message": "And above all—the taboo thrill of being rubbed against the very panties Asahi had been wearing got me so aroused I couldn't hold it back."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Actually, I did a little studying. Since we're going to spend our whole lives together, I thought I really ought to know what men like.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「So even with this service... I was a little surprised at first, but I'm relieved to see it was just as my studies said.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I-Is that right...？ Wait, what kind of studying even covers something like this...」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「According to the materials I researched, men seem to absolutely love panties♪」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I feel like your study materials are pretty biased...！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「And yet, Iori-san, you really did want me to service you with my panties like this, didn't you？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「When you put it like that... all I can say is that you're right...！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hehe, I'm glad to hear that♪ Then please, savor my... panties even more, okay？」"
+    },
+    {
+        "message": "Even as her cheeks flushed red, Asahi gripped me even tighter and stroked me."
+    },
+    {
+        "message": "Asahi's panties were already wet from the start, which gave it an even stronger sense of taboo, and—"
+    },
+    {
+        "message": "Whenever she squeezed tightly, that damp spot―in other words, Asahi's own love juices―seemed to cling to me as well, bringing an even more unfamiliar kind of pleasure."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Yours is getting so hot, Iori-san... To think it'd get like this... Even just serving you is making my own heart race...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That's... because you're doing all this for me, Asahi...」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hearing you say that makes me so happy...♪ Please feel even more and more good with my hand and panties, okay？」"
+    },
+    {
+        "message": "Looking aroused herself, Asahi kept stroking me with a deeply flushed face."
+    },
+    {
+        "message": "Still, perhaps because she wasn't used to it yet, she'd grip me hard one moment and suddenly loosen her hold the next, or move vigorously while using a ticklish touch..."
+    },
+    {
+        "message": "It might have been unconscious, yet those irregular movements played with me so much that my body couldn't help writhing."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Iori-san, every time I stroke you, um... your thick thing twitches and jumps, doesn't it？ Even while I'm holding it, I can feel it clearly...！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Because your service is amazing in so many ways, Asahi...！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「A-Am I really doing it that well？ If so, I'm so, so happy...！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You're super good at it, Asahi... Besides, just the fact that you're doing something this naughty for me is already enough to make me happy...」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Of course I would！ It's only natural to want to do anything for the person you love...♪」"
+    },
+    {
+        "name": "Iori",
+        "message": "「For the person you love... Then I should do something for you too, shouldn't I, Asahi？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Eh?！ N-No, you don't have to...！ Right now I'm supposed to be serving you, Iori-san, so I...」"
+    },
+    {
+        "message": "Even as she said that, Asahi had started fidgeting and squirming. Sure enough, her body seemed to be heating up too."
+    },
+    {
+        "message": "I pulled Asahi's body a little closer into my arms and—"
+    },
+    {
+        "name": "Iori",
+        "message": "「I think... I want to feel good together with you, Asahi？ I want the two of us to share the same feeling...」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Haaah... Iori-san... If you say something like that to me, I...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「So... tell me what you want done to you, Asahi？ Like where you want me to touch you, and how...」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Uhh... In that case, um, I... want you to... play with my nipples...」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I want Iori to touch my body... Especially, um... my sensitive spots, lots and lots...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Alright, Asahi. In that case...」"
+    },
+    {
+        "message": "As requested, I reached out to Asahi's breasts, kneading them while letting my fingers crawl toward her nipples."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Huuu...！ Nn-ah, aah... Iori's hand, on my nipples... Hauu, nn-uu...！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Asahi, these are still tucked away, aren't they?」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ah, haaa...！ Because it's... service for Iori... I'm just so nervous, nnn-uu... i-it's embarrassing...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I see... Then I guess I'll just have to tease them more to help you relax.」"
+    },
+    {
+        "message": "I began to toy with the tips of her breasts, trying to coax out the hidden nipples."
+    },
+    {
+        "message": "Asahi responded by thrusting her chest out, her body jolting and trembling in rhythm."
+    },
+    {
+        "message": "And along with her chest, Asahi’s hidden nipples began to reveal themselves bit by bit."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hyauuu！ Nn-fu, ukuuu...！ Right there... Ah, aah...！ That, it's amazing... it feels so good...！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I barely even touched them, and your nipples are already hardening... Does that mean you were already that turned on...？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ah, t-that's... Hauuu, nnn-uu...！ Because, um, n-ah, haa... I can't help it...！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Being able to serve you like this, Iori...！ And knowing that it makes you feel good...」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Once I felt how hot and thick you were... my heart started racing too...！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...Knowing that you're enjoying yourself makes me even more excited, Asahi...！」"
+    },
+    {
+        "message": "I toyed with her hardening nipples, using my fingertips to lightly graze them as if biting, making sure she was conscious of them."
+    },
+    {
+        "message": "Perhaps because they were usually hidden, they were extra sensitive to stimulation; even just that was enough to make Asahi’s expression slacken and her voice grow sweet."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Nn-haa, auuu...！ Nn, n-ah, aaaaa...！ That feels so good, hyuuu！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「My nipples... please, tease them more...! A-and I... I'll do my best to stroke your thick one, Iori...!」"
+    },
+    {
+        "message": "As if in return, Asahi began to stroke my member vigorously once more."
+    },
+    {
+        "message": "Her touch is still just as clumsy as before, yet because she grips me firmly with real strength this time, a constricting wave of pleasure washes over me."
+    },
+    {
+        "message": "As she milks me upward right from the base, my hips start moving on their own—"
+    },
+    {
+        "message": "Seeing that, Asahi flashes me a slightly teasing smile, her cheeks flushed red."
+    },
+    {
+        "name": "Asahi",
+        "message": "「It makes me happy to have you touch me, Iori-san... but as your bride, I really must make my husband feel good first...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ngh... Well, if we're going by that, I've gotta make sure my wife feels great too...！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hiiiih！ I-Iori-san, you don't need to try so hard... Nngh, aaaah...！ I was supposed to be the one servicing you, hauu！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「If you're going to do that, Iori-san, haa, aaah...！ Then I'll... even more, mmmngh...！」"
+    },
+    {
+        "message": "Bantering back and forth like that, we tease and fondle each other's bodies as if competing."
+    },
+    {
+        "message": "Before I knew it, Asahi wasn't just stroking me anymore—she was twisting her wrist to rub her panties against me too."
+    },
+    {
+        "message": "When I lightly pinch and twist her nipples in return, however, she writhes and lets out a cry."
+    },
+    {
+        "name": "Asahi",
+        "message": "「A-Aaah！ Doing the exact same thing back is unfair...！ Hauuu, mmmgh！ Th-Then how about right here！」"
+    },
+    {
+        "message": "Perhaps trying to outdo me even further, this time she pulls her panties taut, pressing them right into my tip."
+    },
+    {
+        "message": "And just like that, she plays with my tip using her fingertips through the panties...！"
+    },
+    {
+        "name": "Iori",
+        "message": "「Gah...！？ Asahi, even that...！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I read in my research materials that only very naughty people feel good here...！ I was sure you'd feel it, Iori-san...！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「This really is... a sensation I've never experienced before...！」"
+    },
+    {
+        "message": "Her panties, stained with her love juices, dig into my tip along with her slender fingers."
+    },
+    {
+        "message": "Feeling that stimulation reverberate deep into my hips, I'm pushed right to my limit all at once."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Just like this, please cum in my panties！ Otherwise, mmmgh, it'll just be me... hauuu！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ngh... Then you too, Asahi, together...！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hyaaah？！ W-Wait, please...！ I'm supposed to be serving you, ah, aaah！ If you do that to me, I'm, really gonna, hyuuun！」"
+    },
+    {
+        "message": "As I nipped at the tips of her nipples with my fingertips, Asahi writhed and panted for me."
+    },
+    {
+        "message": "Her nipples were already rock―hard, and she seemed to be feeling it so intensely that even her chest was glistening with sweat―"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Nnaah, haaah！ Cumming... I'm gonna cum！ Even though... I'm the one serving you, ah, aaah！ I'm cummiiing！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ngh, Asahi...！！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ukuuuh, nfuuuuuh...！！」"
+    },
+    {
+        "message": "At the exact same moment I came, Asahi's body gave a huge, sharp twitch."
+    },
+    {
+        "message": "Her grip on my cock tightened for an instant, then immediately went limp and weak."
+    },
+    {
+        "message": "Looking down, I saw her legs trembling, and love juices seemed to be overflowing so much they were dripping down her thighs."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Aah, haa... I... really came just from my nipples...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ngh, kuu... You were so cute, Asahi... And your service felt amazing too...」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I'm glad... I could make you cum too, Iori-san... And so much came out...」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「There's so much... it's already dripping right off my panties...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, yeah... after you did all that for me」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hehe, I'm glad... And right where... it presses against my pussy, you came so much there...」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Could it be, um... are you telling me to spend the rest of the day wearing these panties like this...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「N-No, come on, I wouldn't go that far」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Is that so...？ If you told me to, Iori-san, I would do anything...」"
+    },
+    {
+        "message": "For some reason, Asahi looked a little disappointed—but I had a different reason for saying that."
+    },
+    {
+        "name": "Iori",
+        "message": "「After all—you won't be putting any panties back on for a while anyway...！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Kyah, Iori-san...？！」"
+    },
+    {
+        "message": "I stepped right around behind Asahi and wrapped my arms around her."
+    },
+    {
+        "message": "Then―I pressed my still―hard cock up against Asahi's pussy."
+    },
+    {
+        "name": "Asahi",
+        "message": "「I-Iori-san...？！ Could it be, you're still...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「After service that felt that good, once isn't nearly enough to calm me down」"
+    },
+    {
+        "name": "Iori",
+        "message": "「So, like this... is that okay？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Iori-san, you want me that much...」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Um... of course, I don't mind at all...！ If that's what you desire, Iori-san, as many times as you want, even all day long...！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Haha. Maybe that wouldn't be so bad someday.」"
+    },
+    {
+        "message": "While agreeing, I ran my hands all over Asahi’s body, as if embracing her."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hyau…！ Nn-ah, nnn… nffu-aaaah…」"
+    },
+    {
+        "message": "As I stroked her body and rubbed against her spot, Asahi began moving her hips, as if to work my member between her thighs."
+    },
+    {
+        "message": "Asahi’s legs, covered in sweat and love juice, made squelching sounds every time she moved."
+    },
+    {
+        "name": "Asahi",
+        "message": "「If you tease my whole body like that… hah, hah… my body starts reacting on its own… nn-uuu…！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You’re right… your hips are moving too, Asahi…」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I-Iori-san… please, don’t be mean… ugh… your, that… big thing… feeling it like this… ah, aah…！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I’m going to… lose my patience…！ Please, quickly… nnnh… put it inside me…！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ngh… if you beg me like that, I can’t hold back either…！」"
+    },
+    {
+        "message": "To meet Asahi’s expectations—keeping up the momentum from rubbing against her, I plunged into her spot in one go！"
+    },
+    {
+        "name": "Asahi",
+        "message": "「N-aaaah！ Auuu-unn！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ah, aaah… Iori-san’s thick thing, it’s coming in… ♪ Amazing… it’s so much bigger than when we used our hands…」"
+    },
+    {
+        "message": "As if she’d reached a light climax just from the insertion, Asahi’s body went rigid and trembled slightly."
+    },
+    {
+        "message": "And just as she was about to go limp—"
+    },
+    {
+        "message": "I held her up, and while doing so, thrust deeply into her sinking body once more！"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Haa-uuu-uuuu！ N-aah, aah… I-Iori-san… to go that deep, so suddenly… ♪」"
+    },
+    {
+        "name": "Iori",
+        "message": "「It feels so good inside you, Asahi, I couldn't help it… and… sorry！ I can’t hold back…！」"
+    },
+    {
+        "message": "I apologized, but unable to suppress myself, I began to thrust in and out repeatedly."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Auh, n-aaaaah！ I-it’s fine…！ To your heart’s content, Iori-san… hau-uu, nffuuu！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I’m so happy… that you’re doing it to me so much, aah, aaah…！ I’m happy, too… auuu！」"
+    },
+    {
+        "message": "While her strength-drained body trembled, Asahi let out desperate cries."
+    },
+    {
+        "message": "At the same time, the inside of her began to tighten around my member with more force than before."
+    },
+    {
+        "message": "Especially after I thrust upward, she clenched down tightly as if refusing to let go, to the point where it took a bit of effort just to pull my hips back."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hgh, nnah, haaah！ I never knew it could feel this amazing...！ Ah, aaah...！ It's completely different from the first time, nnfhhh！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Yours, Iori-san... it's even harder and bigger than back then, yet...！ All I can feel is how good it is...！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You feel even better inside than before too, Asahi...！ I really don't think I'll be able to stop...！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Nnhah, aaah...！ You don't have to stop...！ Something that feels this good, I don't want to—nnaaah！」"
+    },
+    {
+        "message": "Asahi seemed completely lost in pleasure, and I could tell her juices were dripping out in a steady stream."
+    },
+    {
+        "message": "Every time I moved and our hips slapped together, wet squelching sounds rang out, sending droplets of her juices splattering all the way down to my feet."
+    },
+    {
+        "message": "Even when I went that rough, Asahi let out such happy cries that I got even more worked up, and as I kept thrusting up inside her, I couldn't help squeezing and kneading her breasts hard."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hyauu...！ Iori-san, not there...！ Nnah, aaaah...！ Haaun！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I just want to feel more and more of your body, Asahi...！ Can I play with these too？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「You don't even, auh, nnuu！ You don't even have to ask！ My body is yours, anytime, anywhere, haaauu...！ Please touch me however you like, Iori-san...！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「That makes me happier too...！ Nnha, aaah...！ Having you be the one to want me, I—hauuun！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Then I won't hold back—I'll take all of you I want...！」"
+    },
+    {
+        "message": "I ran my hands over Asahi's breasts—or rather, right up to her nipples."
+    },
+    {
+        "message": "Pinching her modest yet fully erect nipples between my fingers, I tugged and stroked them firmly over and over in rhythm with my thrusts."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hiuuun！？ Th-There...！ Not there too！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Nnah, aaauu！ Why are you touching there, Iori-san...！ Hauu, nnuu, playing with my nipples like that...！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You said it felt good here when you were servicing me too, so I figured you liked it...！ Come on, how does this feel？」"
+    },
+    {
+        "message": "Pressing down lightly with my fingers, I ground and rolled them around."
+    },
+    {
+        "message": "At that, Asahi writhed and cried out in time with the movement of my fingers."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hyaah, aaaah！ I-I love it, I love it...！ Nnaaaah！ I love having my nipples played with... It feels so good！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Being tweaked, being pinched, being bitten... As long as it's you touching me, Iori-san, I love all of it！」"
+    },
+    {
+        "message": "Driven by impulse, I toyed with Asahi's nipples somewhat roughly while kneading and squeezing the entirety of her breasts as if milking them."
+    },
+    {
+        "message": "Even so, far from hating it, Asahi thrust her chest out, shivering with pleasure for me."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Nnaah, auuuh！ Th-That's, so good, hyuuuhn！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「My nipples, they feel so good...！ Iori-san, you're so good at playing with them...！ Ah, aaaah！ It feels like I'm going numb all the way to my core！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「If you make it feel this good... haauuuh！ I can't take it...！ My nipples are going to get even lewder！ I'm going to get addicted to feeling good from my nipples...！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That's exactly what I'm aiming for, you know...！」"
+    },
+    {
+        "message": "Asahi's pussy clamped down around me even tighter—"
+    },
+    {
+        "message": "But her love juices were already dripping out like pee, so no matter how hard she squeezed, there was no resistance at all."
+    },
+    {
+        "message": "Feeling that sensation and the slick love juices clinging to me, I relentlessly thrust harder and faster."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Nhaah, aaaah！ Y-You're going hard down there again too...！ Ukuuh, nnaaaah！ Ah, haah, aaauuuh！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Asking if it's too rough—doesn't look like there's any need for that...！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hahih, hyuuuh！ It feels so good...！ As long as it's you, Iori-san, auuh, nnhfuuuh！ No matter how rough you are with me, it still makes me feel so good！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Even if I do something like this？」"
+    },
+    {
+        "message": "With a sharp scrape, I scratched her nipple with my nail, rubbing it hard as if pinching it."
+    },
+    {
+        "message": "I did it more out of the heat of my arousal than outright malice—yet far from hating it, Asahi cried out with a look of pure ecstasy."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hyauuuhn！ It feels, so good！ Nnah, aaaah！ I love that...！ Please, do it even harder！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「So you love getting pounded hard and played with roughly, huh？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Yes, I love it！ Nngh, aah, hauuu...！ When you're rough with me... it feels like you're teaching my body that it belongs to you, Iori-san...！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I can feel that I belong to you... and that you want me too, Iori-san！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「So please, do it more...！ If it's what you like, I'll become as lewd as you want！ Please, reshape my body to your liking, Iori-san！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ngh, Asahi...！！」"
+    },
+    {
+        "message": "As if accepting her feelings, I hugged her tightly, pressing our bodies together as closely as we could."
+    },
+    {
+        "message": "Feeling her skin against mine, I thrust into her deepest depths with all my might, kneading her breasts and tugging at her nipples—！"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Nnhi, hiuuu！ It feels... so good！ Like this, aaah！ It's never felt this good before, hauuun！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Everywhere, nnfuu, nnaah！ My pussy, my nipples, all of it...！ A-aaah！ My whole body feels so good, auuu！ I'm... I'm going to lose my mind！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ngh, yeah...！ Let's lose our minds together...！ Just like this, forever, the two of us...！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Nnhaa, aah！ Y-Yes...！ As long as I'm with you, Iori-san, I'll go as far as you want...！ Hauuu, nnfuaaa！」"
+    },
+    {
+        "message": "Asahi desperately pressed her body against mine as well."
+    },
+    {
+        "message": "Our sweaty skin clung together, making wet, sticky sounds with every movement, not just where we were joined."
+    },
+    {
+        "message": "Yet far from minding it, we practically reveled in it, drowning in pleasure as our bodies entwined—"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ah, aah, I'm cumming...！ I'm cumming, I'm gonna cum！ Something huge is coming, nnaaa！ Hauuu！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ngh, Asahi...！ I'm about to—！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Y-Yes, together, hiuuu！ Please cum with me！ Deepest inside me...！ Pour all of it into my womb！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Asahi...！！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I'm cumming, my womb's cumming！ Nnaah, aaauuu！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Haaauuuu, nnfuaaaaaah！」"
+    },
+    {
+        "message": "Thrusting up even harder, I poured my semen straight into her deepest depths the very moment Asahi came—！"
+    },
+    {
+        "message": "Taking it all in, Asahi's body jerked and twitched violently, squeezing tightly around my cock once again."
+    },
+    {
+        "message": "Even the entrance to her womb pressing against my tip felt like it was sucking on me like a blowjob, and I poured every last drop deep inside her—"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Nnhaa... aah... fwaah... i-it's hot... Iori-san's hot stuff, so much...」"
+    },
+    {
+        "message": "All the strength drained from Asahi at once, her body collapsing limply."
+    },
+    {
+        "message": "Pulling her into my arms to support her."
+    },
+    {
+        "name": "Iori",
+        "message": "「You really feel amazing, Asahi...」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Y-yesh... I feel amazing too... and Iori-san, you gave it all to me inside... nnh」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Haa, haa... I'm so happy... I feel like I could cum just from this... ♪」"
+    },
+    {
+        "message": "As she murmured, Asahi's body kept trembling with little twitches over and over."
+    },
+    {
+        "message": "And each time, her insides clenched tightly around me, just like when she came."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Nn, fuu, haa... no... the pleasure won't go away... it's like my body just keeps cumming... nnh...！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I did go pretty hard on you... Want to rest for a bit?」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Y-yes... but, um...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「What is it？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Well... even while we rest... I want to stay just like this... held in your arms...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You don't even have to ask. I'm not letting go of you like this.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Fwaaah... yes... please don't let go... ♪」"
+    },
+    {
+        "message": "Asahi rubbed her body against mine, and I answered by hugging her tight."
+    },
+    {
+        "message": "Staying like that, we soaked in the afterglow of our climax for a while."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Um... Iori-san...？」"
+    },
+    {
+        "message": "Just as we had finally calmed down."
+    },
+    {
+        "message": "Asahi suddenly spoke up, sounding a little hesitant."
+    },
+    {
+        "message": "Still holding her in my arms—"
+    },
+    {
+        "name": "Iori",
+        "message": "「What's wrong？ Should I let go now？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「N-no... actually, I'd rather you didn't let go...」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「That's not it, um... how did I measure up as a bride...？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Did I meet your standards, Iori-san...？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「What, you don't even need to ask that. Of course you did.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「R-really...！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah. I'm sure you'll make a wonderful bride, Asahi.」"
+    },
+    {
+        "message": "Feeling happy myself, I pull Asahi's delighted body tightly into my arms once more."
+    },
+    {
+        "message": "At the same time, however, there was something I needed to make sure I told her."
+    },
+    {
+        "name": "Iori",
+        "message": "「It's just, well... I think it's still a bit too soon to go as far as marriage. Even being lovers can cause problems, so going beyond that...」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hehe, if it's about that, there's no problem at all. I'm not hoping for things to go that far yet either.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「R-Really...？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Of course, if you asked me to, Iori-san, I would gladly accept... but becoming husband and wife is no simple matter, after all.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Besides... I ignored your words when you asked me to wait, Iori-san.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Not that it's meant to make up for it... but when it comes to what lies beyond, this time I intend to wait properly.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Asahi……」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Even after I graduate, I won't ask for it right away. I promise I'll wait until you're ready, Iori-san.」"
+    },
+    {
+        "message": "Asahi, turning a smile toward me as she says that."
+    },
+    {
+        "message": "Truly, through and through, Asahi is such a wonderful wife to me."
+    },
+    {
+        "message": "Savoring that thought—precisely because of it, I give her my answer."
+    },
+    {
+        "name": "Iori",
+        "message": "「Thank you, Asahi... Once you graduate, though, I won't make you wait.」"
+    },
+    {
+        "message": "As that 'vow.'"
+    },
+    {
+        "message": "I gently shared a kiss with Asahi—"
+    }
+]

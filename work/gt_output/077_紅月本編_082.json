@@ -1,0 +1,305 @@
+[
+    {
+        "name": "Sonomi",
+        "message": "「…Tch, how annoying.」"
+    },
+    {
+        "message": "She roughly wiped the blood that had trickled down onto her forehead."
+    },
+    {
+        "message": "Looks like she’d been slashed in the head or somewhere else."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Suzakuin Momiji… she was more interesting than I thought.」"
+    },
+    {
+        "message": "Seeing as she was a young lady of the Suzakuin Family, she expected her to fight with some refined elegance, but she had actually been quite the brawler."
+    },
+    {
+        "message": "It would’ve been even more fun if the teacher hadn’t gotten in the way, but well, I’ll settle for that this time."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Heh, don’t know how serious she was being, but this makes me look forward to the Martial Festival…！」"
+    },
+    {
+        "message": "A grin involuntarily spread across her face."
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Yo, you’re in a good mood, aren’t you, Arakawa?」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「…Huh? Who’s that, you?」"
+    },
+    {
+        "message": "It was Sasaki Mikoto who had appeared."
+    },
+    {
+        "name": "Mikoto",
+        "message": "「I haven't seen you around lately, so I thought maybe you finally got expelled.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Shove it.」"
+    },
+    {
+        "message": "This woman was the school’s infirmary doctor. When she was a first-year, she’d gotten injured a lot and was well-acquainted with her care."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「There just aren't any crowds left who can actually land a hit on me, that’s all.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「I see, so you’ve gotten stronger since your first year.」"
+    },
+    {
+        "message": "Sasaki took a cigarette out of her pocket and puffed out a cloud of smoke."
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Phew… that hits the spot. Nothing like having a smoke outside.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「You’re still a delinquent teacher, aren't you.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「You’re not allowed to smoke, got it？」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Don't be an idiot, I’m a sword-bearer. I wouldn’t be caught dead smoking something that ruins my body.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Splendid, splendid. Glad to hear you’re a picture of health.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Shut up, what 'picture of health.' You mocking me?」"
+    },
+    {
+        "message": "Sasaki chuckled."
+    },
+    {
+        "message": "This woman was always picking on her, but for some reason, it didn't feel unpleasant."
+    },
+    {
+        "name": "Mikoto",
+        "message": "「About the Martial Festival starting next month—do you think you’ll be able to go this year？」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Obviously. This is the year I’m becoming the Toujinegi.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「That’s something to look forward to.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Hmph… what, you’re creeping me out.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「By the way, you’re still not hanging out with anyone, just doing your own thing？」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「What of it? Doesn’t really matter, does it? I like being on my own.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Acting like a delinquent is so out of style these days, you know~」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「I ain’t trying to act like a delinquent. It’s just that there ain’t anyone worth syncing up with.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Is that so？ I happened to see you out getting a meal with someone the other day.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「If I recall, that was Kazamine Setsugekka from the Takamura Class.」"
+    },
+    {
+        "message": "I wanted to click my tongue in annoyance. Did she really see me with that Chihuahua?"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「...Quit keeping tabs on what I’m doing, will ya.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Relax, I’m not that bored.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「It’s just that you looked like you were having fun, which is rare, so it caught my eye.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Having fun？ I was just being pestered by her.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Heh, is that right? Rare to see you being the one getting pestered by someone.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Hah, tell me about it.」"
+    },
+    {
+        "message": "To think there’s actually someone who’d go out of their way to pester me, calling me cool or whatever, and trying to get on my good side."
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Still, I never thought you and a young lady like Kazamine would hit it off.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「A young lady...？ Is she loaded？」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「What, you didn’t know? The Kazamine family is one of the wealthiest in the Sword-Bearing Self-Defense Association.」"
+    },
+    {
+        "message": "...Huh, so that’s how it is."
+    },
+    {
+        "message": "In short, she’s just a rich young lady who’s lived a life of luxury and wanted to play pretend with being a bad girl."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「...Tch, what a boring story.」"
+    },
+    {
+        "message": "I thought she might have some potential, too. What a letdown...！"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Oops, did I say too much?」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Nah, not at all.」"
+    },
+    {
+        "message": "Better that than hanging out with her like some clueless fool. That’d make me nothing but a clown."
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Look, Arakawa. Kazamine Setsugekka carries her own share of things she can't tell anyone, too. Just like you.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「You mean to say a rich girl has suffered just as much as I have？ No way that’s possible...！」"
+    },
+    {
+        "message": "I’ve done whatever it took to put food on the table for my younger siblings. I’ve endured no matter how much unreasonable garbage I’ve been put through."
+    },
+    {
+        "message": "I’ll never forget the anger, the sorrow, and the humiliation of those times."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「I’ll tell you something: I absolutely hate those martial arts family types.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「They ain’t even that strong, but they act all high and mighty because of their ancestors’ names. It makes me sick, I swear.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Then why on earth are you doing Jindou？」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「That’s obvious, ain’t it?」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「As long as I’m within the rules of Jindou, I can beat those martial arts family types to a pulp as much as I want.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Getting knocked flat on their asses by an outsider like me, on a stage they set up themselves, and being unable to even stand back up.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「That’s just insanely fun to watch…！」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Haha, that is amusing, I’ll give you that.」"
+    },
+    {
+        "message": "As she said this, Sasaki put away her cigarette."
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Well, go ahead and do as you please. I’m rooting for you.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Hmph, ‘rooting for me,’ huh…」"
+    },
+    {
+        "message": "I really don’t get this Sasaki person. Setsugekka is the same way, I have no idea what they get out of hanging around me."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「What do you even live for, anyway？」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「If I had to say, I hate dealing with troublesome things. Running around doing all that work myself just doesn’t suit me.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「That’s why I’m happy to have a hothead like you running wild and making my boring days a little more entertaining.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「In that sense, you’re a real prospect. Do your best to entertain me.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Ha, you’ve got twisted tastes. I can’t keep up with you.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「I’d say the feeling is mutual.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Ain’t that the truth.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Alright then… shall we go, Arakawa?」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Huh? Go where?」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「You’re injured, aren’t you? That cut on your head—if you don’t get it stitched up, the bleeding won’t stop.」"
+    },
+    {
+        "message": "Right as she said it, blood started dripping down my forehead again."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Tch… yeah, yeah, I got it.」"
+    }
+]

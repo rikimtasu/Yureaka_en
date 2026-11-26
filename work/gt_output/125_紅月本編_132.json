@@ -1,0 +1,1223 @@
+[
+    {
+        "name": "Iori",
+        "message": "「......Match decided！！！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Acknowledging the dissipation of Suzakuin Momiji's Barrier Jacket on the west side」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Therefore, victory goes to Kazamine Setsugekka on the east side！！！」"
+    },
+    {
+        "message": "There are no cheers. No words of praise either."
+    },
+    {
+        "message": "Only the quiet presence of the night praised the hard-fought battle between the two."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Haa, haa... hah... huh...？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I-I won？ I beat Momimomi？」"
+    },
+    {
+        "message": "I help Setsugekka up as she staggers to her feet."
+    },
+    {
+        "name": "Iori",
+        "message": "「That's right. You won, Setsugekka」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「…………」"
+    },
+    {
+        "message": "Keisetsu runs over to Setsugekka, who is standing frozen with a blank look on her face."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「You did it, Setsugekka！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Um... did I really win...？ Does that mean I was stronger than Momimomi...？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Yes, you were」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I see... I won... I beat Momimomi...！！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「......Yeeeeeeeeeeeeeeeah！！！！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I won！ I beat Momimomiiiiii！！！」"
+    },
+    {
+        "message": "Setsugekka, jumping up and down with joy despite staggering just moments ago."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「It's a win for Always-Beats-Suzakuin-Man~~~！！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「...Not 'always'」"
+    },
+    {
+        "message": "Staggering to her feet, Momiji makes her way over to us too."
+    },
+    {
+        "name": "Momiji",
+        "message": "「It's still one win to one loss」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Are you okay, Momiji?」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Well... my body's fine」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Though I honestly thought I was a goner when that sword-of-light thing came right at me...」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Heh-heh~ Did you see that?! My ultimate move!!!」"
+    },
+    {
+        "message": "She clenches her fist tight and flashes a smug grin."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Setsugekka, could you quiet down a little？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「A-alright……」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Momiji-san, do you remember our promise, I wonder」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「If you lose, you will accept any single demand from Kazamine」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「The scope of demands is everything within the power of Suzakuin's next head. There's no mistake here, right？」"
+    },
+    {
+        "message": "Keisetsu confirms with Momiji."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Of course. A warrior never goes back on her word. Ask for whatever you like.」"
+    },
+    {
+        "message": "……With Momiji's defeat, the \"Never Let the Green Grass Wither\" operation ended in de facto failure."
+    },
+    {
+        "message": "I couldn't imagine what would happen from here on out."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「This is a historic victory, Setsugekka. Now then, what should I have her grant me……！」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Eventually having the Suzakuin Family join the Kazamine Group is also an option for a demand, isn't it？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Maybe. But I'm not the head yet, so that's impossible.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Yes, of course I understand that. I'll ask after Momiji-san becomes the head of the Suzakuin Family」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「No, rather than that, having Momiji-san marry someone from Kazamine and bringing the headship into Kazamine is also on the table！」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Wait, if we do that, there's also the possibility Momiji-san would lose her right of succession as head of the Suzakuin Family」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Either way, there's no need to decide hastily right here. Aah…… my dreams just keep growing」"
+    },
+    {
+        "message": "Keisetsu is more excited than she has ever been before. It was a sight rarely seen."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hey, Kei-chan」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Give me a little time, I want to think this through slowly」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I said Kei-chan！」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「What is it, Setsugekka. I'm in the middle of talking with Momiji-san……」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「The one who won this match was me, right」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Yes, you were」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Then I have decision-making authority too, don't I？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「……Well, yes, that's true enough.」"
+    },
+    {
+        "message": "Perhaps because it was unexpected, Keisetsu stumbled over her words."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Still, this is an extremely important matter. I would like you to leave contract matters like this to me, though.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I know you're good at this sort of thing, Kei-chan, but I'm the one who worked hard...？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Yes, this victory would not have been possible without your strength. I understand that, however—」"
+    },
+    {
+        "message": "Keisetsu and Setsugekka began to argue."
+    },
+    {
+        "message": "...Or so I thought, when Momiji nudged me repeatedly with her elbow."
+    },
+    {
+        "name": "Momiji",
+        "message": "「…………」"
+    },
+    {
+        "message": "Momiji was trying to tell me something with her eyes."
+    },
+    {
+        "message": "It seemed she wanted me to take some kind of action, though I had no idea what I was supposed to do."
+    },
+    {
+        "name": "Iori",
+        "message": "（Well... I guess it's better than just sitting around waiting）"
+    },
+    {
+        "message": "...Even though it had been intermittent, the conversation the two of them had during the match had reached me."
+    },
+    {
+        "message": "Setsugekka and Momiji shared the same wish. If so, there might still be hope."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Setsugekka, you have no idea how difficult it is to gain the upper hand over the Suzakuin.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「This opportunity could decide the next 100 years of the Kazamine's future... That is how critical a juncture this is.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Do you have the resolve to steer that course？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Well, I... I don't, but...」"
+    },
+    {
+        "message": "Talked down by Keisetsu, Setsugekka drooped dejectedly."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「As members of the Kazamine, we have a duty to guide the clan's future toward a better path.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Acting recklessly out of personal greed is unacceptable for the next head of the Kazamine.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「…………」"
+    },
+    {
+        "message": "Lectured by Keisetsu, she fell silent."
+    },
+    {
+        "name": "Iori",
+        "message": "「...Keisetsu, aren't you being a bit too harsh?」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Muragaki-san, this is a Kazamine family matter and has nothing to do with you.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Maybe so, but I'm a teacher to both of you. When something's wrong, I'm going to call it out.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「My, and what exactly am I wrong about？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Setsugekka's the one who worked hard in this match and seized the victory. When it comes to the right the Kazamine won, you should hear Setsugekka's opinion first.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Taking that right away from the one who contributed the most and silencing her voice doesn't sit right with me.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Muragaki-sensei...」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「...I believe I've told you this before, though」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Setsugekka and I are twins—two halves split from a single cell. We are the right hand and the left, each making up for what the other lacks.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「I act for Setsugekka, and Setsugekka acts for me. That is how the two of us have always lived.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「The authority I hold belongs to Setsugekka, and vice versa. That is how we live.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「I won't allow anyone, no matter who they may be, to meddle in that.」"
+    },
+    {
+        "message": "Keisetsu delivers the warning with an even heavier air of intimidation than usual. Still, none of that matters to me."
+    },
+    {
+        "name": "Iori",
+        "message": "「Setsugekka, are you really okay with that？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「...Because Kei-chan is always right.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Kei-chan doesn't act for her own sake. She's always acting for the Kazamine family—for everyone.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Meanwhile, I'm always only thinking about myself. I truly respect Kei-chan, and I think she's amazing.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Compared to her, my own wishes are just childish, self-centered, and purely selfish...」"
+    },
+    {
+        "message": "I see... So that's what you've been thinking."
+    },
+    {
+        "message": "Because you have an incredible big sister who's always on your side—an all-too-admirable sister who's always right beside you—leaving you unable to say a thing."
+    },
+    {
+        "message": "And just like that, you've been killing your true self all along—"
+    },
+    {
+        "name": "Iori",
+        "message": "「...Setsugekka, let me teach you something important as your teacher.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「There isn't just one kind of righteousness. There are as many as there are people.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Everyone carries their own justice in their heart, and no one's righteousness ranks above or below another's.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Keisetsu's righteousness is admirable and wonderful. Even so, that doesn't shake your own righteousness in the slightest, Setsugekka.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「It's okay for you to have a justice that's yours and yours alone...！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「A justice all my own...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Setsugekka, you admired heels, didn't you.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You wanted to become like Nakamura Sakura—a player who freely blurts out whatever she wants to say in whatever words she pleases.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Why did you admire her? Because that's who you truly want to be！！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...You have a twin sister who is overwhelmingly kind, overwhelmingly strong, and overwhelmingly smart.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「She's always on your side, someone you can't live without. That's why you've never been able to push back against her until now.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「But really, somewhere deep down in your heart, you were thinking it, weren't you？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That Keisetsu's righteousness can eat shit！！！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ngh......！」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「...Muragaki-san, I can't let that remark slide. Would you stop trying to steer Setsugekka's thoughts？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「If you keep up this outrage any longer, I'll resort to appropriate measures myself……！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, bring it on! Come at me! If you think you can do whatever you want with Muragaki, the master-swordsman slayer, that is！！」"
+    },
+    {
+        "message": "There is nothing to be afraid of."
+    },
+    {
+        "message": "I don't hesitate for a second to call something wrong when I think it's wrong."
+    },
+    {
+        "name": "Iori",
+        "message": "「Setsugekka! Remember Ririmu! What did she value most of all！！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Deciding things for yourself and not letting anyone butt in…… that's Ririmu-chan's worldview……！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, that's right. What's wrong with being selfish?」"
+    },
+    {
+        "message": "From here on out, you'll step out into society and learn that selfishness alone won't get you through the world."
+    },
+    {
+        "message": "But finding that out can wait for much later. Right now, you just have to be selfish and live true to what you believe."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「……But Kei-chan always helped me. I have to help Kei-chan too」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Otherwise, I'll end up as an unwanted kid……！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「……Setsugekka, I'm right here」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「If Keisetsu says she doesn't want you, I'll take you for myself」"
+    },
+    {
+        "message": "Saying that, Momiji gently takes Setsugekka's hand."
+    },
+    {
+        "name": "Momiji",
+        "message": "「I have no intention of ever letting go」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Momiji……！」"
+    },
+    {
+        "message": "The sparkle returned to Setsugekka's wilted eyes."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「……Yeah, you're right」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Even Momimomi gathered her courage and put it into words, so I'll gather my courage and say it too……！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I'm cheering for you, do your best」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「……Hey, Kei-chan. I have a favor to ask」"
+    },
+    {
+        "message": "Setsugekka turns back to face Keisetsu."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「What is it」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Let me decide the wish for Momimomi. I'm the one who won, so it's okay for me to decide, right?」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「That's……」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Momimomi, any one wish from Kazamine」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Yeah, what is it?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Help Kei-chan become the head of the Kazamine Family.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Is that all you want？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yeah, that's fine.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「W-Wait！ Instead of something so mercenary, there are far better demands you could make going forward…！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「If the next head of the Suzakuin promises it, we're set. It's already decided that Kei-chan will be the next head of the Kazamine！」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Nobody can know that for sure！？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Also, I want Mr. Muragaki to be able to stay at this academy after summer break.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Isn't that something you should ask Keisetsu？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Right. Kei-chan, can you do that？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Setsugekka, give it a rest. Keep messing around like this and I'll get mad too…！」"
+    },
+    {
+        "message": "Setsugekka earned a glare from Keisetsu. Even so, Setsugekka didn't back down."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I'm not messing around. I'm asking seriously.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「What are you thinking, Setsugekka?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「…After all, I don't want to leave this academy. I want to stay here and do Jindou with everyone.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Setsugekka, that's just being selfish. It's unforgivable for the next head of the Kazamine！！」"
+    },
+    {
+        "message": "At the furious Keisetsu, Setsugekka lowered her eyes sadly."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Kei-chan… Kei-chan is the only one who'll become head.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I can't become head, and I have no intention of doing it.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Setsugekka, you…」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Whenever I was troubled, Kei-chan always listened to me with genuine care.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「You thought through solutions with me, and you granted so many of my selfish wishes.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Setsugekka…」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I love Kei-chan and I'm truly grateful, so I could never bring myself to say it.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I didn't want to betray Kei-chan, who's so important to me, and I just couldn't make up my mind until now.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「…But you know, fighting Momiji here and now made me realize.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Kei-chan, there's something I want to do myself.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Just as hard as you're working to become the family head, I have something I want to work hard for, too.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「But what I want to do isn't the same as yours, Kei-chan.」"
+    },
+    {
+        "message": "Resolutely, she tells Keisetsu."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「—I want to become the Toujinegi at this academy.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I managed to beat her once, so it shouldn't be impossible. Next time, I'm going to beat Momiji on the Martial Festival stage.」"
+    },
+    {
+        "message": "Setsugekka clenches her fist tightly."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「…………」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Kei-chan... thank you for helping me all this time.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Whenever you're in trouble, I'll definitely come to help you. I'll do everything I can to help your dream come true.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「But... I can't go with you anymore.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Setsugekka…」"
+    },
+    {
+        "message": "At a loss for words, Keisetsu falls silent."
+    },
+    {
+        "message": "However—it was only for a brief moment."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「...I see. I understand.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「I'm sorry I didn't notice.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Before I knew it, perhaps I had begun to take it for granted that you would follow me.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Somewhere inside, I was presuming on your quiet forbearance.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Kei-chan...」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「But that's over now, too. It's going to be lonely.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I'm sorry, Kei-chan...」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「We've walked together all this time, but... today we part ways, Setsugekka.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「I will walk the path I believe in.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「So, Setsugekka, stay true to your own path.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yeah... yeah, thank you, Kei-chan！」"
+    },
+    {
+        "message": "Wiping away her tears, Setsugekka smiles."
+    },
+    {
+        "name": "Iori",
+        "message": "「I'm glad she understood, Setsugekka.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yeah... Thank you, Muragaki-sensei！！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I didn't do anything. Momiji's the one who put in the work.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yeah, I know, but I don't want to thank Momiji. So I figured I'd thank you instead, Sensei.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「What's that supposed to mean?」"
+    },
+    {
+        "message": "I can't help but let out a wry smile."
+    },
+    {
+        "name": "Momiji",
+        "message": "「...Keisetsu, I've got a few favors to ask of you too.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「You too？ Give me a break already, won't you？」"
+    },
+    {
+        "message": "Perhaps thoroughly worn out from dealing with Setsugekka, she wears a wry smile."
+    },
+    {
+        "name": "Momiji",
+        "message": "「For starters, I want an audience with the head of the Kazamine Family.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Then, I'll lay out all the benefits the Kazamine Family stands to gain by making you the next head.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「And I'll guarantee it myself, as the next head of the Suzakuin Family.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「...A-Are you serious about that？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Yes. I'll definitely keep the promise Setsugekka just made. I'll make you the head of the Kazamine.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「I see... I truly appreciate the intention, but...」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Which brings me to my other favor.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Turn down the current Kazamine head's request and stay here at this academy.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「If you do, I think I can offer you an even more attractive support package, you know？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I've already put together some materials with the details of the plan, so please give it some thought~」"
+    },
+    {
+        "message": "Momiji casually tosses something toward Keisetsu. It's probably holographic data."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「…………」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「...Heh, hehe, ahahahaha!」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「I give up. You had all of this planned out from the very beginning？ You really got the better of me, Momiji-san.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「From the beginning？ What do you mean？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「It means Momiji-san challenged me to a duel after already preparing for how things would play out if Setsugekka won.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Huh？！ Is that true？！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Well, it was my first time using Shingan no Kiwamete for a scheme like this, so I wasn't sure if it'd actually work.」"
+    },
+    {
+        "message": "Momiji, sticking out her tongue playfully."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「In other words, I'd already lost the moment I went along with the deal. I took the bait hook, line, and sinker.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hold on, wasn't Operation 'Never Let the Green Grass Wither' supposed to depend on Momiji winning...！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「My calculations showed we had better odds of winning if I let you think that, Sensei~」"
+    },
+    {
+        "name": "Iori",
+        "message": "「S-Seriously...！」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「From the very start, Momiji-san factored in the possibility that fighting the duel would lead Setsugekka and me to part ways.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「You were talking to Setsugekka during the duel, weren't you？ You put all sorts of ideas in her head and steered things to turn out this way.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Don't make it sound so shady. All I did was share my sincere feelings with Setsugekka.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I couldn't really make out the details, so what exactly did you tell her？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Th-That's a secret!」"
+    },
+    {
+        "message": "Huh, oh well. I'll ask Setsugekka next time."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Still, Setsugekka really loves you, Iori-sensei. I figured with your persuasion, it'd work out.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「In any case, win or lose, Momiji-san intended to get her demands through.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Truly, the Suzakuins are unfathomable...」"
+    },
+    {
+        "message": "Keisetsu, looking utterly drained."
+    },
+    {
+        "message": "Apparently, every single one of us had been dancing right in the palm of Momiji's hand."
+    },
+    {
+        "name": "Momiji",
+        "message": "「...You said something about a right hand and a left hand, Keisetsu, but...」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「If the right hand and the left hand each have their own separate brain attached, of course they're going to move separately. Isn't that just how it goes？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Hehe, perhaps you're right.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Well, one of those brains is so completely busted that I guess it's only natural you'd act like it isn't even there~」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hey, I just sensed you dissing me just now! Watch it!」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Her sense of smell is sharp to make up for it, though.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「True enough.」"
+    },
+    {
+        "message": "Keisetsu and Momiji giggle together."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hey~, what's with the two of you, geez!」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「More importantly, what did you end up deciding？」"
+    },
+    {
+        "message": "All eyes turn to Keisetsu."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Haa…… It's not really the outcome I wanted, though.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「As a result, letting Setsugekka have her way as-is turned out to be the best choice for Kazamine.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Therefore, I'm turning down the current head's request. Both I and Setsugekka will remain at this academy for the time being.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「R-Really……！？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「What about Iori-sensei？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Since both I and Setsugekka are staying, maintaining the status quo is naturally the optimal solution.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「As for Muragaki-san, I will use every means available to consult with those above so he can continue running ‘errands’ just like this.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「……Th-Thank you, Kei-chan！！」"
+    },
+    {
+        "message": "Setsugekka hugs Keisetsu as if pouncing on her."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Thank you, thank you so much……！！」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Wha…… Setsugekka, you have crazy strength, so hold back a little…… It hurts……！」"
+    },
+    {
+        "message": "Hugging Keisetsu with all her might in her excitement, Setsugekka makes Keisetsu's eyes roll back."
+    },
+    {
+        "name": "Momiji",
+        "message": "「We did it, Sensei. The plan was a huge success.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah！！」"
+    },
+    {
+        "message": "Bumping fists with Momiji."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Waa, thank goodness~！ We did it~！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I am truly glad everything settled peacefully.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, right!! ……Wait, Ririmu and Asahi!？」"
+    },
+    {
+        "message": "Ririmu and Asahi jumped out from the bushes."
+    },
+    {
+        "name": "Momiji",
+        "message": "「You guys, don't tell me you were hiding there the whole time？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Well, duh, it was a duel between Secchan and Momitchi! Even if you told us no, of course we'd watch!」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Fufufu, I took the liberty of filming the entire match with a telephoto stealth drone.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「As for the two of you bickering, I recorded it cleanly with a high-performance directional microphone, so please don't worry.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「W-Whaaaat！？ No way！？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Is that so? I'd really like to hear that.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「At graduation, we will screen it as a memorial movie in the director's cut, so please look forward to it.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Stoooop！ That's guaranteed to become my darkest secret！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「What, what？ What are you guys talking about？」"
+    },
+    {
+        "message": "Having finished chewing Keisetsu out, Setsugekka came over to us."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Good for you, Secchan~！ We'll still be together from now on！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yeah, yeah！ Thanks~, Ririmu-chan！」"
+    },
+    {
+        "message": "The two of them hugging each other tightly."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Well done, Momiji-san. That was a truly impressive read.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Hehe, I went a little all-out this time.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「That aside, you're going to delete the audio and video, right？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ufufu, I'm looking forward to the future.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Uwaaah~, you have zero intention of deleting it, do you！」"
+    },
+    {
+        "message": "Everyone looks uniformly happy."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Muragaki-sensei!」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I'm going to be able to keep doing Jindou. It's all thanks to you and Momimomi, Sensei.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, this is something you won for yourself, Setsugekka. You did great, Setsugekka.」"
+    },
+    {
+        "message": "It was Setsugekka who first got through to Keisetsu."
+    },
+    {
+        "message": "If Setsugekka hadn't summoned the courage to express her true feelings, things surely wouldn't have turned out like this."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「A-And, um...」"
+    },
+    {
+        "message": "Setsugekka, looking like she's having a hard time bringing something up."
+    },
+    {
+        "name": "Iori",
+        "message": "「What's wrong？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「...Muragaki-sensei, are you going to keep being a teacher？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「No matter how much Kei-chan and I say we're staying here, it won't mean anything if you're gone, Sensei.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Sensei, until we graduate... will you always stay our teacher...？」"
+    },
+    {
+        "message": "At Setsugekka's question—Momiji, Asahi, Ririmu, and Keisetsu too. Everyone in Takamura Class is listening closely."
+    },
+    {
+        "message": "...I can't keep being a teacher."
+    },
+    {
+        "message": "I stole my best friend's dream; I have no right to chase a dream of my own. I've lived my whole life believing that."
+    },
+    {
+        "message": "But that—"
+    },
+    {
+        "name": "Takahisa",
+        "message": "『Do it, become a teacher.』"
+    },
+    {
+        "name": "Takahisa",
+        "message": "『Iori, live the way you want to live.』"
+    },
+    {
+        "message": "Because my best friend―Takahisa―said so."
+    },
+    {
+        "name": "Iori",
+        "message": "「……Yeah, of course.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Even after the Martial Festival ends, after summer ends, when winter comes, when spring comes, and next year too！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I'm staying on as a teacher—！！」"
+    },
+    {
+        "message": "This place, this time, and the classmates right beside you now will become a lifelong treasure for you all."
+    },
+    {
+        "message": "I said that—but it was the same for me."
+    },
+    {
+        "name": "Iori",
+        "message": "「The time I spend with you all from now on will become a lifelong treasure for me, too……！」"
+    },
+    {
+        "message": "Even after graduation, through good times and hard times, life goes on."
+    },
+    {
+        "message": "For the future beyond that, and above all for right here, right now."
+    },
+    {
+        "name": "Iori",
+        "message": "「So let's live through this time together！！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Muragaki-sensei…… yes！！」"
+    },
+    {
+        "message": "If we do that, I'm sure we'll be able to say when we look back on today."
+    },
+    {
+        "message": "That the three years we spent at this academy were the best time ever—"
+    },
+    {
+        "name": "Iori",
+        "message": "「Alright, everyone. Summer break starts tomorrow.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Let's head back to our family homes and let loose to our heart's content！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Yeah, that's right.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Let's train during summer break too, and get even stronger together！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Yes, please.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Let's play a lot and do lots of fun things！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Yeah, yeah, let's party hard~！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Let's keep work in moderation and make time for everyone！」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Fufu, I'll do my best.」"
+    },
+    {
+        "message": "The smiles everyone gave back were so dazzling."
+    },
+    {
+        "message": "There was still a mountain of things I wanted to tell everyone. I wanted to talk about what comes next."
+    },
+    {
+        "message": "But, for the time being."
+    },
+    {
+        "name": "Iori",
+        "message": "「It's hard to say goodbye, but—Takamura Class, dismissed for the day！！！」"
+    },
+    {
+        "name": "Everyone",
+        "message": "「Yes」"
+    }
+]

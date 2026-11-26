@@ -1,0 +1,620 @@
+[
+    {
+        "message": "After finishing class and parting ways with everyone, I walk home."
+    },
+    {
+        "name": "Iori",
+        "message": "「Right, I need to put together a schedule for the qualifiers.」"
+    },
+    {
+        "message": "The qualifying match schedule has been released, so I need to decide how to maneuver accordingly."
+    },
+    {
+        "name": "Iori",
+        "message": "「I want to watch everyone’s matches, but some of them overlap... Ugh, this is a tough one...！」"
+    },
+    {
+        "message": "Just as I was groaning to myself—"
+    },
+    {
+        "name": "Iori",
+        "message": "「...Hmm？ Who’s this from？」"
+    },
+    {
+        "message": "My phone starts ringing, so I check the name."
+    },
+    {
+        "name": "Iori",
+        "message": "「Whoa... the Company Commander！？」"
+    },
+    {
+        "message": "I immediately press the call button."
+    },
+    {
+        "name": "Iori",
+        "message": "「Tenju Special Forces, Muragaki Iori speaking！」"
+    },
+    {
+        "name": "Asagiri Midori",
+        "message": "「It’s Asagiri. Is now a good time?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yes, ma’am, no problem at all！」"
+    },
+    {
+        "message": "There’s no one around to see it, but I stand at attention and salute. It’s become a habit by now."
+    },
+    {
+        "name": "Asagiri Midori",
+        "message": "「How are things over there? Are you having any downtime?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yes, thanks to your arrangements, I’m carrying out my mission quite enjoyably.」"
+    },
+    {
+        "name": "Asagiri Midori",
+        "message": "「I see. Have you moved past that ‘oni hunting’ incident？」"
+    },
+    {
+        "message": "Oni hunting—the incident where I severely injured a former student while suppressing them after they’d gone berserk."
+    },
+    {
+        "name": "Iori",
+        "message": "「Yes. I haven’t lost my sense of regret, but I think I’ve been able to move forward a bit.」"
+    },
+    {
+        "name": "Asagiri Midori",
+        "message": "「Then I suppose this ‘errand’ of yours can be called a success. I’m relieved to hear that.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I am humbled by your concern.」"
+    },
+    {
+        "name": "Asagiri Midori",
+        "message": "「The Murakumo Martial Festival is next month, but how are your students doing？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yes, Kazamine Setsugekka, whom you seem to favor, will surely make an appearance in the main tournament.」"
+    },
+    {
+        "message": "The Asagiri family is part of the Kazamine Group. Of course she would know about Setsugekka."
+    },
+    {
+        "name": "Asagiri Midori",
+        "message": "「My, it seems you caught me. I am a member of the Kazamine Group, after all. I have high expectations for Kazamine Setsugekka.」"
+    },
+    {
+        "message": "The Company Commander answers magnanimously, without even trying to hide it."
+    },
+    {
+        "name": "Asagiri Midori",
+        "message": "「Tell me, are you getting along with Keisetsu-dono without any issues？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yes, no problems there. Keisetsu is currently a member of the Takamura Class, and she treats the other students as her equals.」"
+    },
+    {
+        "name": "Asagiri Midori",
+        "message": "「To think you’d call Keisetsu-dono by her first name without an honorific—you’re quite fearless. Well, I suppose if Keisetsu-dono allows it, it’s fine.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Huh, um... Is Keisetsu really that big of a deal？」"
+    },
+    {
+        "name": "Asagiri Midori",
+        "message": "「She's a candidate to be the next head of the Kazamine Group. Unlike the Suzakuins, she's a major power player on a global scale.」"
+    },
+    {
+        "name": "Asagiri Midori",
+        "message": "「If you get on her bad side, you'd better assume there's nowhere to run.」"
+    },
+    {
+        "message": "S-Scary... I'd better be nicer to Keisetsu."
+    },
+    {
+        "name": "Iori",
+        "message": "「So, did you need something from me today？」"
+    },
+    {
+        "message": "She wouldn't have contacted me just for small talk. She must have some kind of business."
+    },
+    {
+        "name": "Asagiri Midori",
+        "message": "「Oh, right.」"
+    },
+    {
+        "message": "With a small clearing of her throat, the company commander's tone shifts."
+    },
+    {
+        "name": "Asagiri Midori",
+        "message": "「...I can't give you the details, but a pretty big case just came down from the brass. Every member of my company is going to be assigned to it.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「E-Every member...?！」"
+    },
+    {
+        "message": "The Tenju Special Forces has several companies, and every single one of them has a sizable number of personnel."
+    },
+    {
+        "message": "Assigning an entire company to a single mission means it's a pretty massive operation."
+    },
+    {
+        "name": "Asagiri Midori",
+        "message": "「Along with that, I received notice from above to immediately recall any personnel out on 'errands' whose matters aren't urgent.」"
+    },
+    {
+        "name": "Asagiri Midori",
+        "message": "「Hence why I contacted you today.」"
+    },
+    {
+        "message": "My vision goes dark."
+    },
+    {
+        "name": "Iori",
+        "message": "「...Does that mean you're ordering me to return to the unit?」"
+    },
+    {
+        "message": "Returning to the unit—that means cutting short my special appointment dispatch and heading back to the company immediately."
+    },
+    {
+        "message": "As long as I'm a Self-Defense Force officer, orders from above are absolute. No matter what, I'll have to return to the company at once."
+    },
+    {
+        "name": "Asagiri Midori",
+        "message": "「Don't jump to conclusions, Muragaki Iori.」"
+    },
+    {
+        "name": "Asagiri Midori",
+        "message": "「Your precious student has the Martial Festival coming up, doesn't she? Leaving your post now wouldn't be desirable.」"
+    },
+    {
+        "name": "Asagiri Midori",
+        "message": "「In other words, it's safe to say Muragaki Iori's current situation is urgent.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Th-Then...！」"
+    },
+    {
+        "name": "Asagiri Midori",
+        "message": "「I won't order you to return to the unit when you have urgent business to attend to. I'll smooth things over in my report to the brass, too.」"
+    },
+    {
+        "name": "Asagiri Midori",
+        "message": "「Cutting things off here wouldn't sit right with you either. It'd defeat the whole purpose of sending you out on that errand in the first place.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Th-Thank you so much...！！」"
+    },
+    {
+        "message": "I have nothing but gratitude for my understanding company commander's judgment."
+    },
+    {
+        "name": "Asagiri Midori",
+        "message": "「However, this is strictly my own call.」"
+    },
+    {
+        "name": "Asagiri Midori",
+        "message": "「Depending on how things unfold, you could still get called back. If that happens... sorry, but you'll have to obey.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「……Understood.」"
+    },
+    {
+        "message": "Since the Company Commander is also a JSDF officer, orders from above are absolute. I hold no grudge regarding that."
+    },
+    {
+        "name": "Asagiri Midori",
+        "message": "「That concludes the briefing, but… right, if you have any spare time, keep an eye out for any lively students.」"
+    },
+    {
+        "name": "Asagiri Midori",
+        "message": "「My company is always in need of excellent personnel.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yes, I will, if I find anyone who meets your standards.」"
+    },
+    {
+        "name": "Asagiri Midori",
+        "message": "「Very well, Muragaki. I look forward to the Martial Festival.」"
+    },
+    {
+        "message": "I end the call with the Company Commander and let out a quiet breath."
+    },
+    {
+        "name": "Iori",
+        "message": "「Haa… I was so nervous.」"
+    },
+    {
+        "message": "I relax my rigid posture and slump onto a bench."
+    },
+    {
+        "name": "Iori",
+        "message": "「……Still, returning to my unit, huh.」"
+    },
+    {
+        "message": "Thanks to the Company Commander’s arrangement this time, I’m allowed to continue with my errands for now."
+    },
+    {
+        "message": "However, the grace period is quite limited."
+    },
+    {
+        "message": "If the urgent matter is simply 『because there is a Martial Festival,’ then it implies that once the Martial Festival ends, there won’t be an issue."
+    },
+    {
+        "message": "If the large-scale mission the Company Commander mentioned is finished by then, it should be fine, but…."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Oh my, Muragaki-san. Good day.」"
+    },
+    {
+        "message": "While I was lost in thought, Keisetsu approached from behind."
+    },
+    {
+        "name": "Iori",
+        "message": "「Ah, Keisetsu-dono！ Thank you for your hard work！」"
+    },
+    {
+        "message": "I snap a sharp salute."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「……What is that. It’s disgusting.」"
+    },
+    {
+        "message": "She looked at me with disdain."
+    },
+    {
+        "name": "Iori",
+        "message": "「Th-the Company Commander told me that Keisetsu-dono is a very capable person…」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「I see, so you spoke with Asagiri-san. That means… you’re talking about the Asagiri Company’s large-scale mission, aren't you?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You knew? As expected of Keisetsu-dono.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Could you stop talking like that？ It’s gross. I don't know why, but it makes my skin crawl when you use honorifics with me.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Th-that’s mean… but fine, I get it. If you prefer it this way, Keisetsu, I’ll do that.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Yes, that feels more natural.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「And so… about that talk earlier, Keisetsu, do you know about the large-scale mission？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「……Yes, I do. But that sounds like a long story, so if you’d like, why don’t we go rest at that shop over there？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I, I feel like you’re trying to bait me into something again…」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Hehe, I hope so. Come on, let’s go」"
+    },
+    {
+        "message": "I have no idea what she’s thinking. Regardless, I decided to head into a nearby coffee shop with Keisetsu."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hmm-hmm-hum~, huff-hi-fu~♪... Wait, is that Kei-chan and Muragaki-sensei？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「N-no way... A date！？ To think Kei-chan would meet with sensei in secret without telling me...！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Should I... inform Asahi-dono? Maybe I’ll get to see some drama unfold」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Actually, if it’s important business, it would be bad to get in their way~... I know! I’ll sneakily follow them」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hehe, I am the great detective Arsène Lupin！」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Now then... I wonder where I should start talking」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Keisetsu, do you know the details of this large-scale mission？」"
+    },
+    {
+        "message": "I’ll try asking Keisetsu, just in case. It wouldn’t be strange for her to know something."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Yes, though only at the level of rumors」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「A few days ago, the Spirit Agency supposedly messed up and triggered a massive spiritual disturbance that got civilians involved, or so the story goes」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Someone has to be the one to put out the fire, but if matters reach the public, it’ll be difficult for the Spirit Agency to handle the situation on their own」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「It’s unclear whether the ones doing the damage control are Asagiri-san’s company, but it’s unlikely to be entirely unrelated」"
+    },
+    {
+        "name": "Iori",
+        "message": "「A massive spiritual disturbance... that’s grim」"
+    },
+    {
+        "message": "Depending on the scale, it would explain why the entire company is being deployed."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Regardless, this isn’t a matter that concerns you right now」"
+    },
+    {
+        "name": "Iori",
+        "message": "「How could it not concern me? My comrades are in that company. You’re saying there’s a possibility they could be in danger」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「True, but you can’t just abandon your teaching duties to return to the company here. Isn’t that right？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That is... well, you’re right」"
+    },
+    {
+        "name": "Iori",
+        "message": "「But if the mission drags on, I’ll end up back at the company anyway. It’s only a matter of sooner or later」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「No, there is another option」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...Another option？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「I’ll get straight to the point. Muragaki-san, would you be interested in becoming Setsugekka’s personal coach?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「A, a personal coach... you say？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「I apologize for bringing up my personal affairs, but I may have to leave Japan in the near future.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Once I leave, I won’t be able to return for two or three years. It’s a shame, but I suppose that means I’ll have to withdraw from the academy.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Are you serious… Is this for some important work？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Yes, it’s a direct request from the current head of the Kazamine family. If I succeed, my position as the next head will be secure.」"
+    },
+    {
+        "message": "I see. If that’s the case, this is an incredibly important job for Keisetsu. She probably can’t refuse it."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「However, the question is what to do about Setsugekka in that scenario.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「The girl says she wants to come with me, but I want her to stay in Japan.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Why won’t you respect Setsugekka’s wishes？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Because she can’t speak foreign languages. Besides… this assignment is going to be quite dangerous.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Traveling to politically unstable countries and meeting with local influential figures. That includes mafia kingpins and the like.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「I don’t want to bring Setsugekka into an environment where a single wrong move could ruin everything and where our lives could be at stake.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「……I see.」"
+    },
+    {
+        "message": "But Keisetsu is planning to throw herself into that kind of environment, isn't she…."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「But then, I worry about Setsugekka if she’s left behind in Japan. That brings me back to the topic of an exclusive coach.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「I don’t want you to treat her like the rest of the students, Muragaki. I want you to take responsibility for Setsugekka’s future.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「In short, I want someone who can fulfill her desires in my place.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「I believe you are the perfect person for that.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「…………」"
+    },
+    {
+        "message": "This was heavier than I had imagined."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「If you accept, I promise that the Kazamine Group will support you for the rest of your life.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「And I will also provide support for your friend.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Friend…？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「The Kazamine Group owns top-tier pharmaceutical manufacturers and boasts hospitals with the world’s most advanced medical technology.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「I hear Kuki Takahisa had an accident that damaged the nerves in his dominant arm, forcing him to retire from Jindou.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「But if the Kazamine Group puts its full resources into it, there is still a possibility that he could make a comeback.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...Leave it to the Kazamine family, I suppose. You certainly did your homework.」"
+    },
+    {
+        "message": "I never imagined she had pulled strings that far."
+    },
+    {
+        "name": "Iori",
+        "message": "「Though you should've also looked into the fact that offering a quid pro quo like that would put me in a bad mood.」"
+    },
+    {
+        "message": "There's no way I could jump for joy at being told they'd save my friend if I agreed to become a personal coach."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Yes, I am fully aware of that.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「However, securing a private hospital room, arranging a surgeon, and assigning a dedicated nurse for rehabilitation—the costs involved are by no means cheap.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「The Kazamine Group is not so charitable as to casually pay that much for an unrelated party with nothing in return.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...Fair enough.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「That said, if doing so clears your mind of worry and allows you to focus entirely on instruction, then it is well worth the expense.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Of course, I will pay your fee as a personal coach separately from that. I intend to offer at least ten times the going rate.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「It may not mean much to you, but this is the utmost sincerity I can show.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Well? Will you consider it?」"
+    },
+    {
+        "message": "...I can tell Keisetsu is serious. And that she's doing this not for herself, but for Setsugekka."
+    },
+    {
+        "message": "Still, there's one thing I can't help but wonder about."
+    },
+    {
+        "name": "Iori",
+        "message": "「I'm a Self-Defense Force officer. If I get orders to return to my unit, I can't refuse. That doesn't change whether I stay here or become a personal coach.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Muragaki-san, I am trying to recruit you.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「In other words, becoming Setsugekka's personal coach means resigning from the Self-Defense Forces.」"
+    },
+    {
+        "message": "...Ah, well, I suppose that makes sense."
+    },
+    {
+        "message": "Japan doesn't have conscription, and being a Self-Defense Force officer is just a career for me. I'm free to choose another profession whenever I want."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Though... let me see. If you still have lingering attachments to the Tenju Special Forces, there is also a way to keep your current 'errand' going.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「You could serve as her personal coach until I return to Japan, and afterward, you would be free to go back to your original unit.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「I can arrange things under those terms as well.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hahaha, you really do whatever you please, don't you?」"
+    },
+    {
+        "message": "Is she going to ask \"favors\" of people even higher up than the company commander? Knowing the Kazamine Group, I wouldn't put it past them."
+    },
+    {
+        "name": "Iori",
+        "message": "「...How long are you staying in Japan？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「I plan to leave Japan by August at the latest.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Then could you at least wait until the Martial Festival is over? I'll give you my answer then.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Understood. I'll be expecting a favorable reply.」"
+    },
+    {
+        "message": "With that, Keisetsu stood up from her seat and left the shop."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「…………」"
+    }
+]

@@ -1,0 +1,161 @@
+{
+  "schema": "softpal-yureaka-manifest/1",
+  "game_title": "紅月ゆれる恋あかり",
+  "game_title_en": "Akatsuki Yureru Koi Akari",
+  "engine": "SOFTPAL / AMUSE CRAFT (PAC v2 + Sv20 + TEXT.DAT)",
+  "source_game_dir": "d:\\Video_Game\\Visual Novel\\CRYSTALiA\\紅月ゆれる恋あかり",
+  "hashes": {
+    "data.pac": "f608c3816a33c8cdec345667f20d6d52b388ad5a47528fb8e01648bdbd8cf1aa",
+    "csv.pac": "e681ede6ea57f9b50f57e0b4fc61c91172b624b5ed6ee28fb88487e80bcc4bfd",
+    "patch.pac": "fb0ca1385445759f20386f610e02650720bd42a58ba03d61959c3ea4c623f69c",
+    "TEXT.DAT.dec": "343758fafa328dcbed77687713152ace4b84548a3a0994b54a87c69053335449",
+    "TEXT.DAT.enc": "ef5fb062786030eda51d530276fa93a3c6e6b7d419c0cfa8a2bd0d692e56acc9",
+    "SYSTEM.INI": "d2642651ac3700b875cb6135f6204d724d1545949ce1d49bf1c53e2caf3392d2",
+    "TIPS.CSV": "3d1c6519aab84d3c9c0a4b3bcb2d282b19e3d861b227e7c4cd92232489728a29"
+  },
+  "roundtrip_verified": {
+    "text_dat_exact": true,
+    "text_dat_cipher_exact": true,
+    "data_pac_exact": true
+  },
+  "extraction_options": {
+    "ruby_dropped": true,
+    "story_br_joined": true,
+    "keep_honorifics": true
+  },
+  "stats": {
+    "total_text_dat_entries": 48456,
+    "json_files_exported": 138,
+    "story_scene_files": 135,
+    "empty_scene_markers": 14,
+    "total_gt_records": 28081,
+    "total_jp_chars_cleaned": 754264,
+    "unique_speakers": 66
+  },
+  "speakers": {
+    "伊織": 5280,
+    "雪月花": 3159,
+    "紅葉": 2930,
+    "旭": 2009,
+    "梨々夢": 1981,
+    "蛍雪": 723,
+    "ヴィクトリア": 594,
+    "園美": 577,
+    "雫": 381,
+    "巫琴": 342,
+    "都子": 312,
+    "佐々鳴子": 238,
+    "中邑さくら": 189,
+    "隆久": 181,
+    "立会人": 85,
+    "椿": 67,
+    "朝霧ミドリ": 45,
+    "？？？": 27,
+    "店長": 23,
+    "柾胤": 23,
+    "女の子": 13,
+    "女子生徒Ａ": 11,
+    "女子生徒Ｂ": 11,
+    "師匠": 11,
+    "凛": 11,
+    "ナレーター": 10,
+    "観客Ａ": 9,
+    "女子生徒": 8,
+    "全員": 8,
+    "ヨリシロくん": 8,
+    "観客Ｂ": 8,
+    "技巧科の生徒": 7,
+    "梨々夢の父": 6,
+    "道場の後輩Ａ": 5,
+    "店員": 4,
+    "メイド": 4,
+    "教師": 4,
+    "警察官": 3,
+    "秘書": 3,
+    "蛍雪の部下": 3,
+    "観客Ｄ": 3,
+    "観客Ｃ": 3,
+    "アナウンサー": 3,
+    "みんな": 2,
+    "雪月花＆旭＆梨々夢": 2,
+    "雪月花＆梨々夢": 2,
+    "男の子": 2,
+    "道場の後輩Ｂ": 2,
+    "旭＆梨々夢": 2,
+    "雪月花＆紅葉": 2,
+    "梨々夢の母": 2,
+    "琴の先生": 2,
+    "刃道トレーナー": 2,
+    "観客Ｅ": 2,
+    "観客Ｆ": 2,
+    "観客たち": 2,
+    "場内アナウンス": 2,
+    "雪月花＆園美": 1,
+    "親戚Ａ": 1,
+    "親戚Ｂ": 1,
+    "学園システム": 1,
+    "雪月花＆都子": 1,
+    "運転手": 1,
+    "雫＆紅葉": 1,
+    "ヴィクトリア＆雪月花": 1,
+    "旭＆紅葉": 1
+  },
+  "empty_scene_markers": [
+    {
+      "text_id": 3213,
+      "marker": "紅月本編_009"
+    },
+    {
+      "text_id": 4468,
+      "marker": "紅月本編_015"
+    },
+    {
+      "text_id": 4977,
+      "marker": "紅月本編_018"
+    },
+    {
+      "text_id": 4978,
+      "marker": "紅月本編_019"
+    },
+    {
+      "text_id": 4979,
+      "marker": "紅月本編_020"
+    },
+    {
+      "text_id": 4980,
+      "marker": "紅月本編_021"
+    },
+    {
+      "text_id": 4981,
+      "marker": "紅月本編_022"
+    },
+    {
+      "text_id": 6584,
+      "marker": "紅月本編_029"
+    },
+    {
+      "text_id": 17584,
+      "marker": "紅月本編_065"
+    },
+    {
+      "text_id": 20211,
+      "marker": "紅月本編_078"
+    },
+    {
+      "text_id": 23697,
+      "marker": "紅月本編_093"
+    },
+    {
+      "text_id": 23698,
+      "marker": "紅月本編_094"
+    },
+    {
+      "text_id": 23883,
+      "marker": "紅月本編_096"
+    },
+    {
+      "text_id": 34207,
+      "marker": "紅月本編_128"
+    }
+  ]
+}

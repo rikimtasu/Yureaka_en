@@ -1,0 +1,363 @@
+[
+    {
+        "message": "The last day of the first term had arrived."
+    },
+    {
+        "name": "Iori",
+        "message": "「...So that makes today our last class before summer break.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Summer break starts tomorrow, so make sure you all watch your daily habits and don't slack off too much.」"
+    },
+    {
+        "message": "Setsugekka, Momiji, Asahi, Ririmu, Keisetsu. I looked around the classroom at the five of them."
+    },
+    {
+        "message": "This might be the last time everyone is gathered together in Takamura Class like this."
+    },
+    {
+        "name": "Iori",
+        "message": "「Hey, everyone, are you listening？」"
+    },
+    {
+        "name": "Everyone",
+        "message": "「…………」"
+    },
+    {
+        "message": "I called out to them, but there was no answer. Even Ririmu, usually so energetic, was drooping today."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Iori-sensei, may I have a moment?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, go ahead.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「There's a rumor going around that you might be leaving during this summer break too, Sensei. Is that true?」"
+    },
+    {
+        "message": "...Leave it to Asahi to catch wind of things so fast."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Whaaat, seriously？！ Nobody told me about this？！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「It's close, but not quite the truth.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I was only ever a temporary teacher sent here on a special assignment. Sooner or later, I was always going to have to return to my company.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「It was only a question of when, and now there's a chance I'll be recalled to my original unit sometime soon.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「If you do return, roughly when would that be?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「If it happens soon, probably sometime during summer break.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Whaaat—so it's not just Secchan and Keisetsu, even Teach is leaving？！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Takamura Class is gonna get so boring...」"
+    },
+    {
+        "message": "Don't worry, Ririmu. I haven't given up on anything yet."
+    },
+    {
+        "name": "Momiji",
+        "message": "「...Hey, Sensei, do you have a minute？」"
+    },
+    {
+        "message": "Momiji signaled me with her eyes."
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, of course. Go ahead.」"
+    },
+    {
+        "message": "Momiji stood up and walked over to Keisetsu."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Hey, Keisetsu. I have a favor to ask.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Oh? What might that be?」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I want to challenge you to a duel.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Wh—a duel……！？」"
+    },
+    {
+        "message": "At Momiji's abrupt remark, a confused atmosphere drifts through the classroom."
+    },
+    {
+        "name": "Momiji",
+        "message": "「To be exact, with you Kazamine people, though」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「……May I ask for an explanation？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Today might be the last time I see you, so I figured we might as well settle things once and for all」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Between you and me, is there some point of contention？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「You're the next head of the Kazamine, and I'm the next head of the Suzakuin. I don't think there's any need to look for a reason to fight, though？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「There is no benefit for me in fighting you as you are now.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Yeah, so I'll give you a benefit」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「If I lose, I'll accept any one demand from the Kazamine」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Any, you say？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Everything possible that the next head, Suzakuin Momiji, can do」"
+    },
+    {
+        "message": "In other words—it was tantamount to saying Momiji would hand over everything within her grasp."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「…………」"
+    },
+    {
+        "message": "Keisetsu puts on a thoughtful expression."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hold on a second, Momimomi！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「A duel with Kei-chan, what does that even mean！？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「……Setsugekka, stay quiet for a bit」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「B-But……」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「What is the method of the duel？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「If the Kazamine and the Suzakuin are going to duel, it's Jindou, of course. With any other method, win or lose, nobody would accept it」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Yes, that's true as well.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I mean, Kei-chan isn't in the Martial Arts Division, you know. Even if you fight, it won't even be a match, right？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I know, right, so you can use clones」"
+    },
+    {
+        "message": "Momiji raises the corner of her mouth and grins."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Huh？ What's a clone？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「So... what is your demand?」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I have only one demand.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Kazamine Keisetsu, you will entrust me with the authority to decide what happens to you.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「...I see. So that's how it is.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「What does that mean？！」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「In short, it means the loser has to do one thing—anything—that the winner says.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Wait, hold on... Like I said earlier, Kei-chan, you're not in the Martial Arts Division, so you don't stand a chance in Jindou, right？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「You're the one who'll be fighting, Setsugekka.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「H-Huuuh？！」"
+    },
+    {
+        "message": "Setsugekka lets her gaze wander back and forth between Momiji and Keisetsu."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Huh? Wait, so what?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「In a duel between Kei-chan and Momimomi, I'm somehow the one fighting, and if I lose, Kei-chan has to do one thing—anything—Momimomi tells her to？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「None of this makes any sense to me？！」"
+    },
+    {
+        "message": "Well, from Setsugekka's point of view, that's basically what it comes down to."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Setsugekka, this isn't a duel between me and Momiji-san. It's a duel to decide the future of Kazamine and Suzakuin.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Conversely, if you win, Kazamine can make Suzakuin accept any one demand we choose.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hmm... So this is basically a formal challenge from Suzakuin to Kei-chan and me, then.」"
+    },
+    {
+        "message": "Setsugekka finally seems to have caught on."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Setsugekka」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「...What？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「This might be the last time you and I ever get to face each other in Jindou.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「The last time...？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Even if you come back three years from now, Setsugekka, I don't know if I'll still be doing Jindou by then.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「In fact, my father got so swamped with his official duties that he gave up Jindou ages ago.」"
+    },
+    {
+        "message": "Momiji tells Setsugekka straight to her face."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「...So what？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Setsugekka. I want to fight you one more time.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「If this is going to be the last time, I definitely don't want to have any regrets.」"
+    },
+    {
+        "message": "A fierce, burning passion dwells in Momiji's eyes."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「...Well, you've got a point there. If I'm saying goodbye to Momimomi today」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I sure don't want to end things on a loss...！」"
+    },
+    {
+        "message": "As if in response, a fire ignites within Setsugekka as well."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Setsugekka, are you sure about this？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yeah, I'll do it.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Kazamine's swordsmen don't lose to the likes of Suzakuin.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I'll prove it myself—！」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Then it's decided.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「—Kazamine accepts this duel from Suzakuin.」"
+    },
+    {
+        "message": "Momiji faces off against the fired-up Setsugekka and Keisetsu."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Please come to the outdoor training grounds tonight.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Let's settle things there.」"
+    }
+]

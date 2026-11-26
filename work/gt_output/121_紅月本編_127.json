@@ -1,0 +1,659 @@
+[
+    {
+        "message": "—The day after the Martial Festival finals ended."
+    },
+    {
+        "name": "Iori",
+        "message": "「Haah...」"
+    },
+    {
+        "message": "I let out a sigh as I headed toward Takamura Class's classroom."
+    },
+    {
+        "message": "Yesterday, I asked the company commander if there was any way I could keep going on this \"errand.\""
+    },
+    {
+        "message": "The conclusion was that it was possible within the scope of the company commander's authority, though any orders from higher up would naturally override it."
+    },
+    {
+        "message": "In the end, no progress since the last time we talked."
+    },
+    {
+        "message": "The large-scale mission assigned to the company was apparently still ongoing, and they were short on manpower to boot."
+    },
+    {
+        "name": "Iori",
+        "message": "「...I really might have to go back after all.」"
+    },
+    {
+        "message": "I had also considered taking the plunge and resigning from the Tenju Special Forces."
+    },
+    {
+        "message": "However, the people there had looked after me ever since I graduated from the academy up until today."
+    },
+    {
+        "message": "I couldn't just cut ties that easily."
+    },
+    {
+        "message": "...Walking along lost in those thoughts, I found myself right in front of Takamura Class's classroom."
+    },
+    {
+        "name": "Iori",
+        "message": "「No point brooding over it, huh.」"
+    },
+    {
+        "message": "Right now I was a teacher, and there were students waiting for me here. I couldn't show them a gloomy face."
+    },
+    {
+        "name": "Iori",
+        "message": "「All right, let's do this！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...Good morning, everyone！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Sup, Iorin.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Good morning.」"
+    },
+    {
+        "message": "Ririmu and Asahi greeted me just like always."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Mornin', Sensei!」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Sleepy...」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Good morning.」"
+    },
+    {
+        "message": "Setsugekka, Momiji, and Keisetsu were their usual selves too. I felt a small wave of relief."
+    },
+    {
+        "name": "Iori",
+        "message": "「You managed to wake up on time too, Momiji. Surprising you didn't oversleep after how tough that match was.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Of course she did—I was the one who woke her up, after all!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You had a match too, Setsugekka, yet you're full of energy.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Heheh, energy is my one redeeming quality, after all.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ugh, my body hurts...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ahh, that's 'cause Secchan beat the crap outta you yesterday, right? Serves ya right！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hehehehe.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Honestly, you guys… what’s with finding joy in other people’s misfortune?」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Everyone has their sights set on the Toujinegi’s head, after all. Momiji-san’s slump is a joy to everyone in the Martial Arts Division.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Yup, yup. Asahi, you’re saying it like it is！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「You’re quite welcome.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「She’s right. From now on, until next year’s Martial Festival, the students of the Martial Arts Division will make defeating Momiji their goal.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Momiji, don’t get cocky—keep working hard.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「For those of you who lost this time, it’s not the end yet.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You’re still first-years. You still have two more chances. You just need to keep training and get stronger from here on out.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Next year, I’m definitely going to be the Toujinegi！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ririmu-san, you’re scheduled to lose to me in the semifinals, though.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Huh？ Like I’d lose to someone like you~!」"
+    },
+    {
+        "message": "Even while bickering, the two of them look like they’re having fun."
+    },
+    {
+        "name": "Iori",
+        "message": "「Now then, the first semester ends in a few days. The academy will be entering summer break.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I’d like to hear about your plans for the summer vacation.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Many students go back home to relax during the break, but quite a few stay at the academy to work on independent training.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「What are you all planning to do？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ooh, ooh! I don’t want to go back home at all, so I’m planning on spending the summer at the academy!」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Iorin, let’s go on a date this summer break—a real date！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, setting aside the ‘date’ part, I might be able to help you with practice. What about you, Momiji？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「It’s a hassle, but I’m going home once. I have to report about the Toujinegi to my father, you see.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, well, I suppose that’s expected.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「And you’re coming with me then, Teacher, so I’ll need you to go over the details later~」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Me too？ How come？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「You promised to play with Tsubaki, didn’t you? If I don’t bring you back with me, she’s going to wail her head off.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ah, that's right！ Okay, let's go together.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Whaaat, going back to visit her family together? Isn't that unfair?」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Iori-sensei, please come with me to my family's home as well.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「W-Why's that？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「My brother told me he'd been in touch with you, Iori-sensei. I thought it might be nice for you two to see each other again after so long.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「True, it has been a while—I'd definitely like to see Takahisa again.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Then let's discuss the schedule later.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「And while we're at it, let's also plan how we'll break the news of our marriage to my parents♪」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hey, we're not getting married！？」"
+    },
+    {
+        "message": "The last thing I need is for her to turn this into a done deal behind my back."
+    },
+    {
+        "name": "Iori",
+        "message": "「Now then, that just leaves Setsugekka and Keisetsu.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ah, well, about that.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Sensei—I've decided to leave the academy.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...Huh？」"
+    },
+    {
+        "message": "The air in the classroom froze."
+    },
+    {
+        "message": "Setsugekka is leaving the academy...？"
+    },
+    {
+        "name": "Momiji",
+        "message": "「…………」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Huh? W-What are you talking about, Secchan? That's not funny at all. You're joking, right?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Sorry, Ririmu-chan. I thought a lot about it yesterday, and I've already made up my mind.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「In the first place, Kei-chan and I only came to this academy to beat Suzakuin and become the Toujinegi.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Now that we couldn't win, there's no point in me staying here.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Challenge them again next year and win. Wouldn't that work？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Kei-chan has a really important job waiting for her. She was personally chosen by the current head of Kazamine, after all.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「If she pulls this off, the position of next family head is practically guaranteed！ You just can't pass up a chance like that！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「It's an overseas job, though, so there's no coming back for three years—or maybe even longer...」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Even if I could make it back, I don't think there'd be any point in re-enrolling three years from now or anything.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「So I figured it'd feel better to just make a clean break and drop out right away~」"
+    },
+    {
+        "message": "Three years from now—by then, everyone here would have already graduated from the academy."
+    },
+    {
+        "message": "Still, there was something that didn't sit right with me."
+    },
+    {
+        "name": "Iori",
+        "message": "「It's true I heard before that Keisetsu might end up going overseas.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「But weren't you supposed to stay in Japan, Setsugekka？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「That was just something Kei-chan decided on her own.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「No matter what path Kei-chan chooses from here on out, I'm going with her.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I told Kei-chan that from the very beginning, and my feelings haven't changed.」"
+    },
+    {
+        "message": "I glanced over at Keisetsu, and she raised both hands slightly. I suppose that meant she'd given up."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「The country Kei-chan is heading to is pretty dangerous, you know. Even this request only came up because her predecessor passed away.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「There's no way I can let Kei-chan go somewhere that dangerous all by herself.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I've always been the one getting helped by Kei-chan. Whenever I was in trouble, Kei-chan was always there to save me.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I wouldn't have even been able to enroll in this academy in the first place if it weren't for Kei-chan.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「So this time, it's my turn to repay Kei-chan. No matter what happens, I'm going to protect Kei-chan！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Because if anything were to happen to Kei-chan... I don't think I'd ever be able to recover.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「That's why I'm going with Kei-chan.」"
+    },
+    {
+        "name": "Everyone",
+        "message": "「…………」"
+    },
+    {
+        "message": "Everyone fell silent at once."
+    },
+    {
+        "message": "Broadly speaking, this was a family matter. Poking my nose into it would be nothing short of tactless."
+    },
+    {
+        "message": "Even knowing that, I couldn't stop myself from speaking up."
+    },
+    {
+        "name": "Iori",
+        "message": "「Keisetsu... about this, can't you postpone going overseas until after you graduate...？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「That's impossible.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「The current head's request is to secure an on-site manager. If I can't go, someone else who can move immediately will go instead.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「If that happens, I'll be throwing away my chance.」"
+    },
+    {
+        "message": "I see... So there's no helping it, then..."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Muragaki-sensei, I'm sorry this is so sudden. Thank you for everything you've taught me.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「When are you planning to leave Japan？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I still don't know the details, but I think it'll be sometime during summer break.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「So as soon as summer break starts, I'll begin the withdrawal paperwork, pack up my things, and move out of the dorm.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「That means my summer plans are basically just relaxing at my parents' place until Kei-chan's job starts, I guess.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Well, once I drop out, summer break won't even matter anymore, ahahaha...」"
+    },
+    {
+        "message": "Setsugekka scratched her head with a laugh."
+    },
+    {
+        "name": "Momiji",
+        "message": "「...What about Jindou？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Huh？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「What are you going to do about Jindou？ Are you going to keep at it？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Uh, well, I want to keep going, yeah, but they say Origami won't activate overseas... so I probably won't be able to.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Still, I can use Mishima-ryuu Martial Arts anywhere, so if any weirdos get near Kei-chan, I'll take 'em dooown!」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「So don't worry, it'll be fine.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I'm not worried at all, and I couldn't care less.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「W-What's with that attitude...? Oh, wait—you're just going to be lonely without me around, aren't you?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Heh heh, if Momimomi really insists, I suppose I could stay right here for you, you know？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「...You shouldn't say careless things like that, Setsugekka.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Right after talking so big about how you couldn't let Keisetsu go alone, too.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「How can you say something like that with the very same mouth? This is ridiculous—I'm done putting up with it.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「...W-What the heck, Momimomi, you big idiot! You could at least play along a little!」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「No, thank you. I'm completely sick of being dragged around by your goofy, flippant antics.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「If you're going to leave, then by all means, do as you please.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「...Oh, fine! Oh, is that how it is?!」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yeees, yes, I get it, loud and clear！ I'll disappear just like you want, so see ya！！」"
+    },
+    {
+        "message": "Setsugekka ran off somewhere."
+    },
+    {
+        "name": "Iori",
+        "message": "「Momiji... That was out of line. You should apologize.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Hmph, I don't know.」"
+    },
+    {
+        "message": "Momiji keeps her face turned away and says nothing."
+    },
+    {
+        "message": "For a moment, I thought about going after Setsugekka, but she's probably too worked up right now."
+    },
+    {
+        "message": "It'd be better to give it a little time before talking to her."
+    },
+    {
+        "message": "Besides, I couldn't just walk out and leave everyone else behind when they were all shocked about Setsugekka."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「...I still can't accept this, though.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I mean, isn't it weird？ Does Secchan even have a reason to quit？ Keisetsu's the one becoming head of the family, right？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Keisetsu's Keisetsu, and Secchan's Secchan! They should each just do what they want!」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Were you listening to what Setsugekka-san said？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「What Setsugekka-san wants to do is follow Keisetsu-san and repay her debt of gratitude.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「She made the decision to leave the academy so she could do what she wants. That is all there is to it.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I know that, I know, buuut—！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Are you really okay with that, Asahi? With Secchan just quitting like this?！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「...Because I have no reason to stop her.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Yes you do！ I don't want Secchan to leave, and everyone's gonna be lonely without her！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Then do you mean to tell her, 'Please stay at the academy to ease our loneliness'？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「W-Well, that's... uuuugh...！」"
+    },
+    {
+        "message": "Pressed by Asahi, Ririmu starts agonizing over it."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Wait a second, Keisetsu, you've been quiet this whole time too. Do you really think this is okay？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Whether it's good or bad, she insisted on doing this herself and wouldn't listen, so there's nothing to be done.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「I even prepared the option for Setsugekka to stay behind in Japan on her own. Yet she refused to choose that path.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「What more would you have me do？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「O-Oh, I see. Then I guess it can't be helped...」"
+    },
+    {
+        "message": "Ririmu wilts, looking completely dejected."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Besides... Setsugekka's choice makes me happy as well.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Setsugekka and I are twins. Someone special to each other.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「We are two as one, halves split from a single cell. A right hand and a left hand, making up for what the other lacks.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「For example, when you use both hands to accomplish one thing, would you ever think about which one is using the other?」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Because Setsugekka wished for it, I pulled strings here and there to make it possible for her to attend this academy.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Because Setsugekka wished for it, I used a secret art to grant her power.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「I don't want her to feel indebted to me in the slightest. To me, it's only natural.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Two as one—working together to accomplish one thing.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「I act for Setsugekka's sake, and Setsugekka acts for mine. All this time, that's how the two of us have lived.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「I doubt this is something you can understand. Even so, to us, this is simply normal.」"
+    },
+    {
+        "message": "To those of us watching from the outside, Setsugekka and Keisetsu are two individuals with separate personalities."
+    },
+    {
+        "message": "But to the two of them, that's not how it is, huh..."
+    },
+    {
+        "name": "Momiji",
+        "message": "「...Hmph. Must be nice, the two of you getting along so well.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「I suppose this isn't a satisfying outcome for you, but aren't you directing your snide remarks at the wrong person？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I know. It's not Keisetsu's fault, and it's not Setsugekka's fault either. Neither of them did anything wrong at aaall. I know all of that.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Momiji...」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Sensei, I'm not feeling well, so I'll be leaving early.」"
+    },
+    {
+        "message": "With those words, Momiji walked out of the classroom."
+    }
+]

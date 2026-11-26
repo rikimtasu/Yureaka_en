@@ -1,0 +1,395 @@
+[
+    {
+        "name": "Iori",
+        "message": "「Where'd she go？」"
+    },
+    {
+        "message": "I had chased Ririmu all the way to the academy courtyard... but she was faster than I expected, and I lost sight of her."
+    },
+    {
+        "message": "Checking the time, it was already past 2 PM. It’s that time of day when students who finish early start enjoying their after-school hours."
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, it's after school, so I guess it's fine for today.」"
+    },
+    {
+        "message": "As for our conversation earlier, about ways for Ririmu to get stronger and so on, I'll talk to her about it in more detail tomorrow."
+    },
+    {
+        "name": "Iori",
+        "message": "「Hm...？」"
+    },
+    {
+        "message": "Looks like I received a message from someone."
+    },
+    {
+        "name": "Iori",
+        "message": "「What's this... 'Let's have a talk, I'm at the cafe on your left'」"
+    },
+    {
+        "message": "The sender of the message was Kazamine Keisetsu."
+    },
+    {
+        "message": "She was the last of the Takamura Class students I hadn't met yet."
+    },
+    {
+        "message": "When I looked up, I saw the cafe sign standing to my left."
+    },
+    {
+        "message": "As I stepped inside, I found her sitting at a table in the back."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Nice to meet you, Muragaki Iori-san. I am Kazamine Keisetsu.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I'm surprised, you look just like Setsugekka...」"
+    },
+    {
+        "message": "Keisetsu was the spitting image of Setsugekka."
+    },
+    {
+        "message": "When I saw her profile photo, I thought there might have been some mistake, but I never imagined they’d look this alike."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Fufu, I hear that often. Please, have a seat.」"
+    },
+    {
+        "message": "At her words, I sat down across from her."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「It seems you have already met Setsugekka.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, I met her at the arena.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「She barged into Momiji and Victoria's match, went berserk, and collapsed, so she's in the infirmary now.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Oh my... that girl, doing that again... It's good to be eager, but there's a proper way to go about things, surely.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「And to go as far as to go berserk... Did she cause you any trouble？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, it's fine. There were no human casualties.」"
+    },
+    {
+        "message": "...Though there was some property damage."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Setsugekka can be a bit reckless and foolhardy at times.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「I understand you will be in charge of guiding the Takamura Class from now on, and Setsugekka will likely be particularly difficult among them.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「I'm sure she'll be a handful, but I ask for your kind support.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ah, yeah, of course. That's the plan.」"
+    },
+    {
+        "message": "Unlike Setsugekka, Keisetsu seems intellectual and quite reasonable. It’s a little confusing when two people with the same face have such different personalities."
+    },
+    {
+        "name": "Iori",
+        "message": "「But how did you know I was a teacher for the Takamura Class？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「So, Sasaki-san hasn’t told you about me, then. Well, I suppose you’ll find out in due time.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「More importantly, I have a few things I’d like to ask you, Muragaki-san. May I？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Sure, go ahead.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「How much do you know about our<d0030> Kazamine Family</d>？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「The Kazamine Family is one of the most influential warrior families in the Self-Defense Association. You’ve got strong ties to the financial world, making you one of the wealthiest families in the Association, neck and neck for the top spot.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「And you control the Kazamine Group, a multi-purpose conglomerate made up of several warrior families belonging to the Association, if I recall？」"
+    },
+    {
+        "message": "The Muragaki family, my own lineage, also holds a seat at the tail end of the Sword-Bearing Self-Defense Association. So, I’m generally familiar with the warrior families that belong to the Association."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「That is mostly correct, though the term ‘control’ is a bit misleading.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「The leader of the Kazamine Group can be any candidate from a warrior family under the group’s umbrella, selected through a fair and impartial election.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「The result just happens to be that the representative from the Kazamine Family is chosen by all. We would never dream of dominating or looking down on other families.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I see. I had the wrong idea. My apologies.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Not at all. I am glad you understand.」"
+    },
+    {
+        "message": "Keisetsu said, taking a light sip of the black tea in her cup."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「The Kazamine Family is one of the pillars supporting the Self-Defense Association’s finances. Without Kazamine’s investments, none of the Association’s operations could function.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「However, those in the Self-Defense Association do not seem to understand our importance.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Or rather, they understand it perfectly well, but because they cling to outdated, pre-Meiji Restoration ideals, they refuse to acknowledge it.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, the warrior types aren't exactly fond of talking about money.」"
+    },
+    {
+        "message": "Samurai don't concern themselves with counting coins; a warrior may starve, but he’ll still hold his toothpick with dignity. That’s why many in the Association look down on the Kazamine Family, the ones handling the books."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Do you feel the same, Muragaki-san？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Not at all. I know all too well how important money is.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「That’s good. My judgment was not wrong, then.」"
+    },
+    {
+        "message": "...Huh？ What’s that supposed to mean？"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「In this day and age, slighting the economy is nothing short of anachronistic.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「The Kazamine family is growing impatient with the members of the Sword-Bearing Self-Defense Association, who remain tethered to tradition and custom, resisting any change in their mindset.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「O-oh, I see.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Changing this situation—that is the collective will of our family, the Kazamines.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「If their mindset undergoes reform, the Kazamine family will no longer be treated as having an unjustly low status within the Self-Defense Association.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Through this, both the Kazamine family and the Sword-Bearing Self-Defense Association can hope for even greater success. We believe this reform is necessary to prepare for the future.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「W-wait a second！ Can I ask you something？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Yes, please go ahead.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You've been speaking on behalf of the Kazamine family's collective will this whole time, but who exactly are you in the family？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「My apologies. I should have introduced myself first.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「I, Kazamine Keisetsu, am a candidate for the next head of the Kazamine family.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「In time, I intend to become the head of the Kazamine family and the leader of the Kazamine Group.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「A candidate for the next head...？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「In the Kazamine family, we place more value on individual ability than on bloodline.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「The most capable person among the clan becomes the head—this is a tradition the Kazamine family has upheld for generations.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「That is precisely why the Kazamine family has amassed such immense wealth.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「We are distinct from the likes of the Suzakuin family, who treat bloodline as absolute and remain bound by antiquated customs.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「I am currently managing many projects, including the franchise business for martial arts dojos, the operation of Jindou shops, and Tamahagane research laboratories.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「The businesses are all generally going well. In recognition of those achievements, I was recommended as a candidate for the family head at age fourteen.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「The current head of the Kazamine family and I share no blood relation.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「However, by demonstrating my own abilities, I have been recognized as a candidate for the next head.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Those who demonstrate superior ability lead the clan. This is what it means to be a Kazamine, and this is our strength.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「This Murakumo Academy is currently in the hands of the Suzakuin family.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「We of the Kazamine family are not amused by the current situation where Suzakuin Momiji receives special treatment and is being touted as a star.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「That is why Setsugekka and I have come to this academy.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Setsugekka has a mission to defeat Suzakuin Momiji.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「When a Kazamine defeats Suzakuin, the face of the academy, those antiquated conventions will lose their dominance.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「They will have it painfully driven home to them that what they clung to had neither basis nor value.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「With Suzakuin's defeat as the catalyst, the Self-Defense Association will change.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「This is one of the plans to realize the future Kazamine aims for, and one of the straightforward reasons why Setsugekka and I are at this academy.」"
+    },
+    {
+        "message": "I see. That makes everything clear."
+    },
+    {
+        "message": "This girl takes pride in being a Kazamine and already possesses the mettle of a family head."
+    },
+    {
+        "message": "She is, beyond a shadow of a doubt, a spokesperson for the interests the Kazamine Family seeks."
+    },
+    {
+        "name": "Iori",
+        "message": "「...So, what's the point of telling me all this？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「It's merely a self-introduction, Muragaki Iori-san.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「What kind of person I am, and what I have in mind. Wouldn't it be easier to accept knowing that rather than being left in the dark？」"
+    },
+    {
+        "message": "Well, that much is true."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「At this academy, I'm treated as a special-status student. Therefore, I basically won't be attending classes.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Since I'm in the Quartermaster Division, there shouldn't be anything I need to learn from you directly anyway.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「…………」"
+    },
+    {
+        "message": "I can follow her reasoning... but I still can't accept it."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「As I mentioned earlier, I'm involved in managing multiple business operations.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Normally I give instructions remotely, though depending on the situation, I may need to go on-site in person.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「All of this was approved as a special exception when I enrolled.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「So please pay me no mind. I would be delighted if you could focus closely on instructing Setsugekka.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「That is everything I wished to ask you, as well as everything I had to tell you for now.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Do you have any questions？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...No, nothing in particular.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「In that case, I have work to attend to, so I'll take my leave now.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「I look forward to working with you going forward, Muragaki-san.」"
+    },
+    {
+        "message": "With a light bow, Keisetsu walked away."
+    }
+]

@@ -1,0 +1,232 @@
+[
+    {
+        "message": "Just as Setsugekka finished eating the fried rice, I headed to the classroom."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Pfft—！？ M-Muragaki-henhe-！？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, yeah, don't worry about it. Just enjoy the flavor.」"
+    },
+    {
+        "message": "I flash her a friendly smile."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「*Gulp*... *phew*, that was delicious.」"
+    },
+    {
+        "message": "Setsugekka takes a breath with a look of pure bliss on her face."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Um, sensei... what was that fried rice just now？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I made it. It’s the Tenju Special Forces specialty, <d0050>Muragaki Fried Rice</d>.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「O-oh, really！？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「It was super delicious, the shrimp and everything else in it was exquisite...！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Is that so? I’m glad you liked it.」"
+    },
+    {
+        "message": "With that, the first phase of the plan has been cleared without a hitch."
+    },
+    {
+        "name": "Iori",
+        "message": "「By the way, there’s more of that fried rice if you want seconds.」"
+    },
+    {
+        "message": "I show Setsugekka the large bowl I had been hiding behind my back."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Eh, are you sure...！？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, don't hold back. Eat plenty to make up for all the meals you've missed.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yay, thank you for the m—」"
+    },
+    {
+        "name": "Iori",
+        "message": "「However, there are conditions.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「From now on, you will come to the classroom every morning and accept my instruction properly.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You will follow my guidance even if you have complaints.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「If you can follow those rules, I’ll give you this special fried rice.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「W-what did you say...！？」"
+    },
+    {
+        "message": "Setsugekka’s face twitches."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Wait, sensei, you just said ‘make up for what you missed,’ didn’t you？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Don’t tell me, you know that my diet is currently being restricted！？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yes, of course I do.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Because I’m the one who placed those restrictions on your diet, Setsugekka.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Was it youuuuuuuuuuuuuuuuuuuuuuuu！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I was so sure it was Kei-chan’s doing！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I’m the one who asked Keisetsu to cooperate.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「When I explained the situation, she was happy to help out.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Mmph, I never expected you and Kei-chan to be in cahoots, Teach…！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Now you see, don’t you, Setsugekka.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「A homeroom teacher at Murakumo Academy, if they really want to, can control what their students eat as much as they like.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「If you don’t comply, you won’t be tasting anything but <d0051>low-carb menus</d> for the next three years.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「How cruel！ Don’t I have any human rights～！？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「You enemy of the people, depriving humanity of carbohydrates！ I’ll never forgive yooou！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Are you sure？ Don’t you want to eat this fried rice？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ggh… It’s true that I want to eat that special fried rice, *drool*」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Come on now, let me give you a bite.」"
+    },
+    {
+        "message": "I scoop up some fried rice with a Chinese spoon and bring it to Setsugekka’s lips."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ugh, uuu~ no good, I can’t resist the temptation of the fried rice~~」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Chomp」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Oh, wow, this is so goood… this is even better than what you get at a restaurant！」"
+    },
+    {
+        "message": "Setsugekka makes a face like she’s in absolute bliss."
+    },
+    {
+        "name": "Iori",
+        "message": "「If you follow my guidance, you can have this every week.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Eh, every week！？ Seriously！？ You’ll make it for me？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, I’ll make my special fried rice just for you every weekend.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ughnn… that’s too tempting…！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「If your progress under my guidance goes smoothly, I’ll lift the low-carb menu restrictions too.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「What do you say？ Are you finally willing to show up properly every morning？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I-I’ll come, I mean, I’ll go！ I’ll make sure to show up for class！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Alright, a deal's a deal, Setsugekka」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ughhh~ I feel like I'm being scammed somehow...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Here, eat as much as you want」"
+    },
+    {
+        "message": "I handed her a bowl piled high with my special fried rice."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yay~~~♪」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Nom nom nom... yummm！ So fragrant！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ahaha, well, I'm happy, so I guess the little details don't matter！」"
+    },
+    {
+        "message": "And thus, the operation to win over Setsugekka was successfully completed."
+    }
+]

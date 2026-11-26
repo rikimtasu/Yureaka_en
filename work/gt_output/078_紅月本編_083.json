@@ -1,0 +1,352 @@
+[
+    {
+        "message": "A few days after the match against Arakawa-senpai."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hey Momimomi~, Miyako~♪<d0074> I’ve picked up the goods</d> for today~！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Hey Setsugekka, could you stop calling them 'goods'？」"
+    },
+    {
+        "message": "Setsugekka came into the room as usual."
+    },
+    {
+        "message": "Lately, it had become a daily routine for her to come to my room at night so we could all chat together."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Eh, what's wrong with 'goods'？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「It’ll be a problem if Miyako learns more weird things.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Look at you playing the big sister. We already know you’re a complete slacker, though.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Th-that’s not true, right, Miyako?」"
+    },
+    {
+        "message": "Miyako, who had been quietly reading a book in the room, looked up."
+    },
+    {
+        "name": "Miyako",
+        "message": "「……Yeah.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ah, she just felt pressured to say that. Silent coercion right there.」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「It’s okay, big sister Momiji is reliable.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「See, did you hear that？ I’m a reliable big sister.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「That’s not really true, is it, Miyako?」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Stop it, Setsugekka, don't confuse Miyako any further!」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Could you two please keep it down? I'm trying to read.」"
+    },
+    {
+        "name": "Setsugekka & Momiji",
+        "message": "「Oh, right.」"
+    },
+    {
+        "message": "Along with Setsugekka, I quieted down."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Anyway, aside from that, I bought a bunch of snacks, so let’s all eat together.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Yay~!」"
+    },
+    {
+        "message": "Setsugekka pushed the things on the desk aside. She immediately opened the bags of snacks she’d bought."
+    },
+    {
+        "name": "Miyako",
+        "message": "「Say, Setsugekka-san, why do you always go to the convenience store for my sister？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hm？ Well, because if I don't go, Momimomi won't go.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Yeah, that’s right, I’m not going.」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「……You’re being used, Setsugekka-san.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「W-what did you say！？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Shhh... You don't need to say things like that!」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Why you little— taking total advantage of my goodwill like that! You're not getting any of these snacks!」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Whaaat, you're so stingy~!」"
+    },
+    {
+        "message": "I answer with my cheeks stuffed full of snacks."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Honestly, you should go buy them yourself once in a while, Momimomi. Things are kinda awkward for me right now.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Huh？ What's awkward？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Well, you see... whenever I go to the convenience store, I run into Sono-chan-senpai a lot.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ever since her match with you, Momimomi, she's been in a super bad mood and won't even give me the time of day when I talk to her~」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Sigh... I wonder if I did something to make her hate me.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Hmm, I wonder.」"
+    },
+    {
+        "message": "She treated the Suzakuin like her sworn enemies."
+    },
+    {
+        "message": "She's probably the anti-authoritarian, outlaw type. If so, she'd naturally view the business-aligned Kazamine Family as enemies too."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Actually, what I'm wondering is how she ended up hanging out with you in the first place, Setsugekka. That's the part I really don't get~」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Well, both Senpai and I are huge fans of Nakamura Sakura, of course! We really connect over that!」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Hmm, then why not try bringing up something like that？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Oh, right! I just need to bring up Sakura~ I'll try talking about her next time I go to the convenience store.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Thanks, Momimomi!」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Don't mention it~」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「So Setsugekka-san is still the one going to the convenience store in the end...」"
+    },
+    {
+        "message": "As Miyako chimes in with a pointed remark, I flash her a sly grin."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Oh, right. Momimomi, can I ask your advice on something？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「What's up~？」"
+    },
+    {
+        "message": "I listen to Setsugekka while nibbling on snacks."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「It's been right around a month since Muragaki-sensei came to the academy, so I was thinking we could give him a little thank-you to mark the occasion~」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「A 'thank-you' visit？ You mean we're all gonna jump him？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yeah, yeah, a thank-you for putting us through the wringer！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Like hell that’s the case！ It’s just that typical ‘thanks for everything’ kind of thing.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「You could just say that to his face, you know.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「No, that’s not it—I want us to do something with everyone in the Takamura Class.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Something with everyone, huh.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I thought about maybe baking a cake as a gift and talked to Asahi-chan and Ririmu-chan about it.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「But Asahi-chan started saying she wanted to make a wedding cake, and Ririmu-chan got all obsessive over the design, so it felt like it was going to be a huge hassle, and I gave up.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ugh, sounds exactly like them…」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「So yeah, I need an idea that won’t turn into such a pain.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「And that’s why, Momimomi, try using your Shingan no Kiwamete.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Are you an idiot? That’s not the kind of move you use for something like that!」"
+    },
+    {
+        "message": "What does she think my ultimate technique is for?"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Fine, then don’t use it, just give me an idea~」"
+    },
+    {
+        "message": "Honestly, what does she take me for?"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Hmm… well, how about an outing with everyone？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「An outing… wait, that’s it! Why didn’t I think of that!」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Seriously? You should be able to come up with that on your own.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I mean, yeah, but I thought Momimomi would hate the idea, so I wasn’t sure~」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Wait, I have to go too！?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Well, obviously. The whole point is for the Takamura Class to thank Muragaki-sensei.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ugh, what a drag…」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I knew you’d say that. But since it was your suggestion, I’m dragging you along by force.」"
+    },
+    {
+        "message": "Ugh, I got played. By someone like Setsugekka, no less."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Besides, we’ve never all gone out to hang out together, right? Don’t you think this is the perfect chance?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「It’s a chance to entertain Muragaki-sensei and go out with everyone at the same time. And of course, we’ll invite Kei-chan too!」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Come on, come on, doesn’t this sound like it’s shaping up to be super fun？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「……Well, maybe so？」"
+    },
+    {
+        "message": "I’ve never done anything like that—what friends usually do. I was a little bit interested, though."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Alright, then I’ll get in touch with Mr. Muragaki right away～」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「……Wait, hold on. Setsugekka, you have the teacher’s contact ID？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Of course! I asked him for it the other day～」"
+    },
+    {
+        "message": "……No fair. Even I don’t have it."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Oh, he said yes!」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「What about you, Miyako？ Let’s all go hang out together！」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「I’m okay, I want to go for a walk by myself.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Got it～ yeah, that’s fine！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Then tomorrow, let’s invite Mr. Muragaki and Momimomi too, and we’ll all go out together～！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Geez, alright then…… I’ll tag along.」"
+    },
+    {
+        "message": "Even while thinking, 'What a hassle.'"
+    },
+    {
+        "message": "It was also a fact that part of me was looking forward to it somewhere."
+    }
+]

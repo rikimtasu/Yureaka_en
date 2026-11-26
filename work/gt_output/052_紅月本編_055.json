@@ -1,0 +1,827 @@
+[
+    {
+        "name": "Mikoto",
+        "message": "「Yo, you’re here.」"
+    },
+    {
+        "message": "As I headed toward the school gate, Sasaki-sensei was standing there, leaning against it."
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Is Momiji not with you？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「She had some light errands to finish up, but she said she’d be here shortly.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Hmm, fair enough, then.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「So, Sasaki-sensei, did you need something from me？」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Yeah... well, you know. It’s nothing all that important, really.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「I just wanted you to meet these guys.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Oh, o-ohhh...！ How adorable...！」"
+    },
+    {
+        "message": "Emerging from the shadow of the school gate were two children."
+    },
+    {
+        "name": "Iori",
+        "message": "「Are they your children, Sasaki-sensei?」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Hey Muragaki, do I look like a mother to you？」"
+    },
+    {
+        "message": "Apparently not."
+    },
+    {
+        "name": "Iori",
+        "message": "「Um, is it alright if I talk to them？」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Well, I don't mind if you do.」"
+    },
+    {
+        "message": "With permission granted, I immediately started talking to them."
+    },
+    {
+        "name": "Iori",
+        "message": "「Little ladies, can you tell me your names~？」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「I’m Miyako.」"
+    },
+    {
+        "name": "Tsubaki",
+        "message": "「I, I’m Tsubaki...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I see, I see! What are you two doing here today~？」"
+    },
+    {
+        "message": "I crouched down to meet their eyes and sent a smile toward Miyako-chan and Tsubaki-chan."
+    },
+    {
+        "name": "Tsubaki",
+        "message": "「Who are you？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I’m Muragaki Iori. I’m a teacher at this academy. If there’s anything you don’t understand, just ask me anything, okay！」"
+    },
+    {
+        "name": "Tsubaki",
+        "message": "「Okay, thank you!」"
+    },
+    {
+        "message": "Aaaahhhhh... so cute, so precious, just too precious...！"
+    },
+    {
+        "message": "My brain feels like it’s melting."
+    },
+    {
+        "name": "Mikoto",
+        "message": "「So that’s the face you make when you’re around kids...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「What do you mean, 'that kind of face'？」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「The kind of face that’s just embarrassingly, mushily obsessed.」"
+    },
+    {
+        "message": "S-so that’s how I looked to others…"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, but, that can’t be helped, right? I mean, kids are just so cute！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Just look at those innocent eyes and that pure, guileless smile！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Whenever I think about the future, brimming with potential for these children, I feel like I’m going to burst into tears.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「They say that they’re ‘so cute you could put them in your eyes and it wouldn’t hurt,’ and I really think that’s the absolute truth.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I’d stake my life on it for the sake of these children！」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「……So he’s just a straight-up lolicon.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「N-no, that’s not it！ I just purely, genuinely love children！」"
+    },
+    {
+        "message": "I clench my fists and insist forcefully."
+    },
+    {
+        "name": "Miyako",
+        "message": "「……Maybe he’s a bit of a dangerous person？」"
+    },
+    {
+        "name": "Tsubaki",
+        "message": "「I-I wonder, I think he’s a good person, though……」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Wait, wait！ I’m not a suspicious person！？」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Everyone who’s suspicious always says they aren’t.」"
+    },
+    {
+        "name": "Tsubaki",
+        "message": "「I guess he really is a bad guy……」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Oh, noooooo, they’re wary of me……！」"
+    },
+    {
+        "message": "I clutch my head and writhe in agony."
+    },
+    {
+        "name": "Momiji",
+        "message": "「……Sensei, why are you writhing all by yourself？」"
+    },
+    {
+        "message": "Just as I was sinking into the depths of despair, feeling like the world had come to an end, Momiji finally showed up."
+    },
+    {
+        "name": "Tsubaki",
+        "message": "「Ah, Big Sister Momiji！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Eh, Tsubaki……？ Why are you here！？」"
+    },
+    {
+        "message": "'Big Sister,' so these girls are Momiji’s younger sisters then."
+    },
+    {
+        "name": "Tsubaki",
+        "message": "「I missed you, Big Sister Momiji.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Oh, there, there. Tsubaki, you’re so sweet and precious, aren’t you.」"
+    },
+    {
+        "message": "Momiji catches Tsubaki as she throws herself into her arms and strokes her hair."
+    },
+    {
+        "name": "Tsubaki",
+        "message": "「That outfit of yours is super cool too, Big Sister Momiji！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「This right here is Murakumo Academy's uniform~」"
+    },
+    {
+        "name": "Tsubaki",
+        "message": "「Even that cape-like thing？」"
+    },
+    {
+        "message": "Tsubaki-chan points at the cloak Momiji is wearing and asks."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Grandfather gave this to me as a gift. He said something or other about showing the dignity and prestige of the Suzakuin family.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Well, none of that matters to me, though~」"
+    },
+    {
+        "name": "Tsubaki",
+        "message": "「Hehehe, that cape is super cool too!」"
+    },
+    {
+        "name": "Tsubaki",
+        "message": "「I wanna enroll at Murakumo Academy and wear clothes like that too~」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Mm-hmm, you'll be able to！ Because you're such a good girl, Tsubaki~！」"
+    },
+    {
+        "name": "Tsubaki",
+        "message": "「Ehehe, then when I enroll, I'll ask Grandfather for a cape too!」"
+    },
+    {
+        "message": "Ah... so precious. No other words are needed. Simply precious."
+    },
+    {
+        "name": "Miyako",
+        "message": "「...Momiji-oneechan」"
+    },
+    {
+        "message": "On the other hand, Miyako-chan seems somewhat hesitant."
+    },
+    {
+        "name": "Momiji",
+        "message": "「I'm glad you came too, Miyako~. Come on, come over here!」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Ehh, I'm good~」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Hehehe, you're such a shy one, Miyako~！」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Th-That's not it at all!」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Oh, don't be like that! Come on, let's hug, hug, hug!」"
+    },
+    {
+        "message": "Along with Tsubaki-chan, Momiji pulls Miyako-chan into a tight hug too."
+    },
+    {
+        "name": "Miyako",
+        "message": "「H-Hey... stop it, it's embarrassing~」"
+    },
+    {
+        "message": "Hahaha, Miyako-chan is at that precocious age, huh."
+    },
+    {
+        "name": "Mikoto",
+        "message": "「So, these two are Miyako, the third daughter of the Suzakuin family, and Tsubaki, the fourth daughter.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Man, they really are adorable.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Quit looking at them like some old man doting on his grandkids. What I'm about to tell you isn't that kind of heartwarming story.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「What do you mean by that？」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Well, there's a lot of backstory to it, so skipping all that and getting straight to the conclusion...」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Apparently, these two ran away from home.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Wha... ran away from home？ Whaaaaaaaaat！？」"
+    },
+    {
+        "message": "Kids this small, all by themselves...？"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Miyako, is that true？」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Yeah.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Why would you do such a thing...」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Because Father got mad at me. Even though I didn't do anything wrong.」"
+    },
+    {
+        "message": "It seems a fight with their father is the reason they ran away."
+    },
+    {
+        "name": "Iori",
+        "message": "「S-Sasaki-sensei！ What should we do！？」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Hmm, I wonder what we should do.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「What do you mean 'what'? Obviously, the only option is to send them back home.」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「No. I'm not going back.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Hey, Miyako, if you don't go back, what are you planning to do from now on？」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「…………」"
+    },
+    {
+        "message": "Pushed by Momiji, little Miyako falls silent."
+    },
+    {
+        "name": "Tsubaki",
+        "message": "「Momiji-oneechan... don't be mad at Miyako-oneechan. Miyako-oneechan didn't do anything wrong.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Mm, I'm not really mad at her, though.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「But, we can't just leave it at this and stay silent. We have to report this to Father.」"
+    },
+    {
+        "name": "Tsubaki",
+        "message": "「Ugh, *sniff*... Miyako-oneechan is going to get scolded~」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Waaaaah, d-don't cry, Tsubaki!」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I got it, I won't tell! I won't tell Father!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Momiji sure is weak when it comes to her little sisters...」"
+    },
+    {
+        "message": "Well, it can't be helped. They say you can't win against a crying child or a landlord."
+    },
+    {
+        "message": "Besides, they're cute, after all！"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Muragaki, stop grinning and come with me for a second.」"
+    },
+    {
+        "message": "Led away by Sasaki-sensei, I went to a spot a little further away."
+    },
+    {
+        "name": "Iori",
+        "message": "「What's going to happen to Miyako and Tsubaki from here on out?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I think it'd be trouble if we didn't at least report this to their parents...」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Rest easy. I've already contacted Masatane myself.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「He'd been hiring dozens of people to look for them, so he sounded relieved they were finally found.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Is that so? That's a relief...」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「There's nothing relieving about it.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Apparently, Miyako and the others ran away from home over a week ago.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「And yet, they didn't even contact the police, trying to search for them on their own. Honestly, what are they thinking?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Wait... over a week? Just the two of them！?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Where on earth have Miyako and the others been, and what were they doing all this time？」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「I'll be asking them that shortly, though I have a rough idea.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Ever since she was little, Miyako has had this habit of running away—or rather, not coming home.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Whenever I heard her stories, she'd say she was playing with Keyou or sleeping in trees. She's always been a wild child.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「This time was likely just an extension of that, wandering about here and there.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Though, after wandering for so many days, she probably ran out of pocket money.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「So, she ended up showing up at her sister Momiji's place.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「T-that's quite extraordinary... What about Tsubaki？」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Tsubaki is stuck to Miyako like glue. She probably just tagged along because she didn't want to be alone.」"
+    },
+    {
+        "message": "I see, so Tsubaki is a sister-dependent girl."
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Fortunately, we were able to find them safe and sound. I'd like to have them sent home right away, but that's going to be difficult.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Why is it difficult？」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Tsubaki will likely go home if you explain things to her properly. She's obedient and very straightforward at heart.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「But that probably won't work with Miyako.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「She survived on her own for a week and still chose to come to Momiji's rather than go home.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Even though she's a child, she left home with quite a bit of resolve. She's not going to break easily.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Plus, Miyako is... well, she's naturally sharp. She's highly perceptive, and sweet-talking her won't work.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Even so, don't we have no choice but to bring her back...？」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Miyako is already a fine swordsman.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「If you want to keep her in one place while ignoring her own wishes, your only option is to take away her Origami and lock her in a cell.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Can you do that？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「O-of course I can’t！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Just because she’s a child, that doesn’t mean I’m going to discard her feelings and lock her up. Heaven might forgive that, but I won’t！」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Well, that’s how it is.」"
+    },
+    {
+        "message": "Man, either way, this means it’s not going to be straightforward..."
+    },
+    {
+        "name": "Iori",
+        "message": "「Is it not possible to have her parents persuade her？」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Her father, Masatane, is a stubborn and inflexible man. He’s the reason Miyako ran away from home in the first place.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Even if he came to persuade her now, it would likely just have the opposite effect.」"
+    },
+    {
+        "message": "According to the story, Miyako had broken a family heirloom spiritual blade, and when he scolded her for it, she got angry and ran off."
+    },
+    {
+        "name": "Iori",
+        "message": "「Doesn't that suggest there was something wrong with the way he scolded her...?」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Nine times out of ten, that’s exactly it.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「But he isn’t the type to lower his head easily. Especially not to a child.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Well, Masatane married into the family and has struggled with being looked down upon. I can’t say I don’t understand his feelings, but...」"
+    },
+    {
+        "message": "It seems Sasaki-sensei and the head of the Suzakuin family, Masatane, have a reasonably close relationship."
+    },
+    {
+        "name": "Mikoto",
+        "message": "「As for the other one, her mother Sayuki, she’s a carefree one.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Regarding this incident, she’s even saying something as laid-back as, ‘Oh my, it’s just a little trip. Have fun, dear.’」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, no, no, no, aren’t you worried！？」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Miyako might look young, but she’s quite a skilled hand. She could easily beat up a thug without even using an Origami.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Since she knows that, she probably figures things will work out even if she leaves her alone for a bit.」"
+    },
+    {
+        "message": "Amazing, the Suzakuin family... If the child is like that, the parents are just as off-the-wall."
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Well, that’s partly why Miyako came to Momiji, who is the most reliable one in the family.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Momiji is the most reliable...？」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Yeah, that’s right. Pretty funny, isn’t it, that *Momiji* of all people is the most reliable one？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「M-Momiji's one of four sisters, right? What's the second daughter like?」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Nadeshiko, huh... She's a bright, good kid, though.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「She's a hot-blooded sporty girl with nothing but Jindou on the brain. Well, to put it simply, she's a Jindou nut.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「If I remember right, she should be training as a swordsmith with the <d0087>Sanjou Family</d> right now.」"
+    },
+    {
+        "message": "The first head of the Suzakuin family was both a swordsman and an accomplished swordsmith."
+    },
+    {
+        "message": "Only you can forge a blade worthy of entrusting your life to. The finest blade for you is one born from within."
+    },
+    {
+        "message": "Even now, members of the Suzakuin family continue to uphold that founding head's philosophy, training under swordsmiths to forge blades of their own."
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Well, regardless. We have to find some way to persuade Miyako.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「If we try to force her, she'll just run away and go missing again. That would defeat the whole purpose.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「So I'm thinking we send Tsubaki home and have Momiji look after Miyako for a while.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「The dorm rooms are spacious, so she can at least let Miyako stay there for a bit, right?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Momiji is really going to hate that, though...」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Oh, please—she can't turn down a favor from us. Isn't that right？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...You're pretty wicked too, Sasaki-sensei.」"
+    },
+    {
+        "message": "We exchange a mischievous grin."
+    },
+    {
+        "name": "Mikoto",
+        "message": "「That's all for the explanation. You go tell Momiji. It'll go better that way.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Understood.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「So that's the deal, Momiji—we're leaving Miyako-chan in your care.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I need you to take Miyako-chan in at your dorm room.」"
+    },
+    {
+        "message": "I report to Momiji what Sasaki-sensei and I just discussed."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Wh-Whaaaaaaaaaaaaat？！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Hold on a second~！ Why me？！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Miyako-chan and Tsubaki-chan came all this way counting on you. You can't just abandon them, right？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「W-Well, maybe so, but...！」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Big sis... you don't want to？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ugh... Th-That's not true~!」"
+    },
+    {
+        "message": "Under Miyako-chan's intense gaze, Momiji forces a strained smile."
+    },
+    {
+        "name": "Iori",
+        "message": "「But Tsubaki-chan, you need to go home.」"
+    },
+    {
+        "name": "Tsubaki",
+        "message": "「Aww, nooo！ I don't wanna be the only one going home！」"
+    },
+    {
+        "name": "Tsubaki",
+        "message": "「Ugh, sniff... Why am I the only one being left out？」"
+    },
+    {
+        "name": "Tsubaki",
+        "message": "「That's so mean, that's just so mean...！」"
+    },
+    {
+        "message": "I gently pat Tsubaki-chan's head as big tears roll down her cheeks."
+    },
+    {
+        "name": "Iori",
+        "message": "「It's because you're still little, Tsubaki-chan.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Besides, you're not the one who had a fight with your parents, right？」"
+    },
+    {
+        "name": "Tsubaki",
+        "message": "「Y-Yeah...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Both your dad and your mom are worried sick because you suddenly disappeared.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「They might even be crying right now, wishing they could see you.」"
+    },
+    {
+        "name": "Tsubaki",
+        "message": "「Mother, Father...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I'll make sure you get to see Momiji and Miyako-chan again soon.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「When that time comes, let's all play together—Sensei and your big sisters, all of us.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I'll definitely come see you, Tsubaki-chan. I promise！」"
+    },
+    {
+        "name": "Tsubaki",
+        "message": "「Really？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, of course！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「So, Tsubaki-chan, let's go home for today, okay？」"
+    },
+    {
+        "name": "Tsubaki",
+        "message": "「...Okay, I got it. I'll go home.」"
+    },
+    {
+        "message": "Whoa, she actually listened to me."
+    },
+    {
+        "message": "Tsubaki-chan is such an honest, good girl—she's seriously adorable...！！"
+    },
+    {
+        "name": "Iori",
+        "message": "「Alright, that settles everything.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Wait, how does that settle anything？! My privacy is being violated here!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Come on, it's fine—it's only for a little while.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Besides, Miyako-chan, you'd rather be with your big sister than all alone, right？」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「...If Big Sis doesn't want me around, I'm fine on my own.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Come on, come on~ Are you really okay with this, Momiji? Letting your little sister say something like that?」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ugh, grrrr... Dammit~ Taking advantage of my weak spot like that~」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「So that's how you talk at the academy, Sis. Even though you were always so ladylike at home.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Huh？ Ah, n-no, this is, um...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Pfft... Ahahahahahaha, is that right！」"
+    },
+    {
+        "message": "So Momiji was in honor student mode at home, huh."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Argh, stop laughing alreadyyyyy！」"
+    }
+]

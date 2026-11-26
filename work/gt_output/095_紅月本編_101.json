@@ -1,0 +1,208 @@
+[
+    {
+        "message": "—The day has finally arrived."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ooh, my heart's pounding！ I love this kind of atmosphere, but it really does make me nervous.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「People make it sound so easy, going 'just relax!' Ahaha, yeah, no way that's happening~」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Even so, you all look like you're in good spirits.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Hmm, so the preliminaries are being held here.」"
+    },
+    {
+        "message": "The Martial Festival preliminaries are held across every facility on campus. Though for the indoor training ground group, it might not feel particularly new since they always use it for practice."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Sensei, aren't they using the arena for the preliminaries？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「If you're lucky, you might get assigned to the arena. We set up and inspected all the equipment for the preliminaries, so it's going to be pretty flashy！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Whoo-hoo, now I'm getting hyped！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「...And next week is already the main tournament.」"
+    },
+    {
+        "message": "At the edge of the training ground, plenty of competitors have already started warming up. Everyone here is a top performer from their respective class."
+    },
+    {
+        "message": "From here on out, neither grade nor class matters—it's a pure contest of skill. Everyone will be competing on the exact same stage."
+    },
+    {
+        "name": "Iori",
+        "message": "「Don't let the atmosphere swallow you up, everyone. Just do what you always do and you'll be fine.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Well, I'm sure the students in our class will be fine.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Alright, I'm gonna go out there and crush it！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Heck yeah, I'm breezing through the preliminaries in first place！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Everyone's certainly full of energy.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hahaha, looks like I don't have anything to worry about.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Alright then, it's about time for everyone to head out. Don't mix up the time or location~」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「W-Wait, Sensei, aren't you forgetting something？！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Yeah! Since we're here and all, send us off with something way cooler than that!」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Please, Iori-sensei.」"
+    },
+    {
+        "message": "I'd held back, thinking it might sound forced if I made some grand speech here, but it seems they actually wanted one."
+    },
+    {
+        "name": "Iori",
+        "message": "「...Let's see. There's no point lecturing you about technique or mindset at this late hour.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Because you all already know everything you need to. That's just how much I trust you.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Everything I could do, everything I could teach you—I believe I've already passed it all on leading up to these preliminaries.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「In that sense, you could say the work I needed to do with Takamura Class is already finished.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Everyone, thank you so much. You’ve really followed me well. I thank you from the bottom of my heart.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Teacher...」"
+    },
+    {
+        "message": "Setsugekka wears a somewhat complicated expression."
+    },
+    {
+        "name": "Iori",
+        "message": "「It’s okay, you all are already strong enough！ Every one of you absolutely has the ability to pass the preliminaries！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「However, there are no certainties in a match. The other competitors have also overcome grueling training to be here today.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I’m sure it won’t be an easy fight.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「The preliminaries are a randomized, irregular round-robin. The eight competitors with the best records will advance to the main tournament.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Year level doesn’t matter in the preliminary leagues. That includes talented third-year competitors like Victoria and Shizuku.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「And... as you know, there will also be matches between members of Takamura Class.」"
+    },
+    {
+        "message": "Tension runs across everyone’s faces."
+    },
+    {
+        "name": "Iori",
+        "message": "「But this is the preliminaries. Even if you lose, it’s not the end. Whether you make it to the main tournament is determined by your overall match record.」"
+    },
+    {
+        "message": "The advantage of this irregular league system is that even if you lose, a chance to advance to the main tournament remains."
+    },
+    {
+        "message": "By reducing the probability of being weeded out due to bad matchups or simple bad luck, it ensures that true ability is tested."
+    },
+    {
+        "name": "Iori",
+        "message": "「I believe that we can all make it to the main tournament！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「It’s a cliché way to end this, but... everyone, do your best. I’ll always be by your side, cheering you on.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Now, go get ’em！！！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Iori-sensei, I’m heading out. I promise to win and return victorious.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ah, Asahi’s hard work is second to none. Just fight as you always do, and all that’s left is to win！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Watch me, Teach! I’m gonna show everyone in the venue exactly what my world is all about!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I’m looking forward to it. Everyone will be watching as Ririmu shines up on that stage！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Woo-hoo, I’m getting so hyped up~♪」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ariiight！ I can’t lose either, I’m gonna... throw everything I learned from you at them！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No need to hold back, go out there and give it your all！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「In that case, I’ll go get it over with real quick.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hahaha, same old Momiji, huh. That's the spirit. Go show them the full power of the current Suzakuin generation.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Okaaay~」"
+    },
+    {
+        "message": "Their smiles brimming with eagerness, everyone dashes off. All right, the preliminary match is finally about to begin."
+    }
+]

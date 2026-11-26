@@ -1,0 +1,398 @@
+[
+    {
+        "message": "After my sparring practice with Miyako."
+    },
+    {
+        "message": "Since it had just turned into lunch break, Momiji, Miyako, and I headed to the cafeteria together."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ugh… so sluggish…」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Big sis, you’ve been sitting still ever since then. Is zazen fun？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「There’s no way something like that is fun~」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Haha, the stronger you get, the more troubles you’ll have. You’ll come to appreciate the benefits of zazen eventually.」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Do I have to do zazen too eventually？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I’m su~~re Miyako will never do it. If she ever had to, she’d run away from home. I’m positive.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「……Doesn’t that sound a bit too convincing？」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Ahahaha, maybe so.」"
+    },
+    {
+        "message": "It’s a difficult discipline, that’s for sure. I wonder if Momiji will really be able to reach that state of mind……"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Well, honestly, I can become a Toujinegi even without it, you know~」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Oh, how reliable.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「If I didn’t, my family wouldn’t be convinced, and I can’t budge on that.」"
+    },
+    {
+        "message": "We picked our food, grabbed our trays, and the three of us sat at a table."
+    },
+    {
+        "name": "Iori",
+        "message": "「Well then, let’s eat.」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Let’s eaaaat!」"
+    },
+    {
+        "message": "Miyako chose curry rice, huh? Yup, yup, that’s charming."
+    },
+    {
+        "name": "Miyako",
+        "message": "「Hey, hey, big sis. Why are you aiming to be a Toujinegi？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Why, you ask…… Dad’s been saying it enough to turn our ears into octopuses, hasn’t he?」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「I know, but…… I think you’re strong even without becoming one. You’re bothersome, but super strong！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Hmph, I’m bothersome anyway, so there!」"
+    },
+    {
+        "message": "I nearly burst out laughing at Momiji as she pouted."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Miyako, you know what a Toujinegi is, right？」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Yeah, it’s the strongest person in the academy, right?」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「That’s right, right now Victoria is the Toujinegi.」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Victory？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Tennouji Victoria is a third-year in the Martial Arts Division.」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Oh, really！」"
+    },
+    {
+        "message": "Hearing that she’s strong, Miyako-chan’s eyes light up."
+    },
+    {
+        "name": "Miyako",
+        "message": "「Is that Toujinegi person stronger than you, Sensei？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「No, no, even if they say the Toujinegi is strong, I don't think it's a match for Iori-sensei~」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Hmm, so Sensei is stronger than the Toujinegi. Then why become the Toujinegi？」"
+    },
+    {
+        "message": "I instinctively exchange glances with Momiji. What on earth is this child talking about?"
+    },
+    {
+        "name": "Miyako",
+        "message": "「You see, I want to become the strongest in the world.」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「But even the strongest person in the academy is weaker than you, right, Sensei？ Then isn't it pointless to become the Toujinegi？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I-I see, Miyako-chan has big dreams. You’re going to be an amazing swordswoman one day.」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Yep, I will! I’ll become the best in the world and beat you, Sensei. And my sisters too, of course!」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Heh, I wonder about that~ Even if you can't win, there are ways not to lose, you know.」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Momiji-onesan, you always do sneaky things.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Sneaky things？」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Like when you fight Grandfather and you're about to lose, you run away in the middle. You make up all sorts of excuses.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Momiji... that’s not very mature of you.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「A strategic retreat is also one of the options, you know~ There are all kinds of strength, Miyako.」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「That’s not strong, that’s just being sneaky!」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Aren’t you going to be the best in the world, Onesan？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I don’t think I need to be that strong~」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「I don’t like that. I’m definitely going to get stronger than Father. And in the end, I’m going to be stronger than Grandfather.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Well, becoming the strongest in the world is all well and good, but. After that, what do you want to do, Miyako？」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Eh？ Hmm... I hadn’t thought that far ahead.」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Well, maybe I’ll try <d0065>conquering the world</d> or something.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「C-conquering the world, I think that’s pushing it a bit！？」"
+    },
+    {
+        "message": "Momiji’s face twitched."
+    },
+    {
+        "name": "Miyako",
+        "message": "「Is it not allowed？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「If you start trying to conquer the world, Miyako-chan, you’ll become an enemy of the world and end up dragging all sorts of people into it.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Your big sister and Tsubaki-chan might end up getting attacked by the entire world.」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「I see. Well then, I’ll quit the Suzakuin family. If I quit first and then conquer the world, I won’t drag anyone else in, right？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「W-what did you just say！？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Is there no option to just quit the world conquest itself?」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Hmm, if there was something more interesting, I might quit that.」"
+    },
+    {
+        "message": "A preposterous theory was being unfolded."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Haa... no good. I really can’t make this kid the head of the family... Ah, what a shame... I guess it’s me after all.」"
+    },
+    {
+        "message": "Momiji slumped her shoulders in disappointment."
+    },
+    {
+        "name": "Miyako",
+        "message": "「Is it not okay if I become the head？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Yeah, it’s not okay. If the Sword-Bearing Self-Defense Association starts aiming for world conquest, the Sengoku period will make a comeback, you know~」"
+    },
+    {
+        "message": "Who will inherit the family headship is one of the common, major worries in warrior families."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ah, how bothersome~ I wish the family or whatever would just disappear.」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Do you want to quit the Suzakuin family too, big sister？ Should we quit together？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Hmm, it would be easy if I just quit, but~」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「But if you and I both quit, Tsubaki would surely end up shouldering all of it, so I can’t do that~」"
+    },
+    {
+        "name": "Iori",
+        "message": "「So you don't want someone else to have to deal with it instead.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Well, if there were someone I could push it onto, that would be ideal, though.」"
+    },
+    {
+        "message": "Taking a breath, Momiji took a sip of her drink."
+    },
+    {
+        "name": "Miyako",
+        "message": "「Oh, that’s right！ I just had a great idea.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「A great idea？」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Momiji big sister, I think you should marry Teacher. If you do that, Teacher will figure something out for you.」"
+    },
+    {
+        "name": "Momiji",
+        "message": " <s36>「Pfffftーー!!」</s>"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hahaha... w-well, I wonder about that.」"
+    },
+    {
+        "message": "She nearly spat it out, didn't she？ I offered a bitter smile while helping Momiji, who was choking..."
+    },
+    {
+        "name": "Momiji",
+        "message": "「J-jeez, that’s quite the— *cough*, *cough*！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Haa, haa… wh-what are you saying?」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Eh~？ Is it not okay？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「It’s not about whether it’s okay or not…」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「If a strong teacher and strong Big Sister Momiji got married and had a kid, I bet that kid would be strong too.」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Then I’d want to fight that kid.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Are you some kind of warrior race? Do you really want to meet strong people that badly?」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Yep, I want to go meet lots of strong people!」"
+    },
+    {
+        "message": "Hahaha, she really is an interesting kid."
+    },
+    {
+        "name": "Iori",
+        "message": "「In that case, let’s go meet one.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Eh? Meet? Who are you talking about?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Victoria, the strongest in the academy right now.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Isn’t that impossible？ You have no idea how much trouble I went through just to challenge her to a match.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, I think it’ll be fine now.」"
+    },
+    {
+        "message": "Until a little while ago, new students were challenging Victoria to matches, which had caused quite a scene."
+    },
+    {
+        "message": "However, I had heard somewhere that things had finally calmed down recently."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Hmm… then I wonder if she’ll spar with me again.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Setsugekka got in the way last time, so I really want to have a proper match with her again.」"
+    },
+    {
+        "message": "Yeah, this might be the perfect opportunity. I’d like the Takamura Class to see the current Toujinegi’s true ability, too."
+    },
+    {
+        "name": "Iori",
+        "message": "「Alright, let’s go on an away match. I’ll check to see if she’s willing to accept.」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Yay~♪ <d0066>Dojo Crashing</d>, Dojo Crashing!」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「She’s picking up on dangerous terms again…」"
+    },
+    {
+        "message": "I check on Victoria’s status through my device."
+    },
+    {
+        "name": "Iori",
+        "message": "「...Oh, she said yes！」"
+    },
+    {
+        "message": "Alright, then let’s all head over to Victoria’s place this afternoon."
+    }
+]

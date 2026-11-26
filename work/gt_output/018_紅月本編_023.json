@@ -1,0 +1,701 @@
+[
+    {
+        "name": "Iori",
+        "message": "「...Hmm, she’s not here.」"
+    },
+    {
+        "message": "I had headed to the training facility booked under Momiji’s name, only to find it completely deserted."
+    },
+    {
+        "name": "Iori",
+        "message": "「So what Setsugekka said was true.」"
+    },
+    {
+        "message": "Setsugekka had told me, 『I keep sneaking into the places Momiji reserves, but there’s never anyone there.”"
+    },
+    {
+        "message": "In other words, Momiji is making dummy bookings for facilities to create the illusion that she’s actually there."
+    },
+    {
+        "message": "Essentially, she’s just wasting facility time, something that would earn a normal student a massive reprimand."
+    },
+    {
+        "name": "Iori",
+        "message": "「Momiji is quite the problem child herself, isn’t she...」"
+    },
+    {
+        "message": "She acted as if the bad reputation of the Takamura Class was spreading due to other students and causing her trouble, but she’s hardly one to talk."
+    },
+    {
+        "message": "As I left the training facility and looked around, my eyes met those of a student."
+    },
+    {
+        "name": "Iori",
+        "message": "「Finally found you, Momiji.」"
+    },
+    {
+        "message": "Momiji was standing there, as if keeping watch over the facility she’d reserved. Was she plotting something?"
+    },
+    {
+        "name": "Momiji",
+        "message": "「And who might this be—oh, it’s Mr. Muragaki... Did you have some business with me？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You’re a student in the Takamura Class, aren’t you? I’d appreciate it if you could attend class.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「That subject again? I believe we’ve already reached a conclusion on that.」"
+    },
+    {
+        "message": "The Suzakuin are self-sufficient, and as special students, they are exempt from class. I understood her stance perfectly well."
+    },
+    {
+        "name": "Iori",
+        "message": "「But I can’t accept that.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Listen, Momiji. There is still something you lack. I want to help you with that.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Something I... lack？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yes, exactly. So Momiji, let’s work hard together！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「…………」"
+    },
+    {
+        "message": "What？ She suddenly looked away."
+    },
+    {
+        "name": "Momiji",
+        "message": "「That is a very interesting topic, but before we proceed, there is one thing.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Um, could you please stop calling me by my given name without an honorific？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Why’s that？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I’m just... not very used to that sort of thing.」"
+    },
+    {
+        "message": "Not used to being called by her given name... right, of course. It’s because she’s a Suzakuin."
+    },
+    {
+        "message": "The Suzakuin Family is an object of admiration for those in martial circles. Being the daughter of such a house, everyone treats her like she’s made of glass."
+    },
+    {
+        "name": "Momiji",
+        "message": "「And for the record, I don’t recall being close enough to you for that.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Is it really that annoying to be called by your name?」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I-I mean... having a man call me by my given name with no honorifics makes us sound like lovers, doesn't it...」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Wouldn't you hate it too, Sensei, if a young girl you aren't even close to like me just called you 'Iori'？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hmm？ Not really, I wouldn't mind.」"
+    },
+    {
+        "message": "Ririmu already calls me \"Iorin\" and all."
+    },
+    {
+        "name": "Iori",
+        "message": "「Though during class, I'd like you to call me Sensei so it sets a proper example for everyone else.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Wh— A-Are you an idiot?!」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「That means you're telling me to call you Sensei normally so nobody finds out about our relationship, and 'Iori' in private, right？！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「That's literally what lovers do!」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「A forbidden romance between a student and a teacher is obviously out of the question！」"
+    },
+    {
+        "message": "...Momiji sure has an active imagination."
+    },
+    {
+        "name": "Iori",
+        "message": "「Calm down, Momiji. Nobody's talking about being lovers.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「...Excuse me. I lost my composure.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「A-Anyway, dropping honorifics is not allowed. It disrupts public morals.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Public morals...」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「If you insist on calling me without honorifics, then do it after you beat me in a Jindou match.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「However, laying a Suzakuin daughter low in a match is also tantamount to laying hands on her.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I-In that case, you would have to enter a relationship with me with marriage in mind...」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Are you prepared for that, Sensei？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hmm, in that case, I'll just call you Momiji-san.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Huh？！ Hold on！ Aren't you giving up way too fast？！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「And what's with that 'in that case'?！ Do you really hate the idea of marrying me that much?！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「In the first place, you and I are teacher and student, Momiji-san. Starting a relationship with marriage in mind would completely defeat the purpose.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Mgh... Well, I suppose that's true, but...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「So if you hate it that much, Momiji, I'm fine calling you Momiji-san.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「...Still doesn't sit right with me.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Huh？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「It can't be helped. I'll make an exception and allow you—and only you, Sensei—to address me without honorifics.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「However, I'll be calling you Iori-sensei in return！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「You don't mind, of course？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, that's fine.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「How can you agree to that so casually...！」"
+    },
+    {
+        "message": "Momiji grumbles under her breath, muttering complaints to herself."
+    },
+    {
+        "name": "Iori",
+        "message": "「Oh right, one thing I wanted to bring up about the facility reservations.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Booking a place you aren't even going to use isn't very admirable. It causes trouble for the other students, you know.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「You can only say that because you didn't see the disaster back in April, Sensei.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Right after I enrolled, a crowd would gather around the facility just from me booking it.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Between people asking to watch and demanding matches with me, my entire reserved time would be over just dealing with them.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「So you kept making dummy reservations in self-defense.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Precisely.」"
+    },
+    {
+        "message": "I see, so Momiji had her own reasons for doing it."
+    },
+    {
+        "name": "Momiji",
+        "message": "「My dummy reservation strategy paid off, and things finally started calming down once May rolled around.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「And just when I thought I could finally have a practice match with Victoria-san, Kazamine-san barged in the other day.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I'm truly fed up with it all.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「The Suzakuin name stands out, and my every move draws attention. I've already resigned myself to the fact that it can't be helped.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「However, I have no intention of becoming some <d0037>sideshow attraction</d>.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I simply want to practice and train in peace—that's all.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「If you're willing to clear the way for me, Iori-sensei, then I won't make any more dummy bookings for the facilities.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Got it. I'll set up a quiet environment where you can practice in peace, Momiji.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Really? Well, that puts my mind at ease.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「All right, now that we've got that settled, shall we head back to the classroom together?」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I don't want to.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You said that pretty clearly, didn't you！？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Because Setsugekka is in the classroom, isn't she? It's obvious that would lead to trouble.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, you don't need to worry about that.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Setsugekka is currently in the middle of being taught all sorts of things by her mentor of the heart.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Who is that, or rather, what even is that, a ‘mentor of the heart’...?」"
+    },
+    {
+        "message": "Well, I don't really know either."
+    },
+    {
+        "name": "Iori",
+        "message": "「So, Momiji, let’s head back to the classroom！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「…………」"
+    },
+    {
+        "message": "What’s with that look of dissatisfaction... do you hate it that much？"
+    },
+    {
+        "name": "Victoria",
+        "message": "「How are you！ Suzakuin-chan！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Oh, Victoria-san.」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「...H-hello.」"
+    },
+    {
+        "message": "Victoria-san walked up, with Shizuku-san appearing to hide behind her."
+    },
+    {
+        "name": "Iori",
+        "message": "「Sorry about the other day, both of you. Setsugekka got in the way.」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Nnn, it’s fine~. But why are you the one apologizing？」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Vicky, this person is a teacher for the Takamura Class.」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Ah, that Takamura Class full of nothing but troublemakers~！」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Hey, Vicky, watch your language.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Don't worry about it, Shizuku-san. It's the truth, after all.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I’m troubled as well, since there are so many students who are just plain hopeless.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Why are you acting like this has nothing to do with you？ You’re quite the troublemaker yourself, you know.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Wha...！？」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「AHAHA, Suzakuin-chan got scolded by her teacher~！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I don't accept that！ How am I a problem child！？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「By running away and skipping class.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「As I’ve explained to you countless times already…！」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「You really need to make sure you attend your classes, Suzakuin-chan~」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I do exactly what I’m supposed to do！」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Vicky, she’s an honor student, so she’s exempt from classes.」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Hmm? What’s an honor student again?」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Goodness, I already explained that to you before, didn’t I…？」"
+    },
+    {
+        "message": "Shizuku-san lets out an exasperated sigh."
+    },
+    {
+        "name": "Iori",
+        "message": "「Shizuku-san, you sound a bit like Victoria-san’s older sister, don’t you think?」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「She totally is！ Shizu takes care of all sorts of things for me~」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「She’s super attentive, and always helping me out.」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「W-well, that’s just because you’re so unreliable, Vicky, so I have no choice but to…」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「She’s also super knowledgeable about Origami, and it’s Shizu who adjusts mine, too.」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Shizu is my important partner~」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Are you Victoria-san’s dedicated Second, Minamoto-senpai？」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「I wouldn’t exactly say dedicated… It’s just that I started helping her with the setups, and one thing led to another…」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Hehe, whenever I mess with my Origami, I end up breaking it right away. Why does it always break, I wonder~？」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「That’s because you force everything with brute strength.」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Origami are precision instruments. Please, I’m begging you to handle them more gently.」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Okay, okay, I get it！」"
+    },
+    {
+        "message": "…She definitely doesn’t get it."
+    },
+    {
+        "name": "Iori",
+        "message": "「Come to think of it, I heard you’re in the Technical Division, Shizuku-san. But isn't the Minamoto family a prestigious martial house? Why the Technical Division?」"
+    },
+    {
+        "message": "I ask her about the question I had last time."
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Ever since I was little, I’ve been more interested in the structure of Origami than in wielding them…」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「As I was researching things like spirit-powered machinery, Tenju, gods, and <d0079>Keyou</d>, I found myself becoming quite knowledgeable about Origami, and so… things just went that way…」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Besides, I’m rather shy… and I don’t really like being in front of people or standing out…」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I understand how you feel.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「It’s tiresome when you don't want to stand out, but people put you on a pedestal anyway or view you through colored glasses, isn't it.」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Y-yes, exactly... Even if people have strange expectations just because I'm of the Minamoto bloodline, I don't really care about lineage at all, or rather...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I see. So both you and Shizuku have borne the same troubles from being born into famous clans.」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「That’s great, Shizu! Looks like you’re making new friends!」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Eh? Calling someone a friend... wouldn't that be rude to Suzakuin-san...」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Please don't say things like that.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「It feels a bit presumptuous to call my senior a friend, but if Minamoto-senpai is willing, then by all means.」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Th-thank you so much...」"
+    },
+    {
+        "message": "Shizuku hesitantly extends her hand to shake the hand Momiji is offering."
+    },
+    {
+        "name": "Iori",
+        "message": "「Yes, yes. How beautiful it is to see friends getting along.」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Yes, that’s right！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, Victoria-san, Shizuku-san, if you’re interested, come visit the Takamura Class sometime.」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Okay, sure！ Is there anyone stronger than Momiji there？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hmm, I wonder.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「There isn’t.」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Ah... speaking of strength, I looked it up a little after we met last time, but... Muragaki-sensei, you’re a graduate of this academy, aren't you...？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, that’s right.」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「You won the Martial Festival in your second year in the Martial Arts Division. Your record from that time is still in the database... that final match was an incredible battle...！」"
+    },
+    {
+        "message": "...I see, so she saw that."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Wait, Iori-sensei, you were a Toujinegi？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I was. But that's a story from a long time ago.」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「However, what I’m curious about is when you were in your third year of the Martial Arts Division.」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Despite having the top score in the preliminaries, Muragaki-sensei, you didn't participate in the main tournament. Was there a reason for that...？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...I wasn't feeling well, so I withdrew. It was quite pathetic of me.」"
+    },
+    {
+        "message": "Summer of our third year at the academy."
+    },
+    {
+        "message": "I had requested to withdraw from the main tournament, telling my homeroom teacher that I wasn't feeling well. So, what I just told Shizuku wasn't a lie."
+    },
+    {
+        "message": "But—"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Hmm, so that means Muragaki-san is actually pretty strong, huh！」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Muragaki-san, let's have a fight sometime！ A battle between the former and current Toujinegi！ I'm sure that would be a blast！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I've only just been put in charge as the vice-homeroom teacher for the Takamura Class, so I'm busy. Let's do that once the class settles down.」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Hmm, so you mean once Suzakuin-chan starts behaving？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, that's exactly right.」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Suzakuin-cha~n, make sure you listen to your teacher！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, you heard her！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Why are you treating me like I'm a troublemaker...！？」"
+    },
+    {
+        "message": "Momiji turns her face away with a huff."
+    },
+    {
+        "name": "Victoria",
+        "message": "「If you keep acting up, I'm gonna give Suzakuin-chan's muscles a good squeeze~」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Eek！？」"
+    },
+    {
+        "message": "Victoria-san approaches Momiji while waving her hands around."
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Vicky, I told you to stop it...！」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Ooo-ouch！ That hurts, Shizu, stop pulling my ears！」"
+    },
+    {
+        "message": "What are they doing?"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Ah... Vicky, it's almost time for the practice match.」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Okay！ Well, see ya later, Muragaki-san and Suzakuin-chan！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, I'll give you a shout if I see you around.」"
+    },
+    {
+        "message": "I watch the two of them run off toward the arena."
+    },
+    {
+        "name": "Iori",
+        "message": "「Now then...？」"
+    },
+    {
+        "message": "I look around, but there's no sign of Momiji."
+    },
+    {
+        "name": "Iori",
+        "message": "「Wait... you've got to be kidding me！」"
+    },
+    {
+        "message": "In the brief moment I looked away, Momiji had vanished."
+    },
+    {
+        "name": "Iori",
+        "message": "「Hey! Momiji! Where did you go!」"
+    },
+    {
+        "message": "My class really is full of people who are good at running away...！"
+    }
+]

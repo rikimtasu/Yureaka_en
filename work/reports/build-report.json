@@ -1,0 +1,43 @@
+{
+  "ok": true,
+  "dist_dir": "d:\\Documents\\yureaka_en\\dist",
+  "font_used_for_wrapping": "BarlowSemiCondensed-Medium.ttf",
+  "font_size": 28,
+  "text_draw_width": 830,
+  "wrap_width_px": 795,
+  "overlay": {
+    "path": "d:\\Documents\\yureaka_en\\dist\\yureaka_en.dat",
+    "entries": 47317,
+    "size": 2835298,
+    "sha256": "4db4d4be1d294b29d39340c1bc9f73bf0198f8a5ecec558373538eede79aebd1"
+  },
+  "csv_pac": {
+    "output": "d:\\Documents\\yureaka_en\\dist\\csv.pac",
+    "size": "40044",
+    "sha256": "4bb81dc0250b8be9e07c2c64fb6e561bfebed8aef9c4e96f833e6eeee4f66290",
+    "entries": "14"
+  },
+  "patch_pac": {
+    "output": "d:\\Documents\\yureaka_en\\dist\\patch.pac",
+    "size": "14211882",
+    "sha256": "c13d34c41a5f494cf4fc98cfb9f7e4c4d7899c77490a3f82fa973346bb6df2e9",
+    "entries": "322"
+  },
+  "bundled_fonts": [
+    "BarlowSemiCondensed-Medium.ttf",
+    "EncodeSansSemiCondensed-Medium.ttf",
+    "FiraSansCondensed-Medium.ttf",
+    "FiraSansCondensed-Regular.ttf"
+  ],
+  "inject_stats": {
+    "files_total": 138,
+    "files_translated": 137,
+    "files_missing_kept_original": 0,
+    "records_updated": 27958,
+    "names_updated": 19359,
+    "overflow_warnings": [],
+    "tag_errors": [],
+    "encoding_errors": [],
+    "overflow_warning_count": 0
+  }
+}

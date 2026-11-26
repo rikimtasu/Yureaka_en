@@ -1,0 +1,243 @@
+[
+    {
+        "name": "Mikoto",
+        "message": "「Phew... that was a close one.」"
+    },
+    {
+        "message": "Leaving Muragaki and the others in the infirmary, I came out to the embankment by myself."
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Man, I’m starving.」"
+    },
+    {
+        "message": "I stretch out my back and pull out a cigarette. As I let the smoke drift into the sea breeze, it vanishes in an instant."
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Nothing beats real <d0082>smoke</d>. Electronic cigarettes just don't give you the same satisfaction.」"
+    },
+    {
+        "message": "As I'm catching my breath, a small shadow approaches."
+    },
+    {
+        "name": "Miyako",
+        "message": "「Hello, Mr. Fox.」"
+    },
+    {
+        "message": "It was Miyako who had come along."
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Who’s a fox? I told you, my name is Sasaki Mikoto.」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「I bought them, the Inari sushi from Toyohara Konpeidou.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Ooh! For real!？」"
+    },
+    {
+        "message": "I’d asked her on a whim since she said she was bored, but I never expected her to actually get them for me."
+    },
+    {
+        "name": "Miyako",
+        "message": "「...Mr. Fox, your ears and tail are showing.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Ah... N-no, it’s just your imagination.」"
+    },
+    {
+        "message": "I hurriedly hide my ears and tail."
+    },
+    {
+        "name": "Mikoto",
+        "message": "「See? They’re gone now, aren't they?」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Hm？ I can still see them.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「You... your spiritual sight seems a bit too strong.」"
+    },
+    {
+        "message": "Every once in a while, humans like this show up."
+    },
+    {
+        "message": "Most of them end up being scouted by the Spirit Agency as spirit mediums and becoming exorcists—my natural enemies..."
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Whatever, just give me the Inari sushi for now.」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Sure, but you promised me a tip, remember?」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「I know, I know... Here, is this enough？」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Ehh~ 500 yen is too little, make it 2,000 yen.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「You... for a kid, you sure are money-grubbing!」"
+    },
+    {
+        "message": "I begrudgingly hand the money, including the tip, to Miyako."
+    },
+    {
+        "name": "Miyako",
+        "message": "「Yay, thank you!」"
+    },
+    {
+        "message": "Clutching the cash in her hand, she jumps for joy."
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Good grief... taking advantage of people like that, you won't turn out to be much of an adult.」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Oh, this isn't, like, just a tree leaf or something, is it？」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Only a stupid raccoon dog would do something like that.」"
+    },
+    {
+        "message": "As she said this, she opened the inari sushi she had received."
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Whoa... looks yummy.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Itadakimasu—nom.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Ahhh, so good... it really hasn't changed at all.」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「You really love inari sushi that much, huh.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Can't help it, that’s just how it’s decided.」"
+    },
+    {
+        "message": "I’ve known about Miyako for a long time. Before coming to the academy, I was the personal physician for the Suzakuin family."
+    },
+    {
+        "name": "Mikoto",
+        "message": "「How old have you turned now, Miyako？」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「I’m nine.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「I see. Are you thinking of going home soon?」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Nope, not yet.」"
+    },
+    {
+        "message": "It seems she’s really at her wit's end."
+    },
+    {
+        "name": "Mikoto",
+        "message": "「How did your old man react when he got angry？」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「He said things like, ‘Why would you try to activate it at full power right from the start?’」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「And, ‘It’s one thing that it broke, but you need to reflect on what you did.’」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「And then he even said, ‘I’m not letting you touch any spirit swords from here on out.’」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「That’s so mean, and I didn't even do anything wrong.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Geez, that idiot... There are better ways to put it, but he just doesn't have the head for that kind of thing.」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Are you talking about Father？」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「That’s right. For starters, every single sword in the Suzakuin estate is some kind of cursed object anyway.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「You not getting hurt is already a gain. He should be happy you're safe first.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Good grief, why are the men of the Suzakuin line all so bad at raising children, generation after generation...」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Are they really that bad at it？」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Yeah, once I start, there's no end to it.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Come to think of it, I left the Suzakuin household because his nagging was just too annoying.」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Hmm... So that's why.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Still, Masatane―your father―isn't a bad man. He's way better than that old geezer.」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Hehe, I think Grandfather is a bad person too.」"
+    },
+    {
+        "message": "She must have found that terribly funny, because she was giggling to herself."
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Well, sooner or later Masatane will realize his mistake and apologize. Forgive him when he does.」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「I plan to, but... I really can't see Father apologizing.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Oh, don't worry. Just wait and look forward to it.」"
+    },
+    {
+        "message": "Saying so, I finished off every last piece of the inari sushi Miyako had bought for me."
+    }
+]

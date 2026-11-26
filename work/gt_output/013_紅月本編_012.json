@@ -1,0 +1,507 @@
+[
+    {
+        "message": "The next morning, after the night had passed."
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Alright, everyone, take your seats~」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Oh, it's rare for everyone to be here today. That's a good sign.」"
+    },
+    {
+        "message": "Just as Sasaki-sensei said, all the students were in the classroom."
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Well then, that makes five for Takamura Class, attendance checked...」"
+    },
+    {
+        "message": "Sasaki-sensei marked the attendance register with a hologram."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Wait a second.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Hm? What is it, Momiji?」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「That's strange, Takamura Class should only have four members.」"
+    },
+    {
+        "message": "That's right, there were supposed to be four students in Takamura Class."
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Shall I take roll call then？」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「First, Suzakuin Momiji.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Present.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Next, Kazamine Setsugekka, Kazamine Keisetsu.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Y-yes.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Present.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Tobe Ririmu.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Yeees.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「And finally, Kuki Asahi.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Yes!」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「See? That makes five.」"
+    },
+    {
+        "name": "Everyone",
+        "message": "「Hey！！！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Who is that last person！？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Wait a minute, Asahi-chan, why are you here！？」"
+    },
+    {
+        "message": "To my surprise, Asahi was sitting quietly in the back."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Even if you ask me why, I am a member of Takamura Class, after all.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Right, Sasaki-sensei」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Yeah, Kuki Asahi has been transferred into Takamura Class effective today」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Why？ What's going on！？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「When I earnestly petitioned my previous homeroom teacher for a transfer to Takamura Class, they appreciated my enthusiasm and graciously granted my wish」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, wait, Takamura Class has a notorious reputation for being nothing but problem students...？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Personally, I would appreciate it if you did something about that reputation first」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Sasaki-sensei, why was Asahi-chan transferred here？」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「That's what she wanted. Couldn't be helped」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Besides, this Takamura Class is a fitting place for Kuki Asahi」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「What do you mean by 'fitting'？」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Yesterday, this one marched up to her homeroom teacher and demanded to be transferred to Takamura Class」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Turns out Kuki had some dirt on the teacher. The whole thing came to light when the teacher started groveling on the floor」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hey now...」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「In the end, it was decided that a student who blackmails a teacher belongs in Takamura Class, so the transfer was approved」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I'm so glad the transfer paperwork went through in a single day♪」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Man, you really play dirty~...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Why go to such lengths just to get into Takamura Class...」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「That's obvious. It's because I want to receive your guidance, Iori-san」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ah, another strange one has joined us...」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「And that concludes my report」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「I'll leave the rest to our assistant homeroom teacher, Muragaki-sensei. I'm counting on you~」"
+    },
+    {
+        "name": "Iori",
+        "message": "「H-Hey, wait a second！？」"
+    },
+    {
+        "message": "There wasn't even a moment to stop her. Sasaki-sensei briskly slipped out of the classroom."
+    },
+    {
+        "name": "Everyone",
+        "message": "「…………」"
+    },
+    {
+        "message": "...Hmm, what am I supposed to do about this."
+    },
+    {
+        "message": "Would it be bad if I stepped out of the classroom for a second...? I really want a do-over."
+    },
+    {
+        "message": "Wait, what am I doing losing my nerve now！"
+    },
+    {
+        "message": "Just yesterday, I swore I'd get these girls promoted to their second year no matter what."
+    },
+    {
+        "message": "As their teacher, I'm the one who has to lead them. Time to get my head in the game."
+    },
+    {
+        "name": "Iori",
+        "message": "「Alright, let me introduce myself properly！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I'm Muragaki Iori, a member of the JGSDF's Tenju Special Forces Group！ I was dispatched here on a special appointment.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「We already met yesterday, so I figure you all recognize my face. Starting today, I'm officially in charge—pleasure working with you！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「…………」"
+    },
+    {
+        "message": "Momiji stays stony-faced and doesn't even reply."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ah, I don't think I can do this. This is way too embarrassing...！」"
+    },
+    {
+        "message": "Setsugekka is fidgeting nervously."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Best of luck with teaching us.」"
+    },
+    {
+        "message": "Keisetsu sounded somewhat condescending."
+    },
+    {
+        "message": "As for Ririmu and Asahi-chan..."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ooh, ooh！ Iorin, can I ask a question~？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「'Iorin,' is it...」"
+    },
+    {
+        "message": "Ririmu was overly familiar, while Asahi-chan looked oddly displeased."
+    },
+    {
+        "name": "Iori",
+        "message": "「W-What is it, Ririmu-san?」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hey, Teach, do you have a girlfriend？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, I don't.」"
+    },
+    {
+        "message": "Honestly, I've never even dated a woman before, though."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Then out of the five of us, who would you date？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Come on, I'm here at this academy as a teacher. There's no way I'd date a student.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Whoa~, what a stiff~」"
+    },
+    {
+        "message": "What do you expect? It's a strict line of work."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Whatever. More importantly, Iorin, did you come up with something？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You mean a way to get stronger？ Not yet, no.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Whaaat?! Then there was no point in coming to the classroom this early in the morning!」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Look, I only dragged myself all the way here because you said you'd teach us, and I got my hopes up.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I sure hope you don't let those expectations down~」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「...Tobe Ririmu-san, was it?」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「From what I've been hearing, you've been taking quite an insolent attitude toward Iori-san, so」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Just who on earth do you think you are？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Huh? Who do I think I am? The Honorable Student, duh.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Look, when I enrolled at this academy, I paid a stupidly high admission fee and tuition out of my own pocket.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「So I've got every right to demand service to match, obviously.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「You do not.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Huh？ Why not？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I feel it is somewhat premature for someone of that sort, like yourself—who looks as though they throw their weight around in the nightlife district—to receive Iori-san's sublime instruction.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「These days, I hear even kindergarteners have little lessons to cultivate self-control, so I would recommend you try receiving instruction there first.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「...Hey, you're picking a fight with me right now, aren't you？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Did you know？ Conflict only occurs between people on the same level.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Between you, who fail to properly understand the value of Iori-san's instruction, and myself, who understands its value more than thoroughly, I am afraid no conflict could possibly arise.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「What's that supposed to mean, are you trying to say I'm an idiot！？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「H-Hey, cut it out, both of you！」"
+    },
+    {
+        "message": "I step between Asahi and Ririmu."
+    },
+    {
+        "name": "Iori",
+        "message": "「Asahi-chan, you're going a bit too far.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hehe, my apologies.」"
+    },
+    {
+        "message": "Asahi, apologizing without the slightest shred of remorse."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ugh, enough already！ I'm so pissed, I can't deal with this！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hey, Ririmu-san, wait！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Look, Iorin, sorry, but I can't stand her. Call me once that woman is gone.」"
+    },
+    {
+        "message": "Ririmu walked out."
+    },
+    {
+        "name": "Momiji",
+        "message": "「My, my... Looks like you're having a rough time right from your first day, Muragaki-sensei.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「You'd better hurry and go follow up with Tobe Ririmu-san. It doesn't look like you have time to worry about the likes of me.」"
+    },
+    {
+        "message": "Grrr... She looks way too pleased with herself."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Oh, I'm completely self-reliant and don't need any support, so please don't worry about me.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I'll be doing some solo practice now, so please excuse me.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hold it right there！！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Suzakuin Momiji, if you've got time for solo practice, then have a match with me！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「…………」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「...Ah! Is that Nakamura Sakura-san outside？!」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Huh, where, where？！ Where's Sakura-san？！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hey, wait a second！ She's nowhere out there？！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Wait—Momiji's gone？！」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「...Setsugekka, Momiji-san has already left.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Th-That jerk！ How dare you trick meee！！！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「H-Hey, you two！」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Oh my... I'm being summoned.」"
+    },
+    {
+        "message": "Keisetsu, briskly heading out of the classroom while pulling up a holographic display."
+    },
+    {
+        "name": "Iori",
+        "message": "「Whoa, wait, where are you going？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「I told you yesterday, didn't I? I have work to attend to.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「I'll leave Setsugekka in your care, alright?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「…………」"
+    },
+    {
+        "message": "I stand there in a daze."
+    },
+    {
+        "message": "In the blink of an eye, it was just Asahi-chan and me left in the classroom."
+    },
+    {
+        "name": "Asahi",
+        "message": "「We're finally all alone together, Iori-san!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, no, that's not what's going on here, okay？！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I'm in the best mood ever now that I have you all to myself, Iori-san.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Agh... Seriously, every single one of them...！」"
+    },
+    {
+        "message": "Day 2 of my mission. It hit home all over again."
+    },
+    {
+        "message": "That this place, Takamura Class—was nothing but a gathering of problem children no ordinary teacher could ever handle."
+    }
+]

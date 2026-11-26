@@ -1,0 +1,562 @@
+[
+    {
+        "message": "In the evening, Ririmu and Setsugekka finally finished their remedial classes."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ughhh... My brain is dead...」"
+    },
+    {
+        "message": "I sent Ririmu home first and called Keisetsu over."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Good work. Setsugekka, how was the remedial class?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I think I used up a whole year’s worth of brainpower...」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「You’d better work just as hard tomorrow.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Waaaaah, she’s a demon! There’s a demon right here!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, now that we’re all here, let’s get started.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「D-don’t tell me... another round of remedial classes starts now...！？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Setsugekka, do you think I’m the one who needs a remedial class？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ahaha, no way, no way at all.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「You have something you want to discuss regarding Setsugekka, right？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, that’s exactly it.」"
+    },
+    {
+        "message": "As expected of Keisetsu, she’s quick on the uptake."
+    },
+    {
+        "name": "Iori",
+        "message": "「Right, I asked you to stay to talk about Setsugekka’s rampage. I’d like to hear the details in more depth.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Yes, and we were just thinking that we needed Muragaki-san to understand the situation in more detail as well.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I see. I appreciate you being so straightforward.」"
+    },
+    {
+        "message": "Keisetsu straightened her posture and turned to face me."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「I believe you’ve already seen Setsugekka’s rampage... but that is a side effect of a certain technique.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「The technique in question was discovered by a research laboratory under the Kazamine Group—the secret art of <d0057>Tamukai</d>.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...Tamukai？ I’ve never heard of it.」"
+    },
+    {
+        "message": "Working for the Tenju Special Forces gives me the chance to encounter all kinds of techniques. But I had never heard of the technique called “Tamukai”."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Naturally. Tamukai is a closely guarded secret art discovered by the Kazamine family. Including you, there are fewer than ten people who know of its existence.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「I am about to tell you about this secret art, but if this information leaks to the outside... you’d best be prepared for the consequences.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Listen closely and steel yourself.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「O-okay.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Muragaki-san, are you familiar with what a <d0058>Saniwa</d> is？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Aye. They’re beings capable of harboring gods or Keyou within their own bodies—essentially what you might call ‘living vessels.’」"
+    },
+    {
+        "message": "A Saniwa is a type of spiritual medium."
+    },
+    {
+        "message": "Humans who possess the innate quality to resonate with and act as a conduit for gods or Keyou. In ancient times, they were known as shrine maidens or shamans."
+    },
+    {
+        "message": "It seems that by harboring a god or Keyou within themselves, a Saniwa can wield supernatural powers—spiritual energy or demonic energy."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Normally, one can only be a Saniwa if they are born with the aptitude.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「But if you use the secret art of ‘Tamukai,’ you can turn the practitioner into a Saniwa later in life.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「W-what did you say...！？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「How about that, Teacher? Did you hear? Isn’t it amazing! Actually, I’m an artificially modified human!」"
+    },
+    {
+        "message": "I find myself comparing Setsugekka and Keisetsu, my eyes going wide with shock."
+    },
+    {
+        "message": "So that’s it. Is Setsugekka... an artificial Saniwa...？"
+    },
+    {
+        "name": "Iori",
+        "message": "「I never imagined you could artificially create a Saniwa through ritual techniques. I simply cannot believe it.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Of course, we had to overcome many difficult challenges before we could succeed. But the Kazamine family achieved it.」"
+    },
+    {
+        "message": "Admittedly, if she is a Saniwa, then many things make sense. Since she harbors power that transcends human understanding, it’s only natural she’d go berserk."
+    },
+    {
+        "name": "Iori",
+        "message": "「But being a Saniwa is incredibly unstable, and they can become quite dangerous at times.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I’ve heard that the Keyou they harbor can affect their minds and bodies, or even cause their physical form to change.」"
+    },
+    {
+        "message": "If two souls inhabit one vessel, they will naturally interfere with one another."
+    },
+    {
+        "message": "Because of this, their souls are eroded to a greater or lesser extent. It makes no difference whether the inhabitant is a god or a Keyou."
+    },
+    {
+        "name": "Iori",
+        "message": "「In fact, there have been cases where they became mental wrecks... or became targets for 'Satsuki' to eliminate. It’s an incredibly problematic practice.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Yes, which is why all the test subjects were volunteers. I swear we never forced anyone.」"
+    },
+    {
+        "message": "Once their body is taken over, they cannot resolve it themselves. In most cases, they are simply annihilated on the spot."
+    },
+    {
+        "name": "Iori",
+        "message": "「...So, that’s the secret art you performed on Setsugekka.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「You know, Muragaki-sensei, I don't want you to misunderstand; I’m the one who asked for the secret art to be performed on me.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「You saw my mental resonance value earlier, right, Sensei? It was a pretty low number, wasn’t it?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「With those numbers, there's no way you'd have a chance in Jindou. You practiced Jindou too, Iori, so you know what I mean, right?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「……Yeah, you're right.」"
+    },
+    {
+        "message": "I hate to say it, but with that level of spirit sensitivity, she wouldn't stand a chance against the top-tier students."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「That’s why I asked Kei-chan for help. I told her I wanted to raise my spirit sensitivity.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「And then Kei-chan found a way. That’s what the secret art ‘Tamukai’ is.」"
+    },
+    {
+        "message": "……I see, so that’s how it was."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「That’s as far as I can tell you, Muragaki. I’m afraid I can’t reveal anything more than this.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Knowing more would only put you in danger. You understand why, don’t you？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, of course. If they found out such a technique existed, the consequences would be far worse than just shedding blood.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Heh, exactly.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Does that mean you're talking about the <d0106>Spirit Agency</d> that Kei-chan is always mentioning？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Setsugekka, I’ve told you time and again not to bring that name up so carelessly.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Do you want to end up as a test subject for their human experiments？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ugh… I-I don’t know anything, and I won’t say anything! See no evil, hear no evil, speak no eviiil!」"
+    },
+    {
+        "message": "Setsugekka hurriedly clamps her hand over her mouth."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「When it comes to this secret art, Setsugekka’s choice is my own. Everything we’ve decided is to beat the Suzakuin.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「I explained the risks to Setsugekka many times, and if there were any other way, I would’ve taken it.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「But after coming to this academy and seeing Suzakuin Momiji, I knew. We made the right choice.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「To defeat her, we absolutely need the power of this secret art.」"
+    },
+    {
+        "message": "Keisetsu’s point is sound. In her natural state, Setsugekka wouldn’t have even a one-in-ten-thousand chance of winning."
+    },
+    {
+        "name": "Iori",
+        "message": "「Then we can’t get anywhere unless we do something about that runaway state.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Right. That’s where we need your cooperation. Please, I need you to lend us your strength.」"
+    },
+    {
+        "message": "Of course, I have no intention of sparing any effort if it’s for Setsugekka’s sake."
+    },
+    {
+        "name": "Iori",
+        "message": "「Do you have any idea what it is that’s possessed Setsugekka？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「According to the exorcist I had check her immediately after the procedure, they said it might be some kind of ‘Mizuchi’.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Mizuchi… so, a descendant of a serpent god or dragon god, then.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Right. As you know, snakes and dragon gods are masters of water. They have a positive side that brings blessings to people, and a fierce, negative side.」"
+    },
+    {
+        "message": "Think of it as gentle rivers or spring water. Life-giving water that has supported human existence since time immemorial."
+    },
+    {
+        "message": "The fierce, negative side is like raging, stormy seas or a thundering great river. The power of water that swallows and crushes everything in its path."
+    },
+    {
+        "name": "Iori",
+        "message": "「Snakes shed their skin, casting off the old to be reborn as new. They also have an aspect of constant ‘death and rebirth,’ don’t they.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ooh, that sounds cool~！ The immortal swordsman Snake Setsugekka, reporting for duty！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「This isn't the time to be joking around. Because of that mizuchi, after you lose control, you end up doing things like that...」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Kyaaaaaaaa！？ W-w-what are you talking about！？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「...‘Things like that’？」"
+    },
+    {
+        "message": "Well, at least now I understand why Setsugekka gets so horny."
+    },
+    {
+        "message": "Snakes are the embodiment of reproduction, and they govern sexual desire as well. I suppose the mizuchi's runaway power just amplifies her libido."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「............ Oh, never mind. Let's get back to the subject.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「The god dwelling within Setsugekka is likely a nameless snake god or dragon god. That in itself isn't particularly rare.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「True, being possessed by snakes is a common story. It’s right up there with <d0081>fox</d> or dog possessions.」"
+    },
+    {
+        "message": "Still, given the way it spirals out of control, there’s no doubt that the god is quite powerful."
+    },
+    {
+        "name": "Iori",
+        "message": "「Now that we generally know the god's identity, the question is how to actually control these outbursts.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Setsugekka, what does it feel like when you lose control？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hmm... It’s like, I get this unbearable feeling of irritation, and I just want to lash out at everything.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「It’s like someone is standing really close to me, acting all angry, and their agitation just makes me angry too.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「So your emotions are being influenced by the god inside you.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yeah, I guess that’s about right~」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Can you still control your own body？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I don’t really feel like my body is being puppeted.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「But, once I enter my ‘Midare Setsugekka’ mode, I get all heated up, and even I don't really know what I’m doing anymore.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I wonder what that’s all about~」"
+    },
+    {
+        "message": "I see, so that’s what she meant before by saying her 『memories get fuzzy.’"
+    },
+    {
+        "name": "Iori",
+        "message": "「And after you lose control？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「A-after I lose control... well, I just get a fever and my body feels incredibly sluggish, that's all.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That’s all？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "（Sensei, don't press me any further on that！！）"
+    },
+    {
+        "message": "She pleaded with me through eye contact."
+    },
+    {
+        "name": "Iori",
+        "message": "「A-anyway, if you lose control, you can’t win matches you otherwise would. We need to make sure you don't lose control if we can help it.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Exactly, exactly! Losing control is absolutely forbidden! I’d like to ban it if I could, it’s just completely no-go!」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「But as it stands, you inevitably lose control whenever you draw out the power of the god within.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「And if you don't draw out that power, you cannot defeat Suzakuin Momiji.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, that’s right. Which is why you need training to draw out the power without losing control.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Based on what I’ve just heard, we should start by learning to control your anger.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Anger management, then.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Anger-manage...？ What’s that？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Basically, it means trying not to get angry even when you’re upset.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I feel like when you’re upset, you’re already angry. Is it even possible to hold that back？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Putting the matter of the berserk state aside, that bad habit of yours of getting hot-headed and acting recklessly is something that needs to be fixed immediately.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ugh... your words are like knives dealing critical damage...！」"
+    },
+    {
+        "message": "Setsugekka clutched her chest in pain."
+    },
+    {
+        "name": "Iori",
+        "message": "「In any case, as long as you can’t control it, we need to ensure you don’t lose control.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Even if you’ve been fine up until now, there’s a possibility that it could have an irreversible effect on your mind.」"
+    },
+    {
+        "message": "If her mind were to be swallowed by the Keyou, there would be no turning back."
+    },
+    {
+        "name": "Iori",
+        "message": "「No, there’s even a possibility that it’s already having an effect. Setsugekka’s flighty personality might be the fault of the god within her.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「There’s no need to worry about that. Setsugekka has been like this since she was born.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I see... That’s a shame.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「What do you mean ‘a shame,’ are you making fun of my personality?!」"
+    },
+    {
+        "message": "Setsugekka has recovered."
+    },
+    {
+        "name": "Iori",
+        "message": "「W-well, personality aside, there’s a chance that a berserk state could lead to a major catastrophe if you slip up even once.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Everyone would be sad if something happened to you, Setsugekka, so I want you to be as careful as you can.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Th-Thank you so much. You really do worry about me.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Of course I do. You're one of my precious students, Setsugekka.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Sniff, sniff... Muragaki-sensei really is such a good person...！」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Hehe, I'm glad you got to meet such a good teacher.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hearing you say that makes me happy, even if it's just flattery.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Sensei, you know. I really love Jindou.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I watch pro matches a lot too, and during Jindou matches, everyone gives it their all and shines so brightly」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I've always thought I wanted to become like that someday too.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「So you want to become a pro Jindou athlete, Setsugekka.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hmm, I wonder about that. Still, I want to keep doing Jindou forever.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「That's why I want to properly master this inner god's power too, so I can fight on equal footing with Momimomi.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Muragaki-sensei... will you help me？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, of course！」"
+    },
+    {
+        "message": "I clench my fist tightly in front of her."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Thank you so much, Muragaki-sensei!」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「All right, Kei-chan, I'm gonna give it my all！」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Yes, I have high hopes for you, Setsugekka.」"
+    },
+    {
+        "message": "Hearing about the secret art, I realized Setsugekka has strong determination and resolve."
+    },
+    {
+        "message": "I don't intend to play favorites with just her, but I want to help her out as much as I can."
+    }
+]

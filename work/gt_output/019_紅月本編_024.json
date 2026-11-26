@@ -1,0 +1,674 @@
+[
+    {
+        "name": "Iori",
+        "message": "「Nah, Setsugekka and Momiji are... I have no idea where they went.」"
+    },
+    {
+        "message": "Once back in the classroom, I finished giving Asahi instructions on her training menu."
+    },
+    {
+        "message": "I took a lunch break and then tried looking for Setsugekka and Momiji again, but there was no sign of either of them."
+    },
+    {
+        "message": "There are always a few security drones flying around the school grounds, and it's possible to pinpoint students using their footage."
+    },
+    {
+        "message": "However, neither Setsugekka nor Momiji turned up in the footage."
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, it’s always been pretty hit-or-miss anyway.」"
+    },
+    {
+        "message": "A few drones could never hope to cover the vast grounds of the academy, and the area outside the school isn't subject to security surveillance."
+    },
+    {
+        "name": "Iori",
+        "message": "「...Hm？」"
+    },
+    {
+        "message": "On my way back toward the academy, I caught a glimpse of someone as I passed by the training ground."
+    },
+    {
+        "name": "Iori",
+        "message": "「What are they doing out in a place like that？」"
+    },
+    {
+        "message": "There, in a patch of wild grass filled with pampas grass, was someone I recognized."
+    },
+    {
+        "name": "Iori",
+        "message": "「Hey.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「...Oh, Muragaki-san.」"
+    },
+    {
+        "message": "I called out to Keisetsu, who was standing in the field of pampas grass."
+    },
+    {
+        "name": "Iori",
+        "message": "「What are you doing in a place like this？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Just a little business negotiation.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「A business negotiation？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Yes, I’m planning to consult with the landowner to see if they might be willing to sell me this land.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「You could say today is for an on-site inspection.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Buying land... that’s a pretty grand story.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Sumiyoshi Academic Island still has many undeveloped plots like this one.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「I’m planning to buy a portion of it and construct a <d0038>mixed-use facility by the Kazamine Group</d>.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Residential and office spaces will be the main focus, but I’ll also ensure there are plenty of entertainment facilities.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「By including things like a movie theater, shopping mall, and party venues, I want to make it a place that many people can enjoy.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「If everything goes smoothly, I think it will take shape in about seven years after construction begins.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I, I see.」"
+    },
+    {
+        "message": "The scale of the story was too big for me to keep up with."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Although, at this stage, it’s nothing more than a fantasy inside my head.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「It will take a great deal of power to give this shape.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Fortunately, we have had many offers of cooperation, so I’m sure we’ll be able to make arrangements before long.」"
+    },
+    {
+        "message": "I followed Keisetsu as she began to walk, exiting the pampas grass field."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「At present, almost the entirety of Sumiyoshi Academic Island is under the Suzakuin influence.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「We of the Kazamine family wish to use Murakumo Academy as a <d0039>bridgehead</d> to drive a wedge into Sumiyoshi Academic Island.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「That is why Setsugekka and I are here now.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, I heard that before.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「I want Setsugekka to defeat Suzakuin Momiji at all costs.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「For that, Muragaki-san, your efforts are indispensable.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Of course, I’ll do everything I can. I have no intention of holding back.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「In that case, Muragaki-san, may I ask you a question？」"
+    },
+    {
+        "message": "I nodded in response."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「I get the feeling that Setsugekka is wary of you.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Did something happen between you and her？」"
+    },
+    {
+        "message": "*Wince.*"
+    },
+    {
+        "name": "Iori",
+        "message": "「N-no... nothing at all.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「...Setsugekka reacted similarly to you just now.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「What exactly are you hiding？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「What did she say, for her part？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「She said it was fine, and that it wouldn't be an issue, but...」"
+    },
+    {
+        "message": "I see, so she hasn't told Keisetsu the truth."
+    },
+    {
+        "message": "Well, no matter how much they're twins who share the same blood, she couldn't exactly tell her 'I was seen by someone while masturbating,' could she."
+    },
+    {
+        "name": "Iori",
+        "message": "「There was a minor bit of trouble, but the parties involved have already resolved it.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「What kind of trouble？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You'll have to ask Setsugekka. I at least can't say it from my side.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Hmmmmmm, I see. Understood.」"
+    },
+    {
+        "message": "Ugh, I am being suspected like crazy..."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Personally, as long as it doesn't interfere with Setsugekka's training, I won't involve myself in whatever happens between the two of you.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Am I correct in assuming that her training is currently proceeding without issue？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「W-Well... there might or might not be just a tiny bit of a hitch...」"
+    },
+    {
+        "message": "Setsugekka keeps running away from me, saying she's embarrassed and all."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Sigh... That simply won't do, Muragaki-san.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Training Setsugekka so she can defeat Suzakuin Momiji.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「After all, that is the very reason you are here.」"
+    },
+    {
+        "message": "What did she just say?"
+    },
+    {
+        "name": "Iori",
+        "message": "「...Keisetsu, what do you know about me？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「I believe I previously told you our reasons for coming to this academy.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「More precisely, three.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「First, to build credentials for myself and Setsugekka.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Being able to show that we achieved results at Murakumo Academy, which is under the Suzakuin Family's control, will surely prove useful later on.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Second, to assess the true state of the Suzakuin Family.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「The Kazamine Group is devoting its full resources to investigating just how far the Suzakuin Family's influence extends.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Murakumo Academy is one of the targets of that investigation, and Setsugekka and I serve as part of the investigative team.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Naturally, we have sent investigators into other organizations as well. Including the Tenju Special Forces Group that you belong to, Muragaki-san.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Are you sure it's okay to go blabbing something that important to me？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Of course. If it weren't, I wouldn't have spoken of it in the first place.」"
+    },
+    {
+        "message": "...So she's already pulled strings behind the scenes. How shrewd."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Third, to build a track record for Setsugekka as a candidate for the next head of the Kazamine Family.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「If Setsugekka can claim the title of Toujinegi, she will be a major step closer to becoming the family head.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「To achieve that, defeating Suzakuin Momiji is essential.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「She is certain to place near the top in this year's Martial Festival. Without defeating Suzakuin Momiji, winning the championship is out of the question.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, I'd imagine so.」"
+    },
+    {
+        "message": "Even with her current strength, Momiji is practically guaranteed a spot in the Martial Festival's main tournament. There's no doubt about that."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「However, in her current state, Setsugekka likely cannot defeat Suzakuin Momiji」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「The key is whether or not Setsugekka can control her runaway power」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「But it will be difficult for Setsugekka to gain that control on her own」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「That is why a skilled instructor is required」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Initially, I intended to scout someone capable among the teachers here at Murakumo Academy」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「However, my expectations were off」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「The quality of the teachers at Murakumo Academy was not as high as I had imagined」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Of course, there are extremely competent individuals among the faculty. But they are under the thumb of the Suzakuin family and were not worth trusting」"
+    },
+    {
+        "message": "...I'm starting to get the picture."
+    },
+    {
+        "name": "Iori",
+        "message": "「So, is that why I was called here？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「I selected someone from our candidate list who has few ties to the Suzakuin, is well-versed in the subtleties of the academy, and possesses undeniable skill in Jindou」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「That said, there are plenty of people in this academy who are simply strong. What is important is that they be sincere and forward-thinking regarding their instruction」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「As I was searching for such a person, I arrived at you」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Your superior officer, <d0040>JGSDF Major Asagiri Midori</d>, tells me that you are a very dependable person who is great at looking after others」"
+    },
+    {
+        "message": "Ah... I see, so that's it, is that how it is."
+    },
+    {
+        "name": "Iori",
+        "message": "「In short, it means even my company commander is one of Kazamine's people」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「The Asagiri family came under the Kazamine Group's umbrella two years ago. There are many excellent people among them, and it has been a great help」"
+    },
+    {
+        "message": "How can Keisetsu be so calm while exposing the inside story to me?"
+    },
+    {
+        "message": "It's because my superior officer was a Kazamine person to begin with."
+    },
+    {
+        "name": "Iori",
+        "message": "「Meaning the client for this special assigned duty is you, Kazamine Keisetsu」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Yes, that is what it amounts to」"
+    },
+    {
+        "message": "...Things have suddenly started to smell fishy."
+    },
+    {
+        "message": "Keisetsu said this earlier."
+    },
+    {
+        "message": "『Instruct Setsugekka so she can defeat Suzakuin Momiji' 'That is why you are here』"
+    },
+    {
+        "message": "The demand from my client, Keisetsu, is for me to use my position as a teacher to make Setsugekka beat Momiji."
+    },
+    {
+        "message": "There must be more to it than just teaching Setsugekka."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Is something wrong, Muragaki-san？ You have a scary look on your face」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Keisetsu, let me say this first」"
+    },
+    {
+        "message": "I lock eyes with Keisetsu, who is smiling with perfect composure."
+    },
+    {
+        "name": "Iori",
+        "message": "「My mission is to instruct the students of Takamura Class as a teacher at Murakumo Academy.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That is why I will treat the students of Takamura Class equally.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I will neither give Setsugekka preferential treatment nor belittle Momiji.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「If you are expecting anything of the sort, you should fire me right now and find someone else.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Are you suggesting that, in your estimation, Setsugekka cannot surpass Suzakuin Momiji？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, Setsugekka has immense potential.」"
+    },
+    {
+        "message": "If she can learn to manipulate that power she showed when she went berserk at her own will, she will become incredibly strong."
+    },
+    {
+        "name": "Iori",
+        "message": "「However, I will not play favorites. I want Setsugekka to become strong, and I want Momiji to become strong, too.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Even if the result of that is that Setsugekka ends up unable to beat Momiji.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「…………」"
+    },
+    {
+        "name": "Iori",
+        "message": "「It is true that I have no ties to the Suzakuin Family. But the same is true for the Kazamine Family.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I will not take either side, nor do I intend to involve myself in your family squabbles.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「If you are going to entrust me with the instruction, I want you to understand that.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「And if I were to say that if you don't comply, the Kazamine family will crush you with all our might？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I'll send every last one of you to an early grave. Don't underestimate Muragaki, the swordsman-slayer.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「…………」"
+    },
+    {
+        "name": "Iori",
+        "message": "「…………」"
+    },
+    {
+        "message": "For a moment, he glares at Keisetsu."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Heh, you're pure, aren't you.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Just as Asagiri Midori said, you're sincere and simple-minded—perhaps too kind for a swordsman.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「But that is a talent that surpasses everything else.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「No matter how overflowing with talent a person may be, if they lack sincerity, they have no value.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「I like you, Muragaki Iori. I leave it to you.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「……Are you sure？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「I hate worrying over things. It's a waste of time, isn't it？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「I'm certain you will devote yourself entirely to Setsugekka's instruction.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「No matter what happens, you won't abandon Setsugekka, and you won't betray her.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, though I'll put everything I've got into instructing Suzakuin Momiji too.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「That's a frustrating point, but it can't be helped.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「I'll accept it as a testament to your sincerity in striving to remain fair.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You're giving in awfully easily, considering you were just threatening to crush me a moment ago.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「I only wanted to see your reaction. If a threat was enough to make you waver, I would've fired you.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Anyone who caves to intimidation will easily betray you the moment a bigger threat comes along.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Y-You were testing me...？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Hehe, it was part of the hiring exam. Don't hold it against me.」"
+    },
+    {
+        "message": "Good grief, I'm no match for her."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Well then, Mr. Muragaki, please take very good care of Setsugekka.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hold on a second.」"
+    },
+    {
+        "message": "I call out to stop Keisetsu as she makes to leave."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Is there something else？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I understand where you're coming from, and I promise I'll give my all to instructing Setsugekka.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「However, I intend to treat every student in Takamura Class equally.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「You already told me that.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「And that includes you too, Keisetsu.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I'm going to treat you equally as well.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「It doesn't matter whether you're the next head of the Kazamine family or my client. You're a first-year at Murakumo Academy and a member of Takamura Class.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「So, Keisetsu, I want you to properly attend class too.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「…………」"
+    },
+    {
+        "message": "At my words, a blank look appears on Keisetsu's face."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Pfft, hehehe... You're even more ridiculously earnest than I thought.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I-I can't help it. It's just how I'm built.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Whether I'm there or not, what you have to do won't change, will it？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「What I do won't change, but everyone else will.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Why？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「The class will get bright and lively, and school life will become fun.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Is that important to Setsugekka？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, it's important.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Hmm... That's an interesting way of thinking. Very well, I'll play along.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「However, if you're going to have me spend my time on this, I want you to prove your ability.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「My ability？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「The last time everyone gathered in the classroom, it was a complete disaster, wasn't it？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ugh... Well, that was...」"
+    },
+    {
+        "message": "There's no making excuses for that."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Persuading the Takamura Class students to attend class properly.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「If you can do that, then I'll join you in this bright and lively school life you speak of.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Let's see what you can do. First, show me your leadership.」"
+    },
+    {
+        "message": "With a challenging smile, Keisetsu turned her back on me."
+    }
+]

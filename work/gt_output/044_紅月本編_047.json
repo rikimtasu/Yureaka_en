@@ -1,0 +1,319 @@
+[
+    {
+        "message": "The private tutoring session reached a stopping point, and it was time for lunch break."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yay, finally lunch！ I’ve been waiting for this moment forever！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hehe, training really makes you hungry, doesn't it.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well then, if you'll excuse me, I’ll be heading off.」"
+    },
+    {
+        "message": "We walked together to the courtyard, where I said my goodbyes."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Eh? Teacher, are you going somewhere?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You're all going to have lunch now, right？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You probably won't be able to relax with a teacher around, so I'll just go eat somewhere else.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ehh, that’s not true at all！ Everyone wants to eat with you, Teacher.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I certainly don't.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Momitchi~, try reading the room for once~」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yeah, Momimomi, don’t be such a lone wolf~」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I’m not a loner！ I’m independent and solitary！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Iori-sensei, you might as well eat with us.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I’m totally down for that too！」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「I don't mind either.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Whoa！？ K-Kei-chan just spawned out of nowhere！？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「I’ve been behind you the whole time.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Are you done with your work？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Yes, I’ve finished it.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, if everyone is fine with it, let's all eat together！」"
+    },
+    {
+        "message": "And so, we all came to the cafeteria together. Everyone chose what they wanted from the menu."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Hmm, my head just isn’t clearing up~」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「You slept so much, are you still sleepy or something, meow~？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I didn't ask for the 'meow', you know？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You were nodding off during zazen over and over, weren't you.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「All you do is sit there with your eyes closed. Of course you'd get sleepy!」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Speaking of sleeping！ Your sleeping posture was terrible again this morning. Momimomi, are you always like that？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Hey, stop making up weird accusations! My sleeping posture is perfectly fine!」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hmmmm, I wonder about that？ I’ll just have to check on you every morning from now on~」"
+    },
+    {
+        "message": "Setsugekka wiggles her hands."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Grrr... you wait, you crime-teacher!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I-isn't calling her a criminal a bit much...？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「The true face of the next head of the Suzakuin Family. Truly fascinating.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Keisetsu~ are you plotting something？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Fufu, simply knowing that the Suzakuin heir is a lazy girl doesn't give me much to plot with.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「You could still find ways to harass me personally, couldn't you!」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「For the sake of my own honor, let me say that I have no intention of dragging the Suzakuin name through the mud with scandals.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「I want to increase the Kazamine family’s strength and surpass the Suzakuin on merit. I believe the Kazamine have the potential to do so.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「So please, feel free to show your true self. I find it very comforting to see who you really are.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「That’s the least comforting thing anyone’s ever said to me~」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「How mean, when I’m speaking from the heart.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Anyway, has everyone decided what they're eating? If you have, shall we go order?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Okey-dokey！ Let's go, let's go！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Alright, then everyone, let's dig in！」"
+    },
+    {
+        "name": "Everyone",
+        "message": "「Dig in！」"
+    },
+    {
+        "message": "They all start eating together."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ahhh, so yummy~！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「S-Setsugekka-san, are you really going to eat all that...？」"
+    },
+    {
+        "message": "Looking over, there are three servings of food placed in front of Setsugekka."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Setsugekka… you’re going to get fat.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「It’s fine, it’s fine!♪ I’ll just exercise as much as I eat!」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Here it is, <d0063>the infamous zero-calorie theory</d>」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hahaha, it’s refreshing to watch you eat like that.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Aren’t you eating a bit too much？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No need to worry. I’ve been keeping track of how many calories everyone has consumed.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I’m planning to have you burn off everything you ate during this afternoon’s training.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Wait, does that mean the more I eat, the more training I have to do…?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「No wayyy！？ I never heard about that！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Setsugekka, why don’t you cut back now while you can？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ughhh… no, it’d be a waste, so I’m eating it all!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, in the unit I was in, eating as much as Setsugekka is pretty normal. You don’t need to worry about it.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「You’re kidding, they really eat that much？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, the female soldiers have great appetites and are physically strong. They’re a tough bunch who never complain, even during grueling marches.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Doesn’t that just make them a bunch of female gorillas…？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「That is enough, Momiji-san. You shouldn’t say things like that.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Huh～, I guess the Self-Defense Forces are full of carnivorous girls, then～」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I suppose so. Even in survival training, it’s usually the female soldiers who are the first to secure food.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「There was even a time one of them caught a bear.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「A bearrr！？ You mean a real bear？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah. The squad leader told her to let it go, and she looked so disappointed. She kept saying, ‘But it’s so delicious…’」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「The girls in the Tenju Special Forces are more than I bargained for…」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I want to go catch a real bear too！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hahaha, well, I suppose it might actually suit you, Setsugekka.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「The JGSDF is kinda... it doesn't really fit my aesthetic~」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Indeed, it does seem like it would be difficult for you, Ririmu-san. I doubt you'd be able to wear makeup.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「You're one to talk—it doesn't suit you either, right?」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I plan on becoming a soldier's wife, not a soldier myself. There won't be any problem at all.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hey, that's totally unfair！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hehehe, first come, first served!」"
+    },
+    {
+        "message": "What are these two even competing over..."
+    }
+]

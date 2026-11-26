@@ -1,0 +1,356 @@
+[
+    {
+        "name": "Setsugekka",
+        "message": "「……It's a shame to stop, but should we wrap it up soon?」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Yeah, I guess so」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Still, let's enjoy the end――make it fun」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yeah, let's do that――！」"
+    },
+    {
+        "message": "<d0000>Murakumo Academy</d>――it's a school that specializes in teaching Jindou."
+    },
+    {
+        "message": "This is Sumiyoshi Academic Island, an artificial island floating in Osaka Bay. Its perimeter is about 10 kilometers, with commercial facilities and housing lined up around the academy."
+    },
+    {
+        "message": "I used to be a student at this academy too."
+    },
+    {
+        "name": "Iori",
+        "message": "「――It's been a while. Coming back here, too」"
+    },
+    {
+        "message": "Well-maintained tiled paths. Grand glass-walled buildings. None of it has changed since the days I attended."
+    },
+    {
+        "message": "From afar come the youthful voices of students competing against each other, along with a teacher's voice spurring them on."
+    },
+    {
+        "name": "Iori",
+        "message": "「This atmosphere really is nice, isn't it」"
+    },
+    {
+        "message": "Remembering my younger self brings on a wave of nostalgia."
+    },
+    {
+        "name": "Iori",
+        "message": "「Now then, where should I head？」"
+    },
+    {
+        "message": "Accessing the academy's management system with a guest account."
+    },
+    {
+        "message": "Then, a three-dimensional <d0001>HR</d>≪Holographic Reality≫ projection appears in midair."
+    },
+    {
+        "message": "Operating the central management system to search where the person I'm looking for is—their name was, let's see――"
+    },
+    {
+        "name": "Iori",
+        "message": "「Oh, found 'em. The medical room, huh」"
+    },
+    {
+        "message": "When I enter the room, lively voices reach my ears."
+    },
+    {
+        "name": "Female Student A",
+        "message": "「Doctor…… it hurts, it hurts so baaad～」"
+    },
+    {
+        "name": "Female Student B",
+        "message": "「Please, Doctor, please save her life！」"
+    },
+    {
+        "message": "A girl in academy uniform holds the hand of a girl lying on a bed, crying boohoo."
+    },
+    {
+        "name": "???",
+        "message": "「Tch, stop being so dramatic, you idiots！」"
+    },
+    {
+        "name": "???",
+        "message": "「Don't shriek like a bunch of whiny birds just because you got hit on the arm a little. There's nothing wrong with the bone, it's just internal bruising」"
+    },
+    {
+        "name": "???",
+        "message": "「Something like this will heal right up if you slap a compress on it！」"
+    },
+    {
+        "message": "A female doctor slaps a cooling compress right onto the girl's reddened arm."
+    },
+    {
+        "name": "Iori",
+        "message": "「Um, is this Doctor Sasaki？」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Yeah, I am. Who are you」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I'm Muragaki Iori of the <d0004>Tenju</d> Special Division. I'll be working with you starting today」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Oh—right, it was starting from today」"
+    },
+    {
+        "message": "She rakes a hand roughly through her hair and turns a look of pure bother my way."
+    },
+    {
+        "name": "Mikoto",
+        "message": "「As you can see, I'm tied up right now. Outside good?」"
+    },
+    {
+        "message": "Leaving the students inside, I step out into the hallway with Dr. Sasaki."
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Alright then. I'm Sasaki Mikoto, nice to meet you.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yes, please treat me well！」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Too loud…… This isn't the military, talk at a normal volume.」"
+    },
+    {
+        "message": "Oops, my usual habit slipped out without me thinking."
+    },
+    {
+        "name": "Mikoto",
+        "message": "「I hear you're currently in the JGSDF's <d0002>Tenju Special Forces Group \"Musashi\"</d>. I've heard all sorts of rumors, you know？」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Word is it's a special unit that carries Origami and wields Tenju, packed with monsters a match for a thousand men each—is that true？」"
+    },
+    {
+        "message": "Spirit―style mechanical blade―<d0003>Origami</d>."
+    },
+    {
+        "message": "Origami is a variant of a spirit blade that controls a metal called Tamahagane—which houses myriad gods—using spirit-style mechanical parts."
+    },
+    {
+        "message": "This special power drawn from Origami is called \"Tenju.\""
+    },
+    {
+        "message": "Through the power of Tenju, a swordsman can deploy a barrier field to block bullets and cleave steel with a blade."
+    },
+    {
+        "message": "Furthermore, with Tenju, a swordsman also achieves major physical enhancement, higher speed, and heightened five senses."
+    },
+    {
+        "message": "Therefore, in close-quarters combat, they display performance far surpassing ordinary soldiers."
+    },
+    {
+        "name": "Iori",
+        "message": "「Calling everyone monsters is a bit much, isn't it. Only a very few among the unit can hold their own against a battalion-scale response.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「For the other members, <d0005>company-scale</d> is about the limit.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Nah, to an ordinary person, that's already plenty monstrous……」"
+    },
+    {
+        "name": "Iori",
+        "message": "「There are always people higher up, though. Like \"Akegarasu,\" for instance.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「You mean that special unit made up only of <d0078>Ikusabito</d> who carry spirit blades? I hear the name a lot, though what they actually are is even more of a mystery than \"Musashi.\"」"
+    },
+    {
+        "message": "Both \"Musashi\" and \"Akegarasu\" are fairly special organizations within the JGSDF, with both their members and their operations kept secret."
+    },
+    {
+        "message": "What I just mentioned is publicly known information so there's no problem, but there's little I can say about internal matters."
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Oh well, either way there are no superiors at this academy. Let's take it easy.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「You've heard about me, right？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Sasaki Mikoto-san, age unknown. I've been informed that you're a specially appointed dispatched local collaborator, and in appearance a woman around thirty.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Hey, what's with \"in appearance a woman around thirty,\" correct that.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「S-sorry.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「I'm clearly in my twenties, no matter how you look at me！ Right？！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「R-right......?」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「A young maiden in her prime is sensitive to even little comments like that, so watch it.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I'll keep that etched in my mind.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「So, how much have you heard about this 'errand'？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Only that you want me to help out with academic duties at the academy.」"
+    },
+    {
+        "message": "Because the nature of its operations is kept secret, the Tenju Special Forces can move around much more freely than other military branches."
+    },
+    {
+        "message": "Because of that, special appointment dispatches upon receiving requests for cooperation from outside—colloquially known as \"errands\"—happen frequently, just like this time."
+    },
+    {
+        "name": "Iori",
+        "message": "「I've been ordered from above to get the details from the local liaison—meaning you.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Hmm...... I see, fair enough.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Well, look, it's nothing all that difficult. You just need to give me a little hand.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「A hand, you say？」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「I'm the school doctor, and at the same time, the homeroom teacher for a certain class.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「I want you to step in as assistant homeroom teacher and instruct the students there.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Aren't you going to instruct them yourself, Sasaki?」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「As you can see, I'm no martial artist. So I can't give specialized instruction to students in the <d0006>Martial Arts Division</d>.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Thing is, there's nobody else suitable at the academy right now.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「So the call ended up going out to someone from the Tenju Special Forces who's skilled at handling Origami.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I see, so that's how it is.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That said, I have zero experience with teaching or academic duties. Will I be all right?」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Aw, there are only four students, and they're all fun, cute girls, so you'll be fine.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Keep a warm, homelike vibe, have a good time getting along with them while you teach, and that's all it takes.」"
+    },
+    {
+        "message": "Getting along with cute girls...... That actually sounds kind of nice to look forward to."
+    },
+    {
+        "name": "Iori",
+        "message": "「Do you have any concrete materials outlining the instructional policy or anything similar？」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Nothing in particular. Do it however you like.」"
+    },
+    {
+        "message": "Does that mean I can teach them in whatever direction I want?"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Well, we can worry about the fine details later.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「First, I want you to meet the students and get a feel for things. I'll send the students' profiles to your terminal later.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Understood. In that case, Muragaki Iori is commencing the mission as of right now！」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Yeah, I'm counting on you.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「So, normally I'd show you to the classroom and set up the introductions, but……」"
+    },
+    {
+        "name": "Female Student A",
+        "message": "「Sensei…… are you done talking？」"
+    },
+    {
+        "name": "Female Student B",
+        "message": "「I'd really like it if you treated me soon, too!」"
+    },
+    {
+        "message": "The girls from earlier peek their faces out from the infirmary and stare intently at us."
+    },
+    {
+        "name": "Mikoto",
+        "message": "「So that's how it is. Sorry, but I want you to go by yourself. Can you handle it？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Of course.」"
+    },
+    {
+        "message": "It's not like I'm running a toddler's errand; I can manage at least that much."
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Oh yeah, about the name of the class you'll be in charge of starting today.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「It's First-Year Special A-Class, ‘Takamura Class.’ Remember it.」"
+    },
+    {
+        "message": "Today at 10:25 AM, I became a teacher at Murakumo Academy, and sub-homeroom teacher of Takamura Class."
+    }
+]

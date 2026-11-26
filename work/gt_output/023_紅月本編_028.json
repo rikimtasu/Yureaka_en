@@ -1,0 +1,678 @@
+[
+    {
+        "message": "Setsugekka and Arakawa Sonomi walked together into \"Rairaiken,\" a diner in a corner of the shopping area."
+    },
+    {
+        "name": "Iori",
+        "message": "「...Sigh, I'm starving.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Indeed.」"
+    },
+    {
+        "message": "It was around 11 o'clock when Setsugekka bumped into Arakawa Sonomi at the convenience store, hit it off with her for whatever reason, and went into the diner."
+    },
+    {
+        "message": "And so, for about an hour already, I've been staking out the place with Asahi from a spot where we can see the diner's entrance."
+    },
+    {
+        "name": "Iori",
+        "message": "「Hey, Asahi, how long do you plan on keeping watch here？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Let's keep at it right into the middle of the night today.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Wha—？！ Until the middle of the night？！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「From her earlier conversation with that Arakawa Sonomi person, we obtained some very valuable information regarding Setsugekka-san.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Therefore, we will stick it out a little longer.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, no, even so...」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Iori-sensei, when it comes to a stakeout, patience comes first, and patience comes second.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「We don't have the help of surveillance cameras outside the academy, so we have no choice but to do the legwork.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「If it's cameras you want... look, there's one right there.」"
+    },
+    {
+        "message": "Looking up, several security cameras were mounted on the utility poles."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Sensei, the cameras here are outside Murakumo Academy's jurisdiction.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Accessing cameras managed by the municipal government is difficult, and if the hacking is discovered, the police will get involved.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「We wouldn't be able to cover it up if an accident occurred.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「In that respect, the academy hates turning things into police matters. That leaves plenty of room for intervention.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「C-Cunning, or whatever you'd call it... you're something else, Asahi.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I'll take that as a compliment♪」"
+    },
+    {
+        "message": "Just as we were talking about that."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Aaah, that was delicious~！」"
+    },
+    {
+        "message": "Setsugekka and Arakawa Sonomi came out of the diner."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「This place is my regular haunt. The old guy running it gives it real character, don't you think?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Totally！ The tables were grimy, the menus were old, and that retro vibe that made you go 'So this is the Showa era~' was the best！」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「You don't know a damn thing about the Showa era.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Well, my grandmother was about my age right now, after all.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Anyway, I want to try making a rice dish next time!」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I just love fried rice, you know~」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Yeah, sure, if there’s another chance.」"
+    },
+    {
+        "message": "They are chatting harmoniously. It seems they’ve gotten quite close."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Anyway, Master, thanks a million for teaching me all this today！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I really agreed with you that a villain’s intimidation starts with their way of speaking.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「From now on, I want to actively use heel-speak, so please keep guiding me！」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「O-oh, yeah, just do your best.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Also, after listening to you, Sono-chan-senpai, I found so many things I can use！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「So, I’m going to make a note of them as the 'Sono-chan Anthology'.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Hey, knock it off with the 'anthology' thing！ It’s embarrassing！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「But you had so many great lines？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Like, ‘What the hell are you glaring at, punk?！’ or」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「‘Don’t you go tryin’ to bluff me, you bastard！’ or something like that.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Did I ever say stuff like that？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I thought the best one was your word of encouragement~」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「‘What’s the matter, gettin’ rusty? Go in there and smash ’em up~！’」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yeah, it’s good… it’s seriously so cool.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Nah, that’s not encouragement, that’s just baiting them.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Eh? But if you translate it, doesn’t it mean ‘Your true power isn’t just this, keep working harder’?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Doesn’t that sound super supportive？」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「W-well, if that’s how you’re gonna interpret it, I guess that’s fine.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「And quit translating it. It’s kinda killing the vibe.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Anyway, that makes me one of the villains now!」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「‘One of them,’ you say? When you do it, it just looks like <d0045>Bimiyan</d> acting all tough, you know……」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「What’s a Bimiyan? Is it a friend of <d0046>Bamiyan</d>?」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「It’s totally different, you don’t need to know.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「……Hm？」"
+    },
+    {
+        "message": "And just like that, I locked eyes with Arakawa Sonomi."
+    },
+    {
+        "name": "Iori",
+        "message": "「Damn, I’ve been spotted……！」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Tch…… I thought I felt someone watching me, but it’s just the Teach.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「The Teach？ Wait, aaaah！ Mr. Muragaki！？」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「I’m taking off, catch ya later.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hey, Master！？」"
+    },
+    {
+        "message": "No sooner had she said that than Arakawa Sonomi slipped around the street corner and vanished."
+    },
+    {
+        "name": "Asahi",
+        "message": "「It can’t be helped. Let’s at least secure Setsugekka-san.」"
+    },
+    {
+        "message": "Asahi moved ahead and blocked Setsugekka’s path."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Please wait, Setsugekka-san.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ugh…… you’re Kuki Asahi-chan, right？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Yes, that’s right.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「W-why are you with Mr. Muragaki！？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「To enjoy some one-on-one time with Iori-sensei, of course.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Eh, does that mean…… that naughty teacher-student stuff？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Yes, that naughty stuff♪」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Whoa……」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, that’s completely wrong！？ And Asahi, quit saying such random things！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Sensei, I’m pretty sure we were doing something naughty.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, I mean, yeah, but……！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Oh, really?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, that’s not it! What I was doing was stalking and hacking! I wasn’t doing anything like illicit dating!」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Aww, what a letdown.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「...Wait, stalking？ Don’t tell me you were tailing me！？」"
+    },
+    {
+        "message": "Ah, damn it."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「That’s awful! Is a teacher even allowed to do something like that!？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I’m sorry. I knew it was wrong to do, but...」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Teacher, Iori-sensei.」"
+    },
+    {
+        "message": "Asahi pulls on me and whispers furtively."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Now is not the time to apologize. Let’s stay firm.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「B-but, you know...」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「*Sigh*... Iori-sensei, you’re too soft.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「It can’t be helped. I’ll show you how it’s done this time.」"
+    },
+    {
+        "message": "Asahi spins around to face Setsugekka."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「What are you two whispering about in secret? That’s rude.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「My apologies for making you jealous.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Jealous, shmealous♪」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「...Like I’d be jealous！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「By the way, Setsugekka-san, what brings you to a place like this？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「What do you mean, ‘what brings me’? I just came here for lunch like a normal person.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Heh, is that so?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「What’s with that attitude? What are you trying to say?」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I heard that you were absent today due to poor health, Setsugekka-san.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Yet, here you are, going out normally, coming all the way to a shopping mall, and having a pleasant meal with Arakawa Sonomi-san.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「You look remarkably energetic for someone in poor health, don’t you？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Guh...！？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ah, I was feeling under the weather this morning, but I recovered around noon！ So I came here to grab something to eat！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「You left the dorm at 9:45, headed for the convenience store, and made contact with Arakawa Sonomi behind the store at 10:00.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「You traveled while chatting, and arrived at the shopping mall shortly after 11:00. You then had a meal at the set-meal restaurant there for about an hour.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「A-ahhhhhhh…………！！！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「So, what was that again？ What was it that recovered around noon？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「How！？ How do you know all that！？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I told you I was tailing you. Your every move has been accounted for.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Whoa~！ You’re a spy, there’s a <d0047>James Mondo</d> right here~~！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「D-damn it, but I won’t lose to you.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「For times like these, I’ve got the Sono-chan lexicon！」"
+    },
+    {
+        "message": "Setsugekka activates her HR and starts checking something."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「...Oi, oi, don’t you go lookin' down on me！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I don't wanna see your ugly mug, you hear?！ Better scram before I knock you out with one punch, bastard！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I don't find that kind of foul language very impressive, Setsugekka.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Psh, as if I’d ever listen to some teach! I’m gonna come <d0075>pay you a visit</d>, yeah!？」"
+    },
+    {
+        "message": "I don’t know what to do; even when Setsugekka tries to intimidate me, I’m not scared at all. Must be because she’s just too cute."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Setsugekka-san, Setsugekka-san.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「What do you want, you teacher’s pet?！ I’ll mess you up, you idiot！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I’m recording this right now. Would you mind if I showed this to your sister later？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "<s32>「Pffffffffffffffffffffffffffffffffffffft！？」</s>"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Wait, cut！ Can we please cut all of that right now！！」"
+    },
+    {
+        "message": "Setsugekka flails and struggles, trying to snatch the camera from Asahi’s hands."
+    },
+    {
+        "name": "Iori",
+        "message": "「Folded like a lawn chair.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Setsugekka-san, that kind of language toward Iori-sensei, our assistant homeroom teacher, is unacceptable.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I'm sorry, I'm sorry, I take it back, I apologize, I'll get on my knees and beg」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「So please delete that video you just took！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Okay, take two！ Take two starts now！ Actio—！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Don't worry」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I'll edit your heroic tales so they're super easy to watch and deliver them to Keisetsu in tip-top shape」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「That's the absolute worst director's cut in history？！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「W-What will it take for you to stop？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Promise me. That you'll attend classes properly starting tomorrow」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Huh, w-well, that's...」"
+    },
+    {
+        "message": "She stole a glance at my face, only to blush and look down."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Uuuugh, b-but Mr. Muragaki's face is just so erotic」"
+    },
+    {
+        "name": "Iori",
+        "message": "「W-What the heck is that supposed to mean...」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Mr. Iori's face really is erotic, isn't it」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Could you not agree with such an obviously problematic statement？！」"
+    },
+    {
+        "message": "\"Erotic\" is definitely not a compliment."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Setsugekka, if you won't promise me, things are going to get very unpleasant for you」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「W-What are you planning to do？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I'll report to Kazamine Keisetsu that you skipped class today」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Along with the video I just took of you as evidence」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Guh...」"
+    },
+    {
+        "message": "Setsugekka clutched her head and crouched down."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Waaaah！ It's over, I'm totally done for！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I'm so gonna get yelled at！ Nooo, I don't want a lecture！！」"
+    },
+    {
+        "message": "Just as she stood back up, she started spinning around in circles on the spot."
+    },
+    {
+        "name": "Iori",
+        "message": "「H-Hey, don't lose your head like that」"
+    },
+    {
+        "message": "Drawn by the commotion, onlookers started gathering around, wondering what was going on."
+    },
+    {
+        "message": "And among those onlookers—"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ooh, did somethin' happen？ Did somethin' happen？」"
+    },
+    {
+        "message": "Popping right out—a familiar face."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Wait, gyaaaah？！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ah, Ririmu！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Wh-wh-what's Iorin doing in a place like this？！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「What are *you* doing here?」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Th-that's my freedom to do whatever I want！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Students of this academy do not have the freedom to skip class and slack off.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Whoa, and even <d0048>Kijo</d> is here too！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Who are you calling Kijo?」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Guh, tactical retreat！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Wait, Ririmu！」"
+    },
+    {
+        "message": "Just as I'm about to give chase, I remember I'm still in the middle of dealing with Setsugekka."
+    },
+    {
+        "name": "Iori",
+        "message": "「Wait, huh? Where's Setsugekka?」"
+    },
+    {
+        "message": "Setsugekka, who should have been right beside me, had vanished before I knew it."
+    },
+    {
+        "message": "...Or so I thought, when down the alley, the sight of Setsugekka bolting away."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I-I'll let you off easy today！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「You better watch out next time we meet！」"
+    },
+    {
+        "message": "Leaving behind a parting threat, Setsugekka fled to the other side of the alley."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Iori-sensei, let's split up.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Sensei, Ririmu-san. I'll go after Setsugekka-san.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Alright, got it！！」"
+    },
+    {
+        "message": "Exchanging a nod, Asahi and I broke into a run toward our respective targets."
+    }
+]

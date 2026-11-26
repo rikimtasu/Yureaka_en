@@ -1,0 +1,792 @@
+[
+    {
+        "message": "Evening, after finishing our sparring practice with everyone."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Iori-sensei, we've returned.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Phew~ That was so much fun！」"
+    },
+    {
+        "message": "Having finished changing, everyone filed back into the classroom."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Man, that was my first time seeing Secchan go berserk, and~」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「That was hilarious！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ah, well, I'm terribly embarrassed by my own shortcomings...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Setsugekka, are you feeling alright？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Huh? Uh, yes, I'm managing just fine...」"
+    },
+    {
+        "message": "After that, Setsugekka said she had a slight fever and headed to the infirmary."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「No need to worry, I was watching over her. Her temperature's back to normal now.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I see, that's a relief.」"
+    },
+    {
+        "message": "Last time, Setsugekka collapsed after going berserk, and when I went to check on her out of worry, I walked in on her masturbating."
+    },
+    {
+        "message": "So this time, I deliberately didn't go check on her."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Uuu~...」"
+    },
+    {
+        "message": "Hmm, she's fidgeting about something..."
+    },
+    {
+        "name": "Iori",
+        "message": "「Alright everyone, that's it for today's class！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Does anyone have any final questions？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「…………」"
+    },
+    {
+        "message": "As for Momiji, losing to me must have been quite a shock, because she hasn't uttered a single word since getting back to the classroom."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Don't sweat it so much~, Momicchi.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「None of us could beat Iorin anyway.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I'm sure this has shown you just how wonderful Iori-sensei is.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「...I suppose so.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Well, I guess there might be a little something I can learn from Iori-sensei too.」"
+    },
+    {
+        "message": "That sure is a loaded way of putting it..."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ooh, ooh~, Iorin, can I ask a question？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Sure, ask away.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「What kind of classes are we going to be taking from now on？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Good question, Ririmu.」"
+    },
+    {
+        "message": "I had intended to explain it again tomorrow, but since she took the trouble to ask, I might as well talk about it now."
+    },
+    {
+        "name": "Iori",
+        "message": "「I’ll be preparing both a common curriculum and individual curriculums for you all.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「The common curriculum will involve the entire Takamura Class participating in lectures, basic physical training, and sparring practice between classmates.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「For the individual curriculum, I plan to assign training regimens tailored to each of your specific needs.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「……Wait a minute.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「The common curriculum involves the entire Takamura Class? Does that mean I’m expected to participate in this so-called basic physical training too?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, of course.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Look, I’m not in the Martial Arts Division, you know？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「In other first-year classes, everyone does basic physical training and sparring practice, regardless of whether they’re in the Martial Arts, Technical, or Quartermaster divisions.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「It’s perfectly normal here at Murakumo Academy.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「I’m a scholarship student. It’s quite an inconvenience to be treated the same as ordinary students.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That’s got nothing to do with me.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I’ve decided that every student in the Takamura Class will be treated equally, no matter who they are.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「You really are painfully earnest……」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Besides, you’re a member of a warrior house, aren't you？ If you’re too frail, the other warriors won't follow your lead, you know？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「W-well, I suppose that’s true, but……」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Whoa…… My big sister is actually losing an argument……」"
+    },
+    {
+        "name": "Iori",
+        "message": "「More importantly, you promised that if something was important to Setsugekka, you’d go along with it, right?」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「……So, are you saying that my participating in basic physical training is one of those important things？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, exactly.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「I see…… very well. I shall participate.」"
+    },
+    {
+        "message": "Good, good. I’m glad she understood."
+    },
+    {
+        "name": "Momiji",
+        "message": "「……What was that just now？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「What do you mean... was there something strange about it？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Something like, if it’s important to Setsugekka, then we should get on board with it, or whatever.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Oh, I was curious about that too.」"
+    },
+    {
+        "message": "Right, I hadn't told everyone about that yet."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Iori-sensei, you were the one who said it the other day, weren't you?」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「That as a team, we should share everything—both our strengths and our weaknesses—and support one another while we polish our skills.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「That that is the way to become the strongest in Murakumo Academy.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「So, in other words, you’re saying we should all just get along and get stronger together？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「If you summarize it, yes, that is what I mean.」"
+    },
+    {
+        "message": "Upon hearing Asahi’s reply, Momiji’s expression turns sharp."
+    },
+    {
+        "name": "Momiji",
+        "message": "「...Hey, Iori-sensei. I want to confirm something.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ask me anything.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「You know what we swordsmen are seeking at this academy, right？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「To become stronger, and to become a Toujinegi.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「That's right, exactly.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Is there anyone here who’s going to say, ‘I’m not aiming to become a Toujinegi’？」"
+    },
+    {
+        "message": "Momiji looks around the classroom."
+    },
+    {
+        "message": "No one raises an objection."
+    },
+    {
+        "name": "Momiji",
+        "message": "「In other words, everyone here wants to become the pinnacle of the academy, a Toujinegi.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「And remind me, can just anyone become a Toujinegi？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, only one person in this entire academy can become a Toujinegi.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Yeah, yeah, exactly.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「So, what’s this？ Are we supposed to be all buddy-buddy, holding hands, and aiming for first prize together？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「That’s absurd, isn't it?」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Only one single person among us can become a Toujinegi.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「We’re rivals fighting over a single chair, and on stage, we’re nothing but enemies.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Asahi, do you have any objections to what I just said？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「…No, I do not.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Exactly. We are each other’s enemies, aren’t we？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Yes, that’s right.」"
+    },
+    {
+        "message": "Spurred on by Momiji, everyone’s gaze began to sharpen."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Wait, then isn’t that strange？ What did you say earlier？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「That sharing everything—the good and the bad—within a team and working hard to push each other to improve is the best way to become strong？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「That’s absolutely impossible！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「How to get the better of your opponent, how to catch them off guard」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Always scheming and competing against each other」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Giving your all to win in preparation for the battle to come」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Isn’t that the way a swordsman should be？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「If you share everything, how are you supposed to outwit your opponent？」"
+    },
+    {
+        "message": "No one dared to challenge Momiji’s words."
+    },
+    {
+        "message": "Surely everyone in their hearts harbored the same doubts as Momiji."
+    },
+    {
+        "name": "Momiji",
+        "message": "「In our practice earlier, I learned that Iori-sensei certainly has real ability.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「He probably sees things I can’t see yet, and I’m sure there’s something I can learn from him.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「But that’s a completely different matter from this.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Sensei, I’ve felt uneasy about your teaching philosophy from the very start.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「What is the point of everyone gathering in the classroom every morning？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「What is the point of everyone attending the same classes？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「What is the point of enemies acting all friendly？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Answer me, Iori-sensei.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Does the method you’re aiming for align with the principles of us swordsmen？」"
+    },
+    {
+        "message": "It was a fundamental question."
+    },
+    {
+        "message": "If he couldn't provide a convincing answer to this current doubt, all the effort put in until now would be for nothing."
+    },
+    {
+        "message": "It would be equivalent to betraying their trust."
+    },
+    {
+        "message": "All the more reason."
+    },
+    {
+        "message": "I have to answer Momiji's question with my whole heart and soul."
+    },
+    {
+        "name": "Iori",
+        "message": "「First of all. Thank you, Momiji.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I'm truly glad you were honest and brought your doubts straight to me.」"
+    },
+    {
+        "message": "Questioning someone above you takes far more courage than people imagine."
+    },
+    {
+        "name": "Iori",
+        "message": "「My way of doing things probably isn't rational.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「It's true that Jindou is an individual sport, and even your classmates can become your opponents. You might even end up facing each other at the Martial Festival.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「What I'm aiming for might not be essential to growing stronger as a swordsman, or to becoming the Toujinegi.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Then... are you saying what you're aiming for is meaningless, Sensei？」"
+    },
+    {
+        "message": "Eyes closed, a deep breath. I open them again and begin to speak."
+    },
+    {
+        "name": "Iori",
+        "message": "「I'm a graduate of this very school, Murakumo Academy.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Back then, just like all of you now, I threw myself into my training at this academy, aiming to become the Toujinegi.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Along the way, I made a friend I could call my best friend.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「He was crazy strong, too. We traded wins and losses, yelling and bickering the whole time as we pushed each other to get stronger.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, we fought a lot, too.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Even though we were swordsmen, we'd trade punches bare-handed. There were even times we both showed up to class with our faces completely swollen.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Looking back on it now, it's nostalgic... They really are good memories.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「…………」"
+    },
+    {
+        "message": "Only Asahi knows."
+    },
+    {
+        "message": "That I'm talking about her older brother."
+    },
+    {
+        "name": "Momiji",
+        "message": "「So in other words, we're just being dragged along to humor your sentimentality, Sensei？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「In a way, that might be true.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Still, there are things you can only understand because you've walked the path ahead of others.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Listen to me, Momiji.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「From here on, you're going to spend three irreplaceable years of your life at this academy.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Once that time is gone, you can never get it back.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Do you really intend to spend those precious three years all alone？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「…………」"
+    },
+    {
+        "message": "Those who master the path of independence are surely peerlessly strong as swordsmen."
+    },
+    {
+        "message": "But it is a lonely path."
+    },
+    {
+        "message": "You could call it aloof and make it sound cool, but such a life is far too sad, and far too lonely."
+    },
+    {
+        "name": "Iori",
+        "message": "「In this academy, you have friends and rivals right here beside you, breathing the same air and working toward the same goals.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Once you graduate, you will never get to experience such a time ever again.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Never... experience it again...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yes, that's right.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「After graduating from this academy, everyone will go their own separate ways.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Some will become professional Jindou athletes.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Others will surely forge ahead toward a future they've discovered for themselves.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Everyone will drift apart.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「This is the last chance for all of us to stand side by side and do something together.」"
+    },
+    {
+        "message": "I spread my arms wide, as if to reach from one end of the classroom to the other."
+    },
+    {
+        "name": "Iori",
+        "message": "「This place, this time, and these classmates beside you right now...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...have the potential to become lifelong treasures for you.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Whether or not they become treasures depends entirely on you.」"
+    },
+    {
+        "message": "I look out at everyone, not just Momiji."
+    },
+    {
+        "name": "Iori",
+        "message": "「Setsugekka, Momiji, Asahi, Ririmu, and Keisetsu.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You are all lucky. You have truly wonderful friends right beside you.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Listen, whether you become a Toujinegi or not, life goes on.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「For the sake of the future that lies ahead, and more than anything, for the sake of this very moment right now...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...please, cherish this time and the people around you.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「If you do, then surely... no, I am certain of it.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「When you look back on today, you will be able to say:」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That the three years spent at Murakumo Academy were the best time of my life！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That I am who I am today because I had those friends by my side back then！！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That！ That is exactly what I want to teach you all！」"
+    },
+    {
+        "message": "The path to becoming a Toujinegi is a harsh one."
+    },
+    {
+        "message": "No matter how hard I try, I cannot make everyone here a Toujinegi."
+    },
+    {
+        "message": "So, if they lose, if they fail to achieve results, does everything become meaningless?"
+    },
+    {
+        "message": "No, that’s wrong. It shouldn’t be."
+    },
+    {
+        "message": "If results were everything and nothing else held meaning, if all that mattered was the pursuit of strength, then having a personal trainer would suffice."
+    },
+    {
+        "message": "Then what are teachers for？ What is the point of a homeroom teacher？"
+    },
+    {
+        "message": "Isn’t it to help them live healthy, fulfilling lives long after they’ve left this place?"
+    },
+    {
+        "message": "That is what I believe the value of a teacher truly is."
+    },
+    {
+        "message": "I want to believe."
+    },
+    {
+        "message": "That a girl you just happened to sit next to at school might become a lifelong friend."
+    },
+    {
+        "message": "That it might become an irreplaceable treasure that supports you for the rest of your life, even after you’ve become an adult."
+    },
+    {
+        "message": "Yes, that is why it’s meaningful for everyone to be in the classroom together from the morning."
+    },
+    {
+        "message": "It is meaningful for everyone to take the same lessons together."
+    },
+    {
+        "message": "Even if they are enemies on the stage, there must be meaning in being on good terms—"
+    },
+    {
+        "name": "Momiji",
+        "message": "「...Hah, what’s that?」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I didn’t expect such a passionate answer to come back.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Were you not satisfied with my answer？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I-I don’t mean it’s bad, exactly, but...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「But？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Well, I guess it’s fine, isn’t it？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I’m not really interested in that kind of stuff, though.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「But if you say so, Teacher... I suppose going along with it could be amusing, nya~」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I see, thank you for understanding！」"
+    },
+    {
+        "message": "It seems my enthusiasm reached Momiji."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「She said ‘nya~’ at the end. She said ‘nya~’.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「How calculating, Momichi.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Dammit... that was just my usual habit!」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ufufu, Momiji-san is surprisingly cute too.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「So the eldest daughter of the Suzakuin family is just a normal girl underneath.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「No~, Momimomi is just so cute, nya~」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「It’s true, nya~」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I told you to stop mimicking me！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Anyway, that’s all the questions I have!」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Iori-sensei, class is over for today, isn't it！？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, that's right.」"
+    },
+    {
+        "message": "Momiji's expression, which had been so jagged and tense since we got back to the classroom, has softened quite a bit now."
+    },
+    {
+        "message": "Everyone else was just laughing, as if a weight had been lifted off them."
+    },
+    {
+        "name": "Iori",
+        "message": "「Alright Takamura Class, that’s it for today！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Be here on time tomorrow as well. Don't be late for class！」"
+    },
+    {
+        "name": "Everyone",
+        "message": "「Yes!」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hey, hey, Ririmu-chan, let's stop by the convenience store on the way home!」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Oh, sounds good~, let's go！ Momitchi, are you coming too？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Nah, I’ve still got some snacks left from yesterday.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Oh, that's right. Momiji-san, that non-alcoholic beer you were hiding under your bed was disposed of per Iori-sensei's instructions.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Wait, you’re kidding me, right！？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Momiji-san... were you drinking things like that at school？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Argh, come on, just give me back one of them~~~~~！」"
+    },
+    {
+        "message": "Momiji's scream echoes through the evening sky."
+    },
+    {
+        "message": "And so, the hot and intense season for the Takamura Class was about to begin—"
+    }
+]

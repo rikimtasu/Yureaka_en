@@ -1,0 +1,797 @@
+[
+    {
+        "message": "Managed to make it just in time for class to start, and after gathering in the classroom, we all headed to the indoor training grounds."
+    },
+    {
+        "name": "Iori",
+        "message": "「Is everyone here？ Wait, where's Keisetsu？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「She said she had a business call come in and stepped away.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I see, then it can't be helped.」"
+    },
+    {
+        "message": "In any case, the main focus from here on out is practical combat training. It doesn't really matter since Keisetsu would just be observing anyway."
+    },
+    {
+        "name": "Iori",
+        "message": "「Alright, we're finally moving into serious Jindou training. Sorry to have kept you all waiting！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「You're telling me~! I've been waiting forever. Hurry up and teach us already!」"
+    },
+    {
+        "message": "Ririmu really comes alive when it comes to actual combat."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Specifically, what kind of training should we be doing?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I've come up with personalized training menus for each of you. I'd like you all to follow those for the time being.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Individual instruction！ That sounds pretty cool！ I bet I'll be many, many times stronger by the time we're done, right？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I don't think it's quite that simple, though~」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Sensei！ Are you gonna share everyone's individual training contents with the whole group too？ Surely we don't have to go that far, right？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ah, of course, it's not like I'm sharing everything completely.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「However, eventually, the students of the Takamura Class will be doing sparring practice against each other.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「When that happens, you'll naturally end up sharing your fighting styles and techniques. That shouldn't be a problem, right？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Well, that makes sense, so that part's totally okay.」"
+    },
+    {
+        "message": "Glad she was convinced."
+    },
+    {
+        "name": "Iori",
+        "message": "「Well then, we're a bit behind schedule, but let's make up for it now. Everyone, brace yourselves！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yes！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Got it！」"
+    },
+    {
+        "message": "I had everyone disperse, and started by heading over to Setsugekka."
+    },
+    {
+        "name": "Iori",
+        "message": "「Now then, Setsugekka, your combat style is a combination of hand-to-hand fighting and sword techniques. Your martial arts skills, in particular, are quite remarkable.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Thank you very much! Mishima-ryuu is the strongest, after all♪ I plan on crushing every enemy that stands in my way with these fists!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Mishima-ryuu has been honed with the assumption of fighting against swordsmen, but the drawback is that strikes have a shorter range than a blade.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「So, Setsugekka, your first task is... strictly speaking, physical fitness and strength. It's crucial that you strengthen your body further.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Steady, fundamental training is the shortest route. By the time the preliminaries arrive, we should see significant results.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Whaaat, that’s it！？ That’s no different from what we’ve been doing all along！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Don't you have some kind of special training where you teach me a finishing move and I get strong in a flash？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Setsugekka, if you have time to dream, start by working on your muscles. Don't worry, muscles never let you down！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ugh, you called it ‘specialized individual training,’ so I was expecting something amazing！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Don’t worry, I’ve devised a muscle-training menu that is harder and tougher than anything you’ve done before. I won’t betray your expectations.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Stop meeting my expectations in that specific way！」"
+    },
+    {
+        "message": "She lets her shoulders drop, feeling deflated."
+    },
+    {
+        "name": "Iori",
+        "message": "「Of course, that’s not all there is to the training.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「In close-quarters combat, moment-to-moment judgment is critical. The higher your mental sensitivity, the greater your advantage.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ugh…！ That’s hitting a sore spot…」"
+    },
+    {
+        "message": "When she isn't in a state of runaway berserking, Setsugekka’s mental sensitivity is below average. However, it’s not as if there’s no room for ingenuity."
+    },
+    {
+        "name": "Iori",
+        "message": "「Setsugekka, are you familiar with the <d0061>Zone</d>？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「The... zone...？ No, I’ve never heard of that.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「When a person concentrates to the absolute limit, their nerves become so sharp that the movement of objects feels like it’s slowing down.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「This is a state that could be called the pinnacle of mental control, a mental state often discussed among athletes.」"
+    },
+    {
+        "message": "It feels as if the opponent’s movements are in slow motion. You could say it’s a phenomenon that creates a superhuman sense of time."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Oh, I know what that is! That’s the thing that happens when I’m in top form!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「We are going to train so you can summon that state at will, exactly at the moment you close the distance.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「A-at will!？ Don’t be ridiculous! There’s no way I can just aim for that and activate it!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hahaha, I don’t expect you to be able to do it immediately.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「However, sharpening your mental concentration should surely help in suppressing your runaway episodes.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Is that so？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You lose control when you feel anger—in other words, when you lack composure. You cannot enter the Zone in a state like that.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「In short, if you intend to enter the Zone, that inherently means you’ll also be suppressing your runaways.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「O-ohhh…… I see now.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Concentration is what matters most. I’ve put together a mountain of exercises that you’re bad at, Setsugekka, so let’s give it our all.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I thought you were a kind person, but you’re a sadist！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「But…… it is for my own good, isn't it.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, that’s right. To live up to your desire to become stronger, Setsugekka, I’ve had to be cruel to be kind.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「O-okay. I understand. I’ll give it a try！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That’s the spirit! Let’s work hard together!」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yes！！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Now then, next is Momiji.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I’m actually a little bit interested in the custom menus you’ve come up with, Iori-sensei~」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「So, what kind of things are you going to teach me？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I’ll be blunt. You’re strong, Momiji. The rumors that you’re the top candidate for Toujinegi aren’t wrong.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Your fighting style, Momiji, focuses on reading your opponent, completely gauging their hand before responding.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「That’s right. You’ve been watching closely, Iori-sensei.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That’s why the type you’re bad against would be a high-output power type, where a single blow could be fatal.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「In this world, no matter how much you hone your reading ability, unexpected things like accidents or pure chance can happen.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「The possibility of going down from a single unlucky hit—that’s your weakness, Momiji.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Yeah, well, I’m aware of that much myself.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「But there’s no countermeasure for that other than further refining my reading, is there?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Suppose there were an opponent whose next move you couldn’t read at all. What would be the method to fight someone like that？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Are you talking about yourself, using Tengen Saimei-ryuu？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, that might be close.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「That’s a tough one~ I still haven’t found an answer for how to deal with that.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I think your mind just works terrifyingly fast, Momiji. However, there’s a limit to how much one can think through.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That’s why if you’re facing an opponent you can’t handle by relying on thought, you have to look for another way.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Is there really some magical method like that？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yes, there is. It’s the ‘state of <d0062>Shohou Muga</d>’.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Shohou Muga... I mean, I get the literal meaning, but it’s basically the same thing as Impermanence, right?」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「So, what exactly is this Shohou Muga？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Don’t think, feel—unite yourself with the world. That’s what they say.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ah, so it’s like, ‘Don’t Think, Feeeeeeel！！！’」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「But not thinking at all is basically the ultimate brain-dead state, right? I can’t imagine fighting in a state like that.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I’ve actually met someone who can do it.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Really？ What was it like？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「It was incredible. I sparred with them, but my predictions were completely useless. I didn't feel like I could win at all.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「...You? Really? Hmm, I see.」"
+    },
+    {
+        "message": "Hearing that I couldn't win seemed to have piqued her interest."
+    },
+    {
+        "name": "Iori",
+        "message": "「According to that person, Shohou Muga is also known as a state of no-mind, and it is considered the supreme state in all swordsmanship.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「By completely erasing your killing intent and thoughts, your opponent cannot read your next move. They grow impatient, make a move, and self-destruct.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Erasing your presence while fighting？ Isn't that even more impossible？ But yeah, if you could do that, you'd be the strongest, wouldn't you~」"
+    },
+    {
+        "message": "Erasing one's intent and presence so that nothing can be perceived. I imagine that's the kind of opponent Momiji would hate even thinking about."
+    },
+    {
+        "name": "Momiji",
+        "message": "「So, how do you actually fight an opponent like that？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I suppose you have no choice but to reach that same state yourself.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「So you’re saying my challenge is to master that？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yes, that’s right. Precisely because you are already becoming so accomplished, Momiji, the next hurdle will be incredibly high.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「The person that teacher met, how many years did it take them to reach that state of Shohou Muga？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I heard it took them 40 years.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「No way, that’s impossible！ The Martial Festival is less than two months away！？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「It’s alright, Momiji! You can do it!」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Don't throw such unreasonable demands at me!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「As for the rest, it’s just steady muscle training and building up your endurance. If that’s what you prefer, should I give you something hardcore？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ah, I’ll take the path of Shohou Muga, please.」"
+    },
+    {
+        "message": "She ran away, didn't she…"
+    },
+    {
+        "name": "Momiji",
+        "message": "「So？ What should I be training and how？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「First, zazen.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Za—zazen? That’s so old-fashioned…」"
+    },
+    {
+        "name": "Iori",
+        "message": "「People call it mindfulness nowadays, too.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Changing the name doesn't change what you’re actually doing!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Visualize your mind uniting with the universe and discard all thought. The person I met said this was the best way.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「So, anyway, zazen it is.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ugh, well… I guess that’s better than hardcore muscle training…」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I’d personally recommend doing both.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I’ll focus on the zazen！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「…Finally, it’s finally my turn.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「At last, Iori-sensei is sparing some private time for me!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「It’s not ‘private time,’ it’s private tutoring, okay？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ufufu, sorry. Just thinking about receiving direct instruction from Iori-sensei makes my body quiver so much I can’t stop…」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Right, let’s start by calming you down！」"
+    },
+    {
+        "message": "I have her take a deep breath."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Haa, so Iori-sensei, what kind of training should I be doing?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Your style, Asahi, is Iai. You’re already plenty proficient in the essentials of Iai: reading your opponent, the ‘anticipatory strike,’ and the ‘reactive strike.’」"
+    },
+    {
+        "name": "Iori",
+        "message": "「However, you’re often so cautious during matches that you lack a bit of aggressiveness.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Yes. Specifically, what should I do about that?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「For one thing, increase your methods of attack. The more variety you have, the more of an advantage you’ll hold.」"
+    },
+    {
+        "message": "It means expanding your repertoire of techniques, not just sticking to Iai. But Asahi doesn't look too thrilled."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Since I was little, I've practiced with Iai as my foundation. Of course, I can use other things, but...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I know. But as things stand, if you lose the mind game, you'll be at a disadvantage. For example, what about if you were up against Momiji？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「That is...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「And you'd likely have poor synergy against opponents who specialize in unexpected attacks, like Ririmu.」"
+    },
+    {
+        "message": "Iai is a one-hit-kill art, meant to whittle down an opponent's VF with clean hits. It's at a disadvantage against someone like Momiji, who reads several moves ahead, or against illusion-based confusion."
+    },
+    {
+        "name": "Asahi",
+        "message": "「I believe if I don't let myself be swayed by the opponent's movements, I have a chance at victory. Is that wrong？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I feel that trying to train in anything other than Iai now would just be a superficial fix. I'm worried about that.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, I agree. That's why we're not changing your Iai, but changing your strategy instead.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Strategy, you say...？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Asahi, do you think it's possible to attack an opponent without drawing your sword？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Do you mean something like striking with the hilt?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, that's not it. The answer is feints.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Oh, I see... you mean the Tengen Saimei-ryuu, don't you!」"
+    },
+    {
+        "message": "That's right; the Tengen Saimei-ryuu uses a multitude of fakes and feints to 《attack》 the opponent's reads."
+    },
+    {
+        "name": "Iori",
+        "message": "「Right now, you're just waiting for the opponent, aiming for a reactive counter.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Instead, you should adopt an offensive stance where you 《attack》 your opponent with feints and the like.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That is what it means to attack without drawing your sword.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「If you can acquire that offensive mindset and control the flow of the match, you should be able to master a new strategy.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「In other words, manipulate the opponent and secure my own victory. You mean I should be the one to dictate the flow of the match?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Exactly！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I see... as expected of Iori-sensei！ You're going to hammer that method into my body starting now, aren't you?」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I'm so happy... If it's special training with Iori-sensei, I'm willing to keep going for hours, for days, until I'm screaming and collapse.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Whoa, I'm not that ruthless, you know？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Regardless, it's a difficult task. In the end, you have to cultivate techniques that are good enough to fool even Momiji.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I love deceiving people, so I'll do my best!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That only applies within the match, remember? Try not to make a habit of deceiving people in your daily life, okay?」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Yes, of course. I promise.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...That answer isn't already a fake, is it？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hehehe... well, who knows?」"
+    },
+    {
+        "message": "Man, Asahi is terrifyingly talented..."
+    },
+    {
+        "name": "Iori",
+        "message": "「Alright, last up is Ririmu. I've come up with a training regimen to make you stronger, just as promised！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Yay！ So, what am I doing？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ririmu, you possess the incredible Tenju property of Illusions. If you master it, becoming a Toujinegi isn't just a pipe dream.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Duh, obviously♪ My World is Mine is special. Nobody else could ever hope to imitate it.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「True, but no matter how amazing a technique is, it’s never invincible. I think you're relying too much on your Illusions right now, Ririmu.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hmm？ Why shouldn't I rely on them？ They give me a definite advantage, so obviously I'm gonna use 'em.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Of course. Just hear me out.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「When you're not using Illusions, you fight using your own unique school, the Lily Style, right?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「But once you start using Illusions, your combat becomes quite monotonous.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「No way, really！？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I suspect you're so focused on using your Tenju of Illusions that you're losing track of your own form. That's a huge waste.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Whoa~ I had no idea. I really didn't know.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Like I mentioned before, because you allocate your power into your unique Tenju, you fall behind normal swordsmen in terms of attack and defense.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That's why, if a power-fighter who dumps everything into offensive Tenju charges at you ready for a mutual knockout, you'll get overpowered.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Yeah, yeah, you did say that~」"
+    },
+    {
+        "name": "Iori",
+        "message": "「The only way for you to counter that is to increase your evasion. Illusions help with that, but they aren't enough on their own.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That’s where your aforementioned Lily Style comes in.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That unique footwork and those steps have high evasion capabilities. Let's make use of them even more—much more.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「So, I want you to use Yorishiro-kun to train exclusively against past powerhouses, Ririmu.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「In parallel with basic training, you’ll defeat even stronger opponents.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You’ll engage in comprehensive matches against not only every generation of Toujinegi but also swordsmen from various schools to hone your predictive skills and improve your evasion.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「What do you think? Sounds pretty practical, doesn't it?」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ugh... doesn’t that sound, like, super dull？」"
+    },
+    {
+        "message": "Ah, she’s making a face like she doesn't want to do it."
+    },
+    {
+        "name": "Iori",
+        "message": "「You’ll grow stronger by defeating every formidable foe from the past, you know？ It’s a literal success story on the path to victory！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Oh! Maybe I actually like the sound of that. I get it, I get it—it’s the story of Flying Lily!」"
+    },
+    {
+        "message": "Oh, she's on board."
+    },
+    {
+        "name": "Iori",
+        "message": "「Exactly. I want you to refine your Lily Style within that story and complete Ririmu’s worldview.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Yeah, yeah, worldviews！ You get it, Iorin！ You’re really good at getting me motivated, Teach！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「The teachers I’ve had before were never like this, so it’s super fresh. I’m seriously falling for you~♪」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I-is that so？」"
+    },
+    {
+        "message": "Well, it doesn't feel bad being admired."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Iori-sensei, when a gyaru says ‘falling for you,’ it has the light meaning of ‘I like it,’ so please don’t misunderstand.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「What！？ Hey, what are you eavesdropping for！？」"
+    },
+    {
+        "message": "Before I knew it, Asahi was nearby, observing us."
+    },
+    {
+        "name": "Iori",
+        "message": "「I see, just ‘I like it,’ huh.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hey, my ‘falling for you’ isn't that light！ It means like, ‘you’re seriously my favorite,’ okay！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hehe, you’re below me in rank, then. I love Iori-sensei from the bottom of my heart.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Asahi, please don't say that right to my face...」"
+    },
+    {
+        "message": "I can't help but blush."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Shut it, I’m in the middle of a lesson here！ Go away, you Kijo！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hehe, sorry for the interruption.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Jeez... what is her deal！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「W-well, I don’t think she meant any harm...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「That's pure malice！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Anyway, let's get Yorishiro-kun set up. I've already got a list of opponents ready.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I'm already looking forward to seeing how Lily Style grows！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Okay！ I'm gonna show off my worldview~」"
+    }
+]

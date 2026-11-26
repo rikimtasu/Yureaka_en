@@ -1,0 +1,284 @@
+[
+    {
+        "name": "Mikoto",
+        "message": "「Ahahaha, sounds like Momiji really got one over on you.」"
+    },
+    {
+        "message": "Sasaki-sensei burst out laughing after hearing my story."
+    },
+    {
+        "message": "After parting ways with Momiji, I was moping over my own lack of tact when Sasaki-sensei got in touch with me."
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Hey, Muragaki. Got a minute？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yes... I'm free.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「What's wrong? You sound down.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Whatever. How's it been going since then？ Making any progress with the guidance？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Not in the slightest.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Come on, pull yourself together.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, wait—just hear me out...！」"
+    },
+    {
+        "message": "...And so, after I vented to Sasaki-sensei nonstop, she told me to swing by, which brought me here to the infirmary."
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Momiji's a sly one. If you deal with her dead honestly, you're gonna end up regretting it.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「What do you mean she got one over on me？」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「I'm sure you already know this, but Momiji is ridiculously smart.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「She did get near-perfect scores on her tests.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Yeah, and she uses that sharp mind of hers for scheming.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Scheming？」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「When you're trying to figure out Momiji's actions, first thing you do is rule out coincidence.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「If her underwear was sitting right on top of her bag, it's because she decided she needed it to be there.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Momiji put her underwear on top of her things ahead of time so she could whip it out in an emergency.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「When you called out to stop her, she flashed the underwear she'd already prepped, caught you off guard, and slipped away.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Wait, but the odds of her running into me weren't even that high.」"
+    },
+    {
+        "message": "I'd only gone to the station front because I was chasing after Ririmu when she ran off, and I only noticed Momiji because Ririmu almost bumped into her."
+    },
+    {
+        "message": "Both of those were heavily driven by chance."
+    },
+    {
+        "message": "Was Momiji really anticipating even something like that...？"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Exactly. If she spotted you, she had plenty of ways to avoid running into you—hiding, running away, whatever.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Still, the chance of ending up in a situation she couldn't escape from wasn't zero. So Momiji took out an insurance policy.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「You made preparations in advance for an infinitesimally low probability.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Do you understand what that implies？」"
+    },
+    {
+        "message": "The reason for taking out insurance against an infinitesimally low probability."
+    },
+    {
+        "message": "……It’s when being exposed carries an infinitesimally high risk."
+    },
+    {
+        "name": "Iori",
+        "message": "「There was something she absolutely didn't want me to see in that bag……？」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Correct. That’s the logical conclusion.」"
+    },
+    {
+        "message": "I see, I finally understand what she meant by 'you got the better of me'."
+    },
+    {
+        "name": "Iori",
+        "message": "「At that moment, should I have ignored the underwear and insisted, 'Show me the bottom of the bag'……！」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「That’s exactly right.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「So there’s no need to blame yourself for lacking delicacy. It was all part of Momiji’s scheme. Worrying about it is just a waste of time.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, but, are you sure? Could the underwear have been a coincidence……?」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「I told you, didn't I? When considering Momiji’s actions, rule out coincidences.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Momiji is a strategist to the bone. Don't forget that even the anxiety you're feeling right now is part of her calculations.」"
+    },
+    {
+        "message": "Are you serious…… Momiji is too terrifying."
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Well, whatever. I knew Momiji would have a hard time.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「But as for Kazamine Setsugekka, Tobe Ririmu, and Kuki Asahi.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「The difficulty level shouldn't be that high for those three, should it? What on earth are you dragging your feet for?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Easy for you to say, but they’re all a handful……」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Obviously. Did you forget my advice？」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「This place is different from some lukewarm academy where they just teach you school subjects. This is a place that teaches you how to beat the hell out of someone with a blade.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Martial artists don’t bow their heads to someone they consider inferior to themselves. Use whatever means necessary to hammer the hierarchy into them.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Listen, Muragaki. They look down on you.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Who would ever want to be taught by someone they can easily push around？」"
+    },
+    {
+        "message": "……Ah, I see."
+    },
+    {
+        "message": "Murakumo Academy is a truly narrow gate, with the entrance exam for the Martial Arts Division being over 50 times the capacity. By simple calculation, only one in fifty students gets in."
+    },
+    {
+        "message": "That’s why the students who make it in are possessed by a kind of elitist mindset."
+    },
+    {
+        "message": "I’m no exception. When I first enrolled in the academy, I was an insufferable brat."
+    },
+    {
+        "message": "The reason I turned over a new leaf and started taking a teacher's guidance seriously is that I was soundly beaten and left helpless by the school's special instructor."
+    },
+    {
+        "name": "Iori",
+        "message": "「……I was being looked down on, wasn't I.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「That's right. Setsugekka, Momiji, Asahi, and Ririmu all look down on you.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「That's why they won't obey you. It's as simple as that.」"
+    },
+    {
+        "message": "……At first, when I received that advice from Sasaki, I couldn't believe it."
+    },
+    {
+        "message": "I thought that even without resorting to corporal punishment or disciplinary measures, they would surely understand if I just conveyed my passion to them."
+    },
+    {
+        "message": "That's what I believed."
+    },
+    {
+        "message": "But it seems that was just a naive fantasy. These past few days have taught me otherwise."
+    },
+    {
+        "message": "As I dwelled on all of this, I gradually started to get angry."
+    },
+    {
+        "message": "I’ve tried my best to be a good teacher, but I was about at my limit."
+    },
+    {
+        "name": "Iori",
+        "message": "「Heh… ugh, hehe, heh-heh-heh…！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hahaha! Ha-hahaha! Hahahahaha!!!」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「H-hey.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Honestly… they won't listen to a word I say, they’re selfish, they cause nothing but trouble, they plot behind my back, and they run circles around me—those girls are really something else！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Do they think I’m some kind of saint or something！？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Even I have a breaking point, you know！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Alright, fine! If that’s how you want to play it, then I’ve got a few ideas of my own!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Kind, gentle Mr. Iori is off-duty as of this moment！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Starting tomorrow, it’s the era of the drill sergeant Muragaki Iori！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Prepare yourselves, you Takamura Class chicks！！」"
+    },
+    {
+        "message": "I raised my fist high, laughing wildly."
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Ah, maybe I pushed him a little too far…」"
+    }
+]

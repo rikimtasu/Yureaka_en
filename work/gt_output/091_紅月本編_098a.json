@@ -1,0 +1,432 @@
+[
+    {
+        "name": "Setsugekka",
+        "message": "「Miyako-chan, you’re really going home？ You could stay with us until we graduate, you know!」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Hehe, thank you, Setsugekka-san.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「It’s all so sudden. You could have stayed a little longer, you know…」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「I wanted to, but Tsubaki would get lonely.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Did your father apologize properly？」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Yeah, he said he was sorry.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, that’s good.」"
+    },
+    {
+        "message": "Apparently, there had been contact from Momiji’s father a few days ago, and Miyako-chan had decided to return home."
+    },
+    {
+        "message": "Since the car to pick her up would be arriving soon, Momiji, Setsugekka, and I decided the three of us would go out to greet Masatane."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ah~ I’m gonna miss you~ Why don't you just become my little sister instead？」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「I wouldn’t mind having another big sister.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Hold on, Miyako, don’t you have enough of a big sister with me already！？」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Hmm, I was only able to live in Big Sister’s room because Setsugekka-san cleaned it up for me.」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Otherwise, I might have ended up living in Setsugekka-san’s room, maybe？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I taught you all sorts of things as your big sister, you know. Right? Miyako-chan?」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「If anything, wasn't I the one teaching you, Setsugekka-san？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Yeah, that’s right.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「That’s not true~！ Come on, Miyako-chan, let’s do that thing！ We won’t be able to once you go home, you know？」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「That thing…？ Oh, I get it！ You mean that thing？」"
+    },
+    {
+        "message": "They look at each other and giggle knowingly."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Here we go, one, two！」"
+    },
+    {
+        "name": "Setsugekka & Miyako",
+        "message": "「Suzaku Hyper Dry！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Pfft！？ What kind of stupid things are you teaching her！！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I told her it’s useful for when you really need to get Momimomi to listen to you~」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「I’m glad she taught me that.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「……Whatever you do, don't say that in front of my family or my father, okay？ Secchan, just you wait！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Nope, nope, I didn't do anything wroooong.」"
+    },
+    {
+        "message": "While she was fooling around like that, it seemed our ride had arrived."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Oh, here they are.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I can see the family crest of the archenemy Suzakuin family！ No doubt about it！」"
+    },
+    {
+        "message": "The car pulled up and the door opened. A small shadow immediately came running out."
+    },
+    {
+        "name": "Tsubaki",
+        "message": "「Big sisterrrrr！！」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「There, there... Tsubaki, have you been a good girl？」"
+    },
+    {
+        "name": "Tsubaki",
+        "message": "「Yeah! I missed you so much! You won't run away from home again, right？」"
+    },
+    {
+        "message": "She had sprinted over at full speed and was clinging to Miyako. Watching the happy sisters warmed my heart."
+    },
+    {
+        "message": "Children are unconditionally cute. And that's just fine."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ugh, so cute! I really want one for myself.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「If you want one that badly, why don't you ask that man？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「That old guy？ Alright, I'll go ask!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, don't, Setsugekka! Do you even know who that is?」"
+    },
+    {
+        "message": "The person Momiji had pointed to was the one who had just stepped out of the car—the current head of the Suzakuin family, Mr. Masatane Suzakuin."
+    },
+    {
+        "name": "Iori",
+        "message": "「Everyone, offer your respects.」"
+    },
+    {
+        "message": "Anyone involved in Jindou would surely know him. Setsugekka was a bit questionable, but... We greeted him with a simple, high-ranking salute."
+    },
+    {
+        "name": "Masatane",
+        "message": "「Please, be at ease. We are not in a public setting right now.」"
+    },
+    {
+        "message": "A low, commanding voice echoed. I knew his name, of course, but this was my first time meeting him in person."
+    },
+    {
+        "name": "Masatane",
+        "message": "「You are Momiji's homeroom teacher, I presume?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yes, I am Muragaki Iori, and I am in charge of her instruction.」"
+    },
+    {
+        "name": "Masatane",
+        "message": "「Ho...！ So, that's the Muragaki I've heard of. I see.」"
+    },
+    {
+        "message": "As expected of the head of the Sword-Bearing Self-Defense Association, he would certainly know. I could only hope that none of my ancestors had left behind a grudge."
+    },
+    {
+        "name": "Masatane",
+        "message": "「I hear you are providing Momiji with good guidance. I look forward to your continued support.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You are too kind. I will do my absolute best.」"
+    },
+    {
+        "name": "Tsubaki",
+        "message": "「Big sisters, thank you for bringing Miyako back to us♪」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Come visit anytime! Oh, and I'd be even happier if Tsubaki-chan came along too~」"
+    },
+    {
+        "name": "Tsubaki",
+        "message": "「Yay!♪」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Setsugekka-san, please don’t egg her on too much, okay？」"
+    },
+    {
+        "message": "Tsubaki-chan looks so happy being patted by Setsugekka. Ugh, if only I weren’t in front of Masatane-shi…！"
+    },
+    {
+        "name": "Miyako",
+        "message": "「It’s alright, I’ll come over to play with Tsubaki again next time.」"
+    },
+    {
+        "name": "Masatane",
+        "message": "「We’re only just about to head home… and you’re already talking about the next visit.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Haha…」"
+    },
+    {
+        "message": "Masatane-shi is understandably giving a sour look."
+    },
+    {
+        "name": "Masatane",
+        "message": "「…Momiji.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Yes, Father. Is something the matter？」"
+    },
+    {
+        "name": "Masatane",
+        "message": "「The Murakumo Martial Festival is soon. You do understand, don’t you?」"
+    },
+    {
+        "name": "Masatane",
+        "message": "「Murakumo is our backyard… therefore, failing to take the top spot here would be a disgrace to the Suzakuin name.」"
+    },
+    {
+        "name": "Masatane",
+        "message": "「As the eldest daughter, you bear the responsibility of leading the vanguard and making the world realize that the Suzakuin family still reigns supreme.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I understand, Father. You have no need to worry. I will certainly live up to your expectations.」"
+    },
+    {
+        "name": "Masatane",
+        "message": "「Very well. I’m counting on you.」"
+    },
+    {
+        "message": "Masatane-shi nods in satisfaction. Momiji stares back, not flinching in the slightest."
+    },
+    {
+        "name": "Tsubaki",
+        "message": "「Good luck, Momiji-oneechan！」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「We’re rooting for you, Oneechan.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Yes, thank you.」"
+    },
+    {
+        "message": "Fervent expectations and encouragement are showered upon her by her younger sisters. She gives them a firm nod."
+    },
+    {
+        "name": "Masatane",
+        "message": "「Now, let’s be off. Thank you all for your hospitality.」"
+    },
+    {
+        "message": "The car they boarded slowly begins to pull away. Tsubaki-chan and Miyako-chan are waving from the window."
+    },
+    {
+        "message": "Everyone waves back in response."
+    },
+    {
+        "name": "Miyako",
+        "message": "「Thank you, Oneechan！ See you later~」"
+    },
+    {
+        "name": "Tsubaki",
+        "message": "「I’ll come watch the Martial Festival！ See ya, Oneecha~n！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Bye-bye, Miyako-chan！ Tsubaki-chan！ I’m definitely going to crush Momimomi！」"
+    },
+    {
+        "message": "After seeing Miyako-chan off and returning to the classroom, I was pelted with questions by Asahi and Ririmu."
+    },
+    {
+        "message": "Once I explained the situation in detail…"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Momiji-san’s father is a very strict man, isn’t he…」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「...Even so, seriously？ What was with the way he said that！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Man, he's just like my parents！ Literally the worst of the worst.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Well, yeah, though he's always been like that.」"
+    },
+    {
+        "message": "Momiji smiles wryly at Ririmu's indignation."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Still, Father does have a point. The martial families only exist because of the Sword-Bearing Self-Defense Association. And Suzakuin is its linchpin.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Uhhh, yeah... Well, I guess that's true...」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「If we lose that linchpin, chaos and upheaval will break out immediately. And someone will be sacrificed...」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「The Spirit Agency, the Cabinet, all sorts of other organizations... There are people everywhere waiting for an opening to exploit.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「If the organization falls apart and we start fighting among ourselves, there'll be no room left for Jindou.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「That's why we have to project our authority in every direction. And that's my duty, you see.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「…………」"
+    },
+    {
+        "message": "Once again, I'm reminded of the crucial responsibility Suzakuin bears."
+    },
+    {
+        "name": "Momiji",
+        "message": "「That's why I'm going to become Toujinegi.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「No matter... who stands in my way, I have no choice but to keep moving forward.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Momiji...」"
+    },
+    {
+        "message": "A faint light dwells in Momiji's eyes as she looks back. With the setting sun behind her, she stands carrying something immense."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Well, you know, I guess it really is impossible for all of us to hold hands and become Toujinegi together.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Still, working hard together like this... right now, I think it wasn't so bad after all.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「So I'll go ahead and say it... Thank you, everyone. Still, I won't hold back in our matches.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Yeah, you're right. We all feel the exact same way about refusing to lose, don't we？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Indeed. Our responsibilities may not be as heavy as yours, Momiji-san.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「However, feelings cannot be measured by size. I don't believe ours are inferior to yours in the slightest, Momiji-san.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I love this kind of thing! That's exactly why we can fight with everything we've got!」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Heh, bring it on!」"
+    },
+    {
+        "message": "It's precisely because we know we can't lose that we can fight. Just as Setsugekka said, that's the kind of battle this is."
+    },
+    {
+        "name": "Iori",
+        "message": "「Alright, everyone. Once the new week starts, it's finally time for the Martial Festival preliminaries！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Everyone, watch out for injuries and avoid over-exerting yourselves during practice. Make sure to get plenty of rest！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yes, teacher！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Understood!」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Roger that！」"
+    },
+    {
+        "message": "Soon, the battle to reach the pinnacle of the academy will begin. No one knows the outcome yet."
+    },
+    {
+        "message": "One thing is for certain: it’s undoubtedly going to be intense."
+    },
+    {
+        "message": "I felt anticipation and excitement surging at the scent of the coming battle."
+    }
+]

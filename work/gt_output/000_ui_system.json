@@ -1,0 +1,77 @@
+[
+    {
+        "message": "Skip"
+    },
+    {
+        "message": "Auto"
+    },
+    {
+        "message": "History"
+    },
+    {
+        "message": "System Menu"
+    },
+    {
+        "message": "Hide Window"
+    },
+    {
+        "message": "Save Menu"
+    },
+    {
+        "message": "Exit Scene"
+    },
+    {
+        "message": "Load Menu"
+    },
+    {
+        "message": "Quick Save"
+    },
+    {
+        "message": "Quick Load"
+    },
+    {
+        "message": "Back to Previous Choice"
+    },
+    {
+        "message": "Advance to Next Choice"
+    },
+    {
+        "message": "Pin Menu"
+    },
+    {
+        "message": "Adjust Window<br>Opacity"
+    },
+    {
+        "message": "Adjust Window<br>Opacity"
+    },
+    {
+        "message": "Register Favorite Voice"
+    },
+    {
+        "message": "Favorite Voices"
+    },
+    {
+        "message": "Tweet"
+    },
+    {
+        "message": "Tips"
+    },
+    {
+        "message": "Your system does not meet the operating requirements, so the game may not run properly."
+    },
+    {
+        "message": "Mystery"
+    },
+    {
+        "message": "Mystery"
+    },
+    {
+        "message": "Mystery"
+    },
+    {
+        "message": "Sample Text"
+    },
+    {
+        "message": "No..."
+    }
+]

@@ -1,0 +1,1142 @@
+[
+    {
+        "message": "After the capture operation for Setsugekka utilizing carbohydrate restriction ended."
+    },
+    {
+        "message": "Summoned by Asahi, I arrived in front of the convenience store with Setsugekka."
+    },
+    {
+        "name": "Iori",
+        "message": "「So, how is Ririmu doing？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「She just walked into the convenience store.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I believe now is the perfect time to initiate the operation.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Good, good, that’s great.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Muragaki-sensei, what are you planning to do now？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I’m starting the Ririmu capture operation.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Cap-ture op-er-a-tion？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Exactly. It’s a mission of utmost importance to persuade her to attend classes, just like you, Setsugekka.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「In my case, it was more like bribery or maybe blackmail than persuasion.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「That was enough in your case, Setsugekka-san.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「What’s that supposed to mean!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, Setsugekka, you’re the type who just goes with the flow.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「That’s wrong, I think before I act!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Calm down, there’s a part for you in this operation too.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Eh, really？ Can I actually be useful？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, of course.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Alright, let’s begin Operation ‘Green Grass Belongs to Everyone’！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Whew, shopping done. Now, what should I do next~」"
+    },
+    {
+        "message": "I stretch as I exit the convenience store and look around."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「…Wait, isn’t that Sensei and the demoness？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Uh-oh, gotta hide！」"
+    },
+    {
+        "message": "Iori and Asahi walk right past me. They don’t seem to have noticed me."
+    },
+    {
+        "name": "Asahi",
+        "message": "「I’m counting on you today too, Iori-sensei!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Of course. We’re going to be drilling hard.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Yes!」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "（Ah, so the two of them are headed to the outdoor training grounds. How diligent of them~）"
+    },
+    {
+        "message": "Hiding behind the convenience store, I watch them."
+    },
+    {
+        "name": "Iori",
+        "message": "「Asahi, you’re a really fast learner. At this rate, becoming a Toujinegi isn’t just a pipe dream.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hehehe, that’s just because Iori-sensei is such a good teacher♪」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "（Wow~, talk about laying on the flattery.）"
+    },
+    {
+        "message": "They stop to keep talking, perhaps needing something at the convenience store."
+    },
+    {
+        "name": "Asahi",
+        "message": "「By the way, Iori-sensei, how good would you say I am right now？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, let's see. If you were up against Ririmu, I think you'd have an easy win.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "（Huh！? An easy win? No way in hell...！）"
+    },
+    {
+        "message": "That really pissed me off. There's no way I'd lose to a Kijo."
+    },
+    {
+        "name": "Asahi",
+        "message": "「But Ririmu-san is training too, isn't she？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That may be, but there's a limit to how far you can get training on your own.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「As things stand, I doubt she'll even make the selection for the Martial Festival preliminaries.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "（Hey, you’ve got to be kidding me！？）"
+    },
+    {
+        "message": "I nearly let out a sound and hurriedly covered my mouth."
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, regarding Ririmu, there’s an even bigger problem—there’s a chance she might fail out before the Martial Festival even begins.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "（Ugh... I don't want that~）"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hmm, is that so?」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Then that means Ririmu-san loses without even having to fight, right?♪」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "（That woman... she's so annoying...！）"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, don't let your guard down. Ririmu is actually fairly strong.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「She has a unique rhythm that’s hard to predict; if you challenge her without any preparation, you’ll definitely have a tough time.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "（Yeah, yeah, that’s right, Iorin.）"
+    },
+    {
+        "message": "The anger melted away thanks to Sensei's defense."
+    },
+    {
+        "name": "Asahi",
+        "message": "「In that case, Iori-sensei, please teach me how to counter Ririmu-san.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Of course. That's what my coaching is for.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hehe, at this rate, I'll be the only one getting stronger, won't I?」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "（H-Hey... wait a second, isn't that unfair？！）"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hey now, I have no intention of playing favorites with anyone.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「If Ririmu actually comes to the classroom and accepts my coaching, I'll teach her how to counter you.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「It wouldn't be fair otherwise, right?」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "（Iorin...）"
+    },
+    {
+        "message": "I don't know what it is, but this guy is a little different from the adults I've met so far."
+    },
+    {
+        "message": "He has solid principles, nothing snide about him, and he doesn't look at me with prejudice."
+    },
+    {
+        "name": "Ririmu",
+        "message": "（...Yeah, I might actually like this guy.）"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Aww, you'd really teach Ririmu-san how to counter me？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, only if Ririmu actually feels like taking my coaching, though.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Then allow me to say a little prayer.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「May Ririmu-san remain oblivious to how wonderful Iori-sensei is, cling stubbornly to her own values, and fade into obscurity.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "（Whaaat did she say...?! This bitch—now I'm really pissed!）"
+    },
+    {
+        "message": "At the end of my patience, just as I'm about to jump out—"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Heeey, heeey! Muragaki-senseeei!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Oh, it's you, Setsugekka.」"
+    },
+    {
+        "message": "Seeing Setsugekka approaching from over there, I hurriedly hide."
+    },
+    {
+        "name": "Ririmu",
+        "message": "（Huh？ That's weird, were Setsugekka and Teach always on good terms？）"
+    },
+    {
+        "message": "The Setsugekka I know was definitely avoiding Teach."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Muragaki-sensei, give me some coaching too~」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, of course. You're a precious student of mine too, Setsugekka！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hmm, that sounds kinda fake.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hey.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Oh well, if it's for fried rice, I'll do my best！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "（Fried rice？）"
+    },
+    {
+        "name": "Iori",
+        "message": "「W-Well, whatever the reason, I'll put everything I've got into training you so you can get stronger, Setsugekka」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yeah, yeah! Then let's head to the training grounds together!」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hey now, Setsugekka-san, you're being way too familiar with Iori-sensei」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Huh, isn't that mutual？」"
+    },
+    {
+        "message": "Setsugekka and Asahi bantering noisily with Sensei caught between them."
+    },
+    {
+        "message": "Just like that, the three of them headed off toward the outdoor training grounds."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「What the heck, looking like they're having so much fun」"
+    },
+    {
+        "message": "I'd stayed hidden until they passed, yet a strange knot lingered in my chest."
+    },
+    {
+        "message": "By rights, I should be able to be right there in that circle too."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「...Why am I being so stubborn」"
+    },
+    {
+        "message": "If I could just be a little more honest with myself, could I have fun like that too...？"
+    },
+    {
+        "name": "Iori",
+        "message": "「...Yeah, that should about do it」"
+    },
+    {
+        "message": "After putting Asahi and Setsugekka through some light training."
+    },
+    {
+        "message": "By the time I finished tidying up the training grounds, the sun had already begun to dip."
+    },
+    {
+        "message": "Once I got started, I noticed litter and stuff scattered in the grass, so cleaning it all up took longer than expected."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Yo, Iorin」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Oh, Ririmu. What's up, need something？」"
+    },
+    {
+        "message": "Since I'd sent the other two home earlier, I was the only one left here."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hmm, not really anything in particular」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Just wondering if you're doing okay~」"
+    },
+    {
+        "message": "Ririmu looking somewhat hesitant to speak."
+    },
+    {
+        "name": "Iori",
+        "message": "「Not doing so great since you aren't around, Ririmu」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Idiot, lip service like that doesn't suit you, Sensei」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Haha, fair enough」"
+    },
+    {
+        "name": "Iori",
+        "message": "「So, when are you finally going to show up to my classes, Ririmu？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Well, that's... whenever I feel like it？」"
+    },
+    {
+        "message": "She looked away awkwardly."
+    },
+    {
+        "name": "Iori",
+        "message": "「Come to think of it, I owe you an apology, Ririmu」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Wait, why？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You asked me a question the other day, Ririmu.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You asked why students in the Martial Arts Division are failed for not getting good marks on written exams, even if they get good results in practicals.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I couldn't answer that question.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「But that's not your fault, Teacher.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, that's not true.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「It is a teacher's duty to provide answers to what their students wonder about.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「If I can't do that, I'm not fit to be a teacher. That's what I believe.」"
+    },
+    {
+        "message": "I let out a small sigh."
+    },
+    {
+        "name": "Iori",
+        "message": "「But, I've been thinking about it, and I couldn't find one.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「There's no way written exams can measure character, and I can't explain why a swordsman would need them either.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Academics shouldn't be a contest of endurance or a game of scoring points.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「True learning only happens when there's an inquisitive desire to know.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Studying just to get points on a test might be a corrupt act that degrades the dignity of how learning should be.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...But, even if I wanted to say, 'Then let's just scrap the written exams,' I don't have the authority to do that.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Even if I say it's wrong for Martial Arts students to fail because they got poor marks on a written test, I can't overturn that.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I lack the power to satisfy you, Ririmu.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「So... I'm sorry.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I'm sorry I couldn't live up to your expectations, Ririmu.」"
+    },
+    {
+        "message": "I bowed my head to Ririmu."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hey, stop it, this isn't something you need to apologize for, Teacher.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「But because I couldn't convince you, Ririmu, you might end up unable to stay at Murakumo Academy.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Even if that's the case, it's my fault, and it has nothing to do with you.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「How could it have nothing to do with me?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「As your assistant homeroom teacher, I’ve been entrusted with your lives.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「If I can't convince you right here, I know I'll regret it for the rest of my life.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Iorin...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ririmu, I don't want you to quit.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You have a rare talent that nobody else possesses. I want to see you grow as a swordswoman.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「…………」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I might not be able to give you an answer that satisfies you... but I know I can make you stronger.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「But if you fail your exams, even that possibility will be taken away.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I'd be sad if you were gone, and it'd really frustrate me.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hey... what should I do？」"
+    },
+    {
+        "message": "I ask her earnestly."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Wh-What the heck... Saying stuff like that isn't fair.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「If you put it like that, I've got no choice but to give in, y'know.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ririmu, will you do this with me？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「...Well, if you're gonna go that far, Teach, I guess I'll give it a shot.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「There's still time until midterms, so if I start now, I'll manage somehow, right？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, of course！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I'll help you out as much as I possibly can. I promise.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「So promise me too, Ririmu.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That you won't run away, and that you'll face any hardship together with me.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Yeah, yeah, roger that！」"
+    },
+    {
+        "message": "Oh, yes! I actually managed to convince Ririmu...!!"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Besides, aren't you being a bit dramatic? 'Face any hardship,' really?」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「It's just a written test—it'll be a total breeze, I'm telling you.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Considering how much you've been running away up till now, you can't blame me. Make sure you keep your promise.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I know, I know.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Once I've made up my mind and decided on something for myself, I'll do it without anyone telling me to」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Because that's my worldview！」"
+    },
+    {
+        "message": "Either way, that's a relief. With this, the Ririmu conquest campaign is—"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ah, Setsugekka-san」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yeeeeeeeeeeeeeeeeeah！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Con-quest com-plete！！」"
+    },
+    {
+        "message": "Setsugekka came tumbling out of the bushes, with Asahi trying to stop her."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Huh！？ W-What？ What do you mean, 'conquest'？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「You, of course, Ririmu-chan」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Me？ Wait, Teach, what's going on！？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Setsugekka, you...！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I'm sorry, Iori-sensei. I tried to stop her, but...」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Huh？ Is the mood kinda weird？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Setsugekka-san, what were you thinking！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Well, you know, I figured when something like this goes well, running up holding a 'Prank Success！' sign is the classic pat-tern」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Huh？ Wait, was this a prank？ You set this whole thing up just to get me to go to class！？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「N-No, it's not！ Well, I mean, it kinda is, but...！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Haaaah, what the heck, seriously！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I look like an idiot for actually listening to you seriously！」"
+    },
+    {
+        "message": "Ririmu, starting to fume in a huff."
+    },
+    {
+        "name": "Iori",
+        "message": "「Wait, Ririmu, listen...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Yeah, no, this really isn't the mood for listening anymore」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「A-Ahahahaha... Did I, uh, totally screw up？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, you completely screwed up」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「You certainly did」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「You've really gone and done it, huh~」"
+    },
+    {
+        "message": "That nice momentum had been completely ruined by a single remark from Setsugekka."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「...Well, that's my cue to exit.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Like hell it is！」"
+    },
+    {
+        "message": "Ririmu grabs Setsugekka by the scruff of her neck."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Alright, spill it! What’s this about a hidden camera prank?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「W-wait, Ririmu-chan, I’m just a side guest here!」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I'm basically in that position of a young comedian who jumped at the chance when they were told they'd get some screen time!」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「The masterminds are those two over there, Muragaki-sensei and Asahi-chan!」"
+    },
+    {
+        "message": "Hearing Setsugekka's words, Ririmu turns her gaze toward me and Asahi."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「...I see. I think I get it now.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「So that whole thing where you stopped in front of the convenience store to talk? That was staged for my benefit, wasn't it?」"
+    },
+    {
+        "message": "She's right. I had said those things on purpose just to make sure Ririmu heard them."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ugh... what a letdown.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I thought Sensei was actually thinking about me seriously, but I got played like a damn fiddle.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「That demoness included, you guys are all my enemies, huh.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Heh, what a coincidence. I think of you as my enemy too.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Asahi, don't make things any more complicated...」"
+    },
+    {
+        "message": "Just as I started to say that, Asahi held up a palm toward me, signaling me to stop."
+    },
+    {
+        "name": "Asahi",
+        "message": "「However, I would like you to retract your assessment of Iori-sensei.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Huh？ And why should I listen to you？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Let's be honest.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「If you fail your written exam and get expelled, I truly couldn't care less.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「If you don't have the motivation, you should just leave the academy. That's all there is to it.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「May Ririmu-san remain oblivious to how wonderful Iori-sensei is, cling stubbornly to her own values, and fade into obscurity.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「What I said back then was, without a doubt, my true feelings.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Wow, you really do have the most charming personality, don't you...！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Thank you for the compliment.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I wasn't complimenting you!」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「To begin with, I never wanted you to receive instruction from Iori-sensei.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「So? Then that's the end of the discussion, right?」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Then for whom, and to what end, was this little charade staged?」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「You understand, don't you？ This was something Iori-sensei did for your sake.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「…………」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「You may despise me all you want.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Because I don't care for you either.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「But Iori-sensei is different.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「The words he spoke to you at that time,」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「'I don't want you to quit. You have a rare talent.'」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「'I want to see you grow as a swordswoman.'」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「'If you were to disappear, I would be sad, and it would be incredibly frustrating.'」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「These were by no means an act or a performance.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「He wants you to attend class, he wants you to become stronger.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「He simply cannot bring himself to abandon you.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Because he feels that way, he did this while agonizing over how he might be able to get you to accept him.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I, who have revered Iori-sensei since I was small, can guarantee this.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Iori-sensei wants to be your ally from the bottom of his heart.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Please, I beg you, do not doubt that, at the very least.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「…………」"
+    },
+    {
+        "message": "Ririmu falls silent at Asahi's words."
+    },
+    {
+        "message": "I, too, found myself unable to say a word."
+    },
+    {
+        "message": "And then, time that I couldn't tell if it was long or short passed by—"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Aaaaaaaaaaah, seriously！ Fine, I get it！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Iorin！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yes！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Don't you ever try to trick me again, got it！？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「U-Understood.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Sigh... Not that I can count on a Kijo's guarantee one bit, though.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Even I can tell you're not a bad guy, Sensei.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「So I take back calling you an enemy. Sorry, Sensei.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, I'm the one in the wrong here. I'm sorry.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I should've just come at you head-on instead of pulling cheap tricks.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Anyway, why'd you even think of putting on an act in the first place？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, you know, you treat Asahi like an enemy, right, Ririmu？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「It's not just treating her like an enemy—she is one.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ufufufufu.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「You're scaring me, Asahi-chan, say something...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, so I figured if you found out I was teaching Asahi how to counter you, you'd want to get coached too.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ah, yeah, that definitely made me want to.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「And I figured if we showed you everyone getting along—Setsugekka included—you'd want to join the circle too.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hmm, that worked on me too~」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I want to have a good time at the academy too, after all.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hate to admit it, but without that little act, I probably wouldn't have gone out of my way to talk to you myself, Iorin~」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「In other words, Operation 'Green Grass Belongs to Everyone,' devised by Sensei, hit the mark brilliantly—the conquest operation paid off.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I wonder about that.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Operation Green Grass Belongs to Everyone？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Sharing everything as a team—both the good and the bad—and encouraging each other as we push one another to improve.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That's the best way to grow strong at Murakumo Academy.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That's why, instead of getting jealous that 'the grass is greener on the other side,' I named it with the meaning that we should all go to that greener grass together！」"
+    },
+    {
+        "message": "If I do say so myself, I think it's a pretty well-crafted operation name."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Whoa, that's where it came from？ Isn't that kind of lame？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Yeah, lame. Pretentious and snobby-sounding.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Your lack of naming sense is part of your charm too, Iori-sensei.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Guh...! Y-You guys...!」"
+    },
+    {
+        "message": "They really tore into me."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「More importantly, seriously, give me a break with telling Kijo my weaknesses.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「There's no way I ever want to lose to her.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Fine by me, but don't you want to know Asahi's weaknesses, Ririmu？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Oh, I definitely want to know those!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Then I'll tell each of you the other's weaknesses. That keeps things fair.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ehhh?! No way, no way, I want to be the only one who gets stronger!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No can do. I've made up my mind not to play favorites like that.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Whaaat, you stingy jerk！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hey, hey, Ririmu-chan.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hm？ What？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「So in the end, did you decide to come to class, Ririmu-chan？」"
+    },
+    {
+        "message": "At that question, she awkwardly averts her eyes."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Uh... Well, I mean, that's the plan for now.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ooh, going dere.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「That's wonderful, Iori-sensei.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「H-Hey, I'm not going dere！ I'm only doing it 'cause I have to！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「If Sensei doesn't keep his promise properly, I'll stop going again, you hear me！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Come on, don't say that. You're gonna hurt my feelings.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「May Ririmu-san remain oblivious to how wonderful Iori-sensei is, cling stubbornly to her own values, and fade into obscurity.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I told you to cut that out！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Besides, I already noticed Sensei's good points ages ago! Your prayers didn't work even a single millimeter~」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「It seems Ririmu-san has realized how wonderful Iori-sensei is.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Whoa, Ririmu-chan went all dere again~」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「N-No, I'm telling you that's not it~~~！！！」"
+    },
+    {
+        "message": "And so, with one thing and another."
+    },
+    {
+        "message": "There were a few hiccups along the way, but the Ririmu conquest was safely completed."
+    },
+    {
+        "message": "Con-"
+    },
+    {
+        "message": "quest"
+    },
+    {
+        "message": "Complete"
+    }
+]

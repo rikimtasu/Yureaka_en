@@ -1,0 +1,351 @@
+[
+    {
+        "name": "Miyako",
+        "message": "「...Big sister, something is ringing.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ugh... but I’m on break right now~」"
+    },
+    {
+        "message": "Just as I was lounging around in my room after finishing today's training, I got a call from someone."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Who could it be... wait, it’s Father！？」"
+    },
+    {
+        "message": "As soon as I checked, my mood sank."
+    },
+    {
+        "message": "I was finally having some downtime... I really don't want to pick up. Father's conversations are always just nagging."
+    },
+    {
+        "name": "Momiji",
+        "message": "「...Hello, this is Momiji speaking.」"
+    },
+    {
+        "name": "Masatane",
+        "message": "「It is I. Masatane.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Good evening, Father. Is there something you need?」"
+    },
+    {
+        "name": "Masatane",
+        "message": "「Indeed... how are you faring? The Martial Festival draws near. I shouldn't need to ask, but your preparations are thorough, I trust?」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Yes, of co— *ahem*, everything is in order. I’m doing well, and I’m receiving excellent guidance, so.」"
+    },
+    {
+        "message": "That was close... I almost spoke like I usually do！ I haven’t used my ‘model student’ mode in a while, after all."
+    },
+    {
+        "name": "Masatane",
+        "message": "「I see, that is well...」"
+    },
+    {
+        "name": "Masatane",
+        "message": "「Changing the subject. Miyako is there with you, isn't she？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Of course. She is staying in my room, so there is no need to worry.」"
+    },
+    {
+        "name": "Masatane",
+        "message": "「That is what I hear. If she is there, could you put her on the line?」"
+    },
+    {
+        "message": "Huh... Father wants to talk to Miyako？ That’s rare."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Yes, she is here, so I will pass the phone to her. May I ask what this is regarding？」"
+    },
+    {
+        "name": "Masatane",
+        "message": "「Indeed... I suppose I must tell you. As a matter of fact, I received a message from Mikoto the other day.」"
+    },
+    {
+        "name": "Masatane",
+        "message": "「She pointed out the situation quite sternly. Once she mentioned it, her logic was sound. I now acknowledge that I was in the wrong.」"
+    },
+    {
+        "message": "Father admitted he was wrong？ No way... I’d better watch out for falling meteors tomorrow."
+    },
+    {
+        "name": "Momiji",
+        "message": "「I see, understood. So, you are saying that Miyako is not in the wrong？」"
+    },
+    {
+        "name": "Masatane",
+        "message": "「That is how I feel at present.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "（Hmm... so that’s it. I suppose even Father can’t ignore it when Mikoto-san has something to say.）"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I understand the circumstances perfectly. Could you wait a moment？ I will try to persuade her to take the call.」"
+    },
+    {
+        "name": "Masatane",
+        "message": "「Hmm, I see she is still angry, then... I leave it to you.」"
+    },
+    {
+        "message": "I muted the microphone so he wouldn't hear anything."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Hey, Miyako~ Father says he wants to talk to you~」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Eh~ I don't wanna talk to him. Tell him I'm not coming home until he apologizes！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Well... it actually sounds like he's feeling sorry about it.」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Yeah right. There's no way Father would ever feel sorry.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Apparently Mikoto-san scolded him, and that got him to want to apologize.」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「...Ahhh, so that's what happened. Guess I'll talk to him then.」"
+    },
+    {
+        "message": "That seemed to convince her to take the call. I operate the holographic display and hand the call over to Miyako."
+    },
+    {
+        "name": "Miyako",
+        "message": "「Hello, Father？ It's Miyako... Uh-huh, uh-huh.」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「I see. Yeah, I'm not mad anymore. And...？」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Whaaat~... That soon？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Miyako, what's wrong？」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Father says to come back home right away.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「You don't want to go back？ Did Father not apologize properly？」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「No, he apologized properly and said he was in the wrong. So I'm not mad anymore, it's just...」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「I don't really wanna go home that soon~ I mean, it's way more fun here than back home.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ahahaha~... So that's it.」"
+    },
+    {
+        "message": "True, there really isn't anything fun around our family home~ Still, that puts me in a bit of a bind."
+    },
+    {
+        "name": "Momiji",
+        "message": "「W-Well, your big sister kind of wants you to head home soon？ Look, the Martial Festival is coming up, so you can visit again real soon.」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Hmmmm...」"
+    },
+    {
+        "message": "Oh, that's the look of someone who doesn't buy it, isn't it？ The look of someone who's totally caught on that I just want to laze around, isn't it？"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Do I reeeally have to go home？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Well, I do think you should head home.」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Then I'm telling Father what a slob you are.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「W-Wait, wait, wait! That's playing dirty!」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「So can I stay here a little longer？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Oh, right.」"
+    },
+    {
+        "message": "It's no use, Father. I couldn't win against my younger sister."
+    },
+    {
+        "name": "Miyako",
+        "message": "「Hello...? Yeah, I was just talking to Momiji-onesan. She says it's fine for me to stay here.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "（I did not say that~! Father, please, don't listen to her!）"
+    },
+    {
+        "name": "Masatane",
+        "message": "「Hmm... ah, hold on, wait a moment. She insists she wants to speak to you, just stay on the line.」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Eh, what？」"
+    },
+    {
+        "name": "Tsubaki",
+        "message": "「O-onesaaaaaaan！！ When are you coming home?！ Ugh, sniff... *hic*, *hic*.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Whoa！？ T-Tsubaki...？」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Tsubaki... oh dear, this is a problem. Don't cry, Tsubaki.」"
+    },
+    {
+        "name": "Tsubaki",
+        "message": "「I want to see you, Onesan！ Come home soooooooon！」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「What's the matter, Tsubaki? Why are you crying so much?」"
+    },
+    {
+        "name": "Tsubaki",
+        "message": "「Because I've been all alone... I'm so lonely!」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「You have Father and Mother there, don't you？」"
+    },
+    {
+        "name": "Tsubaki",
+        "message": "「Father and Mother won't play with me! I don't want to be here if Miyako-onesan isn't here...!」"
+    },
+    {
+        "name": "Tsubaki",
+        "message": "「Hey Onesan, when are you coming home？ Soon？」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Ah, ugh... well...」"
+    },
+    {
+        "name": "Tsubaki",
+        "message": "「Onesan, you're still not coming back...？ *Sniff*, *hic*, *sob*...！」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「A-alright, I get it... I'll come home, I'll come home right away. So please, don't cry？」"
+    },
+    {
+        "message": "Oh, oh my... Miyako folded. Truly, even a demon can't handle a crying child."
+    },
+    {
+        "name": "Masatane",
+        "message": "「And so, Tsubaki won't stop crying and we're in a bind. I would appreciate it if you could return right away.」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「I understand... Yeah, I'll come home.」"
+    },
+    {
+        "name": "Masatane",
+        "message": "「I will have someone pick you up by car the day after tomorrow. Until then, you should finish packing.」"
+    },
+    {
+        "name": "Tsubaki",
+        "message": "「Onesan, I'm going with them to pick you up~!」"
+    },
+    {
+        "message": "After saying goodbye to Father and Tsubaki, I hung up."
+    },
+    {
+        "name": "Miyako",
+        "message": "「*Sigh*... Momiji-onesan, I'm going home after all.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Yeah, that’s a good idea. Tsubaki has really been wanting to see you.」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Yeah... I’ve started wanting to see Tsubaki, too.」"
+    },
+    {
+        "message": "She gives a small nod with a slightly troubled look. Huh, so this is what Miyako looks like when she’s acting as the big sister."
+    },
+    {
+        "name": "Momiji",
+        "message": "「You really love Tsubaki, don’t you, Miyako? That’s good.」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Of course♪ After all, Momiji-oneechan has us, but... Tsubaki is my only little sister.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I see. You're right.」"
+    },
+    {
+        "message": "The same way I feel about Miyako and the others, I suppose."
+    },
+    {
+        "message": "I was a bit worried when she said things about quitting the Suzakuin, but I feel somewhat relieved now."
+    },
+    {
+        "name": "Momiji",
+        "message": "「I’m sure Tsubaki will be so happy.」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Hehe, you’re happy that I’m leaving too, right, big sister？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Well, yeah~. But if anything ever happens, you come back anytime.」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Really？ Yay♪」"
+    },
+    {
+        "message": "I think to myself as I watch Miyako’s innocent joy."
+    },
+    {
+        "message": "Miyako, Tsubaki, and Nadeshiko, who isn't here right now. They are all my precious little sisters."
+    },
+    {
+        "message": "That is exactly why I should be the one to carry the burden of the Suzakuin name. I swore that to myself in secret."
+    }
+]

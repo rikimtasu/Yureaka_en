@@ -1,0 +1,409 @@
+[
+    {
+        "name": "Iori",
+        "message": "「...Suzakuin Momiji, huh. What am I gonna do with her?」"
+    },
+    {
+        "message": "From talking to her, she seemed pretty guarded and tough to crack."
+    },
+    {
+        "message": "It's my first time dealing with someone from the Suzakuin family, but are they all like that?"
+    },
+    {
+        "message": "If she's just not warmed up to me yet since we've only just met, that's fine, but if she acts like that toward the other students too, it could be a bit of a problem."
+    },
+    {
+        "name": "Iori",
+        "message": "「She's going to the academy and all, so I'd really like her to enjoy herself more.」"
+    },
+    {
+        "message": "Going your own way is fine and all, but that's a teaching of Jindou—everyday life is a different story."
+    },
+    {
+        "message": "Because otherwise, it'd just be too lonely."
+    },
+    {
+        "name": "Iori",
+        "message": "「Putting that aside, there's also the Jindou side of things to worry about.」"
+    },
+    {
+        "message": "Suzakuin Momiji undeniably possesses extraordinary skill."
+    },
+    {
+        "message": "Still, she probably can't beat Tennouji Victoria-san when she gets serious. As things stand, she'll end up in tears at the Martial Festival."
+    },
+    {
+        "message": "As someone entrusted with being her assistant homeroom teacher, I can't just sit back and let that happen."
+    },
+    {
+        "name": "Iori",
+        "message": "「I really want to help her out somehow...」"
+    },
+    {
+        "message": "As I walked along, mulling over all sorts of things like that."
+    },
+    {
+        "name": "Iori",
+        "message": "「...Ngh！？」"
+    },
+    {
+        "message": "I reached for the hilt of my Origami and swiftly thumbed the guard loose."
+    },
+    {
+        "message": "Then, toward the ominous presence rapidly closing in from above and behind me, I unleashed a sure-hit blade in the manner of <d0091>Iai</d>—"
+    },
+    {
+        "name": "Iori",
+        "message": "「Oww！？」"
+    },
+    {
+        "message": "Something large and soft slamming straight into me."
+    },
+    {
+        "message": "A gentle floral scent drifted around me, enveloping me as I lay sprawled on the ground."
+    },
+    {
+        "name": "???",
+        "message": "「It's been a long time, Iori-san.」"
+    },
+    {
+        "message": "The one who had just pulled off a full-speed dive straight at me was Kuki Asahi-chan."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ah, to think I'd get to see you again like this, Iori-san... I'm so moved!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Jumping at someone from behind is dangerous, you know！ I almost cut you down！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hehe, if I were to die by your blade, Iori-san, I'd have no regrets.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Give me a break. Are you trying to turn me into a criminal...？」"
+    },
+    {
+        "message": "The instant I turned around, the sight that filled my vision was a girl throwing herself at me completely defenseless."
+    },
+    {
+        "message": "I'd hurriedly sheathed my blade and managed to catch her, which was fine up to that point, but the momentum sent me tumbling to the ground."
+    },
+    {
+        "name": "Asahi",
+        "message": "「If you killed me and became a criminal, Iori-san, that would essentially mean I've taken complete control of your life, wouldn't it?」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「...Depending on how you look at it, maybe that's not such a bad idea？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「It is a bad idea, so come back to your senses, okay?」"
+    },
+    {
+        "message": "Asahi-chan's turned into quite a weird kid in the short time I haven't seen her..."
+    },
+    {
+        "message": "I first met Asahi-chan back when she had only just started elementary school."
+    },
+    {
+        "message": "She was quiet, sweet, and considerate—a really good kid. She took a liking to me, and I have memories of playing together with her."
+    },
+    {
+        "message": "Several years since then. Asahi had grown into a fine young woman."
+    },
+    {
+        "name": "Iori",
+        "message": "「How've you been, Asahi？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Yes, as you can see, I was able to enroll at Murakumo Academy without any trouble. I'm currently a first-year in the Martial Arts Division.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You just started this year? Congrats！ Man, you've really grown.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Thank you very much.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Reuniting like this must be some kind of fate. I look forward to being in your care again.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, of course.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Though, there's just one thing I've been wondering about.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「And what might that be?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Just how long are you planning to stay straddling me？」"
+    },
+    {
+        "message": "People around us have been giving us weird looks for a while now."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Expressing the joy of a reunion through close, intimate physical contact is a modern custom, after all.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I've never heard of any custom like that？！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「What's the harm? We finally reunited, after all. I want to look at you up close a little longer, Iori.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I'm happy to see you too, but this position is kind of bad, don't you think...？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「If it's alright with you, Iori, I'm quite willing to consummate our union as man and woman right here.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「What are you saying？ Hey, what are you even saying？！」"
+    },
+    {
+        "message": "We're not getting anywhere like this. I place my hands on Asahi's waist to lift her up."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ahn... That feels good.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「H-Hey, stop making weird noises！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「That's impossible.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Letting out cries of ecstasy whenever you touch me, Iori—it's simply a law of nature at this point.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Okay, got it, I won't touch you anymore. Just stand up on your own, please.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「You're telling me to abandon this honeymoon of my own accord？ How could you say something so cruel...！」"
+    },
+    {
+        "message": "...Wait, is she just having fun teasing me？"
+    },
+    {
+        "name": "Iori",
+        "message": "「That's enough—hyaaaah！！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Kyaahn...」"
+    },
+    {
+        "message": "I pushed Asahi-chan off and forced myself to my feet."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Honestly, you're so forceful... Still, I find that side of you wonderful too, Iori-san」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, let's avoid phrasing things in a way that invites misunderstandings」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「How did it feel to lift my body？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Th-That you're really well-trained, I guess」"
+    },
+    {
+        "message": "It felt different from a man's body and made my heart race, though I'll keep that to myself. Yeah."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Still, what a surprise. Why are you at the academy, Iori-san？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I had heard you were in the <d0092>JGSDF Special Forces</d>, though」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, I am. I came here on a mission」"
+    },
+    {
+        "message": "I briefly explain the situation to Asahi-chan."
+    },
+    {
+        "name": "Asahi",
+        "message": "「I see, brought in on a special appointment dispatch as assistant homeroom teacher for Takamura Class...」"
+    },
+    {
+        "message": "Asahi-chan, deep in thought about something."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Understood, I will deal with it at once」"
+    },
+    {
+        "name": "Iori",
+        "message": "「W-With what？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ufufu, it's a personal matter, so please pay it no mind」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Anyway, why the sudden tackle just now？」"
+    },
+    {
+        "message": "I get that she was happy to see me again, but there was no need to pounce on me out of nowhere."
+    },
+    {
+        "name": "Asahi",
+        "message": "「That couldn't be helped」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I was walking through the academy when, for some reason, you—the Iori-san I'd been longing to see—were right in front of me」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「In that case, I know of no option other than throwing myself at you」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I-I see, well, if that's the case, it can't be helped...」"
+    },
+    {
+        "message": "Asahi-chan really is a bit of an odd girl after all."
+    },
+    {
+        "name": "Asahi",
+        "message": "「...You're a cruel person, Iori-san」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Once you graduated from the academy alongside my brother, I completely lost all contact with you, Iori-san」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Even when I sent letters, I never heard a word back. I was worried about you, you know」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah... Sorry I didn't keep in touch.」"
+    },
+    {
+        "message": "After joining the JGSDF, I was tied up with basic training for a while, and even after that I was flying all over the country for Tenju Special Forces Group training and missions."
+    },
+    {
+        "message": "Still, it's true that I used being busy as an excuse to put off replying."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Could it be that you're still bothered about my brother？」"
+    },
+    {
+        "message": "At her words, I involuntarily lowered my gaze."
+    },
+    {
+        "name": "Iori",
+        "message": "「...Is your brother—is Takahisa doing well？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Yes, he's doing quite well.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「He's as flashy and loud-mouthed a party boy as ever—so unbearably annoying that it makes me want to let him sleep nice and soundly inside a giant bucket.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I see. Well, I'm glad to hear that.」"
+    },
+    {
+        "message": "<d0028>Kuki Takahisa</d>―her older brother―was my best friend back in our academy days."
+    },
+    {
+        "message": "A lot happened and we aren't in touch anymore, but hearing that he hasn't changed since our academy days made me feel a little relieved."
+    },
+    {
+        "name": "Asahi",
+        "message": "「I'm really glad to see you haven't changed either, Iori-san. You'll be teaching here at the academy from now on, right？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, that's the plan.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hehe, as your number-one disciple, Iori-san, I'm really looking forward to what's ahead.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hold on, my 'number-one disciple'？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Back when I was in elementary school, you're the one who guided me through the basics of Jindou every step of the way, Iori-san.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I am who I am today because you taught me so earnestly back then.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Oh, right—that did happen, didn't it！」"
+    },
+    {
+        "message": "Back when Asahi-chan was in elementary school, she had only just started Jindou, so I gave her all sorts of advice."
+    },
+    {
+        "message": "Maybe that made her happy, because she kept coming to see me over and over, and every time she did, I taught her the ABCs of Jindou."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Getting into Murakumo Academy like this is all thanks to you, Iori-san. I'm truly grateful.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That's not true at all. Getting in here is the result of your own hard work, Asahi-chan.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Either way, from now on I'll be able to see you every day here at the academy, Iori-san.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, I'll usually be with Takamura Class, but you can come see me anytime after school.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Yes, I'm looking forward to it!」"
+    },
+    {
+        "message": "Saying that, Asahi-chan broke into a genuinely happy smile."
+    }
+]

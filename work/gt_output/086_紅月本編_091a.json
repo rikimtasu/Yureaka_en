@@ -1,0 +1,753 @@
+[
+    {
+        "name": "Iori",
+        "message": "「Morning, everyone.」"
+    },
+    {
+        "message": "As I entered the classroom as usual, the faces waiting for me greeted me quietly. They certainly look different today than they usually do."
+    },
+    {
+        "name": "Iori",
+        "message": "「Alright, all five of you are here.」"
+    },
+    {
+        "message": "Setsugekka and Ririmu are looking at me with tense expressions. By contrast, Momiji, Keisetsu, and Asahi seem much more relaxed."
+    },
+    {
+        "name": "Iori",
+        "message": "「Well then... the midterm exams finally start today！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ughhh, it’s finally here！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「...Lord, have mercy, Lord, have mercy.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Praying now isn't going to help, you know.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「The exam schedule is for four days total, from today the 19th through the 22nd.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「The first day is a written exam, the second day is a martial demonstration, and the third and fourth days are practical exams.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「As I’ve said many times, this is an important exam that also serves to select members for the Martial Festival preliminaries.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Everyone, be prepared to give it your all！」"
+    },
+    {
+        "message": "For the first day’s written exam, the questions are displayed via hologram, and you fill in your answers accordingly."
+    },
+    {
+        "message": "Once the start time hits, they are automatically displayed on our desks."
+    },
+    {
+        "name": "Iori",
+        "message": "「...Still a little time before it begins. Might as well have a little chat.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Setsugekka, how about you? Are you confident?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yes! I have absolutely no basis for it, but I have total confidence that I’ll be fine!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「U-uh, I see. Well, having some is better than having none. How about you, Momiji？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I’m golden.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I mean, I’m a scholarship student, so if I just clear this exam, I shouldn't really have to attend classes or anything anyway.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Thinking about that just kind of ticks me off.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, Momiji, you’re acting like a tsundere as usual.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Even the teacher is saying it！? And besides, you’re using that word wrong！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Next up is Asahi. Do you seem okay?」"
+    },
+    {
+        "message": "I ignored Momiji, who was still squawking, and turned to Asahi."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Yes, I’m all set. My information gathering was perfect.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...You didn't hack into the system to get the exam content beforehand, did you？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ufufu, I didn't. I really didn't.」"
+    },
+    {
+        "message": "Ah, I'm nervous...."
+    },
+    {
+        "name": "Iori",
+        "message": "「Next is Ririmu, but...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Namu-san, namu-san, namu-san...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hey, Ririmu.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Wait！ Don't talk to me right now！ I'll forget all the exam material I just memorized！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Oh, uh... do your best. Keisetsu, well, I guess she’s fine.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Excuse me, why am I an afterthought？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, it's just that I don't think Momiji or Keisetsu would fail no matter what happens.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「You don't know that. I haven't done any exam preparation at all.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Is that so？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Yes, I've been busy with work communications lately. I haven't had time for that.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Well, regardless, I intend to produce results worthy of the next head of the Kazamine family. You can rest assured on that front.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, I'm counting on you.」"
+    },
+    {
+        "message": "Five people, five different ways, each facing the exam with their own intentions in mind."
+    },
+    {
+        "name": "Iori",
+        "message": "「It'll be alright. If it's you all, I'm sure you can successfully get through these midterms.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You've done enough work alongside me. Believe in yourselves and face it head-on.」"
+    },
+    {
+        "message": "Fighting spirit wells up in everyone's eyes."
+    },
+    {
+        "name": "Iori",
+        "message": "「Alright... it's beginning. Everyone, do your best！！」"
+    },
+    {
+        "name": "Academy System",
+        "message": "「――We will now begin the written test for the first subject of the midterm exam.」"
+    },
+    {
+        "message": "Holographic displays appeared in front of the five of them, and the midterm exams finally began."
+    },
+    {
+        "message": "Four days starting from today. Everyone, not a single person missing."
+    },
+    {
+        "message": "I hope they can make it through safely—！"
+    },
+    {
+        "name": "Iori",
+        "message": "「...Good morning, everyone.」"
+    },
+    {
+        "message": "I walked into the classroom as usual and looked out over the room."
+    },
+    {
+        "message": "The midterms finished all their stages yesterday—and the grading results are out."
+    },
+    {
+        "message": "Today is the day I tell everyone the results."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「……U-um, sensei.」"
+    },
+    {
+        "message": "Everyone wears the same solemn expression."
+    },
+    {
+        "name": "Iori",
+        "message": "「What is it？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Y-you have a scary look on your face, but…… were you okay？ Could it be that…… er……」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I’m about to announce that now.」"
+    },
+    {
+        "message": "With an expressionless face, I look over the five students one by one."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ah— stop, that makes me so nervous！！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「How about we just go with a light vibe like, ‘Yup, you’re all good!’? Let’s do that, okay, please!?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「…………」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Wait, no way…… we aren’t going for that vibe…？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ririmu, I’ll be sure to collect your remains.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hey— stop, seriously, that’s not funny! Come on, Sensei, just hurry up and <d0101>finish me off</d> already!」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Aaaaaaah, if I fail here, Kei-chan’s 24-hour endurance lecture is gonna start！！」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「I wouldn’t do such a thing, Setsugekka.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「R-really？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「I don’t have the time to waste on someone who would fail a midterm.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ah…… that’s even worse……」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Waaaaaah, it’s over, it’s all over, Kei-chan’s gonna abandon me~！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Iori-sensei, the classroom is getting loud, so could you please tell us the results now？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ah, right.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「……Then, I will announce the results of the midterm exam！！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「G-gulp……！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Anything but failure, anything but that……！」"
+    },
+    {
+        "message": "Holding their breath, everyone waits for my words."
+    },
+    {
+        "name": "Iori",
+        "message": "「……Everyone passed！！ There’s not a single failure among you！！！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「W-we did itttttttt！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Secchan, we did it! We actually got through the midterms!!」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Yeah, we sure did, Secchan！！」"
+    },
+    {
+        "message": "Setsugekka and Ririmu jump up while hugging each other. The two of them really worked hard, after all."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Congratulations, I'm glad for you.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Phew, we somehow managed to pull it off, huh.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yeah, thank you so much, everyone! Yay, hooray!」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I don't know how many times I thought about giving up halfway through... Ahh, I'm just so happy！！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I'm so glad I stuck with it to the end! I'm seriously grateful to Iorin and everyone!」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「That's because you worked hard, Ririmu. I'm truly happy for you.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, you avoided failing, but I would have liked to see a bit higher scores.」"
+    },
+    {
+        "message": "Setsugekka is slightly above the grade average, and Ririmu is below it. These aren't scores one can exactly celebrate with open arms."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「No, no, no need to worry about the numbers! Once you pass, you're home free!」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Isn't it a bit too early to be celebrating？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Indeed, the important part is just beginning.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「The selection for the Martial Festival preliminary rounds, that is.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「O-oh, that's right...！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ahh, I wasn't in a position to be saying I didn't need to worry about my scores after all!」"
+    },
+    {
+        "message": "Setsugekka and Ririmu both clutch their heads again."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Sensei, what about the recommendations？ Did you recommend us！？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, of course. I've already submitted recommendations for all four members of the Takamura Class Martial Arts Division.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「From here on, it depends on the selection committee's decision based on the results of these midterms.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Please, please let me make the list of members for the preliminaries...！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「…………」"
+    },
+    {
+        "message": "Momiji, who had a relaxed expression just a moment ago, is now listening with a serious look on her face."
+    },
+    {
+        "name": "Iori",
+        "message": "「Now then, I will announce the selected members for the Martial Festival preliminary matches！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I’ll read them out in order of selection. First off—」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Suzakuin Momiji！！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Phew, good grief.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「In the midterms―written, performance, and practical exams―you were top of the grade in everything. You’re in the preliminary squad, no arguments here！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Whoa… top of the grade, huh. As expected of a Suzakuin.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I mean, obviously.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Tch, look at that smug face. So annoying!」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Yeah, yeah, don’t be jealous.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Sensei, who’s next？ It’s me next, right！？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Right, next up. For Takamura Class, the second selection is… Kuki Asahi！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Thank you very much!」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ehhh！？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You were in the top twenty for the written exam, and your performance and practicals were solid. I think it’s fair to say you’re in the preliminaries with room to spare.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ugh, so frustrating… but, I guess that makes sense. Asahi-chan is smart and she’s good at the performances too, after all.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ufufu, you flatter me.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Even though she’s got a super crappy personality, but that doesn’t have anything to do with the exams, right?」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ririmu-san, isn't that a bit unnecessary？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「More importantly, it’s gotta be me next, right? Me, me!」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Wait a sec, Ririmu-chan, does that mean I’m dead last！？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Heh, I’m not gonna lose to you in the practicals, Secchan.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Why you…! I’m higher than you when it comes to the written exams!」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Watching the peons squabble is quite amusing.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Isn’t it though?」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Th-these girls… they’re acting so smug!」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Teacher, please tell us the next part quickly!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「……Since when did you get the misconception that there would be a next part？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Eh……？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Wait, you’re joking, right…… No way……」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Are you saying that only two members from the Takamura Class were selected？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「……Well, it’s not exactly an impossible scenario.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「There are about 100 first-years in the Martial Arts Division, and less than 30 of them get chosen for the preliminary team.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「N-no way……」"
+    },
+    {
+        "name": "Iori",
+        "message": "「……I’m just kidding.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Setsugekka, Ririmu, you’re both officially on the preliminary team！！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ah, eh！？ Then…… that was a prank just now！？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Heyyyyy, Teacher, don’t do stuff like that！ Seriously, I thought my heart was going to stop！！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Haha, sorry, sorry. You were being a bit too noisy, so I wanted to get you to quiet down.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「As for the Takamura Class, all four of the members I recommended were safely selected for the preliminary team.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Everyone, congratulations！！！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yaaaaaaaaaaaaaay！！！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Glad to hear it~」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Congratulations.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「We did it~~~~~~~~！！！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Setsugekka and Ririmu, your written tests and form demonstrations were average, but your perfect win record in the practical exam was highly valued.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「It seems some members of the selection committee were concerned about the Takamura Class’s bad reputation, but your talent and potential received universal acclaim.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「In the end, the selection committee reached a unanimous decision to select all four Takamura Class members for the preliminary team, I’m told.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ohhh！ How about that, did you see that！！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Whoa, that’s crazy! That means we were getting tons of praise from the selection committee, right!」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Heh, a natural result, isn't it.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Asahi, did you actually pull some strings or something？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「No, I did not. I didn't see any need to.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hey hey, Asahi, come on, put your hand out！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Eh... Yes, like this？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Yay, we did it~!♪」"
+    },
+    {
+        "message": "Asahi and Ririmu high-five each other in delight."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Now we can enter the Martial Festival together!」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Heh, let's do our best so we can advance to the main tournament.」"
+    },
+    {
+        "message": "The two were quite hostile toward each other at one point, but now they are getting along remarkably well. It's heartwarming to see."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hey Kei-chan, we did it! We've made it through the qualifiers!」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「I'm glad for you. But the real challenge begins now.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yeah, I know. I’ll definitely make it to the main tournament. And I’ll become the Toujinegi, for sure！」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Yes, I'm counting on you.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Leave it to me！ I'll definitely beat Momimomi！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I feel the same. I won't lose to Momiji-san.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Me too, of course！ I’m super strong right now, y'know♪」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Why do you all keep dragging me into this?」"
+    },
+    {
+        "message": "Momiji looks fed up."
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, now that everyone has safely made it through the qualifiers, why don't we go somewhere and have a little celebration?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Oh, I wanna, I wanna！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Sounds good~! Nice idea, Sensei!」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Where shall we celebrate?」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「It's gotta be <d0102>Yakiniku</d>, obviously. On Sensei's tab.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「W-w-wait a second！ Buying Yakiniku for five people is a bit much...！」"
+    },
+    {
+        "message": "Everyone's eyes sparkle with excitement."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yakiniku！ Yakiniku！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Yakiniku~, yakiniku~！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Yakiniku♪ Yakiniku♪」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I want to eat yakiniku!」"
+    },
+    {
+        "message": "Everyone started clapping along."
+    },
+    {
+        "name": "Iori",
+        "message": "「H-hey, you guys...！」"
+    },
+    {
+        "message": "They sure know how to stick together when it counts...！"
+    },
+    {
+        "name": "Iori",
+        "message": "「Oh, fine, I get it！ It’s my treat today！ Eat as much meat as you want！！！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yay~~~~！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Yakiniku tastes better when it’s someone else’s money.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Fufu, I’ll take you up on that.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Yippee~~~~！」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「I wonder if I may join in as well.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Of course, Keisetsu is a student of the Takamura Class, after all.」"
+    },
+    {
+        "message": "As I said that, I screamed in my heart."
+    },
+    {
+        "message": "Seriously, you guys... you’re definitely richer than a humble civil servant like me, right...？"
+    }
+]

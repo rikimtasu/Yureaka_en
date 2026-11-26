@@ -1,0 +1,431 @@
+[
+    {
+        "name": "Setsugekka",
+        "message": "「I, I’m back—！」"
+    },
+    {
+        "message": "I hurriedly changed into my Spirit-Type Armament and dashed to the entrance, only to find Muragaki-sensei already standing by."
+    },
+    {
+        "name": "Iori",
+        "message": "「……Setsugekka, you’re barely making it in time.」"
+    },
+    {
+        "message": "I was immediately on the receiving end of a cold look from Muragaki-sensei."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「S, sorry! I got the east and west gates mixed up…… and ran into Igarashi-senpai.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You really are hopeless.」"
+    },
+    {
+        "message": "He chuckled. I was glad to see Sensei enjoying himself, at least."
+    },
+    {
+        "name": "Iori",
+        "message": "「Well then, Setsugekka, let’s do a final check.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yes, please do!」"
+    },
+    {
+        "message": "We did a final verification of my Origami and Spirit-Type Armament fitting before entering the venue."
+    },
+    {
+        "message": "They check for any flaws, defects, or abnormalities here, and apparently, they can disqualify or ban you from competing depending on the findings."
+    },
+    {
+        "message": "It was Muragaki-sensei doing the checking. He wasn't acting as my Second, but he was helping with the adjustments."
+    },
+    {
+        "name": "Iori",
+        "message": "「First, let's check your vitals.」"
+    },
+    {
+        "message": "As Sensei operated the terminal, an indicator appeared. I glanced at it every now and then."
+    },
+    {
+        "name": "Iori",
+        "message": "「Setsugekka, activate your Origami for me.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "（I think this is the first time I’ve had a check like this. It’s like… a final exam for participating in the Martial Festival.）"
+    },
+    {
+        "name": "Iori",
+        "message": "「……Setsugekka? I can’t run the check if you don’t activate the Origami.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Oh, right, right! Origami activation, got it!」"
+    },
+    {
+        "message": "I hurriedly activated my Origami."
+    },
+    {
+        "message": "The indicator reacted, and Sensei began verifying the numbers and whatnot."
+    },
+    {
+        "name": "Iori",
+        "message": "「Link between Origami and Spirit-Type Armament…… confirmed. Barrier Jacket levels are normal. Now for the Origami……」"
+    },
+    {
+        "message": "He checked each item one by one with great care. It’s a bit tedious, but if you don't do it, you can’t even enter."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "（So this is the Martial Festival…… it’s not just about rushing in and fighting, huh~）"
+    },
+    {
+        "message": "It felt like a moment meant to drive that fact home."
+    },
+    {
+        "name": "Iori",
+        "message": "「Mental Resonance Coefficient…… hmm, it’s actually a bit higher than usual.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Alright…… all conditions green！ You’re ready to be sent out at any time.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "（Ah, shoot…… I’m suddenly getting nervous!）"
+    },
+    {
+        "name": "Iori",
+        "message": "「Setsugekka, the check is done. Hey…… earth to Setsugekka？ What’s the matter？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Oh, y-yes！ Thank you very much！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Are you alright？ You look a bit spaced out.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Oh, um, how should I put it... I’m just... I’m feeling a little nervous.」"
+    },
+    {
+        "message": "How pathetic of me, when I stormed out of Kei-chan’s place swearing I’d absolutely become a Toujinegi."
+    },
+    {
+        "name": "Iori",
+        "message": "「I see. Well, you’re still a first-year, Setsugekka, and this is your first big stage.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Anyone would be nervous for their first main tournament match.」"
+    },
+    {
+        "message": "That’s right, this is the main tournament. It’s different from the qualifiers."
+    },
+    {
+        "message": "No matter if it’s by coincidence or a momentary slip-up, if I lose, it ends here."
+    },
+    {
+        "message": "There are no do―overs. To become a Toujinegi, I cannot afford a single mistake―"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ughhh, Teacher... I wonder if I can win...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Haha, that’s not like you, Setsugekka. You’re sounding weak.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「But, but...！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You’ve done everything you could up to this point, Setsugekka. Haven’t you？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「That’s... yeah. I think I’ve given it my all.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Right. I’ve been watching you closely, so I can say this with certainty.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You’ll be fine, Setsugekka. You’re plenty strong. No matter who the opponent is, you won’t lose！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Se—Teacher... Yes! Thank you...!」"
+    },
+    {
+        "message": "Kei-chan, and Muragaki-sensei too. Thank you for always being by my side."
+    },
+    {
+        "message": "Because of you, I was able to become strong. So, let’s stay together from now on—"
+    },
+    {
+        "name": "Umpire",
+        "message": "「From the west―Martial Arts Division first―year, Special Grade A, belonging to the ‘Takamura Class’! Kazamine Setsugekkaーーーーーーーーーーーーーー!!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Alright, it’s your turn, Setsugekka！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Right...！ I’m going, Teacher！！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah！ Go out there and cut loose as much as you want！！」"
+    },
+    {
+        "message": "Receiving my teacher’s words of encouragement and smile at my back, I head to the stage—！"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Wow, this is amazing...！」"
+    },
+    {
+        "message": "Stepping onto the stage, the pressure of the cheers is incomparable to when I was watching from the audience seats."
+    },
+    {
+        "message": "Gazes and voices from every direction. Plus, large cameras are pointed right at me—"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "（It’s not just the audience here. People all over Japan are watching me right now...！）"
+    },
+    {
+        "message": "Thinking that, an emotion that’s a mix of nervousness and excitement comes surging up in me."
+    },
+    {
+        "name": "Spectator A",
+        "message": "「Go for it！ First-year！」"
+    },
+    {
+        "name": "Spectator B",
+        "message": "「I'm cheering for you！」"
+    },
+    {
+        "message": "Hearing cheers like that, I hurriedly try waving back with a smile."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "（Victoria-senpai really is amazing, huh. Staying so composed in a crowd like this）"
+    },
+    {
+        "message": "It might be a little too hard for me..."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "（It's okay—even if I can't do it like Victoria-senpai, I'm still me！）"
+    },
+    {
+        "message": "Across from me, Igarashi Taiga-senpai is already standing on the east side."
+    },
+    {
+        "message": "He fixes a sharp glare right on me, never once looking away."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "（Whoa... he's kinda scary...！）"
+    },
+    {
+        "message": "No, this isn't the time to be losing my nerve."
+    },
+    {
+        "message": "I promised Kei-chan, didn't I? That I'd definitely become the Toujinegi."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hhh... haaaah...」"
+    },
+    {
+        "message": "I take a deep breath in and let it out. Exhaling all the bad energy, I glare right back at my opponent."
+    },
+    {
+        "name": "Umpire",
+        "message": "「Both sides, take your stances！！」"
+    },
+    {
+        "message": "I draw my Origami—and fill my entire body with strength."
+    },
+    {
+        "message": "It's okay, I can win. Because Kei-chan told me so, didn't she?"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "（I am Kazamine Setsugekka—the strongest swordswoman of the Kazamine...！！）"
+    },
+    {
+        "name": "Umpire",
+        "message": "「Gather the eight million gods in divine assembly, hold counsel in divine deliberation. Purity of heaven and earth, purity of the six senses—purify us, cleanse us...！」"
+    },
+    {
+        "name": "Umpire",
+        "message": "「To the east, Igarashi Taiga！」"
+    },
+    {
+        "name": "Umpire",
+        "message": "「To the west, Kazamine Setsugekka！」"
+    },
+    {
+        "name": "Umpire",
+        "message": "「―Spirits high, square off―no false starts！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ha... haaah, haaaaaaah...！！！」"
+    },
+    {
+        "message": "Breathing out heavily—I reach down into the depths of the darkness within me."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "（Come on, it's your turn, \"Mizuchi\"―my other self―！！）"
+    },
+    {
+        "message": "Explosive Tenju swells up from the very core of my body."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Now then, shall we begin...！！」"
+    },
+    {
+        "name": "Umpire",
+        "message": "「Now, fight fair and square—begin！！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Here I coooooome！！！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「…………」"
+    },
+    {
+        "message": "Setsugekka, returning with unsteady steps after her match."
+    },
+    {
+        "name": "Iori",
+        "message": "「Setsugekka... Hey, Setsugekka！」"
+    },
+    {
+        "message": "I rush over and catch her swaying body."
+    },
+    {
+        "name": "Iori",
+        "message": "「Are you alright? Are you hurt！?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Huh... Sensei？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Stay with me, Setsugekka！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Why are you here... um, what about the match？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「What about the match... you don't remember？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「No, I remember right up until it started, but...」"
+    },
+    {
+        "message": "She looks around nervously."
+    },
+    {
+        "name": "Iori",
+        "message": "「I see... it's okay. The match is over.」"
+    },
+    {
+        "message": "She must have used her inner divine power in such a high-pressure environment that her memory has become fuzzy."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Wait, it's over... what was the result！？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...Congratulations, Setsugekka.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You won！！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Won... wait, I won？ I really won！？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yes, you're advancing to the semifinals, Setsugekka！！」"
+    },
+    {
+        "message": "A sparkle returns to Setsugekka's eyes."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I-I did it... I really did it!!!!」"
+    },
+    {
+        "message": "Setsugekka hugs me tightly."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I... I really won, I actually pulled it off！！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, your opponent, Taiga Igarashi, was top-class even among the third-years in the Martial Arts Division.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「It was a magnificent match; you didn't give him a chance.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「This is the result of you learning to control your rampage. Today's performance was a perfect hundred！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ugh... this is all thanks to you, Sensei！ Thank you so much！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Haha, it's too early to thank me. We still have the semifinals and the finals left to go.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Oh, that's right.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Especially since your next opponent is Victoria.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Let's get some good rest today, get in top shape, and give it our all for what comes next！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yes！！！」"
+    },
+    {
+        "message": "Setsugekka's vigorous reply made me even happier."
+    }
+]

@@ -1,0 +1,399 @@
+[
+    {
+        "name": "Keisetsu",
+        "message": "「Phew, this is a nuisance...」"
+    },
+    {
+        "message": "She finished her calls with the various parties and murmured to herself."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Typical of a foreign firm. Once they make a decision, they move fast.」"
+    },
+    {
+        "message": "Information had come in that a major company under the <d0076>Ookami Family</d>, a branch of the Kazamine Group, was the target of a hostile takeover."
+    },
+    {
+        "message": "She had contacted the relevant parties and arranged for the Kazamine Family to take the lead in organizing a white knight defense."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「But I find it hard to believe they’ll just give up now...」"
+    },
+    {
+        "message": "Their opponent was over three times the size of the entire Kazamine Group in total assets. They would undoubtedly try something else."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Heh, fine by me. If they want to make an enemy of me, I’ll make sure they learn exactly what that entails—thoroughly.」"
+    },
+    {
+        "message": "She would exhaust every possible avenue and break them in so completely that they would never want to lay a finger on her business again."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Even so, it’s tough doing this from here.」"
+    },
+    {
+        "message": "She had managed this time, but there was a limit to how many missions she could handle remotely from the academy."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「...I suppose it’s almost time to make a choice.」"
+    },
+    {
+        "message": "The credentials gained from graduating from Murakumo Academy were something she wanted, if only to stabilize her social standing."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Well, not that I think academic credentials actually matter...」"
+    },
+    {
+        "message": "...but they were better to have than not, if only to manipulate people who couldn't judge a person's worth beyond the labels stuck to them."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「I’ve mapped out the relationships among the faculty. All that’s left is to keep this information updated.」"
+    },
+    {
+        "message": "There was much about the faculty's personal dynamics that couldn't be understood without being on the inside, and coming to the academy had paid off handsomely."
+    },
+    {
+        "message": "Now, using this information, she would gradually expand her influence by installing teachers under the Kazamine thumb."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「...Well, I’ve done what I needed to do at the academy.」"
+    },
+    {
+        "message": "At this point, there was little reason left for her to stay."
+    },
+    {
+        "message": "Considering her future operations, she wouldn't mind taking a leave of absence or even quitting the academy entirely."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Still, I do worry about Setsugekka...」"
+    },
+    {
+        "message": "She still couldn't control her berserk states, and the Martial Festival was steadily approaching."
+    },
+    {
+        "message": "As she had already known, the cohesion of the Sword-Bearing Self-Defense Association, centered around the Suzakuin, was rock-solid and not easily shattered."
+    },
+    {
+        "message": "Why was the Suzakuin Family, which championed independence and self-reliance, able to forge such a tight-knit alliance?"
+    },
+    {
+        "message": "It came down to one thing: their strength as swordsmen."
+    },
+    {
+        "message": "The legend of the \"lineage of the strongest swordsmen,\" which no one can deny, is what gives the Suzakuin Family its dominance."
+    },
+    {
+        "message": "And the symbol of that strength is the title of Toujinegi."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「If Kazamine claims the seat of Toujinegi, the tide will turn. It will blow a hole right through the Suzakuin era of sole supremacy.」"
+    },
+    {
+        "message": "Factoring in Tamukai as well, Kazamine has never had a swordsman with as much hidden potential as Setsugekka."
+    },
+    {
+        "message": "In all likelihood, another swordsman with the caliber to reach the Suzakuin will never be born into Kazamine again."
+    },
+    {
+        "message": "This is a once-in-a-lifetime opportunity, and I intend to seize it at any cost."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Which is precisely why I cannot afford to leave her side, and yet...」"
+    },
+    {
+        "message": "Do I choose my practical duties, or the grand dream that Setsugekka might build for us? It is truly a vexing dilemma."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Now then, what should I do... Oh？」"
+    },
+    {
+        "message": "Suddenly, I spotted a small figure approaching."
+    },
+    {
+        "name": "Miyako",
+        "message": "「...Ah, from Takamura Class」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Hello, Miyako-san.」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Hello, Kazamine Keisetsu-san.」"
+    },
+    {
+        "message": "Come to think of it, this girl is a Suzakuin too. Getting close and winning her over might prove useful to Kazamine."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Out for a walk by yourself？ What are you up to？」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「I'm running an errand right now.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「An errand？ For Momiji-san？」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「No, for Mr. Fox. He said he really, really wants some inari sushi from <d0095>Toyohara Konpeidou</d>.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Is that so? What a good girl.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "（...Sh-She's an even more peculiar child than I thought.）"
+    },
+    {
+        "message": "While hesitating over whether I should really keep getting involved with her, I put on a pleasant smile."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Aren't you thirsty? If you'd like, I can treat you to something.」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Really？ Then I want a matcha smoothie.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「S-Sure thing.」"
+    },
+    {
+        "message": "Her tastes are surprisingly mature..."
+    },
+    {
+        "name": "Miyako",
+        "message": "「Mm... mm, ahhh...」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Well? Is it good?」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Yeah, thank you, Keisetsu-san.」"
+    },
+    {
+        "message": "There was a smoothie shop nearby, so I bought a matcha smoothie and gave it to Miyako-san."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Miyako-san, you ran away from your home at the Suzakuin estate, didn't you？ Was there something you were unhappy about？」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Yeah, Father told me to try using a spirit blade, and I ended up breaking it. So then Father got mad.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Oh, what kind of blade was it?」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「It was made about 500 years ago, and Momiji-oneechan said it was a masterpiece worth about a billion yen.」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「I’m the one who broke it. When I put my power into it, the blade just went *pop* and shattered.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Th-that might be only natural for him to be angry at you for...」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「But Father was the one who told me to try using it. I just did exactly what I was told.」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「I couldn't accept that, so I ran away from home.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「I see, that sounds like it was tough.」"
+    },
+    {
+        "message": "It was likely because she poured in enough spirit power to exceed the spirit blade's potential."
+    },
+    {
+        "message": "In other words, this Suzakuin Miyako naturally possesses a spiritual resonance value equal to or greater than that of Setsugekka when she is in a berserk state."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "（Truly, the depths of the Suzakuin family are unfathomable...）"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「By the way, Miyako-san, do you have any dreams for the future?」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「My dream is world conquest.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「World...！？ O-oh, that’s a big dream.」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「But Momiji-oneechan looked like she didn't like that, so I don't think I'll go through with conquering the world.」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Right now, I find it fun to go and meet strong people to fight, so I think I’ll just keep doing that.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「I see, so you are indeed a swordswoman yourself.」"
+    },
+    {
+        "message": "It made me realize once again that, despite being so small, she is still a Suzakuin."
+    },
+    {
+        "name": "Miyako",
+        "message": "「Keisetsu-san, why don't you do Jindou？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Fufu, I am weak, you see.」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Is that so？ I think you're stronger than Setsugekka-san, though. But you seem timid, so maybe it doesn't really suit you.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「…………」"
+    },
+    {
+        "message": "I found myself frozen in place. This child... she is far sharper than I had imagined."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「That's right. I found other paths more suited to me than the way of the sword—paths I wanted to pursue.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「That is why I leave the way of the sword to Setsugekka.」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「If you don't, Setsugekka-san won't have anything going for her, right? You’re surprisingly kind, Keisetsu-san.」"
+    },
+    {
+        "message": "...Ah, this girl is beyond help."
+    },
+    {
+        "message": "Would it be beneficial for Kazamine if I got close to her and brought her into the fold？ Don't be ridiculous. This girl is far too dangerous."
+    },
+    {
+        "name": "Miyako",
+        "message": "「Well, I’m in the middle of an errand, so I’ll be going now.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「...Yes, I see.」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Thanks for the smoothie.」"
+    },
+    {
+        "message": "Just as I thought she had taken a step away, Miyako-san turned back around."
+    },
+    {
+        "name": "Miyako",
+        "message": "「Oh, right. I actually really like Momiji-oneesan and Setsugekka-san.」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「The two of you are always having so much fun together. I’ve never seen Momiji-oneesan like that before.」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「I’m sure you two could become great friends.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Hehe, I hope so.」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「So, Keisetsu-san, you shouldn’t do anything too mean.」"
+    },
+    {
+        "message": "It felt as if a cold blade had been pressed against me."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「...I’ll take that as a word of advice.」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「See you then~」"
+    },
+    {
+        "message": "With those words, Miyako-san departed."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「...Hehe, what a fascinating girl.」"
+    },
+    {
+        "message": "I let out a wry smile as I watched her receding figure."
+    },
+    {
+        "message": "She surely sees something that no one else can. That is what sustains her extraordinary talent and intellect."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Suzakuin Miyako... I would very much like to be on good terms with you.」"
+    },
+    {
+        "message": "She is a <d0077>child prodigy</d> that even the Suzakuin family itself cannot fully control. If she were to become an enemy, Kazamine would undoubtedly be crushed."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Damned if I do, damned if I don’t... the road ahead is fraught with difficulty.」"
+    },
+    {
+        "message": "It is not an easy path. I knew that from the start. That is exactly why it is worth doing."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Now then, shall we head back to the others?」"
+    },
+    {
+        "message": "When I opened the hologram to contact Setsugekka, a single notification had arrived."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「An encrypted email, how rare. Who could it be?」"
+    },
+    {
+        "message": "I decrypted the mail using Kazamine's proprietary encryption routine, and..."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Eh, Makinojou Kazamine-san...！？」"
+    },
+    {
+        "message": "It was a direct email to me from the current head of the Kazamine family, Makinojou—"
+    }
+]

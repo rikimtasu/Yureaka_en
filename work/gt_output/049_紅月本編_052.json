@@ -1,0 +1,189 @@
+[
+    {
+        "message": "About a week has passed since everyone gathered in the classroom and I began teaching them in earnest."
+    },
+    {
+        "name": "Iori",
+        "message": "「All right, everyone's present today too.」"
+    },
+    {
+        "message": "I look around the classroom and confirm that all five of them are here."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Haaah... I'm sleepy...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yep, yep. Momiji hasn't been late once since I asked Setsugekka to look after her.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yes, yes! That's all thanks to me, right, Sensei?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, it's all thanks to you, Setsugekka. Good job！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ehehe, he praised me.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Nothing good about it. Secchan barges in every morning without even knocking. It's seriously beyond rude.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「You don't wake up, so there's no point knocking. Would you rather I just wake you up with a punch from the start？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Don't resort to violence！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「It's Momimomi's own fault for not getting up right away！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「You two have gotten a lot closer than before, haven't you?」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Huh？ How？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I mean, you're calling her Secchan, aren't you?」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Uh, that's just because 'Setsugekka' is long and hard to say.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Good grief, Momicchi's such a tsundere.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yep, she's a total tsundere.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I'm not! That's not my archetype!」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Oh, come on now, Momimomi just can't be honest with herself.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I'm gonna get mad, Setsugekka...！」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「I'm glad to see the two of you having so much fun.」"
+    },
+    {
+        "message": "Watching Setsugekka and Momiji carry on noisily, Keisetsu smiles serenely."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Hey, Keisetsu, teach Setsugekka some proper manners already!」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「I've done everything I possibly could. Please try to think of this as a vast improvement.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「No way... and you’re saying this is an improvement...」"
+    },
+    {
+        "message": "Momiji wears an expression of pure despair."
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, harmony is a beautiful thing, after all.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Momimomi and I are so close we could practically get married!」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Absolutely not! She even spanked me again today!」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「That’s only because you were about to hit snooze for the second time!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Setsugekka.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Y-yes！？ I’m sorry, I won’t do it again！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I’ll permit a moderate amount of force. Keep it up.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yay, I got Teacher’s stamp of approval! I’ll keep spanking you as much as I want now!」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「That’s tyranny! An abuse of power! I demand your removal!」"
+    },
+    {
+        "message": "Momiji grumbles, but this amount seems just right. Keisetsu, you don’t have to hold back your laughter, you know？"
+    },
+    {
+        "name": "Iori",
+        "message": "「Anyway, let’s get class started.」"
+    },
+    {
+        "message": "Text fills the board right in front of us via HR."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ugh... I don’t want to see any more text~」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ririmu’s academic performance has been slowly improving lately. You need to hang in there.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「But I’m stuck in remedial study every single day. Sitting and studying from morning till night is gonna make my body rot~」"
+    },
+    {
+        "message": "Ririmu is slumped over her desk, looking exhausted."
+    },
+    {
+        "message": "It’s true that Ririmu has been spending quite a lot of time in remedial desk work. Now then, what should I do..."
+    },
+    {
+        "name": "Iori",
+        "message": "「Alright, I’ll admit, doing the same thing over and over gets boring. How about we try a practice match for a change！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「A match？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Sounds good♪ Iorin, you get me~♪」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Then everyone, gather at the outdoor training grounds！」"
+    },
+    {
+        "message": "Having a proper mutual sparring session here to get a sense of each other's abilities wouldn't be a bad idea."
+    }
+]

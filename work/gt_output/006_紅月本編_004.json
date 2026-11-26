@@ -1,0 +1,248 @@
+[
+    {
+        "name": "Iori",
+        "message": "「...Excuse me.」"
+    },
+    {
+        "message": "Dr. Sasaki seemed to be out, leaving Setsugekka in the care of another school nurse before stepping out of the room."
+    },
+    {
+        "message": "From what I heard, she had run a fever and been bedridden like this when she went berserk before, too."
+    },
+    {
+        "message": "Since she recovered completely the day after taking to bed, there probably wasn't much to worry about this time either, they said."
+    },
+    {
+        "name": "Iori",
+        "message": "「I hope she gets better...」"
+    },
+    {
+        "message": "Even saying that, there's not much I can do."
+    },
+    {
+        "message": "There are other students in Takamura Class, too, so let's keep going with the introductions."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Good afternoon.」"
+    },
+    {
+        "message": "Just as I was about to go look for them, Suzakuin Momiji appeared from down the hallway."
+    },
+    {
+        "name": "Iori",
+        "message": "「Oh, Momiji-san. Were you okay earlier？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Yes, thank you very much for stepping in to stop things earlier.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Good timing—I wanted to greet you, too.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Regarding your appointment as sub-homeroom teacher for Takamura Class?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Huh, how do you know about that？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I overheard you speaking with Kazamine-san from nearby.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I see, that makes things quick then. I'm Muragaki Iori, your new sub-homeroom teacher starting today. Nice to meet you.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I am Suzakuin Momiji. It is a pleasure to meet you.」"
+    },
+    {
+        "message": "Momiji gives a casual little bow. As expected of Suzakuin, perhaps—she's refined and very polite."
+    },
+    {
+        "name": "Iori",
+        "message": "「Momiji-san, you're in the same Takamura Class as Setsugekka-san, right?」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Yes... much to my regret, that is correct.」"
+    },
+    {
+        "message": "Aha, so you really don't like her, huh..."
+    },
+    {
+        "name": "Iori",
+        "message": "「I wanted to ask you—what kind of class is Takamura Class anyway？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Upon its establishment, Takamura Class consisted solely of myself.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「The Suzakuin family values independence and strives to become self-contained swordsmen—that is our creed. Are you familiar with this？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, of course.」"
+    },
+    {
+        "message": "The first head of Suzakuin was both a swordsman and an accomplished swordsmith."
+    },
+    {
+        "message": "Only you yourself can forge a blade worthy of entrusting your life to. The finest blade for oneself is born from within oneself."
+    },
+    {
+        "message": "Therefore, a Suzakuin swordsman forges their own blade by their own hand, and conducts their training solely through their own strength."
+    },
+    {
+        "message": "This is Suzakuin's golden rule, and it is reportedly enforced rigorously among members of the school to this very day."
+    },
+    {
+        "name": "Momiji",
+        "message": "「In that case, I believe you understand that those of Suzakuin generally do not seek a master.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Also, because I am a special scholarship student, I am exempt from all classes.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Because of various special circumstances like that, the Year 1 Special A-Class, Takamura Class, was prepared for me.」"
+    },
+    {
+        "message": "No need to receive instruction from teachers, and all classes are exempt. An anomalous existence who doesn't mesh with ordinary students."
+    },
+    {
+        "message": "So that's why a special class was made, is that it?"
+    },
+    {
+        "name": "Momiji",
+        "message": "「However, right after enrollment began, a major problem occurred.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Difficult-to-handle students began appearing among the first-years, such as Kazamine Setsugekka-san whom I mentioned earlier.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「At a loss, the academy side claimed it was to reduce the teachers' burden and, of all things, transferred them into Takamura Class.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Because of that, Takamura Class ended up slapped with the dishonorable label of 'a class gathering only problem children whom ordinary teachers can't handle.'」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「As someone who has belonged to Takamura Class from the start, it is the height of <d0027>gritting my teeth in frustration</d>. It is extremely bothersome.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「A-ahaha... I see.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Sasaki-sensei, who is the homeroom teacher of Takamura Class, is hands-off and does nothing, and Takamura Class's bad reputation knows no bounds.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「For my part, I would be very grateful if Muragaki-sensei would pull Takamura Class together nicely.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, that's what I plan to do.」"
+    },
+    {
+        "message": "There are plenty of unexpected parts, too, but since I was summoned by special dispatch appointment, this is a full-fledged mission."
+    },
+    {
+        "message": "Carrying out a mission responsibly to the very end. That is my pride."
+    },
+    {
+        "name": "Momiji",
+        "message": "「As I said earlier, I don't need a master, so I think I won't have much involvement with Muragaki-sensei.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Sensei, I truly hope you will strictly instruct the students other than me.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Huh？ What are you saying？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I intend to instruct you just like the other students.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「…………」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I was ordered to be the vice homeroom teacher of Takamura Class. And you're a student in Takamura Class. Then you're a student in the class I'm in charge of, right?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I can't just leave my own students neglected.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Sensei, I told you a moment ago too, I am a special scholarship student. Since classes are exempt, there is no reason to receive sensei's instruction...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Scholarship student or whatever doesn't matter.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Listen, a class is one team with everyone together. When someone's in trouble, someone helps out—mutual support is what matters！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Though Jindou is an individual sport and not a team match.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You just don’t get it, Momiji.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「And you’re casually dropping honorifics with me, too!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, Momiji, I feel like that actually suits you just fine.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I don’t understand what you mean at all!」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Anyway, I don’t need your guidance, Sensei, and I’m not really fond of that overly intense ‘one team’ sort of thing.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「As I said earlier, what Suzakuin aims for is ‘standing on one’s own.’」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Please use your precious time and enthusiasm for guidance on everyone else who actually needs it.」"
+    },
+    {
+        "message": "It was an unmistakable rejection."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Excuse me, then. I wish you the best of luck, Muragaki-sensei.」"
+    },
+    {
+        "message": "Smiling gracefully and offering a bow, Momiji took her leave."
+    }
+]

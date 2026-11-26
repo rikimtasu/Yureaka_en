@@ -1,0 +1,664 @@
+[
+    {
+        "message": "After returning to my room, I drifted off for a bit and realized it was already past 7 PM."
+    },
+    {
+        "name": "Momiji",
+        "message": "「...Huh, come to think of it, I wonder where Miyako is?」"
+    },
+    {
+        "message": "Usually, she’d be back in the room by now, but there’s still no sign of her."
+    },
+    {
+        "message": "I opened my holographic display and found a notification from Miyako."
+    },
+    {
+        "message": "『I’m heading to Osaka on the mainland. I’ll be back tomorrow.』"
+    },
+    {
+        "name": "Momiji",
+        "message": "「...That girl is such a free spirit.」"
+    },
+    {
+        "message": "I couldn't help but let out a wry smile."
+    },
+    {
+        "message": "I don’t worry about her wandering the streets of Osaka alone at night anymore. She can handle just about anything on her own."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Well then, what should I do for dinner?」"
+    },
+    {
+        "message": "With Miyako gone, it’s just me. It’s a hassle, so maybe I’ll just make do with some instant noodles."
+    },
+    {
+        "message": "Just as I was rummaging around under the kitchen counter thinking that—"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「TA-DAAAAAAA！！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Waaaah！？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Surprised, huh！ Surprise attack mission, a huge success！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「A surprise attack, you say... what is wrong with you, are you an idiot！？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hey, I told you I’d come by later, didn’t I?」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Eh？ You meant my room？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Where else would I have meant?」"
+    },
+    {
+        "message": "No, no, there’s no way I would’ve known that."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「More importantly, why are you about to eat instant noodles?」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Miyako isn't here, and since I'm on my own, I thought I'd take it easy.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hmm, Miyako-chan isn't here. That’s a shame~」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Did you come to see Miyako？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Nope, I came to drag Momimomi out. I was planning on taking Miyako-chan along too, though.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Taking me where？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「To a Chinese restaurant.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Come on, let’s go, Momimomi~」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Wait, hold on a sec! At least let me change!」"
+    },
+    {
+        "message": "Still in my casual clothes, I was dragged out by Setsugekka."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Don't worry, it's right nearby」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Right nearby？ Was there a Chinese restaurant around here？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Heh heh heh, there actually is~ Kind of a hidden gem」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Normally it's a special place just for me, you know. Just for today, I'll make an exception and invite Momimomi too」"
+    },
+    {
+        "message": "A special place, just for Setsugekka...？"
+    },
+    {
+        "name": "Iori",
+        "message": "「Oh, you're here. Come on in」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yep♪ Pardon the intrusion~」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Wait—Iori-sensei's room！？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yeah, is there a problem？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「No, there are tons of problems！ You can't just waltz into a man's room this late at night！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I've been dropping by pretty often for a while now, though」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Whaaaat！？ You've been bringing a female student into your own room on a regular basis？ And at night！？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Sensei, this is a police matter」"
+    },
+    {
+        "name": "Iori",
+        "message": "「W-Wait, I haven't done anything shady！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「A man and a woman meeting in secret at night—there's nothing about that that isn't shady」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I-I didn't have a choice, it's a promise」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Oho, a promise. I smell a crime」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「A crime？ All I smell is fried rice, though」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Huh？ What do you mean, fried rice？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Actually, what kind of code word is 'Chinese restaurant'？ This is Iori-sensei's room」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「You'll see if you just sit down. Come on, Momimomi, have a seat too」"
+    },
+    {
+        "message": "Setsugekka, taking a seat in a chair with practiced ease."
+    },
+    {
+        "name": "Momiji",
+        "message": "「What on earth is going on here, honestly...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「It'll be ready in a minute, so hang tight」"
+    },
+    {
+        "message": "From the kitchen came the sound of something stir-frying. At the same time, a savory aroma drifted over."
+    },
+    {
+        "name": "Iori",
+        "message": "「All right... Two servings, sorry to keep you waiting！」"
+    },
+    {
+        "message": "A little while later, heaping plates of seafood fried rice were set down in front of Setsugekka and me."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yahoo~, I've been waiting for this♪」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Um... what is this, Iori-sensei?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「The Tenju Special Forces specialty, Muragaki Fried Rice」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「That's not what I meant—I want you to explain the situation」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Are you feeding Setsugekka to tame her or something？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「In a way, that's spot on」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hey, what am I, an animal?」"
+    },
+    {
+        "message": "Iori-sensei explained how it came to this."
+    },
+    {
+        "message": "Apparently, in order to get Setsugekka to attend class properly every morning, he promised to treat her to fried rice every week."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Wh-What's with that... Isn't that unfair！？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Huh, how so？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「You barged into my room, threatened to tell Father, and didn't follow up with me at all afterward」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Yet Setsugekka gets invited to your room and treated to fried rice？ No matter how you look at it, this is discrimination！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「No, no, Ririmu-chan mocked me endlessly for being a cheap woman bought off with mere fried rice, you know」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Still better than me getting threatened and left hanging. Though you really are a cheap woman, Setsugekka」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「You're supposed to deny that part, you jerk~!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「All right, all right, it's nighttime, so let's keep it down. And eat up before the fried rice gets cold」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Oops, right. Well then, time to dig in~！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Then I'll dig in too」"
+    },
+    {
+        "message": "I dug into the fried rice alongside Setsugekka."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Mmph... this is delicious...！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hwaaah... My body just can't live without this fried rice anymore~...♪」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「You're good at cooking too, huh, Iori-sensei」"
+    },
+    {
+        "name": "Iori",
+        "message": "「This fried rice is the only thing I'm good at, though. Still, I'm glad it suits your taste」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Aah, the light, fluffy rice and shrimp... nom, nom♪」"
+    },
+    {
+        "message": "It was so delicious that once I started eating, I couldn't stop. I eagerly dug in with my spoon, and before I knew it, I'd finished the whole thing."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Haaah, thanks for the meal！ That was delicious~♪」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Thanks for the meal~. Yeah, it was really good.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Glad you liked it.」"
+    },
+    {
+        "message": "With practiced ease, he cleared away the dishes and brought us some tea."
+    },
+    {
+        "name": "Iori",
+        "message": "「Still, I was surprised. Setsugekka suddenly told me she wanted to bring you along, Momiji.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Is that right? Why did you bring me?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Uh... well, you looked kinda gloomy earlier, Momimomi.」"
+    },
+    {
+        "message": "...Ah, she meant when I ran into my old acquaintance."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Plus, it's a little thank-you for lending me your shoulder.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「For someone who keeps saying she'll definitely take down the Suzakuin family, you're surprisingly conscientious, Setsugekka.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「The Suzakuin family might be my enemy, but that doesn't mean you are, Momimomi. Besides, we're in the same class, so I want to get along.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Won't Keisetsu get mad at you if we get along？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I don't think so. If anything, I think she'd tell me to make friends with you.」"
+    },
+    {
+        "message": "Ah, right. That does sound like something Keisetsu would say."
+    },
+    {
+        "name": "Iori",
+        "message": "「Well then, if you're done eating, you two should probably head back soon. If you stay too long, people are gonna start getting the wrong idea.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Oh, right. Well then, Muragaki Chinese Restaurant, I look forward to my next visit~！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, see you next week!」"
+    },
+    {
+        "message": "Checking our surroundings, we made our way back from the faculty dorm to the student dorm."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Phew, I'm stuffed~」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I'm so jealous~. You get to eat Sensei's fried rice every week.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Heh heh heh, that's my special privilege~」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Well, if you really insist, Momimomi, I'll take you along again！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Yeah, I think I'll take you up on that.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ooh, that's pretty honest of you for Tsundere Momiji-san~」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Enough of that already」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Well then, shall we go for a walk to help digest our dinner？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「It’s almost bedtime, isn’t it」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「It’s fine, really. Come on Momimomi, let’s go~」"
+    },
+    {
+        "message": "The two of them walk around the academy at night."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ah, the night breeze feels so good~」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「…………」"
+    },
+    {
+        "message": "There is something that has been weighing on her mind this whole time."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Setsugekka, doesn’t it ever get to you？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hmm, what do you mean？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Having someone strong so close by, and not being able to beat them at all」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Don't you ever think about how you're weak, or how you lack talent？ Doesn't it ever frustrate you？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「It doesn't really get to me, actually~」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I believe that even if I can't win now, I'll be able to eventually.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「What if you never beat them your whole life？ If you can't win, it's just frustrating and painful, isn't it」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Wouldn't having someone like that nearby all the time just make you lose your spirit? Isn't that normal?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「...Hey, that sounds exactly like what that old acquaintance of yours was saying earlier, Momimomi.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「W-well, I suppose so」"
+    },
+    {
+        "message": "Her heart skips a beat. It feels like she’s been struck where it hurts."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Look, Momiji, I'd really hate for you to underestimate me.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Sure, Momimomi is definitely much stronger than me right now, and I don't know if I'll ever be able to beat her at this rate.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「But so what？ Should I just walk away because it's painful not being able to win？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Are you stupid? There's no way I'd ever think of doing something like that！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Listen, I love Jindou. And I love all the others who are working hard at Jindou, too.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I like you too, Momimomi, and Asahi, and Ririmu. Whether I can win or not is beside the point.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「That’s why I think of everyone in the Takamura Class as my friends.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Friends...」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Mr. Muragaki said it, didn't he? That whether you win or lose, life goes on.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「That really moved me. I was like, ‘Wow, you’re so right about that.’」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I want to beat Momimomi, and I want to get even stronger. My feelings about needing to defeat the Suzakuin haven't changed either.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I might never win against you, even in my whole life. I might not become a Toujinegi.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Even so, I want to be friends with everyone. I want to be friends with you too, Momiji.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「...Then, if you lose to me in the Martial Festival, do you think you’ll still want to be friends？」"
+    },
+    {
+        "message": "If I win a match, everyone drifts away from me. It’s always been that way."
+    },
+    {
+        "message": "So, surely, Setsugekka too—"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Of course!」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Whether you win or lose, life goes on.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「If that’s the case, I want to stay friends forever after that, too. That’s how I feel.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「...Setsugekka.」"
+    },
+    {
+        "message": "I feel that way too. I wanted to believe that."
+    },
+    {
+        "message": "But no one like that had ever appeared before me until now. Everyone always left."
+    },
+    {
+        "message": "Yet this girl..."
+    },
+    {
+        "name": "Momiji",
+        "message": "「So, Setsugekka... you’re saying that whether you win or lose, you’ll stay friends with me？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yeah, if that’s what you want, Momimomi.」"
+    },
+    {
+        "message": "—If I want it."
+    },
+    {
+        "message": "If I keep wishing for it, will she stay friends with me forever?"
+    },
+    {
+        "name": "Momiji",
+        "message": "「W-well... I suppose if you wish for it too, then I’m fine with us being friends.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Got it! Then it’s official, from today, you and I are friends!」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Oh, yeah, nice to meet you.」"
+    },
+    {
+        "message": "It was all decided so easily."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「…………」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「…………」"
+    },
+    {
+        "message": "The conversation trailed off after that."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「…………」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「…………」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Oh come on, this is embarrassing! Don’t just sit there in silence, bring up a topic, Momimomi!」"
+    },
+    {
+        "message": "Setsugekka slammed her body into me."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ow, hey... What was that for?!」"
+    },
+    {
+        "message": "I bumped Setsugekka right back with my body."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Pfft... hehehe...」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Hehehe, ahahahaha...！」"
+    },
+    {
+        "message": "The two of us looked at each other and burst out laughing at the same time."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Momimomi, you really are such a tsundere, aren't you!」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Shut up! It's not like I've had an easy life like you, Setsugekka!」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yeah, yeah, I'm sure it's been oh-so complicated. Why don't you tell me all about it in detail?」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Fine by me, though it's gonna take a while, okay？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Heh, bring it on! The night is still young, after all!」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Now that it's decided, everyone gather in Momimomi's room~！」"
+    },
+    {
+        "message": "And so—Setsugekka and I ended up talking about all sorts of things all through the night."
+    }
+]

@@ -1,0 +1,393 @@
+[
+    {
+        "message": "I returned to my room, but there wasn't much to do."
+    },
+    {
+        "message": "The dorms at Murakumo Academy are all single rooms, complete with a bath, a toilet, and even a kitchen."
+    },
+    {
+        "message": "In that respect, it's incomparably more luxurious than the JGSDF barracks."
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, since I've got a kitchen, why not make some fried rice！」"
+    },
+    {
+        "message": "After all, I brought along <d0041>my own iron skillet</d> that I've lovingly seasoned, just for an occasion like this."
+    },
+    {
+        "name": "Iori",
+        "message": "「All right, all prepped and ready」"
+    },
+    {
+        "message": "I stow the groceries I bought away in the fridge."
+    },
+    {
+        "message": "In the Tenju Special Forces Group, the squad members take turns cooking meals."
+    },
+    {
+        "message": "Maybe because we're a special forces unit, our daily routine is pretty different from the regular troops, even though we're stationed at the same base."
+    },
+    {
+        "message": "My specialty is fried rice, and I've even earned a reputation among the other guys for making especially good fried rice."
+    },
+    {
+        "name": "Iori",
+        "message": "「Hmm-hmm, hmm-hmmm♪」"
+    },
+    {
+        "message": "Humming a tune, I quickly stir-fry the rice."
+    },
+    {
+        "name": "Iori",
+        "message": "「Ahh, cooking for one sure is nice and easy」"
+    },
+    {
+        "message": "Whenever I cook at the barracks, I have to make at least twenty servings."
+    },
+    {
+        "name": "Iori",
+        "message": "「All right, done！」"
+    },
+    {
+        "message": "I quickly dish it onto a plate and dig right in."
+    },
+    {
+        "message": "Mmm, delicious."
+    },
+    {
+        "message": "Maybe just a tad too salty. When you're only making one serving, even a little extra seasoning really shows in the taste."
+    },
+    {
+        "name": "Iori",
+        "message": "「Still... 'show me your leadership,' huh...」"
+    },
+    {
+        "message": "As I eat my fried rice, I mull over what Keisetsu said to me earlier."
+    },
+    {
+        "message": "It was about two weeks ago that the Company Commander told me about this mission."
+    },
+    {
+        "message": "...It was a day off. I'd just gotten back from off-base and was taking it easy when she called out to me."
+    },
+    {
+        "name": "Asagiri Midori",
+        "message": "「Muragaki Iori, do you have a moment?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「C-Company Commander！」"
+    },
+    {
+        "message": "A sharp salute, snapping to attention. To a rank-and-file soldier like me, the Company Commander is someone high above the clouds."
+    },
+    {
+        "message": "I probably haven't spoken to her directly since my commissioning ceremony."
+    },
+    {
+        "name": "Asagiri Midori",
+        "message": "「At ease, we're off duty right now. You can relax」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yes, ma'am, understood」"
+    },
+    {
+        "name": "Asagiri Midori",
+        "message": "「It's been almost five years since you joined the Tenju Special Forces, hasn't it？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「A little longer than that」"
+    },
+    {
+        "name": "Asagiri Midori",
+        "message": "「I see. How are you finding it here?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「It's the best, ma'am」"
+    },
+    {
+        "name": "Asagiri Midori",
+        "message": "「Heh, don't say things you don't mean」"
+    },
+    {
+        "message": "The captain looked down at her toes, remaining silent for a brief moment."
+    },
+    {
+        "name": "Asagiri Midori",
+        "message": "「I heard from Mishima. You’ve been in a slump since that ‘<d0042>Oni-slaying</d>’ incident, haven’t you?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That is……」"
+    },
+    {
+        "message": "Several months ago—I, along with my team, headed out to suppress a certain incident."
+    },
+    {
+        "message": "The culprit was a single swordsman using Origami. Since the police couldn't handle it, a deployment request was issued to the Tenju Special Forces."
+    },
+    {
+        "message": "In the Tenju Special Forces, missions like these were codenamed “Oni-slaying.”"
+    },
+    {
+        "name": "Asagiri Midori",
+        "message": "「Muragaki Iori, you carried out that mission perfectly. Your technique was truly excellent.」"
+    },
+    {
+        "name": "Asagiri Midori",
+        "message": "「Despite the scale of the commotion, there wasn't a single victim.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「……But, I ended up causing the culprit serious injury.」"
+    },
+    {
+        "message": "The opponent was using Origami and had deployed a Barrier Jacket. Half-hearted attacks wouldn't be enough to suppress a culprit like that."
+    },
+    {
+        "message": "That’s why I didn’t hold back and struck with everything I had."
+    },
+    {
+        "message": "The result—the culprit lost their dominant arm and was, for a time, in critical condition."
+    },
+    {
+        "name": "Asagiri Midori",
+        "message": "「The opponent was trying to kill you, too. It was well within the bounds of self-defense.」"
+    },
+    {
+        "message": "I know that."
+    },
+    {
+        "message": "Even though I caused the culprit severe injury, I faced no disciplinary action. On the contrary, I was even commended at the general assembly."
+    },
+    {
+        "name": "Iori",
+        "message": "「But, he was still young. He was a student at the academy until just a while ago.」"
+    },
+    {
+        "message": "The culprit I had wounded was a former student who had just graduated from Murakumo Academy."
+    },
+    {
+        "message": "Perhaps something had gone wrong for him; he drew his Origami on the mainland and began to rampage indiscriminately."
+    },
+    {
+        "name": "Iori",
+        "message": "「If I had only been able to persuade him properly, it wouldn’t have come to that…… Thinking about it just leaves me feeling so regretful.」"
+    },
+    {
+        "message": "Clad in my full Spirit-Type Armament, the combat uniform of the Tenju Special Forces, I had stood against him."
+    },
+    {
+        "message": "The only way I could stop him was by hurting him."
+    },
+    {
+        "name": "Asagiri Midori",
+        "message": "「……I heard you once wanted to become a teacher.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「H-how did you know about that……！？」"
+    },
+    {
+        "name": "Asagiri Midori",
+        "message": "「Toru Kurachi from your squad told me.」"
+    },
+    {
+        "name": "Asagiri Midori",
+        "message": "「Apparently you were complaining about it while on sentry duty during a field exercise. That won't do; no idle chatter while on sentry duty.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I-I am terribly sorry!」"
+    },
+    {
+        "message": "That Kurachi, running his mouth like that. Just you wait……！"
+    },
+    {
+        "name": "Asagiri Midori",
+        "message": "「Tell me, Muragaki Iori.」"
+    },
+    {
+        "name": "Asagiri Midori",
+        "message": "「How about we try a little change of pace for a change?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「……And that would mean？」"
+    },
+    {
+        "name": "Asagiri Midori",
+        "message": "「How about you try taking on an ‘errand’？」"
+    },
+    {
+        "message": "A special appointed dispatch—commonly referred to as an “errand.”"
+    },
+    {
+        "message": "It is a high-difficulty special mission involving tasks like solo infiltration investigations."
+    },
+    {
+        "name": "Iori",
+        "message": "「M-Me……！？」"
+    },
+    {
+        "message": "An “errand” is usually supposed to be reserved for those at the rank of Sergeant Major or higher who hold Special Agent qualifications. I fulfill neither of those requirements."
+    },
+    {
+        "name": "Asagiri Midori",
+        "message": "「Even though I call it an errand, the importance and difficulty of this mission aren't all that high.」"
+    },
+    {
+        "name": "Asagiri Midori",
+        "message": "「What do you say, are you willing to take it？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「What are the contents of the mission……」"
+    },
+    {
+        "name": "Asagiri Midori",
+        "message": "「The details of a special appointed dispatch can only be revealed to the operative being dispatched. That is what the service regulations dictate.」"
+    },
+    {
+        "message": "In other words, they can’t tell me unless I answer 『I accept.”"
+    },
+    {
+        "name": "Asagiri Midori",
+        "message": "「I would say this is a mission perfectly suited for you.」"
+    },
+    {
+        "name": "Asagiri Midori",
+        "message": "「Go get some distraction, Muragaki Iori.」"
+    },
+    {
+        "name": "Asagiri Midori",
+        "message": "「Wash off the filth of demon-slaying, and when you’re satisfied, you’re welcome to come back.」"
+    },
+    {
+        "message": "……And so, the place I was dispatched to was this academy."
+    },
+    {
+        "message": "Helping out as a teacher was the nature of this “errand.”"
+    },
+    {
+        "name": "Iori",
+        "message": "「It might be perfectly suited, sure, but……」"
+    },
+    {
+        "message": "When I was told to do this “errand” and heard the details of the mission, to be honest, I wasn't thrilled at all."
+    },
+    {
+        "message": "It’s not like I lost the desire to become a teacher."
+    },
+    {
+        "message": "But, I have no qualifications related to Jindou."
+    },
+    {
+        "message": "It was precisely because I thought that, that I turned my back on Jindou and knocked on the doors of the JGSDF."
+    },
+    {
+        "message": "Yet, here I am, sent to this academy on a JGSDF mission, involved in Jindou, and doing the very thing I used to dream of—being a teacher."
+    },
+    {
+        "name": "Iori",
+        "message": "「……Is this what you’d call destiny, I wonder.」"
+    },
+    {
+        "message": "Honestly, I have a lot of complicated feelings about it."
+    },
+    {
+        "message": "I can’t escape the guilty feeling that clings to my spine like a leach."
+    },
+    {
+        "message": "But, for the students, my personal circumstances don't matter at all."
+    },
+    {
+        "message": "If I were to cut corners, I wouldn’t be able to face them. If I’m going to do it, I have to give it my all."
+    },
+    {
+        "name": "Iori",
+        "message": "「Alright, I’ll give it my all tomorrow too！」"
+    },
+    {
+        "message": "Just as I was psyching myself up, a call chime rang."
+    },
+    {
+        "name": "Iori",
+        "message": "「……Huh, Sasaki-sensei？」"
+    },
+    {
+        "message": "When I answered the call, a holographic Sasaki-sensei appeared before my eyes."
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Were you in the middle of eating？ Sorry to bother you outside of work hours.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, it’s fine. Did something happen？」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「I just remembered there was some data I forgot to hand over to you. I’ve shared it to the address I’m sending now.」"
+    },
+    {
+        "message": "I access the address and open the shared data."
+    },
+    {
+        "name": "Iori",
+        "message": "「This is… the results of the quiz, right？」"
+    },
+    {
+        "message": "The data was a list of the results from the quiz everyone in Takamura Class took in mid-April."
+    },
+    {
+        "name": "Mikoto",
+        "message": "「I’m sure you’re aware, but there’s a midterm exam at the end of June.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「However, I’d have to say some students are in quite a precarious position.」"
+    },
+    {
+        "message": "The Murakumo Martial Festival is right after the midterms. If they fail the midterm, they can't participate in the Martial Festival."
+    },
+    {
+        "name": "Iori",
+        "message": "「……We’re going to need a strategy.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Exactly. I’d be grateful if you could do something about it.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Understood. I’ll get on it right away.」"
+    },
+    {
+        "message": "I hang up the call and shake my head. Good grief."
+    },
+    {
+        "message": "……Captain Asagiri did say, 'Go have some fun and clear your head,' though."
+    },
+    {
+        "name": "Iori",
+        "message": "「This doesn't exactly clear my head, though.」"
+    },
+    {
+        "message": "I can’t help but offer a wry smile."
+    },
+    {
+        "message": "But it’s precisely because it’s a hassle that they’re endearing, and it makes the work worth doing."
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, no use worrying about it. Time for action！」"
+    },
+    {
+        "message": "I shovel the rest of my fried rice into my mouth and clench my fist."
+    }
+]

@@ -1,0 +1,1127 @@
+[
+    {
+        "message": "Momiji's first match is finally about to begin."
+    },
+    {
+        "message": "That's why I came to do a final check of her equipment, but..."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Mental Resonance Coefficient is the same as usual. No problems there...」"
+    },
+    {
+        "message": "Momiji was handling everything all by herself."
+    },
+    {
+        "name": "Iori",
+        "message": "「Momiji, are you sure you don't need any help？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Hmm？ Sensei, do you want to touch me？ What a pervert~」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That's not what I meant！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Hehe, the Suzakuin Family is all about self-reliance. I basically do everything myself, so I'm fine.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I see...」"
+    },
+    {
+        "message": "It's reassuring, yet lonely at the same time—and above all, it leaves me feeling guilty."
+    },
+    {
+        "name": "Momiji",
+        "message": "「What's wrong? Why the gloomy face?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「It's just... in the end, I wonder if I was of any use to you at all.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「You really don't need to worry about that.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, I do worry. I'm ashamed of myself as a teacher.」"
+    },
+    {
+        "message": "I haven't been able to teach her the \"state of Shohou Muga,\" nor can I help her with her fitting."
+    },
+    {
+        "message": "What purpose did I even serve for Momiji?"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Jeez, I'm telling you, it's fine.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「More importantly, don't make a student who's about to head into a match worry about you~」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Urk, you have a point... Sorry！」"
+    },
+    {
+        "message": "I shake my head and switch gears."
+    },
+    {
+        "name": "Iori",
+        "message": "「Momiji, you're strong. Having watched you up close, I like to think I know that better than anyone.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Hehe, of course. I don't have the slightest intention of losing.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Still, be careful.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Your opponent, Shizuku-san, uses a pretty unusual Tenju. If it activates, you're going to take serious damage.」"
+    },
+    {
+        "message": "The \"Demon Extermination\" she uses will be a threat to Momiji. I made sure to tell her about that beforehand."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Yeah, I know. Well, I'll figure something out.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I intend to watch over you until the very last moment, but if I judge that it's too dangerous to go on, I'll stop the match. Keep that in mind.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Don't you dare—if you do that, I'll hold a grudge against you, Sensei.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, that's fine with me.」"
+    },
+    {
+        "message": "No matter how much Momiji resents or hates me for it, I don't care. Protecting my students is still my duty as a teacher."
+    },
+    {
+        "name": "Momiji",
+        "message": "「...Haah, all right. Only if it really comes down to the wire, okay?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Of course. I'll never let your hard work go to waste.」"
+    },
+    {
+        "name": "Umpire",
+        "message": "「―Martial Arts Division, Year 1, Special A―Rank 'Takamura Class'！ Suzakuin... Momijiiiiiiiiiii！！！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Well then, I'm off.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, go get 'em！」"
+    },
+    {
+        "message": "Momiji gave me a smile, and I sent her off with one of my own."
+    },
+    {
+        "message": "Amidst the cheers, we face each other on the stage—"
+    },
+    {
+        "name": "Momiji",
+        "message": "（Hmm, I wonder how this is going to turn out...）"
+    },
+    {
+        "message": "Minamoto Shizuku—bearer of the Minamoto clan bloodline that exorcises Keyou."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Let's have a good match, Minamoto-senpai.」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「…………」"
+    },
+    {
+        "message": "I give a light bow, yet for some reason Minamoto-senpai remains expressionless. Normally, she'd at least say something back."
+    },
+    {
+        "name": "Umpire",
+        "message": "「Both fighters, take your stances！！」"
+    },
+    {
+        "message": "In any case, I draw my Origami at the Umpire's signal. Minamoto―senpai takes her stance as well―"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「...Suzakuin-san, I'm sorry.」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Normally, I don't care whether I win or lose a match, though」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「You're the one person I just refuse to lose to...！」"
+    },
+    {
+        "message": "With dark eyes, she turns naked hostility toward me."
+    },
+    {
+        "name": "Momiji",
+        "message": "（Did I do something to make Senpai mad...？）"
+    },
+    {
+        "message": "No matter how I rack my brain, I can't think of any reason she'd hate me."
+    },
+    {
+        "name": "Umpire",
+        "message": "「Gather the eight million gods in divine assembly, deliberate in divine counsel. Purity of heaven and earth, purity of the six senses—exorcise and cleanse, purify...！」"
+    },
+    {
+        "message": "Still, what lies ahead is a main tournament match with no mercy. I steel myself."
+    },
+    {
+        "name": "Momiji",
+        "message": "（Fine by me—I can't afford to lose either！）"
+    },
+    {
+        "name": "Umpire",
+        "message": "「In the East, Suzakuin Momiji！」"
+    },
+    {
+        "name": "Umpire",
+        "message": "「And in the West, Minamoto Shizuku！」"
+    },
+    {
+        "name": "Umpire",
+        "message": "「—Spirits high! Face off, no false starts!」"
+    },
+    {
+        "name": "Umpire",
+        "message": "「Fight fair and square—begin！！」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Hah...！！」"
+    },
+    {
+        "message": "I barely manage to block the sharp strike aimed at my wrist."
+    },
+    {
+        "message": "The Minamoto-senpai I know wasn't the type to open with a preemptive strike, though..."
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Haaaaaaaah...！！！」"
+    },
+    {
+        "message": "She presses right into a flurry of strikes."
+    },
+    {
+        "message": "As soon as I guard against a compact, thrust-like swing, she pulls her blade back and shifts into an upward scooping slash."
+    },
+    {
+        "message": "And the moment I parry that, her blade flips back as if she'd seen it coming, flowing straight into a diagonal downward slash."
+    },
+    {
+        "name": "Sassa Naruko",
+        "message": "「Whoa, Shizuku comes out of the gate with a ferocious flurry！ Is that the Matsukaze Itto-ryu stance?！」"
+    },
+    {
+        "name": "Nakamura Sakura",
+        "message": "「That's a form built around combos and mind games. You chain an attack with multiple follow-ups straight into another one with even more branches, finishing your opponent off before they ever get a chance to counter.」"
+    },
+    {
+        "name": "Nakamura Sakura",
+        "message": "「Make one wrong read, and she'll end it right then and there！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "（Hmph, trying to play mind games with me—！）"
+    },
+    {
+        "message": "I read her attacks and every single follow-up completely！"
+    },
+    {
+        "message": "I block her horizontal sweep to the torso, read the follow-up leg sweep, and leap right over it as I circle around to her side."
+    },
+    {
+        "message": "Aiming straight for her wide―open flank, an unavoidable strike―！"
+    },
+    {
+        "name": "Momiji",
+        "message": "「No way, she stopped it...？！」"
+    },
+    {
+        "message": "She forcefully twisted her body around, bringing her arm out from behind her back to block it."
+    },
+    {
+        "name": "Momiji",
+        "message": "（But in a reckless posture like that...！）"
+    },
+    {
+        "message": "To break her balance, I go on the offensive this time with a flurry of my own. Yet—"
+    },
+    {
+        "name": "Sassa Naruko",
+        "message": "「Whoa, what a stop by Shizuku！ No matter where the attacks come from, she's blocking every single one！」"
+    },
+    {
+        "name": "Nakamura Sakura",
+        "message": "「T-That's... Tokuma-ryu swordsmanship？」"
+    },
+    {
+        "name": "Nakamura Sakura",
+        "message": "「It's a defensive style boasting an ironclad guard from any posture. Wait, that's the complete opposite of the form she was just using？！」"
+    },
+    {
+        "name": "Sassa Naruko",
+        "message": "「We've heard Shizuku has mastered multiple schools, Sakura-san—that's pretty incredible, isn't it？」"
+    },
+    {
+        "name": "Nakamura Sakura",
+        "message": "「Damn right it is！ Normally, it easily takes thirty or forty years just to fully master a single school of swordsmanship, you know？」"
+    },
+    {
+        "name": "Nakamura Sakura",
+        "message": "「And this form in particular demands high-level flexibility, lightning reflexes, and outrageous foresight on top of it！」"
+    },
+    {
+        "name": "Nakamura Sakura",
+        "message": "「I've never even seen anyone pull it off in a real match！！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "（Oh yeah? Then a feint to break her stance...！）"
+    },
+    {
+        "message": "Leaving my center of gravity in its original position, I deliberately swing and miss with a weak attack—then unleash the real strike from there！"
+    },
+    {
+        "name": "Momiji",
+        "message": "（Darn, that didn't work either...！）"
+    },
+    {
+        "message": "In reality, she had taken the bait. But even from that position, she still managed to set up a defense."
+    },
+    {
+        "message": "Such high physical ability, and that power to read moves ahead—I can hardly believe she's from the Technical Division."
+    },
+    {
+        "message": "It's no wonder she pushed aside the other Martial Arts Division students to make it to the main tournament."
+    },
+    {
+        "name": "Momiji",
+        "message": "（Nope, she really is a tough nut to crack... what should I do about this~）"
+    },
+    {
+        "message": "—As I thought this and pulled away for a moment."
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Analysis complete, now all that's left is to trace it...！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Analysis...？」"
+    },
+    {
+        "message": "Minamoto-senpai muttered that and began to take up a different stance."
+    },
+    {
+        "message": "It's one I recognize—a form I've seen often in front of the mirror."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Don't tell me, that's mine...！！」"
+    },
+    {
+        "name": "Sassa Naruko",
+        "message": "「Hm？ Oh, ohhh！？ This is... it's just like a mirror image！ Shizuku-senshu has started imitating Momiji-senshu's form！？」"
+    },
+    {
+        "name": "Nakamura Sakura",
+        "message": "「Hey, hey, you gotta be kidding me...！！ Seriously, this year, it's nothing but people doing crazy stuff！」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Even with all the people you've fought, you've never had to seriously face yourself, have you...？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「...Heh, it seems like I'm about to have a valuable experience.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ugh...！」"
+    },
+    {
+        "message": "The moment she entered my range with a sharp dash—she pulled back and struck in the blink of an eye."
+    },
+    {
+        "message": "Despite not having been in a stance just a moment ago, the blade comes down suddenly. I see, it's quite nasty to be on the receiving end of that."
+    },
+    {
+        "message": "Since the Origami is the same, I have the advantage in reach. But Minamoto-senpai was increasing her speed to compensate for that."
+    },
+    {
+        "name": "Momiji",
+        "message": "（She's even adding subtle arrangements to overcome weaknesses, she's got real technique...！）"
+    },
+    {
+        "message": "I strike back as if to drive her away, but she shows no sign of retreating."
+    },
+    {
+        "message": "Worse, the way she parries and returns strikes uses the same movements as mine, trapping me in the strange illusion that I'm attacking myself."
+    },
+    {
+        "name": "Momiji",
+        "message": "（...I see, she realized that I excel at reading moves, so she's imitating me to seal that off.）"
+    },
+    {
+        "message": "While analyzing that, I lightly dodge a strike that came in too softly."
+    },
+    {
+        "message": "Counterattack—I thought, but the instant I did, I felt a bad premonition."
+    },
+    {
+        "message": "A weak, empty swing. This is what I did just before—"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「There！！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ugh！？」"
+    },
+    {
+        "message": "I managed to sense it and block it, but Minamoto-senpai had anticipated my defense and countered it."
+    },
+    {
+        "message": "I stopped just in time, locked blades with her, and pushed against her."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Having my own playstyle rearranged like that is a pretty fresh experience...！」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「I mostly understand your sword style...！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「It’s truly a great lesson！」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「…………」"
+    },
+    {
+        "message": "However, Minamoto-senpai remains silent, fixing me with a burning gaze."
+    },
+    {
+        "name": "Shizuku",
+        "message": "「For all the times you’ve confused me, I’ll confuse you right back...！！」"
+    },
+    {
+        "message": "Suddenly, Minamoto-senpai sinks her body low. She breaks the blade-lock abruptly, causing me to lose my balance. And then—"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Mishima―ryuu Type Kanoe: Gouhou―！！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Kyaaah！？」"
+    },
+    {
+        "message": "Sliding in from a low stance to get inside my guard, she delivers a rising palm strike following a ground―shaking stomp―！"
+    },
+    {
+        "message": "Caught completely off guard, my body is sent flying through the air. There’s no need to imagine whose style this is."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Setsugekka’s, Mishima-ryuu Martial Arts...！？」"
+    },
+    {
+        "message": "To think she could even copy something like that...！"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「If it’s necessary, I can be a replacement for anyone...！ Your replacement, or anything else—everything...！」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「That’s why I don’t need you！！」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「I’ll defeat you and prove it...！」"
+    },
+    {
+        "message": "I don’t understand what she’s so angry about."
+    },
+    {
+        "message": "I don’t understand, but it seems her anger is directed at me."
+    },
+    {
+        "name": "Momiji",
+        "message": "（……Huh, I see.）"
+    },
+    {
+        "message": "Things like this have happened before."
+    },
+    {
+        "message": "I’ve seen countless people who vent their resentment at the Suzakuin name."
+    },
+    {
+        "message": "I didn’t think Minamoto-senpai was that kind of person, but... well, it doesn’t matter now."
+    },
+    {
+        "message": "To begin with, I have no intention of losing to anyone."
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Haaaaahhh！」"
+    },
+    {
+        "name": "Sassa Naruko",
+        "message": "「Player Shizuku is launching a rush here！ Pure god-speed！ That’s one flowing barrage！」"
+    },
+    {
+        "name": "Sassa Naruko",
+        "message": "「Meanwhile, Player Momiji is forced onto the defensive! Is it difficult to fight against your own style?」"
+    },
+    {
+        "name": "Nakamura Sakura",
+        "message": "「I mean, setting aside your average dojo, Momiji’s style is quite unique.」"
+    },
+    {
+        "name": "Nakamura Sakura",
+        "message": "「Plus, if you try to attack carelessly, she’s got that martial arts training. It’ll be interesting to see how Suzakuin handles this！」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Mishima―ryuu Type Hinoto: Enga―！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ugh...！！」"
+    },
+    {
+        "message": "I lift my body to match her powerful kick, absorbing the impact as I parry it."
+    },
+    {
+        "message": "Truly, it is a devastating power that reminds me of Setsugekka from back then."
+    },
+    {
+        "message": "That must be the result of an extraordinary analytical eye. She has collected and analyzed every single shred of information."
+    },
+    {
+        "message": "And the behavioral patterns she has deduced, she makes her own, reproducing them with her own body."
+    },
+    {
+        "name": "Momiji",
+        "message": "（Thinking about it... maybe I'm a little like her）"
+    },
+    {
+        "message": "Such is Minamoto-senpai's combat prowess—powerful and ruthless."
+    },
+    {
+        "message": "However, I have no intention of losing—if we are on the same playing field, I won't lose even more so."
+    },
+    {
+        "name": "Momiji",
+        "message": "（If Minamoto―senpai analyzes and reproduces, I will analyze and turn it into the ultimate strategy reading―！）"
+    },
+    {
+        "message": "Minamoto―senpai's combat style, I will read it through to the very end―！"
+    },
+    {
+        "name": "Momiji",
+        "message": "（Divine Eye Ultimate Hand, activate...！）"
+    },
+    {
+        "name": "Shizuku",
+        "message": "（It's coming...！）"
+    },
+    {
+        "message": "Suzakuin's eyes suddenly grew sharp."
+    },
+    {
+        "message": "According to my analysis, this is a technique that constructs and traces an extremely accurate and peerless reading for a limited amount of time."
+    },
+    {
+        "message": "“This alone” was the one thing I simply could not reproduce."
+    },
+    {
+        "name": "Shizuku",
+        "message": "（But I have analyzed her, and even if I can't reproduce it, I should be able to deal with it...！）"
+    },
+    {
+        "message": "No, I must."
+    },
+    {
+        "message": "If I can't handle it, I'll lose, and if I lose, it's all over."
+    },
+    {
+        "name": "Shizuku",
+        "message": "（That is the only thing I absolutely refuse...！！）"
+    },
+    {
+        "name": "Momiji",
+        "message": "「...Here I come！」"
+    },
+    {
+        "message": "Suzakuin moves in to attack."
+    },
+    {
+        "message": "Think. Anticipate. Use everything I have grasped so far to escape from her clutches...！"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Ngh...！」"
+    },
+    {
+        "message": "The initial body sweep, woven with a feint, was successfully avoided."
+    },
+    {
+        "message": "As for the follow-up thrust, I managed to parry the first strike, but I couldn't evade the second."
+    },
+    {
+        "message": "As I backed away, Suzakuin saw right through it and pursued me relentlessly."
+    },
+    {
+        "message": "And it was as if she knew the exact moment I would stop—I can't stop！"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I’ll end this right here！」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「...！」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Aghhh...！」"
+    },
+    {
+        "message": "The fifth move, the sixth, the seventh, the eighth..."
+    },
+    {
+        "message": "No matter how much I rack my brain, and even estimating based on the behavioral patterns I thought I had mastered."
+    },
+    {
+        "message": "Everything is seen through, mastered, and I am being carved up as she pleases."
+    },
+    {
+        "message": "Anything I do is futile. That fact is thrust right before my eyes."
+    },
+    {
+        "name": "Shizuku",
+        "message": "（Why... why, why...！！）"
+    },
+    {
+        "message": "I can become anyone. I should be able to take anyone's place."
+    },
+    {
+        "message": "And yet, she calmly does things that I cannot...！"
+    },
+    {
+        "name": "Shizuku",
+        "message": "（I can't forgive this... this is all wrong...！）"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ninth move, middle stance—！」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Ghhhuuaaaaaaaah！」"
+    },
+    {
+        "message": "Her blade, carving into my flesh."
+    },
+    {
+        "message": "From it, I feel a vile—a black, wicked power of darkness."
+    },
+    {
+        "name": "Shizuku",
+        "message": "（This... must be purged...！！）"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Tenth move, with this—！」"
+    },
+    {
+        "message": "The moment I thought it was the final blow—"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「I can't forgive you... I won't forgive you, never...！！」"
+    },
+    {
+        "message": "Minamoto―senpai's Origami began to shine―！"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ugh, ghuuuuuu...！」"
+    },
+    {
+        "message": "A feeling of revulsion so strong it’s unbearable to look at, followed by a wave of lethargy. And then, nausea hits me."
+    },
+    {
+        "name": "Momiji",
+        "message": "（It’s out, the Keyou Killer...！）"
+    },
+    {
+        "message": "I can feel the power of my Tenju rapidly waning."
+    },
+    {
+        "message": "I wanted to take her down before she could activate this, but I didn't make it in time."
+    },
+    {
+        "name": "Shizuku",
+        "message": "「I’m going to take you down right here...！！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Guh... ngh...！」"
+    },
+    {
+        "message": "I manage to barely block the slashes Minamoto-senpai is hammering me with."
+    },
+    {
+        "message": "The attacks themselves are quite ordinary, but they are heavy, so heavy."
+    },
+    {
+        "message": "Even so, it’s not that Minamoto-senpai has gotten stronger. It’s because the protection of my Tenju has diminished."
+    },
+    {
+        "name": "Momiji",
+        "message": "（Oh, come on, the naginata is so heavy...！）"
+    },
+    {
+        "message": "I never thought a day would come when I’d struggle just to swing a naginata."
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Still more—I won't let it end with just this...！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ugh...！！」"
+    },
+    {
+        "message": "Minamoto-senpai is, of course, relentlessly hammering me with combos."
+    },
+    {
+        "message": "I don’t know what she’s so angry about, but this is really bad."
+    },
+    {
+        "message": "I’m struggling just to block, and the more I block, the more I’m affected by this “Demon Extermination” influence."
+    },
+    {
+        "name": "Momiji",
+        "message": "（Ghuuu... I'm running out of options...！）"
+    },
+    {
+        "message": "Suddenly, Minamoto-senpai’s eyes flashed sharply."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Oh no...！」"
+    },
+    {
+        "message": "My sixth sense warned me—Senpai is pulling something. I scramble to retreat, but it’s too late—"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「—Secret Selection, Swallow Triple Strike！！！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Guh-aaaaaaah！！」"
+    },
+    {
+        "message": "My Barrier Jacket was gouged deeply, and I was sent tumbling and crashing onto the ground."
+    },
+    {
+        "message": "As I rolled along the dirt, I gritted my teeth and forced myself onto my knees."
+    },
+    {
+        "name": "Sassa Naruko",
+        "message": "「Woooooaaaah！ Momiji-senshu has taken a brutal hit here！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "（You’ve got to be kidding, copying my Swallow Tri-Strike…！）"
+    },
+    {
+        "message": "She should have only seen it once when she fought Victoria, yet the replication was flawless."
+    },
+    {
+        "message": "Perhaps that’s why. I had managed to deflect the first and second strikes, somehow."
+    },
+    {
+        "message": "That said, overcoming all of them was impossible. My Barrier Jacket was heavily damaged."
+    },
+    {
+        "message": "If she uses it again—I absolutely won’t be able to weather it."
+    },
+    {
+        "name": "Sassa Naruko",
+        "message": "「Now, Shizuku-senshu！ This is your chance for a follow-up！」"
+    },
+    {
+        "name": "Sassa Naruko",
+        "message": "「Wait… oh? I wonder what happened. Shizuku-senshu has stopped in her tracks.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "（Hm？ No follow-up…？）"
+    },
+    {
+        "message": "Puzzled, I managed to lift my head."
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Haa… hah, haa… haaaa…！」"
+    },
+    {
+        "message": "There stood Minamoto-senpai, her shoulders heaving painfully as she gasped for air."
+    },
+    {
+        "name": "Momiji",
+        "message": "（Ah, I see… she’s out of stamina…！！）"
+    },
+    {
+        "message": "Minamoto-senpai is in the Technical Division."
+    },
+    {
+        "message": "Third-year students enter specialized tracks and stop doing basic physical training like the Martial Arts Division."
+    },
+    {
+        "message": "Tenju can only augment things like arm strength or leg power; it cannot compensate for actual physical stamina."
+    },
+    {
+        "message": "Furthermore, Tsubame Gaeshi requires an extreme reallocation of Tenju, demanding massive, instantaneous muscular power."
+    },
+    {
+        "message": "Even I, who am used to it, can't just fire it off repeatedly. It drains your stamina like nothing else."
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Ha, ha… not yet, it’s not over yet…！！」"
+    },
+    {
+        "message": "If Minamoto-senpai had been able to challenge me in peak condition right now,"
+    },
+    {
+        "message": "with my Tenju weakened by Demon Extermination, I would have been defeated without any recourse."
+    },
+    {
+        "message": "But, if Minamoto―senpai is just as drained―"
+    },
+    {
+        "name": "Momiji",
+        "message": "（There’s still a chance for me to win…！）"
+    },
+    {
+        "message": "Will my Tenju run out, or will Minamoto-senpai’s stamina give out? From here on, it’s a battle of willpower."
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Ha, haa, I don’t want to give up… in a place like this…！」"
+    },
+    {
+        "message": "Minamoto-senpai glared at me, her breathing ragged."
+    },
+    {
+        "name": "Momiji",
+        "message": "「…Minamoto-senpai, what have you been so angry about this whole time?」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「You… you probably wouldn’t understand…！」"
+    },
+    {
+        "message": "Senior Minamoto attacks in one breath. Her blow is heavy; there's no chance to even attempt a counter."
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Being by her side... was supposed to be my place...！！」"
+    },
+    {
+        "message": "'Her'... could she be talking about Victoria?"
+    },
+    {
+        "message": "With a ferocious―and somehow pained―look, the senior rushes toward me."
+    },
+    {
+        "name": "Shizuku",
+        "message": "「And yet, to talk of going solo like that...！！！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ugh...！」"
+    },
+    {
+        "message": "The impact was so great that I nearly lost consciousness."
+    },
+    {
+        "message": "Senior Minamoto continues her onslaught, screaming in grief all the while."
+    },
+    {
+        "name": "Momiji",
+        "message": "（...Ah, so that's it.）"
+    },
+    {
+        "message": "The reason Senior Minamoto looked at me with such dark eyes when I explained the 'going solo' idea to Victoria—"
+    },
+    {
+        "message": "I finally understood the source of the senior's rage."
+    },
+    {
+        "name": "Shizuku",
+        "message": "「I've changed since I met Vicky...！」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「I always thought I was better off alone, but now, I can't think that way anymore...！！」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Before I knew it, being by Vicky's side had become my place...！」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「There's no going back now, you know...！！」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「And yet！ If that's taken away from me！ What am I supposed to do...！！！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ugh, nnngh...！！」"
+    },
+    {
+        "message": "This is bad, my Barrier Jacket won't hold out much longer...！"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Senior, that's just misdirected anger...！」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Yes, I know that...！ Suzakuin-san, you've done nothing wrong...！」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「But I don't have the courage to say this directly to Vicky...！ That's why this is just taking it out on you...！」"
+    },
+    {
+        "message": "To Victoria, Senior Minamoto was a reliable, important partner."
+    },
+    {
+        "message": "And Senior Minamoto, in turn, took pride in being relied upon by Victoria."
+    },
+    {
+        "message": "She didn't want that relationship to be destroyed—."
+    },
+    {
+        "name": "Shizuku",
+        "message": "「This is just misdirected anger... but that's not all there is to it.」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「If you lose, the idea of going solo will fall to the ground...！」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「And for that very reason... you're going to fall right here！！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Aghhh！！」"
+    },
+    {
+        "message": "Senior Minamoto's blade, which I failed to parry, tears my Barrier Jacket to shreds."
+    },
+    {
+        "message": "Amidst the shock—I finally understood the senior's feelings, and my lips curled into a faint smile."
+    },
+    {
+        "name": "Momiji",
+        "message": "（If it were the me from a little while ago, I might not have understood...）"
+    },
+    {
+        "message": "But now, I somehow get it."
+    },
+    {
+        "name": "Iori",
+        "message": "『No... in the end, I wonder if I was of any use to you』"
+    },
+    {
+        "name": "Momiji",
+        "message": "（That's... obvious, isn't it）"
+    },
+    {
+        "message": "I smile at the face and the words that surfaced in my mind."
+    },
+    {
+        "message": "Sensei pulled me out of my shell. He was overbearing and stifling, and at first, I thought he was annoying."
+    },
+    {
+        "message": "But thanks to him pulling me along anyway, my world has changed completely."
+    },
+    {
+        "message": "Thank you, Iori―sensei―"
+    },
+    {
+        "name": "Momiji",
+        "message": "（...I could never say that to his face, though！）"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「With this... fall！」"
+    },
+    {
+        "message": "I plant my staggering feet and take the follow-up blow."
+    },
+    {
+        "message": "Even just that is whittling away my Tenju. Between the sense of loss and the fatigue, my body feels heavier than if it were flesh and blood."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Minamoto-senpai... I understand how you feel...！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I also have people precious to me, and a place that's precious to me...！！」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Tsk...！！」"
+    },
+    {
+        "message": "Mustering all my remaining strength, I strike back at Senpai."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Hah, hahh...！」"
+    },
+    {
+        "message": "Breathing is painful. I’ve reached my limit."
+    },
+    {
+        "message": "There won't be another chance."
+    },
+    {
+        "message": "If I'm going to move, it has to be now—"
+    },
+    {
+        "message": "Yes... this is my last chance！"
+    },
+    {
+        "name": "Momiji",
+        "message": "（Shingan no Kiwamete, activate...！！！！）"
+    },
+    {
+        "message": "Look closely."
+    },
+    {
+        "message": "Look, feel, and discern—！"
+    },
+    {
+        "message": "Where does my victory lie?"
+    },
+    {
+        "message": "First move... second move... third, fourth...！"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「I won't let you... absolutely not！！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I will win... I can't end it here！！」"
+    },
+    {
+        "name": "Shizuku & Momiji",
+        "message": "「Secret Selection, Swallow—！！！\" \"Secret Selection, Swallow—！！！」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Triple Strike—！！！」"
+    },
+    {
+        "message": "In that split second, our Origami clash, sparking as if they’re spitting fire."
+    },
+    {
+        "message": "I’m gripped by the illusion that I’m facing myself, that I’m trying to strike down my own self."
+    },
+    {
+        "message": "But I’m already beyond that point."
+    },
+    {
+        "message": "Beyond that, to one step further—！"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Fourth strike！！！」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Kyaaaaaaaaah...！」"
+    },
+    {
+        "message": "That final slash caught Minamoto-senpai."
+    },
+    {
+        "message": "It shaved away the last of her Barrier Jacket... and at the same time, the Keyou-slayer's power came to a halt."
+    },
+    {
+        "message": "My Tenju—was still barely holding on."
+    },
+    {
+        "name": "Umpire",
+        "message": "「...Match decided！！！」"
+    },
+    {
+        "name": "Umpire",
+        "message": "「In the West, Minamoto Shizuku's Barrier Jacket is confirmed destroyed！」"
+    },
+    {
+        "name": "Umpire",
+        "message": "「Therefore, victory goes to the East, Suzakuin Momiji！」"
+    },
+    {
+        "message": "The Umpire's announcement and the crowd's cheers echoed across the stage."
+    },
+    {
+        "name": "Momiji",
+        "message": "「I-I won...！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Man, that was way too rough...！」"
+    },
+    {
+        "message": "Enveloped in the cheers―I collapsed spread―eagle right then and there."
+    }
+]

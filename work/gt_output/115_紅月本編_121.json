@@ -1,0 +1,2471 @@
+[
+    {
+        "name": "Sassa Naruko",
+        "message": "「Well, the first semi-final match has concluded, and we are currently preparing for the second.」"
+    },
+    {
+        "name": "Sassa Naruko",
+        "message": "「Sakura, what are your thoughts looking back at that first match？」"
+    },
+    {
+        "name": "Nakamura Sakura",
+        "message": "「Man, honestly, before it started I was thinking Victoria was a sure bet to win it all again this year.」"
+    },
+    {
+        "name": "Nakamura Sakura",
+        "message": "「But who would've thought she'd be eliminated in the semi-finals！ That's the Martial Festival for you—you never know how it’ll go until the lid is off.」"
+    },
+    {
+        "name": "Sassa Naruko",
+        "message": "「What are your thoughts on Setsugekka, who managed to perform on par with—or perhaps even better than—a competitor like Victoria？」"
+    },
+    {
+        "name": "Nakamura Sakura",
+        "message": "「Power and speed that rivals Victoria's, plus she's mainly focused on melee combat... she's just got way too many weapons in her arsenal.」"
+    },
+    {
+        "name": "Nakamura Sakura",
+        "message": "「Whoever ends up winning the next match, I honestly don't think there's anyone left who can stop Setsugekka's momentum, you know？」"
+    },
+    {
+        "name": "Sassa Naruko",
+        "message": "「So, are you saying that Setsugekka is effectively the guaranteed winner for this year's Toujinegi title?」"
+    },
+    {
+        "name": "Nakamura Sakura",
+        "message": "「No, no, you never know！」"
+    },
+    {
+        "name": "Nakamura Sakura",
+        "message": "「Depending on the kind of fight we see in this second match, the whole situation could easily flip on its head.」"
+    },
+    {
+        "name": "Sassa Naruko",
+        "message": "「The second match is between two first-year Martial Arts Division students: Asahi Kuki versus Momiji Suzakuin.」"
+    },
+    {
+        "name": "Nakamura Sakura",
+        "message": "「They both fought so well and were genuinely strong in their first matches！ I can't wait to see this one！」"
+    },
+    {
+        "name": "Sassa Naruko",
+        "message": "「How do you predict the flow of this match will go, Sakura？」"
+    },
+    {
+        "name": "Nakamura Sakura",
+        "message": "「What we learned in the first round is that Momiji's weapon is that pinpoint accuracy in her strikes—I don't know what else to call it but precision shooting.」"
+    },
+    {
+        "name": "Nakamura Sakura",
+        "message": "「That level of skill? You'd be lucky to see it once every ten years, even among pros. It's on par with the legendary Jindou fighter, Sayuki Suzakuin.」"
+    },
+    {
+        "name": "Sassa Naruko",
+        "message": "「I see, so she's the return of the former champion Sayuki！」"
+    },
+    {
+        "name": "Sassa Naruko",
+        "message": "「Momiji is Sayuki's daughter—the eldest one at that—so it makes perfect sense.」"
+    },
+    {
+        "name": "Nakamura Sakura",
+        "message": "「I'm not one to credit lineage, but you have to admit that kind of swordplay really does show they're mother and daughter.」"
+    },
+    {
+        "name": "Sassa Naruko",
+        "message": "「Her opponent, Asahi Kuki, really put on a show in the first round as well.」"
+    },
+    {
+        "name": "Nakamura Sakura",
+        "message": "「Since Asahi uses Iai, she's fundamentally going to want to fight from a waiting position. But her opponent is Momiji, a long-blade wielder.」"
+    },
+    {
+        "name": "Nakamura Sakura",
+        "message": "「If Momiji keeps picking her apart from long range outside her reach, Asahi might find herself in a tough spot.」"
+    },
+    {
+        "name": "Sassa Naruko",
+        "message": "「In that case, would you say Momiji has the edge here?」"
+    },
+    {
+        "name": "Nakamura Sakura",
+        "message": "「Well, I’m sure Asahi is more than aware of that too. She’s absolutely come up with some kind of countermeasure.」"
+    },
+    {
+        "name": "Nakamura Sakura",
+        "message": "「If she hadn't, there’s no way she could have made it this far with just her Iai draw！」"
+    },
+    {
+        "name": "Sassa Naruko",
+        "message": "「Expectations for Asahi are certainly high!」"
+    },
+    {
+        "name": "Nakamura Sakura",
+        "message": "「Like I said before, I’m rooting for Asahi. Once she graduates, I’d love for her to join our team！」"
+    },
+    {
+        "name": "Sassa Naruko",
+        "message": "「Ooh, a personal love call from a pro player right there！？」"
+    },
+    {
+        "name": "Sassa Naruko",
+        "message": "「Ahem... and we’ve just received word from tournament headquarters. It looks like preparations are complete.」"
+    },
+    {
+        "name": "Sassa Naruko",
+        "message": "「Right then, everyone, thank you for waiting！」"
+    },
+    {
+        "name": "Sassa Naruko",
+        "message": "「The second semi-final match: Kuki Asahi versus Suzakuin Momiji！ The match will begin shortly！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「…………」"
+    },
+    {
+        "message": "I help Asahi put on her Spirit-Type Armament and perform a final check."
+    },
+    {
+        "name": "Iori",
+        "message": "「Alright, all systems green. The equipment is in perfect order.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Thank you very much.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Is there anything else I can do for you？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「In that case, a hug, please.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...Hey now.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hehe, it’s the eve of battle. Surely that’s acceptable?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Good grief, you never change, even at a time like this, Asahi.」"
+    },
+    {
+        "message": "I can't help but let out a wry smile."
+    },
+    {
+        "name": "Iori",
+        "message": "「But I’m glad you don’t seem nervous.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「That’s not true at all.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Just imagining what it would feel like to dive into Iori-sensei’s chest makes my heart race.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, yeah, sounds like a real struggle for you.」"
+    },
+    {
+        "message": "I brush it off casually and wait for the entrance time."
+    },
+    {
+        "name": "Asahi",
+        "message": "「...Are you sure you don’t need to be with Momiji?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Momiji turned me down, saying, ‘I’m fine on my own.’」"
+    },
+    {
+        "message": "Momiji is currently by herself at the opposite entrance."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Heh, that sounds just like her.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, it does.」"
+    },
+    {
+        "message": "She really is stubborn."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hah, hah… I-I made it！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「…Ririmu-san？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Phew, the west and east entrances were further apart than I thought, so I ended up having to run a long way！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「The west side? Does that mean you were with Momiji until just now?」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Yeah, I went to go cheer her on and tell her to do her best！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I see. Thanks.」"
+    },
+    {
+        "message": "That’s a relief. So Momiji wasn’t alone after all."
+    },
+    {
+        "name": "Asahi",
+        "message": "「So, what did you come all the way over here for？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Huh？ Don’t be so cold. I went out of my way to come cheer you on, you know.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Heh, thank you.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「So, how are you feeling？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I was finally alone with Iori-sensei, so I’m feeling a bit sensitive now that I’ve been interrupted.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hey! Don’t treat your friend like a nuisance.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Actually, that sounds just like the usual Asahi. I’m glad you seem relaxed, though.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I’m sorry for making you worry.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「That look on your face—you don’t think you did anything wrong at all, do you? That part of you really pisses me off.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「That goes both ways.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Yeah, I know.」"
+    },
+    {
+        "name": "Asahi & Ririmu",
+        "message": "「Heh.」 「Ahahaha!」"
+    },
+    {
+        "message": "They’re laughing happily. It seems the tension between the two of them has been resolved."
+    },
+    {
+        "name": "Umpire",
+        "message": "「From the East—Martial Arts Division first-year, Special A-Class, Takamura Class! Kuki… Asahiーーーーーーーーーーーーーーーー!!」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Well then, I’m heading out.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, go at them with everything you’ve got！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Asahi！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Yes.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Don't you dare lose to someone like Momichi！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「……Yeah, thank you, Ririmu.」"
+    },
+    {
+        "message": "Saying that with a shy smile, Asahi passed through the entrance gate and headed toward the stage."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Phew, well then. I suppose it’s almost my turn.」"
+    },
+    {
+        "message": "Asahi’s entrance had begun."
+    },
+    {
+        "message": "Ririmu had been here just a moment ago, but she left saying she was going to go over to Asahi’s side."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Well, I’m fine with being alone anyway, I find it calmer.」"
+    },
+    {
+        "message": "Just as I was thinking that."
+    },
+    {
+        "name": "Miyako",
+        "message": "「……Ah, there you are.」"
+    },
+    {
+        "name": "Tsubaki",
+        "message": "「Momiji-oneechan！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Huh? Miyako? Tsubaki? What are you two doing here！?」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「I told Father I really wanted to go see the Martial Festival, so he brought us.」"
+    },
+    {
+        "name": "Tsubaki",
+        "message": "「When I told him that if Miyako-oneechan wouldn't take me, I'd go on my own, he gave us the OK!」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Miyako, you really are something……」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「I didn't just leave without saying anything, I told him properly, so I think I'm doing better than before.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Miyako, you’ve really gotten good at handling Father, haven’t you~」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Maybe I have you to thank for that, Momiji-oneechan.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Wait, no, I never taught you that, did I！？」"
+    },
+    {
+        "name": "Tsubaki",
+        "message": "「More importantly, Momiji-oneechan, you have a match coming up, right?」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Yeah, that’s right.」"
+    },
+    {
+        "message": "I patted Tsubaki on the head."
+    },
+    {
+        "name": "Tsubaki",
+        "message": "「If you win, can you become a Toujinegi？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Hmm, it’s the semi-finals right now, so I suppose I could become one if I win two more matches~」"
+    },
+    {
+        "name": "Tsubaki",
+        "message": "「Amazing…… you’re almost there！」"
+    },
+    {
+        "name": "Tsubaki",
+        "message": "「When I grow up, I’m definitely going to become a Toujinegi！ So you better do your best too, Big Sister」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Hehe, thank you」"
+    },
+    {
+        "message": "There are things more important than becoming a Toujinegi."
+    },
+    {
+        "message": "I want Tsubaki to realize that too, but……."
+    },
+    {
+        "name": "Umpire",
+        "message": "「From the west—Martial Arts Division Year 1, Special-A Grade, belonging to ‘Takamura Class’! Suzakuin—Momijiーーーーーーーーーーーーーーーー!!」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Alright, you two, I’m heading out」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Good luck, Big Sister」"
+    },
+    {
+        "name": "Tsubaki",
+        "message": "「Good luck, Big Sister Momiji~！」"
+    },
+    {
+        "message": "Backed by their cheers, I headed toward the entrance gate."
+    },
+    {
+        "name": "Sassa Naruko",
+        "message": "「Now then~, it is time for the entry of competitor Momiji Suzakuin」"
+    },
+    {
+        "message": "As I walked toward the stage, Asahi was waiting for me at the front."
+    },
+    {
+        "name": "Asahi",
+        "message": "「……I have been waiting for you, Momiji-san」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ever since I first met you, I thought that one day I would end up fighting you on this very stage」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I believed that if I aimed to become a Toujinegi, you would inevitably stand in my way as a barrier」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Hehe, I’m honored」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「That is why I have spent every day until now devising a strategy to defeat you, Momiji-san」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Have you found a strategy？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Yes, thanks to you」"
+    },
+    {
+        "message": "Geez, hearing something so depressing before the match even starts."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Momiji-san, I would like to apologize in advance」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「For what？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「From here on, I am going to deceive you」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Sharing both the good and the bad within the team, encouraging one another while honing our skills together」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I believe I am about to go against those very teachings of Iori-sensei」"
+    },
+    {
+        "message": "It seems she has prepared some secret plan to take me down. Though I don’t know what it could be."
+    },
+    {
+        "name": "Momiji",
+        "message": "「...There's no need to apologize, Asahi-san.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「After all, there are still mountains of things I haven't told you either.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Even between two people who've pledged their lives to one another, sharing absolutely everything is impossible.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hehe, is that so? Then I suppose we're even.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Precisely.」"
+    },
+    {
+        "message": "We share a laugh."
+    },
+    {
+        "name": "Sassa Naruko",
+        "message": "「Alright, preparations are complete. Time is up！」"
+    },
+    {
+        "name": "Sassa Naruko",
+        "message": "「The second semifinal match—an all-first-year showdown nobody could have predicted—is finally about to begin！」"
+    },
+    {
+        "name": "Umpire",
+        "message": "「Both combatants, take your stances！！」"
+    },
+    {
+        "message": "I draw my Origami and activate my Tenju."
+    },
+    {
+        "name": "Umpire",
+        "message": "「Gather the myriad gods in divine assembly, deliberate in heavenly council. May heaven and earth be pure, may the six senses be pure; purify us, cleanse us...！」"
+    },
+    {
+        "name": "Umpire",
+        "message": "「To the East, Kuki Asahi！」"
+    },
+    {
+        "name": "Umpire",
+        "message": "「To the West, Suzakuin Momiji！」"
+    },
+    {
+        "name": "Umpire",
+        "message": "「—Spirits high! Face one another, no false starts!」"
+    },
+    {
+        "name": "Umpire",
+        "message": "「Now, fight fair and square—begin！！」"
+    },
+    {
+        "message": "Asahi remains in her Iai quick-draw stance, staring straight at me. Just as the textbook dictates, she intends to open on the defensive."
+    },
+    {
+        "name": "Momiji",
+        "message": "（So she's not going to pull out her trump card right off the bat, huh.）"
+    },
+    {
+        "message": "Or maybe it's a counter-type secret technique, and she's waiting for my attack so she can spring it."
+    },
+    {
+        "name": "Momiji",
+        "message": "（...Well, in that case, I suppose I'll play it by the book too.）"
+    },
+    {
+        "message": "I know Asahi's reach inside and out from all the free-sparring bouts we've done together."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Hmph...！！」"
+    },
+    {
+        "message": "I slash in without any telegraph—only for Asahi's freshly drawn blade to deflect it."
+    },
+    {
+        "name": "Momiji",
+        "message": "「So fast—just what I'd expect from you, Asahi-san...！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Still... now that you've drawn that blade, I won't let you sheathe it again！」"
+    },
+    {
+        "message": "Gradually picking up speed, I unleash a flurry of consecutive strikes."
+    },
+    {
+        "message": "Leveraging the reach of my long blade, I shower her with an unbroken barrage of slashes from the razor's edge of a distance she can't reach."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Tch...！」"
+    },
+    {
+        "message": "As Asahi tries to respond, my kote strike lands cleanly on her left wrist."
+    },
+    {
+        "name": "Momiji",
+        "message": "「There!」"
+    },
+    {
+        "message": "The blade, extended mere inches from the ground, scrapes the Barrier Jacket on Asahi’s ankle."
+    },
+    {
+        "message": "Overwhelming her with sheer volume of attacks, I chip away at her wall of Tenju bit by bit, giving Asahi no time to counter."
+    },
+    {
+        "name": "Sassa Naruko",
+        "message": "「Whoa, this has turned into a one-sided match！」"
+    },
+    {
+        "name": "Nakamura Sakura",
+        "message": "「Just as I read it. Momiji’s using the reach of that long blade to needle her from outside Asahi’s range.」"
+    },
+    {
+        "name": "Sassa Naruko",
+        "message": "「Asahi is completely unable to make a move！」"
+    },
+    {
+        "name": "Nakamura Sakura",
+        "message": "「Developments like this are tougher than the people on the sidelines realize. It hits your head before it hits your body.」"
+    },
+    {
+        "name": "Sassa Naruko",
+        "message": "「She really needs to find a way to shift to the offensive, but…！」"
+    },
+    {
+        "message": "The entire venue is leaning in, swept up in the torrential flurry of strikes I’m unleashing."
+    },
+    {
+        "message": "But she—and she alone—is different."
+    },
+    {
+        "name": "Asahi",
+        "message": "「…………」"
+    },
+    {
+        "name": "Momiji",
+        "message": "（In this situation, you’d think she’d be feeling a little impatient at least！）"
+    },
+    {
+        "message": "Humans have feelings. Anyone would think, 'Well, of course that's natural.'"
+    },
+    {
+        "message": "But when pushed into a corner, humans have a way of letting those 'natural' things completely slip from their thoughts."
+    },
+    {
+        "message": "When they’re swayed by emotion and can no longer stay calm, people in that situation lose the ability to recognize it."
+    },
+    {
+        "message": "They always say a swordsman must remain calm at all times."
+    },
+    {
+        "message": "But even if you understand it in your head, putting it into practice is incredibly difficult."
+    },
+    {
+        "message": "It’s only when you’re actually facing a drawn blade, placed in a situation where that cold steel is coming to end your life, that you can truly grasp it."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Don't you think it's about time you made a move…！？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Haha, I suppose so.」"
+    },
+    {
+        "message": "Despite having her Barrier Jacket scraped by the previous attack, Asahi’s expression doesn't flicker in the slightest at my taunt."
+    },
+    {
+        "message": "Such composure while at a disadvantage. It’s as if I’m facing a veteran swordswoman."
+    },
+    {
+        "name": "Momiji",
+        "message": "（Agh, she isn’t cracking at all… her defense is so solid！）"
+    },
+    {
+        "message": "I am cornering Asahi, albeit slowly."
+    },
+    {
+        "message": "But at this rate, there’s no telling how long it will take to decide the winner."
+    },
+    {
+        "name": "Momiji",
+        "message": "（…Wait, what am I doing getting impatient myself?）"
+    },
+    {
+        "message": "Being pushed back this far and still not launching a counterattack is proof that Asahi lacks any effective means of resistance."
+    },
+    {
+        "name": "Momiji",
+        "message": "（In that case, I’ll just overwhelm her with a flurry of strikes and finish this…！！）"
+    },
+    {
+        "message": "Behind me are my three younger sisters. Miyako and Tsubaki are watching my match from close by."
+    },
+    {
+        "message": "I cannot afford to show mercy and risk losing the victory, not even by the slightest chance."
+    },
+    {
+        "name": "Momiji",
+        "message": "（Don't take this the wrong way, Asahi――！！！）"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ngh……！」"
+    },
+    {
+        "message": "A barrage of precise and unrelenting strikes bares its fangs at me."
+    },
+    {
+        "message": "I can't find an opening to counter. But I knew that from the very beginning."
+    },
+    {
+        "message": "Momiji wouldn't show an opening so easily, and I couldn't expect any mistakes from her precise strikes."
+    },
+    {
+        "message": "If that's the case, then what am I enduring for? What am I waiting for while trapped in this disadvantageous position?"
+    },
+    {
+        "message": "Such self-questioning even crosses my mind."
+    },
+    {
+        "name": "Momiji",
+        "message": "「This...！！」"
+    },
+    {
+        "message": "A bit more of my Barrier Jacket was chipped away."
+    },
+    {
+        "message": "If things go on like this, I'll be defeated without being able to do a single thing, without even swinging my blade once."
+    },
+    {
+        "message": "It's impossible not to feel anxious in a situation like this."
+    },
+    {
+        "message": "I force down the urge to panic, and simply wait for that moment to arrive."
+    },
+    {
+        "name": "Asahi",
+        "message": "（……Stay strong, Kuki Asahi）"
+    },
+    {
+        "message": "A situation like this is truly nothing at all."
+    },
+    {
+        "message": "Remember, Asahi."
+    },
+    {
+        "message": "Compared to the bitter days my brother had to endure, this doesn't even qualify as hardship――"
+    },
+    {
+        "message": "――I know."
+    },
+    {
+        "message": "I know the regret my brother felt when he returned home after his dream of becoming a professional player was crushed."
+    },
+    {
+        "message": "I know how he would cry out loud, alone in the shadows of the dojo at night."
+    },
+    {
+        "message": "I know that he still hasn't given up on that dream, and even now, he never misses a single day of training just as hard as a professional."
+    },
+    {
+        "message": "Even so, he always tries to act cheerful in front of me, never voicing a single complaint or grievance――"
+    },
+    {
+        "message": "And now, I have finally arrived at the Martial Festival stage where my brother once stood."
+    },
+    {
+        "message": "I stare down Momiji, who continues to swing her blade at me."
+    },
+    {
+        "name": "Asahi",
+        "message": "（……Momiji. I am not here solely to defeat you）"
+    },
+    {
+        "message": "……I will absolutely become a professional Jindou player."
+    },
+    {
+        "message": "With this Iai, which I mastered by chasing after my brother’s back, I will become the Toujinegi."
+    },
+    {
+        "message": "I don't know if that's what my brother would want for me."
+    },
+    {
+        "message": "But――I cannot pretend that the cry of regret I heard from my brother that day never happened……！"
+    },
+    {
+        "name": "Asahi",
+        "message": "「……Heh」"
+    },
+    {
+        "message": "Strike as much as you like, chip away at me all you want. You cannot break my spirit."
+    },
+    {
+        "message": "The path to survival lies within a ten-thousandth of a second."
+    },
+    {
+        "message": "I will not miss it. At any cost, I will seize that split-second opening."
+    },
+    {
+        "message": "And then, at the very, very end."
+    },
+    {
+        "message": "I will prove that I was right――！！"
+    },
+    {
+        "name": "Momiji",
+        "message": "「……Tch！」"
+    },
+    {
+        "message": "A shiver runs down my spine."
+    },
+    {
+        "message": "Just as before, Asahi is doing nothing but defending against my barrage of attacks. It’s obvious to anyone that she’s on the losing end."
+    },
+    {
+        "name": "Asahi",
+        "message": "「…………」"
+    },
+    {
+        "message": "Yet, Asahi is smiling."
+    },
+    {
+        "name": "Momiji",
+        "message": "（What is wrong with her...！）"
+    },
+    {
+        "message": "No matter how hard I strike, Asahi doesn't budge. She is single-mindedly focusing on protecting herself."
+    },
+    {
+        "name": "Momiji",
+        "message": "（...Hmm, this might not be good.）"
+    },
+    {
+        "message": "While Asahi focuses solely on defense, I am the one launching the relentless assault."
+    },
+    {
+        "message": "As for who is burning through their stamina faster, it’s obviously me."
+    },
+    {
+        "message": "I am whittling down Asahi's Barrier Jacket little by little, but my own stamina is slowly being drained as well."
+    },
+    {
+        "name": "Momiji",
+        "message": "（I can't even tell who's being worn down more at this rate...！）"
+    },
+    {
+        "message": "...No choice, I'll have to initiate."
+    },
+    {
+        "message": "I've trained with Asahi countless times before. I \"understand\" almost everything about her."
+    },
+    {
+        "message": "Swordsmanship used, preliminary movements, spacing, tactical algorithms, offensive and defensive skills, frequent routines, combination patterns, and the probability of their combinations."
+    },
+    {
+        "message": "Gaze, expressions, blinking, breathing technique, muscle reflexes, habits, weight distribution, blind spot compensation, and every other physiological reaction."
+    },
+    {
+        "message": "Psychological tendencies, personality traits, interpersonal judgment, logical reasoning ability, thinking speed, stress tolerance, emotional regulation, and their strategic impact."
+    },
+    {
+        "message": "<center>It’s not enough, but for now, it will have to suffice.</center>"
+    },
+    {
+        "name": "Momiji",
+        "message": "「――Shingan no Kiwamete, initiate！」"
+    },
+    {
+        "message": "*Clack*, a switch in my brain flips on."
+    },
+    {
+        "message": "First move, predicted vanguard action... approximately 43 types."
+    },
+    {
+        "message": "2nd move 645, 3rd move 9,674, 4th move 145,381, 5th move 2,783,208, 6th move, 7th move, 8th move, 9th move, 10th move――"
+    },
+    {
+        "message": "25 moves ahead, terminal node count approximately 2.6e+23, deriving the optimal solution from empirical evaluation functions."
+    },
+    {
+        "name": "Momiji",
+        "message": "「――Pathfinding, complete.」"
+    },
+    {
+        "message": "Asahi’s defense is incredibly robust; I can't even see a future where I checkmate her 25 moves from now."
+    },
+    {
+        "name": "Momiji",
+        "message": "（Yeah, yeah, I knew that from the start. It’s too early to use the Kiwamete...！）"
+    },
+    {
+        "message": "It will take much more time to break through Asahi and defeat her."
+    },
+    {
+        "name": "Momiji",
+        "message": "（But it’ll be a problem if she pulls out a trump card after I’m out of stamina. Actually, Asahi is definitely aiming for that, isn't she...！）"
+    },
+    {
+        "message": "The reason Asahi remains at a disadvantage and refuses to break her defensive posture is that she has absolute confidence in that secret plan of hers."
+    },
+    {
+        "message": "There is no other reason for it."
+    },
+    {
+        "name": "Momiji",
+        "message": "（Anyway, now that I've read her, I just have to do it...！！）"
+    },
+    {
+        "name": "Momiji",
+        "message": "「...Here I come, Asahi-san.」"
+    },
+    {
+        "message": "Taking on Asahi, I begin my trace—！"
+    },
+    {
+        "message": "First move, low feint into an overhead wrapping strike—hit. Match rate 99.46 percent—target defensive speed, data corrected."
+    },
+    {
+        "message": "Second move, opponent's pivot―foot weight shift―speed ―4.51 m/s from prediction, reality match rate 97.893 percent―data corrected."
+    },
+    {
+        "message": "Third move, crushing her counter-initiative, kneecap-splitting thrust to the knee—hit."
+    },
+    {
+        "message": "Fourth move hit, fifth move hit, sixth move hit, seventh move hit, eighth move hit, ninth move hit—！"
+    },
+    {
+        "message": "Hit, hit, evade, hit, hit, hit, hit hit hit—！！"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Land it... Secret Art: Swallow Reversal！！！」"
+    },
+    {
+        "message": "The clinching blow landed."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Guhhh...！！」"
+    },
+    {
+        "message": "With the Barrier Jacket across her entire body shredded to pieces, Asahi wears an expression of agony."
+    },
+    {
+        "name": "Sassa Naruko",
+        "message": "「Whoaaa~~！ Momiji's fierce rush landed！ Is Asahi going to be okay~~~?！」"
+    },
+    {
+        "name": "Nakamura Sakura",
+        "message": "「She did it in the first match too, pulling off impossible movements out of nowhere！ Even I couldn't dodge that！！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Hah... fwah...！」"
+    },
+    {
+        "message": "Taking a deep breath, I immediately steady my ragged breathing."
+    },
+    {
+        "name": "Sassa Naruko",
+        "message": "「Sakura-san, almost every single hit in Momiji's combo just now connected with Asahi, didn't it？」"
+    },
+    {
+        "name": "Nakamura Sakura",
+        "message": "「Yeah, she took 'em real clean.」"
+    },
+    {
+        "name": "Nakamura Sakura",
+        "message": "「Still, every one of 'em was just a grazing slash from long range. She didn't get cleaved straight through.」"
+    },
+    {
+        "name": "Nakamura Sakura",
+        "message": "「Considering the insane stamina and durability Asahi showed in her first match, there's no way she can't take this.」"
+    },
+    {
+        "message": "...She's right."
+    },
+    {
+        "message": "In that combo just now, I prioritized keeping options where I could attack one-sidedly without ever stepping into Asahi's range."
+    },
+    {
+        "message": "As a result, it's true that the total damage dropped considerably."
+    },
+    {
+        "name": "Momiji",
+        "message": "（Am I being too scared, maybe~...?）"
+    },
+    {
+        "message": "No, that can't be it."
+    },
+    {
+        "message": "Against Asahi, who has won her way all the way here, I can't afford even a moment of carelessness."
+    },
+    {
+        "name": "Asahi",
+        "message": "「...It really is unreasonable, isn't it?」"
+    },
+    {
+        "message": "Asahi lets out a long breath, staring straight at me."
+    },
+    {
+        "name": "Asahi",
+        "message": "「No matter how many times we've sparred, I can never dodge it. Every single read I make backfires.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「The reason is obvious.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Once you get serious, you're capable of reading even my tactical lines almost perfectly.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Everything is in the palm of your hand. As long as this remains, I cannot defeat you.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「How could I ever accept such an unreasonable fate……！！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "（Nn……w-what……！？）"
+    },
+    {
+        "message": "Just now, it was as if Asahi's body grew a size larger……！"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I have laid my hands on a taboo. I have done something that, under normal circumstances, must absolutely never be done.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「A-Asahi…… could it be……」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「During my first training session, my body was so battered that I could barely walk.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「My whole body ached so much that I thought it would be better to die than to continue training like this.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Even so, I never, ever gave up.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「……Momiji, everything I do is to defeat you.」"
+    },
+    {
+        "message": "……The sounds around me are fading away."
+    },
+    {
+        "message": "The shadow cast by Asahi is turning pitch-black, as if it had been filled in with ink."
+    },
+    {
+        "message": "No, that’s just what it feels like to me."
+    },
+    {
+        "message": "The unnaturally heightened hatred and killing intent that Asahi is directing at me."
+    },
+    {
+        "message": "That is what is making me see it that way."
+    },
+    {
+        "name": "Asahi",
+        "message": "「……Tremble, Momiji.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「This is my, true seriousness.」"
+    },
+    {
+        "message": "Without her even saying it, my skin was already crawling."
+    },
+    {
+        "name": "Momiji",
+        "message": "（No way, you’re lying, there’s no way, no way……！！）"
+    },
+    {
+        "message": "That stance, this unnaturally immense pressure――"
+    },
+    {
+        "name": "Asahi",
+        "message": "「……Muragaki's essence, Tengen Saimei-ryuu——here I come.」"
+    },
+    {
+        "message": "――――No, that's a lie."
+    },
+    {
+        "message": "What Asahi just showed was, without a doubt, the essence of Muragaki Iori."
+    },
+    {
+        "message": "Tengen Saimei-ryuu——it was the secret technique of the swordsman-killer."
+    },
+    {
+        "name": "Sassa Naruko",
+        "message": "「Oh my…… w-what just happened? Asahi-senshu's aura has suddenly shifted completely……！?」"
+    },
+    {
+        "name": "Nakamura Sakura",
+        "message": "「T-this is…… could it be that thing……！」"
+    },
+    {
+        "name": "Sassa Naruko",
+        "message": "「Sakura-san, do you know something about this？」"
+    },
+    {
+        "name": "Nakamura Sakura",
+        "message": "「Yeah…… I'll never forget it; that was back when I was a third-year.」"
+    },
+    {
+        "name": "Nakamura",
+        "message": "「The guy who made it to the main tournament of the Martial Festival as a first-year, just like Kuki Takahisa—I’ve forgotten his name, but he was freakishly strong when it came to the crunch...！」"
+    },
+    {
+        "name": "Nakamura",
+        "message": "「He wasn't all that special normally, but when you cornered him, he’d start giving off an insane amount of killing intent.」"
+    },
+    {
+        "name": "Nakamura",
+        "message": "「I nearly lost to him in the semifinals, and at that moment, I genuinely thought, ‘Oh, I’m dead.’」"
+    },
+    {
+        "name": "Nakamura",
+        "message": "「That was the only time in my life, before or since, that I’ve actually been scared during a match, thinking I might really die...」"
+    },
+    {
+        "name": "Sassa Naruko",
+        "message": "「So, are you saying that Asahi is using that same technique...？」"
+    },
+    {
+        "name": "Nakamura",
+        "message": "「Yeah, when you see Kuki’s younger sister using the same thing that Kuki’s peer used, you can’t help but be suspicious...！」"
+    },
+    {
+        "message": "As if responding to Asahi’s transformation, the atmosphere in the venue changed completely. It was shrouded in an eerie tension."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ugh, kuh...！！」"
+    },
+    {
+        "message": "The moment I saw Asahi’s stance, my head started to ache."
+    },
+    {
+        "message": "My brain was screaming, overwhelmed by the sheer volume of fakes and feints being showered upon me."
+    },
+    {
+        "name": "Momiji",
+        "message": "（Th-that’s impossible...！）"
+    },
+    {
+        "message": "Tengen Saimei-ryuu is a secret technique of the Muragaki family, and naturally, it is never shared with outsiders. That is exactly why the Muragaki family has remained a threat to this day."
+    },
+    {
+        "message": "And yet, he just taught it to her, even if it was for the sake of a cute student."
+    },
+    {
+        "name": "Momiji",
+        "message": "（But then again, Sensei is the head of the Muragaki family after all...！）"
+    },
+    {
+        "message": "However, that’s not the core of the issue."
+    },
+    {
+        "message": "Actually, perhaps it wouldn't be a huge problem even if he taught Tengen Saimei-ryuu to someone."
+    },
+    {
+        "message": "Because usually, nobody could ever imitate something like that."
+    },
+    {
+        "name": "Momiji",
+        "message": "（I mean, I’ve tried it myself！）"
+    },
+    {
+        "message": "Ever since Iori-sensei showed me Tengen Saimei-ryuu, I’ve secretly tried to do the same thing many times."
+    },
+    {
+        "message": "But I could never imitate it."
+    },
+    {
+        "message": "That isn't something you can learn just because you're taught. It’s not something you can master in a month or so."
+    },
+    {
+        "name": "Momiji",
+        "message": "（So why, how is Asahi able to do it...！ ）"
+    },
+    {
+        "message": "The possibility of Asahi using Tengen Saimei-ryuu had existed in my mind."
+    },
+    {
+        "message": "But during the assessment stage, I immediately dismissed that possibility. Because it’s simply impossible to achieve."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Fufu, are you wondering how I’m able to use it？ I’ll tell you, Momiji-san.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Guh...」"
+    },
+    {
+        "message": "Asahi stepped closer, one step at a time."
+    },
+    {
+        "message": "As Asahi closes the distance step by step, all I can do is retreat."
+    },
+    {
+        "name": "Asahi",
+        "message": "「I had a hunch about this from the very beginning.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「For Iori, the Tengen Saimei-ryuu must be a burden. After all, he’s just too kind...」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「But I am different.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「The Saimei-ryuu is a style meant to be wielded by someone as wicked as I am.」"
+    },
+    {
+        "message": "...Ah, she might be right."
+    },
+    {
+        "message": "The Tengen Saimei-ryuu is a practice of wicked ogres and demons—to cheat and scheme, to deceive and sow chaos, to trap one's enemy in a web and devour them whole."
+    },
+    {
+        "name": "Momiji",
+        "message": "「It certainly suits someone like you who stops at nothing, Asahi...！」"
+    },
+    {
+        "message": "Asahi takes another step forward toward us."
+    },
+    {
+        "name": "Asahi",
+        "message": "「That said, I didn't learn to use the Saimei-ryuu overnight.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I devoted so much time to making this technique my own.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Every single moment—while Momiji was eating, while she was sleeping, while she was talking—all that time, and more.」"
+    },
+    {
+        "message": "With eyes burning like the fires of purgatory, Asahi showers me with a loathsome amount of malice and hatred."
+    },
+    {
+        "message": "The sight of her was even more chillingly perfect than Iori-sensei's."
+    },
+    {
+        "name": "Momiji",
+        "message": "「...That’s just madness.」"
+    },
+    {
+        "message": "Has Asahi sacrificed everything just to master the Saimei-ryuu, all for the sake of defeating me?"
+    },
+    {
+        "name": "Asahi",
+        "message": "「If the only way to win is to put in more effort than anyone else, then what other choice is there？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「You are the hare, and I am the slow, heavy tortoise. And who was it that won the race in the end？」"
+    },
+    {
+        "message": "Asahi’s smile, usually so composed, is now nothing more than that of a demon personifying evil."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Come now, Momiji—let the race begin.」"
+    },
+    {
+        "message": "I grit my teeth hard."
+    },
+    {
+        "name": "Momiji",
+        "message": "（Don't mess with me, I won't let myself lose in a place like this！）"
+    },
+    {
+        "message": "I whip my wavering spirit back into shape."
+    },
+    {
+        "message": "It's okay. Watch her closely."
+    },
+    {
+        "message": "Asahi is certainly using the Tengen Saimei-ryuu. But compared to Iori-sensei, she is still vastly inexperienced."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ngh...！」"
+    },
+    {
+        "message": "The moment I shifted my weight, a vast barrage of feints from Asahi rained down on me."
+    },
+    {
+        "message": "The thought flashes through my mind: in the next moment, the match will be over with Asahi’s Iai strike."
+    },
+    {
+        "name": "Momiji",
+        "message": "（Saimei-ryuu combined with an Iai strike... that’s the absolute worst combination！）"
+    },
+    {
+        "message": "From Asahi's perspective, this is all surely part of her calculation. Cold sweat breaks out across my entire body."
+    },
+    {
+        "name": "Sassa Naruko",
+        "message": "「Oh—and here, Momiji-senshu’s hands have stopped…！？ It looks like Momiji-senshu is struggling to find an opening」"
+    },
+    {
+        "name": "Nakamura Sakura",
+        "message": "「Makes sense. She has to be careful here. One split second could be the end of her.」"
+    },
+    {
+        "name": "Sassa Naruko",
+        "message": "「The crowd, too, has gone from the earlier excitement to holding their collective breath, watching to see how this match unfolds！」"
+    },
+    {
+        "name": "Sassa Naruko",
+        "message": "「Just how long will this stalemate continue！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "（That’s what I’d like to know…！）"
+    },
+    {
+        "message": "Saimei-ryuu forces the opponent into a state of tension by bombarding them with a massive amount of feints, wearing them down before finishing them off with a single strike."
+    },
+    {
+        "message": "Act carelessly, and you’ll fall right into their trap."
+    },
+    {
+        "message": "That said, doing nothing won’t change the situation for the better."
+    },
+    {
+        "name": "Momiji",
+        "message": "（If it comes to this, I have no choice but to try again…！！）"
+    },
+    {
+        "name": "Momiji",
+        "message": "「――Shingan no Kiwamete, activate！！」"
+    },
+    {
+        "message": "1st move, predicted opponent action… approximately 963 types."
+    },
+    {
+        "message": "2nd move, total nodes in the action tree: 53,920."
+    },
+    {
+        "message": "3rd move 11,484,910, 4th move 2,446,296,502, 5th move 521,061,150,683, 6th move 110,975,957,492,102――"
+    },
+    {
+        "name": "Momiji",
+        "message": "（Ah, this is tough…！）"
+    },
+    {
+        "message": "An massive influx of feints caused it to exceed the limit value at the 17th move."
+    },
+    {
+        "message": "Terminal nodes 2.1e+24. The optimal solution derived from this is――"
+    },
+    {
+        "name": "Momiji",
+        "message": "（…In the end, it’s Tsubame-gaeshi, huh.）"
+    },
+    {
+        "message": "My secret technique, the 'Tsubame-gaeshi'."
+    },
+    {
+        "message": "A technique that focuses all Tenju into a single swing of the arm for a split second, unleashing two strikes in the blink of an eye with a high-speed recoil."
+    },
+    {
+        "message": "This makes it possible to perform two attacks in a single turn."
+    },
+    {
+        "message": "In other words, it allows me to skip the opponent's turn and unilaterally deal a second strike."
+    },
+    {
+        "message": "However, the mental exhaustion is severe, and it’s not something I can use often. You could say it’s also my final trump card."
+    },
+    {
+        "name": "Momiji",
+        "message": "（But there’s no time to be hesitating now…！）"
+    },
+    {
+        "message": "I steel my resolve and lock my blade's tip onto the center of Asahi's forehead."
+    },
+    {
+        "name": "Momiji",
+        "message": "「……Here I go！！」"
+    },
+    {
+        "message": "1st move――opponent defense."
+    },
+    {
+        "message": "2nd move, opponent advances, reality consistency 35.017 percent――data correction impossible due to insufficient samples."
+    },
+    {
+        "message": "3rd move, torso-slashing from the right——evaded."
+    },
+    {
+        "message": "4th move evade, 5th move defense, 6th move defense, 7th move defense, 8th move evade, 9th move evade――！"
+    },
+    {
+        "message": "Hit, evade, evade, evade, hit, evade, evade――！"
+    },
+    {
+        "name": "Momiji",
+        "message": "（Damn it, I can't land a hit...！！）"
+    },
+    {
+        "message": "Because I don't have enough data on Asahi using Saimei-ryuu, my accuracy is too low and my predictions aren't working."
+    },
+    {
+        "message": "Still, once I've started something, there's no stopping now."
+    },
+    {
+        "name": "Momiji",
+        "message": "「I'll finish it with this... Secret Art: Tsubame Gaeshi！！！」"
+    },
+    {
+        "message": "Asahi couldn't react at all to my first slash—nor the second on the return stroke—and her Barrier Jacket was shaved away."
+    },
+    {
+        "message": "—Or so I thought."
+    },
+    {
+        "name": "Asahi",
+        "message": "「...I've been waiting for this, Momiji-san！！！」"
+    },
+    {
+        "message": "The blood drains from my face."
+    },
+    {
+        "message": "...No, it wasn't that Asahi couldn't react to my attack."
+    },
+    {
+        "message": "Aiming for the exact moment my Tsubame Gaeshi ended, she *deliberately* let me slash her—！！"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Geki: Raitei Issen！！！！！」"
+    },
+    {
+        "message": "A tremendous shock tears through my body. I couldn't see her draw at all—truly a flash of instant annihilation."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Nngh...！！」"
+    },
+    {
+        "message": "Unable to even let out a scream, I was sent flying back."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Gh, haah... haah...」"
+    },
+    {
+        "message": "...For a brief moment, my breathing might have actually stopped."
+    },
+    {
+        "message": "My sense of balance is off. I force myself to stand."
+    },
+    {
+        "message": "Footsteps closing in toward me."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Guh......！！」"
+    },
+    {
+        "message": "I somehow manage to parry the horizontal slash Asahi unleashes."
+    },
+    {
+        "name": "Momiji",
+        "message": "（Jeez, she's got no mercy~...！）"
+    },
+    {
+        "name": "Sassa Naruko",
+        "message": "「Oh~ she's up！ Competitor Momiji has somehow managed to get back on her feet！！」"
+    },
+    {
+        "name": "Nakamura Sakura",
+        "message": "「That one was bad—she took it dead-on！」"
+    },
+    {
+        "name": "Sassa Naruko",
+        "message": "「She somehow pulled herself together, but... is she going to be alright?」"
+    },
+    {
+        "name": "Nakamura Sakura",
+        "message": "「A Barrier Jacket is basically like a stab-proof vest. It'll block the blade, sure, but it can't kill the impact.」"
+    },
+    {
+        "name": "Nakamura Sakura",
+        "message": "「If she's unlucky, it wouldn't be weird if her ribs are busted...！」"
+    },
+    {
+        "message": "I worried about that myself, but fortunately there's no fatal physical damage. I can still move."
+    },
+    {
+        "name": "Asahi",
+        "message": "「...That strike just now had a very solid feel to it.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I thought that would finish it, so you did well to endure it.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Heheh, I might not be on Victoria-san's level, but I'm actually pretty tough myself, y'know~」"
+    },
+    {
+        "message": "No, that's a lie."
+    },
+    {
+        "message": "In that split second—a prediction of where Asahi's strike would land. Focusing my Barrier Jacket right there, I weathered that flash of instant annihilation."
+    },
+    {
+        "message": "If my prediction had been off, Asahi's strike would have pierced my thinned Barrier Jacket and sliced my body in two."
+    },
+    {
+        "message": "Thanks to that, I managed to stand up, but my Barrier Jacket is in tatters. I definitely won't survive the next one."
+    },
+    {
+        "name": "Asahi",
+        "message": "「……Well, that’s fine. Either way, the situation hasn't changed at all from before.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Tengen Saimei―ryuu, coming at you again―！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ugh……！」"
+    },
+    {
+        "message": "I can't help but squint."
+    },
+    {
+        "message": "A storm of fakes and feints leaps into my field of vision. Filtering out the deceptive information is consuming all my processing power."
+    },
+    {
+        "name": "Momiji",
+        "message": "（Oh for god's sake, how annoying……！！！）"
+    },
+    {
+        "message": "The person who came up with a technique like this is quite something, but the person who went through the trial and error to make it a reality is absolutely insane."
+    },
+    {
+        "name": "Asahi",
+        "message": "「……I’m truly glad I ended up in the same class as you.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Thanks to that, I found out that Saimei-ryuu 'works' on you.」"
+    },
+    {
+        "message": "……I see, so that's how it is."
+    },
+    {
+        "message": "That was back during the first sparring session with Iori―sensei―"
+    },
+    {
+        "name": "Asahi",
+        "message": "「That is why I believe one should not seek out Saimei-ryuu so easily.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Though…… even if I stop you, I’m sure you’ll seek it out regardless, won't you.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Seeking out strong people to become stronger yourself. That’s just the natural order of things for a swordsman, isn't it?」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I understand. I am a swordsman myself, after all.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「That aside, I must admit, I have also wanted to see it.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「What kind of reaction you would show when faced with Saimei-ryuu.」"
+    },
+    {
+        "message": "――Asahi has been moving toward this moment since back then."
+    },
+    {
+        "message": "She had been planning for today, for this very day."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Hahaha…… you really are a total monster, aren't you～……！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I know. That’s why I apologized at the beginning, didn't I？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「That I would deceive you.」"
+    },
+    {
+        "message": "I knew Asahi was the type of person to use her cunning."
+    },
+    {
+        "message": "But to think she’d go this far……！"
+    },
+    {
+        "name": "Asahi",
+        "message": "「If you want to hold a grudge, you are free to do so.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Even so, I will defeat you and move forward……！！」"
+    },
+    {
+        "message": "This tenacity, this resolve."
+    },
+    {
+        "name": "Momiji",
+        "message": "（……Honestly, it's incredibly frustrating and infuriating to have to admit it, but still）"
+    },
+    {
+        "name": "Momiji",
+        "message": "（I envy you...！）"
+    },
+    {
+        "message": "Stopping at nothing in order to survive. That is a true swordsman."
+    },
+    {
+        "message": "In the turbulent era when swordsmen shone brightest, it was surely someone like Asahi who would have survived to the very end."
+    },
+    {
+        "message": "And if I were that kind of person—I probably wouldn't have felt suffocated by being a Suzakuin."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Now, suffer to your heart's content, Momiji-san...！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ugh……！」"
+    },
+    {
+        "message": "Under the ever-intensifying hail of feints, my brain's processing power is forcibly dragged out and pointlessly overworked."
+    },
+    {
+        "message": "Assailed by a fierce headache, the sensation of my brain cells dying off."
+    },
+    {
+        "message": "This is bad...！"
+    },
+    {
+        "name": "Momiji",
+        "message": "（What do I do, Momiji, what should I do now...！？）"
+    },
+    {
+        "message": "Yet my Barrier Jacket is no better than thin paper. There is no effective way to break through Saimei-ryuu."
+    },
+    {
+        "message": "I try to think of a way out, only for a sharp throb of pain to shoot through my head."
+    },
+    {
+        "message": "I'm at my limit—my brain was screaming."
+    },
+    {
+        "name": "Momiji",
+        "message": "（Ah, this is... I might be checkmated...）"
+    },
+    {
+        "message": "Just as I was about to fall into despair."
+    },
+    {
+        "message": "Suddenly, Iori-sensei's face floated into my mind."
+    },
+    {
+        "name": "Momiji",
+        "message": "（...Oh, right）"
+    },
+    {
+        "message": "I had forgotten until this very moment."
+    },
+    {
+        "message": "That's right, I have something Iori-sensei gave me, too."
+    },
+    {
+        "message": "Maybe I can do it now."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Huuuuh............」"
+    },
+    {
+        "message": "Closing my eyes, a deep breath."
+    },
+    {
+        "message": "And then slowly, quietly, I open my eyes."
+    },
+    {
+        "name": "Asahi",
+        "message": "「…………？」"
+    },
+    {
+        "message": "Standing right in front of me, Asahi wore a puzzled expression."
+    },
+    {
+        "message": "I can see the announcer in the broadcast booth. Next to them, Nakamura Sakura."
+    },
+    {
+        "message": "Spectators sitting behind Asahi are looking at me and pumping their fists. Don't lose—that's what they were saying."
+    },
+    {
+        "message": "And filling my entire field of vision, people, people, people—."
+    },
+    {
+        "name": "Momiji",
+        "message": "（So many people came to watch the match...）"
+    },
+    {
+        "message": "The moment I abandoned thought, everything became crystal clear."
+    },
+    {
+        "message": "No, it wasn't that I was looking. Just accepting what was there, exactly as it was."
+    },
+    {
+        "name": "Momiji",
+        "message": "（Ah, Asahi's hair sure is pretty~...）"
+    },
+    {
+        "message": "Countless feints woven from Asahi's minute movements. Yet right now, they are nothing more than a part of the scenery existing in this world."
+    },
+    {
+        "message": "As I simply accept everything just as it is, a strange sensation washes over me."
+    },
+    {
+        "message": "An intuition, as if everything is melting away and becoming one."
+    },
+    {
+        "message": "Myself, Asahi, everything—I realize that all the things that had seemed bound by firm shackles were merely illusions created by thought."
+    },
+    {
+        "message": "My brain, which had been screaming until just moments ago, is now quiet."
+    },
+    {
+        "message": "Exhausted to the limit, having reached the breaking point, my brain finally accepted the shutdown."
+    },
+    {
+        "message": "And so, it realizes."
+    },
+    {
+        "name": "Momiji",
+        "message": "（I see, the craving heart is what gives shape to things）"
+    },
+    {
+        "message": "Just as thought gives birth to the yoke, things give birth to objects. Because there are objects, the 'self' is born and suffers."
+    },
+    {
+        "message": "Until a moment ago I was tormented by extreme tension, but now, I am calm."
+    },
+    {
+        "message": "If one simply accepts things as they are, without craving anything, then there is no way for suffering to arise."
+    },
+    {
+        "name": "Momiji",
+        "message": "（…Iori-sensei, I think I’m beginning to understand, just a little）"
+    },
+    {
+        "message": "This—what lies ahead—is the state of Shohou Muga—."
+    },
+    {
+        "name": "Momiji",
+        "message": "「…………」"
+    },
+    {
+        "message": "Suddenly, Momiji closed her eyes."
+    },
+    {
+        "message": "Closing one's eyes in the middle of a match is something that should never happen. It was a fatal opening."
+    },
+    {
+        "message": "If I launched an attack, I might be able to strike her down."
+    },
+    {
+        "message": "However, I sensed the strange aura she was emitting and stopped myself just in time."
+    },
+    {
+        "name": "Asahi",
+        "message": "（…What is this sense of dissonance?）"
+    },
+    {
+        "message": "Momiji had said as much: that there were mountains of things she hadn't taught me, even about herself."
+    },
+    {
+        "message": "Having secured an absolute advantage, there was no need for me to be impatient. After all, there was no way for her to break through Saimei-ryuu."
+    },
+    {
+        "message": "Or so it should have been."
+    },
+    {
+        "name": "Asahi",
+        "message": "（Did Momiji's breathing change？）"
+    },
+    {
+        "message": "As if taking a deep breath, big and long. And, a level of relaxation that I couldn't believe was happening during a match."
+    },
+    {
+        "name": "Asahi",
+        "message": "（What are you doing, Momiji? Are you perhaps intending to give up on this match…?）"
+    },
+    {
+        "message": "No, that was impossible."
+    },
+    {
+        "message": "I found it impossible to believe that the Momiji I knew would make such a decision."
+    },
+    {
+        "name": "Asahi",
+        "message": "（If so, then what on earth…!）"
+    },
+    {
+        "message": "I don't know what Momiji is thinking."
+    },
+    {
+        "message": "But something beyond prediction is about to happen. That much was certain—."
+    },
+    {
+        "name": "Sassa Naruko",
+        "message": "「…Both sides are staring each other down, and there's absolutely no movement. Will this ever reach a conclusion…！」"
+    },
+    {
+        "name": "Nakamura Sakura",
+        "message": "「…No, there has been movement.」"
+    },
+    {
+        "name": "Sassa Naruko",
+        "message": "「Eh？ But neither of them is doing anything…」"
+    },
+    {
+        "name": "Nakamura Sakura",
+        "message": "「Momiji, she was being swallowed up by the strange killing intent Asahi was putting out until just a moment ago… but it seems she's broken out of it.」"
+    },
+    {
+        "name": "Sassa Naruko",
+        "message": "「Eehhh！？ I can't tell at all… Sakura-san, could you provide some commentary？」"
+    },
+    {
+        "name": "Nakamura Sakura",
+        "message": "「Don't say stupid things, there's no way I could provide commentary on this.」"
+    },
+    {
+        "name": "Nakamura Sakura",
+        "message": "「This is a realm of masters that you can't possibly understand unless you've mastered the blade yourself！」"
+    },
+    {
+        "name": "Sassa Naruko",
+        "message": "「U-Um, well, still... we did invite you here today to provide commentary, Sakura-san...」"
+    },
+    {
+        "name": "Nakamura Sakura",
+        "message": "「Shut up, quit yapping and just watch. They're about to move.」"
+    },
+    {
+        "name": "Sassa Naruko",
+        "message": "「Y-Yes, ma'am...」"
+    },
+    {
+        "message": "Several minutes had already passed with Momiji and Asahi facing off in silence."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ugh, this is getting so frustrating！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hey, Sensei！ Neither of them is moving！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That's what a fight between swordsmen is really like.」"
+    },
+    {
+        "message": "Between true master swordsmen, there are even times when they glare at each other without moving for over half a day."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Even so, doesn't what Asahi's doing right now look a whole lot like that whatever-ryuu style of yours, Sensei？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Urk... I-I wouldn't know！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hmmmmmmmm？」"
+    },
+    {
+        "message": "Since Saimei-ryuu was a secret between the two of us, I hadn't told Setsugekka, Ririmu, or of course Momiji about it."
+    },
+    {
+        "message": "I had hesitated to teach Asahi Tengen Saimei-ryuu."
+    },
+    {
+        "message": "Not just because it's the secret art of the Muragaki family. It's because it is undeniably a murderous sword style."
+    },
+    {
+        "message": "When I inherited Saimei-ryuu from my father, I wondered—in this peaceful age, why is there any need for a sword style meant for killing?"
+    },
+    {
+        "message": "And then, when I was a student at the academy, I used Saimei-ryuu at this very Martial Festival and wounded Takahisa."
+    },
+    {
+        "message": "I genuinely thought such a detestable thing had no right to exist in this world, that it would be better off disappearing forever."
+    },
+    {
+        "message": "Yet once I became an adult, I understood."
+    },
+    {
+        "message": "Even if nuclear weapons vanished from the world, even if guns vanished, even if every weapon vanished."
+    },
+    {
+        "message": "Conflict between people will never disappear from this world."
+    },
+    {
+        "message": "Even if you lay down your weapons because you don't want to fight, you'll only be exploited and stripped of everything by those who resort to violence."
+    },
+    {
+        "message": "What matters is how you use the power in your hands."
+    },
+    {
+        "message": "The fault didn't lie with Saimei-ryuu, but with me for failing to control its power. When I was young, I couldn't admit that."
+    },
+    {
+        "name": "Iori",
+        "message": "（...Maybe I wanted to settle that score.）"
+    },
+    {
+        "message": "I had never had the slightest intention of teaching Tengen Saimei-ryuu to anyone, yet I felt that if it were Asahi, maybe it would be okay."
+    },
+    {
+        "message": "I'm sure I felt that way because she is Takahisa's younger sister."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Aaaah, I can't take this anymore! Sensei, I'm gonna go do something real quick!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「W-Where are you going？！」"
+    },
+    {
+        "message": "Before I even had a chance to stop her, Ririmu dashed off toward the very front row of the spectator stands."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Aaaaaaaaaaasahiiiiiiiii！！！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「How long are you gonna just stand there staring off into space?！ You won't win if you don't go on the offensive！！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Asahi, you're strong！ So have more confidence in yourself！！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I know better than anyone that you're strong, since we've been training together all this time！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「So quit being chicken and go take her down！！」"
+    },
+    {
+        "message": "Ririmu screamed at the top of her lungs."
+    },
+    {
+        "message": "Her cheering sent the temperature of the venue, which had been thick with an eerie tension, spiking all at once."
+    },
+    {
+        "name": "Spectator A",
+        "message": "「That's right! You can do it, Asahi!!」"
+    },
+    {
+        "name": "Spectators",
+        "message": "「Asahi！ Asahi！」"
+    },
+    {
+        "message": "Spurred on by Ririmu, chants of 'Asahi' erupted throughout the venue."
+    },
+    {
+        "name": "Sassa Naruko",
+        "message": "「Wow! The crowd is cheering so fiercely for competitor Asahi!」"
+    },
+    {
+        "name": "Nakamura Sakura",
+        "message": "「Well, if this weren't a match, I'd say just shut up and watch, but...」"
+    },
+    {
+        "name": "Nakamura Sakura",
+        "message": "「Still, this is the once-a-year Martial Festival！ It'd be a crime not to get hyped up！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Asahi! Go, Asahi!!」"
+    },
+    {
+        "message": "Ririmu, too, was joining the crowd in chanting Asahi's name."
+    },
+    {
+        "message": "Ririmu, who always used to say that people were responsible for their own affairs, was now cheering for Asahi—someone she supposedly hadn't gotten along with."
+    },
+    {
+        "name": "Iori",
+        "message": "（\"…You've changed, Ririmu\"）"
+    },
+    {
+        "message": "Though it was a shame she didn't make it to the main bracket this year."
+    },
+    {
+        "message": "But next year, she'll surely be even stronger."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Wha—！？ H-hey, what are you doing, suddenly petting my head—」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ririmu, I'm expecting big things from you next year！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Huh? Isn't it way too early to be talking about next year?！ The Martial Festival this year isn't even over yet, you know?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hahaha, you're right.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「More importantly, Teach, you should be cheering for Asahi too.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, I won't cheer for either of them. That would be playing favorites.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「You're as stiff as ever, Iorin！」"
+    },
+    {
+        "message": "To Ririmu's wry smile, I shot back a brilliant grin."
+    },
+    {
+        "name": "Momiji",
+        "message": "「…………」"
+    },
+    {
+        "message": "A breeze was flowing through the arena."
+    },
+    {
+        "message": "The wind has no place where it begins, nor any place where it ends. It is merely a fluctuation of the atmosphere that connects everything upon the Earth."
+    },
+    {
+        "message": "I am Suzakuin Momiji. But that is nothing more than a single part in the midst of a great flow."
+    },
+    {
+        "name": "Momiji",
+        "message": "（And right now, this match too... is just a fleeting instant in the flow of time, a mere moment...）"
+    },
+    {
+        "message": "What I had discerned with my divine eyes up until now was no more than a tiny fragment of a much greater current."
+    },
+    {
+        "name": "Asahi",
+        "message": "「...What are you thinking about right now, Momiji-san?」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I was feeling the wind.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「...Wind？」"
+    },
+    {
+        "message": "Overthinking only makes things complicated; if you simply accept things as they are, the world is simple."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Could it be, Momiji-san, that you...！」"
+    },
+    {
+        "message": "A slight tremor of agitation in Asahi"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Have you discovered it, the realm of Shohou Muga...！？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I'm not sure, though...」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Somehow, it feels like everything has become very clear.」"
+    },
+    {
+        "message": "Thinking about defeating Asahi is what traps you in Saimei-ryuu; if you merely accept, there is no reason to flinch."
+    },
+    {
+        "name": "Asahi",
+        "message": "「...Very well, then. Show me.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「That realm you have mastered!!」"
+    },
+    {
+        "message": "A godspeed Iai draw—Asahi's slash sweeping upward from below"
+    },
+    {
+        "message": "Unleashed at a speed impossible to perceive visually, yet somehow I had blocked it."
+    },
+    {
+        "name": "Asahi",
+        "message": "「What about this...！？」"
+    },
+    {
+        "message": "Asahi strikes again in a flash. Yet I block this one too."
+    },
+    {
+        "name": "Momiji",
+        "message": "（...Why am I blocking Asahi's attacks？）"
+    },
+    {
+        "message": "Before even that, how am I managing to block them? Even to me, it's a mystery."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hah...！！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "（I see, so this is the \"wind\"...！）"
+    },
+    {
+        "message": "Whenever the situation shifts, a wind softly blows."
+    },
+    {
+        "message": "This \"wind\" is nothing more than a metaphor."
+    },
+    {
+        "message": "The accumulated information I hold and the flow of all things created by the world merge into one, appearing before my eyes as a ripple."
+    },
+    {
+        "message": "If fluctuations in the moving atmosphere are \"wind,\" then what I'm seeing should probably be called a \"wind of causality.\""
+    },
+    {
+        "name": "Momiji",
+        "message": "（I get it now, Sensei... I finally understand what Iori-sensei meant...）"
+    },
+    {
+        "message": "Cease all thought, and make yourself one with all creation."
+    },
+    {
+        "message": "Simply accept things as they are, feel them as they are, and unite your own actions with the flow of all phenomena."
+    },
+    {
+        "message": "That is the realm of Shohou Muga"
+    },
+    {
+        "message": "The state of the world includes me as well, and the causality of the world appears before me as \"wind\" layered manifold."
+    },
+    {
+        "message": "All I have to do is trace the \"wind\" skillfully. Fortunately, I knew well how to do that."
+    },
+    {
+        "name": "Momiji",
+        "message": "（This is just like Shingan no Kiwamete...！）"
+    },
+    {
+        "message": "Without even realizing it, I had already taken a single step into the realm of Shohou Muga."
+    },
+    {
+        "name": "Momiji",
+        "message": "（So if I do this, then maybe...！）"
+    },
+    {
+        "message": "If I lightly swing my blade along the flow of the surging \"wind\"—"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Guh...！！」"
+    },
+    {
+        "message": "As an inevitable consequence, my blade struck Asahi."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Saimei-ryuu isn't working?! That's impossible...!!」"
+    },
+    {
+        "message": "There's no need to time my moves. The \"wind\" tells me when and how to move."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ngh...！！」"
+    },
+    {
+        "message": "I deflected Asahi's blade as it flew at me faster than the speed of sound, and chipped away at her Barrier Jacket on the backswing."
+    },
+    {
+        "name": "Sassa Naruko",
+        "message": "「Whoa! Asahi is struggling to break through against Momiji! Sakura-san, the match has finally taken a turn!」"
+    },
+    {
+        "name": "Nakamura Sakura",
+        "message": "「Look at Momiji... Looks like she's figured something out. Her movements are on a whole different level from a moment ago！」"
+    },
+    {
+        "name": "Sassa Naruko",
+        "message": "「I-I'm afraid I can't quite tell, myself... In any case, Asahi is now on the offensive while Momiji holds her off！」"
+    },
+    {
+        "name": "Sassa Naruko",
+        "message": "「Their positions have completely reversed from before！」"
+    },
+    {
+        "message": "I batted away every single strike Asahi unleashed. It was an inevitability born of riding the \"wind.\""
+    },
+    {
+        "name": "Asahi",
+        "message": "「...I see. So that's how it is.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Just like that, you effortlessly surpass everything I struggled so hard to obtain.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「...Even though I was just one step away from finally reaching you.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Just to beat you—for that alone, I spent so much time enduring painful, endless training with no light at the end of the tunnel.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I held back from everything I wanted to do, everything fun—I sacrificed it all, and yet...！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「You don't give any of that a second thought as you easily reach even greater heights.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I truly, truly... despise you...！！！」"
+    },
+    {
+        "message": "The bloodlust radiating from Asahi swelled many times over."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Someone blessed with natural talent like you could never understand this frustration...！！！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「…………」"
+    },
+    {
+        "message": "The emotions Asahi was directing at me were ones I knew all too well."
+    },
+    {
+        "message": "Spite, envy, jealousy. Ever since I first picked up an Origami, those emotions have always been directed at me."
+    },
+    {
+        "message": "And in the end, everyone leaves my side."
+    },
+    {
+        "message": "For as long as I am a Suzakuin, for as long as I continue to wield an Origami, I will never be able to truly understand anyone."
+    },
+    {
+        "name": "Momiji",
+        "message": "「...I'm sorry, Asahi.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Even so, I must move forward.」"
+    },
+    {
+        "message": "\"Walking one's own path alone\" is not a moral precept telling you to be that way."
+    },
+    {
+        "message": "It is a stark, earnest truth: without that resolve, you cannot even keep hold of yourself as a swordswoman."
+    },
+    {
+        "name": "Asahi",
+        "message": "「...Indeed. I am the same.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Even knowing the outcome, I cannot stop here...！！」"
+    },
+    {
+        "message": "Asahi's eyes grow darker still, stained with abyssal shadow."
+    },
+    {
+        "message": "Her fierce fighting spirit and killing intent intertwine, transforming into a miasma."
+    },
+    {
+        "name": "Asahi",
+        "message": "「...Momiji-san. I am staking everything I have on this next strike.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Be sure to evade it. Otherwise—」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「You will die.」"
+    },
+    {
+        "message": "There was not a shred of deception or exaggeration in those words."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hhh... Haaaaaaaaaaaahhhh———！！！」"
+    },
+    {
+        "message": "Asahi drops into an Iai quick-draw stance, pouring everything into building up her Tenju."
+    },
+    {
+        "message": "Her abnormally heightened emotions, her obsession, every last ounce of what she possessed—she was pouring it all into that single flash of steel."
+    },
+    {
+        "message": "If I take that blow, with only my paper-thin Barrier Jacket, I'll be cleaved in two by a single stroke."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ngh...！」"
+    },
+    {
+        "message": "Overwhelmed by the fierce miasma radiating from Asahi—something akin to pure grudge—I lost sight of \"the wind.\""
+    },
+    {
+        "message": "It was because I couldn't look directly at the bottomless hatred and madness Asahi was aiming at me."
+    },
+    {
+        "name": "Momiji",
+        "message": "（...Calm down. I have to let go of my attachment.）"
+    },
+    {
+        "message": "To look directly upon the causality of my own life being reaped by madness just as it is, attachment to life only gets in the way."
+    },
+    {
+        "name": "Momiji",
+        "message": "（Can I really do something like that...？）"
+    },
+    {
+        "message": "Could one truly cast aside the desire to live—something that is the very essence of life itself?"
+    },
+    {
+        "name": "Momiji",
+        "message": "（...It's not about whether I can. I have to do it.）"
+    },
+    {
+        "message": "Didn't Asahi say so herself? That she's staking everything she has on this single strike."
+    },
+    {
+        "message": "Then I have to stake everything as well. That is the bare minimum courtesy I owe to Asahi, an unshakable swordswoman."
+    },
+    {
+        "name": "Momiji",
+        "message": "（Take it all in, Momiji.）"
+    },
+    {
+        "message": "Asahi's feelings, just as they are."
+    },
+    {
+        "name": "Sassa Naruko",
+        "message": "「Here we go—both fighters are still locked in a tense standoff！」"
+    },
+    {
+        "name": "Nakamura Sakura",
+        "message": "「Hey, here it comes, here it comes...！ The next move decides it...！！」"
+    },
+    {
+        "message": "I take a long, deep breath and focus my mind."
+    },
+    {
+        "message": "There is no longer any hesitation, nor any anxiety."
+    },
+    {
+        "message": "All things in creation, ever flowing and changing. If I simply entrust myself to that great current..."
+    },
+    {
+        "message": "Look―I can see \"the wind\"―！！！"
+    },
+    {
+        "name": "Asahi & Momiji",
+        "message": "「Obliteration: Raitei Issen！！！！！」「Secret Art: Swallow Reversal――――――！！！！！」"
+    },
+    {
+        "name": "Umpire",
+        "message": "「……Match over！！！」"
+    },
+    {
+        "name": "Umpire",
+        "message": "「East side, Kuki Asahi’s Barrier Jacket has been neutralized！」"
+    },
+    {
+        "name": "Umpire",
+        "message": "「Therefore, West side, Suzakuin Momiji is the winner！」"
+    },
+    {
+        "name": "Sassa Naruko",
+        "message": "「It’s decided-dddddddddddddd！！」"
+    },
+    {
+        "name": "Sassa Naruko",
+        "message": "「The one who has conquered the second semifinal match is Suzakuin Momiji！」"
+    },
+    {
+        "name": "Sassa Naruko",
+        "message": "「That final, breath-taking clash was absolutely incredible. How did it look to you, Nakamura Sakura?」"
+    },
+    {
+        "name": "Nakamura Sakura",
+        "message": "「Ah, ah…… that final strike, I couldn’t even see who moved where for the life of me……！」"
+    },
+    {
+        "name": "Sassa Naruko",
+        "message": "「Is the replay available……？ Ah, looks like it’s not.」"
+    },
+    {
+        "name": "Sassa Naruko",
+        "message": "「It seems the final exchange from just a moment ago was so fast that even the high-speed camera couldn’t capture it.」"
+    },
+    {
+        "name": "Nakamura Sakura",
+        "message": "「Obviously！ If a camera could catch it, there’s no way I would’ve missed it！！」"
+    },
+    {
+        "name": "Sassa Naruko",
+        "message": "「Y-yes, you are absolutely right！」"
+    },
+    {
+        "name": "Nakamura Sakura",
+        "message": "「Anyway, that was a hell of a show！ Truly worthy of the Martial Festival. That was an amazing, just an amazing match！」"
+    },
+    {
+        "name": "Nakamura Sakura",
+        "message": "「Both of them were magnificent！ They should both be proud of that match！！」"
+    },
+    {
+        "name": "Sassa Naruko",
+        "message": "「Ohhh, she’s got the seal of approval from Nakamura Sakura herself！」"
+    },
+    {
+        "name": "Arena Announcement",
+        "message": "「Today's matches have concluded. Please take care not to leave any belongings behind as you exit.」"
+    },
+    {
+        "name": "Arena Announcement",
+        "message": "「Repeating, today's matches have concluded. As you exit, please――」"
+    }
+]

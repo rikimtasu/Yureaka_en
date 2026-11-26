@@ -1,0 +1,2211 @@
+[
+    {
+        "message": "All signs of people have faded, and only the chirping of insects echoes through the air."
+    },
+    {
+        "message": "It was just about to strike midnight."
+    },
+    {
+        "message": "The night sky over Sumiyoshi Academic Island was just a little darker than usual."
+    },
+    {
+        "message": "And no wonder—"
+    },
+    {
+        "message": "The moon, which should have been pale white, was dyed crimson."
+    },
+    {
+        "name": "Iori",
+        "message": "「That's...」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「It's a total lunar eclipse.」"
+    },
+    {
+        "message": "...Oh, right. They did mention something like that on the news the other day."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Hehe, isn't it just the perfect setting for a duel？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You think so？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Doesn't it feel like it's going to be a special night?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...I guess you're right.」"
+    },
+    {
+        "message": "In the center of the training ground—right now, it's just me and Momiji here."
+    },
+    {
+        "message": "Setsugekka and Keisetsu will be arriving any minute now."
+    },
+    {
+        "name": "Iori",
+        "message": "「...I feel bad for Asahi and Ririmu.」"
+    },
+    {
+        "message": "Asahi and Ririmu aren't here."
+    },
+    {
+        "message": "After Momiji and Keisetsu talked it over, they decided that this duel would be held strictly among those directly involved from the Kazamine and Suzakuin families."
+    },
+    {
+        "message": "I was granted special permission to attend as a witness, while Asahi and Ririmu were left behind to hold down the fort."
+    },
+    {
+        "name": "Momiji",
+        "message": "「A duel is a serious match, you know. It's not some spectacle.」"
+    },
+    {
+        "message": "That's a pretty old-fashioned way of thinking..."
+    },
+    {
+        "name": "Iori",
+        "message": "「So, Momiji, are you confident you can beat Setsugekka？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Of course. More like, winning is my only option.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「There's no telling what Keisetsu would ask of me if I lost.」"
+    },
+    {
+        "message": "Operation \"Never Let the Green Grass Wither,\" which Momiji and I are currently carrying out, hinges on winning this duel."
+    },
+    {
+        "name": "Iori",
+        "message": "「...Still, wasn't promising to 'do anything she says, no matter what' going a bit too far？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「If Keisetsu hadn't taken the bait, the operation would've failed right then and there. It was hardly the time to be stingy with the lure.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, yeah, that's true.」"
+    },
+    {
+        "message": "Still, I can't shake the anxiety of what might happen if, by some slim chance, Momiji loses and gets hit with an outrageous demand."
+    },
+    {
+        "name": "Momiji",
+        "message": "「What, getting cold feet now？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「You're the one who egged me on, Sensei, telling me to struggle until the very, very end.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「If I lose and things go horribly wrong, you're taking responsibility right alongside me, okay, Sensei？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「A-All right. I'll brace myself.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Huh, really？ You'll take responsibility for me？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I'm the one who dragged you into this plan, so I'm the one in charge. I'll take final responsibility.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I see~ Well then, maybe it's fine if I lose~」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hold on, Momiji-san？！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Just kidding, just kidding! I'm definitely going to win.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「No matter how many times we fight, I won't lose to Setsugekka.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「The undefeated legacy of the Suzakuin—I'll drill that right into her.」"
+    },
+    {
+        "message": "While we were talking, the two of them arrived."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Sorry to keep you waiting.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「…………」"
+    },
+    {
+        "message": "Setsugekka already wore the face of a swordswoman."
+    },
+    {
+        "name": "Iori",
+        "message": "「...No need for small talk, then. Shall we get started right away?」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Let's. What are the rules for the duel？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Same rules as the Martial Festival. Once a Barrier Jacket drops below a set threshold, the match is decided. Any objections？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「I have no problem with that.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Of course, I have no objections either.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I'll serve as the Umpire.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Hehe, I trust you'll officiate fairly.」"
+    },
+    {
+        "message": "Keisetsu casts me a meaningful sidelong glance."
+    },
+    {
+        "message": "...It looks like she's already caught on that Momiji and I are in cahoots."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Good luck out there, Setsugekka.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yeah, I know.」"
+    },
+    {
+        "message": "After confirming Keisetsu has stepped off to the side, I look toward both fighters."
+    },
+    {
+        "name": "Iori",
+        "message": "「Are you both ready？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yes!」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Yes」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Now then... both sides, take your stances！」"
+    },
+    {
+        "message": "Setsugekka and Momiji—both draw their Origami at the same time and glare at each other."
+    },
+    {
+        "name": "Iori",
+        "message": "「Gather the myriad gods in divine assembly, deliberate in divine counsel. Heaven and earth be pure, the six senses be pure; purify us, cleanse us—」"
+    },
+    {
+        "message": "I offer the <d0090>Norito</d> to the gods, and add a prayer of my own."
+    },
+    {
+        "message": "May the two of them be granted a happy future—"
+    },
+    {
+        "name": "Iori",
+        "message": "「In the east, Kazamine Setsugekka！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「In the west, Suzakuin Momiji！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「—Spirits soaring, face to face, no holding back！！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Now fight fair and square―begin―！！！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Huff... huuugh, haaaaaaaaah...！！」"
+    },
+    {
+        "message": "Rousing my inner god, Mizuchi, I lock my gaze on Momiji."
+    },
+    {
+        "name": "Momiji",
+        "message": "「…………」"
+    },
+    {
+        "message": "Unlike the Martial Festival finals, Momiji doesn't rush in to strike. I figured she wouldn't."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "（...You're in the state of Shohou Muga right from the start. That's how it is, isn't it, Momimomi）"
+    },
+    {
+        "message": "If this really is like having Shingan no Kiwamete active at all times, just like Asahi―chan said―"
+    },
+    {
+        "message": "Then my attacks are almost guaranteed to whiff, while hers are almost guaranteed to land."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "（Wait, no matter how you look at it, that's totally unfair...！）"
+    },
+    {
+        "message": "Even so, nothing's going to happen if I don't attack."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Tch... don't get cocky...！！！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「―Self―Styled Type Kanoe: Kongouhou！！」"
+    },
+    {
+        "message": "Planting my feet firmly on the ground, I shoot my fist straight out！"
+    },
+    {
+        "message": "...Only Momiji is already gone from that spot."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Why you—！！」"
+    },
+    {
+        "message": "I unleash a flurry of blows, yet every single one cuts empty air, and on top of that—"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Wha—！？」"
+    },
+    {
+        "message": "Momiji's hand grabbed my wrist."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Guhhh！？」"
+    },
+    {
+        "message": "And then, a fierce, utterly unavoidable upward slash."
+    },
+    {
+        "message": "I managed to wrench myself free by brute force the moment it hit, which saved me—otherwise, she would've followed up with a whole combo."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Damn it... if you hit me, I'll hit you right back！！」"
+    },
+    {
+        "message": "A leap—closing in on Momiji in the blink of an eye."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Garyuu Type Mizunoe: Shiraotaki！！！」"
+    },
+    {
+        "message": "I bring both my heel and my blade crashing down toward the crown of Momiji's head！"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Like I'll let you get away... Mishima-ryuu Type Kanoe: Hajoushou！！」"
+    },
+    {
+        "message": "A strike poured with absolute confidence—yet with just a single centimeter left, my fist fails to reach."
+    },
+    {
+        "message": "Momiji had already stepped back in advance, retreating out of range."
+    },
+    {
+        "name": "Momiji",
+        "message": "「—Secret Art, Tsubame Gaeshi！！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Guaah... N-Not done yet！」"
+    },
+    {
+        "message": "Ignoring the damage, I chase right after the retreating Momiji."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Garyuu Type Hinoe: Enko Mouhazan！！！」"
+    },
+    {
+        "message": "Charging forward, I unleash a flurry of strikes onto Momiji—！"
+    },
+    {
+        "message": "...Only for every single one of them to be blocked."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Hmph...！！」"
+    },
+    {
+        "message": "On the backswing, Momiji sweeps her long blade at me, but I dodge it with ease."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Idiooot, like something like that could ever hit...！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「—Secret Art, Tsubame Sanren！！！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ngaaaaaah？！」"
+    },
+    {
+        "message": "That first strike was a feint—in the split second her swing ended, a succession of blinding flashes tore into me."
+    },
+    {
+        "message": "Sent flying back, I roll across the ground and barely manage to regain my footing."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "（...Dammit, what the hell am I supposed to do here?！！）"
+    },
+    {
+        "message": "Kei-chan said winning this would be the chance of a lifetime, but right now I couldn't see a single path to victory."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「...I did think it was awfully generous of you, offering to do one thing I say, whatever I want」"
+    },
+    {
+        "message": "In short, she only said that because she knew there was no way she could ever lose."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ugh, screw this, don't mess with me...！！」"
+    },
+    {
+        "message": "With a roar, blood rushes straight to my head."
+    },
+    {
+        "message": "...What a load of crap, \"This might be the last time you and I can face each other in a Jindou match.\""
+    },
+    {
+        "message": "Blowing smoke with pretty words while calculating her own victory down to the last detail. How clever of her."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Seriously... Just 'cause I'm an idiot, playing around with people's feelings like that...！！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「That's the one thing that pisses me off the most！！！」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Setsugekka, calm down！ You're going to lose control...！」"
+    },
+    {
+        "message": "I can hear Kei-chan's voice."
+    },
+    {
+        "message": "But I didn't care about any of that anymore."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "（Honestly, being able to read every single one of your opponent's moves—that's just impossible...！）"
+    },
+    {
+        "message": "How can she do something like that？ Because she's a Suzakuin？ If that's the case, God is way too unfair."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I even had to use a secret art just to finally catch up to you...！」"
+    },
+    {
+        "message": "And yet, she brushes me off as if to say, 'Like I give a damn about that'—"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Then what the hell was my resolve even for...！！！」"
+    },
+    {
+        "message": "I clench my teeth so hard they feel like they're about to shatter."
+    },
+    {
+        "message": "...Yeah, that's right."
+    },
+    {
+        "message": "I'm going overseas with Kei-chan."
+    },
+    {
+        "message": "So this is going to be the last match I ever get to fight against Momiji."
+    },
+    {
+        "message": "And I'm supposed to be fine with such an important match ending in a pathetic defeat where I couldn't even lay a finger on her？"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「...Like hell I am！！」"
+    },
+    {
+        "message": "Then—there's no need to hold back anymore."
+    },
+    {
+        "message": "That's right... it's your turn, Mizuchi."
+    },
+    {
+        "message": "The other me, my incarnation."
+    },
+    {
+        "message": "...No, is that really true？"
+    },
+    {
+        "message": "A single, simple question crossed my mind."
+    },
+    {
+        "message": "Where is the sad me when I'm not sad？ Where is the happy me when I'm not happy？"
+    },
+    {
+        "message": "Where is the angry me when I'm not angry—？"
+    },
+    {
+        "message": "Answer: nowhere."
+    },
+    {
+        "message": "Because they're all one and the same thing."
+    },
+    {
+        "message": "The two were never separate things to begin with. Together, the two make one self."
+    },
+    {
+        "message": "I'm only split in two because I'm a Saniwa, because there's a hidden chamber built inside me."
+    },
+    {
+        "message": "Then—let's put it back into its proper form."
+    },
+    {
+        "message": "I plunge both hands into the darkness at the very bottom of my heart and drag out everything inside, whole and intact—！"
+    },
+    {
+        "message": "...Come on, let's become one again."
+    },
+    {
+        "message": "Think hard—whose rage is this？"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "（It's mine—！）"
+    },
+    {
+        "message": "Then who is the one who can truly unleash this rage—？"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「That's right, it's ME――――――！！！！！！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ngh............！？」"
+    },
+    {
+        "message": "Out of sheer astonishment, I was jolted out of the state of Shohou Muga."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Se-Setsugekka...？」"
+    },
+    {
+        "message": "Up until now, Setsugekka had been using her anger and frustration as a medium to draw power from the god within her, Mizuchi."
+    },
+    {
+        "message": "The \"wind\" had told me that much."
+    },
+    {
+        "message": "Yet suddenly, the \"wind\" surrounding Setsugekka warped grotesquely, enveloping her in a raging maelstrom."
+    },
+    {
+        "message": "And as a result—"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「...Huh？ What do you want, Momimomi」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Are you... losing control？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Heh heh heh, I'm not going berserk. You think I'd be calling you 'Momimomi~' if I were？」"
+    },
+    {
+        "message": "Her brow furrowed and her face twisted, yet Setsugekka was still laughing. I could only feel bewildered by that warped expression."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I simply went back, that's all. To one me, to the real me.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「The real Setsugekka...」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I'll show you what that means right now！！！」"
+    },
+    {
+        "message": "Explosive speed—with no telegraphing at all, Setsugekka charged straight at me！"
+    },
+    {
+        "message": "I barely managed to block her, only for her to drive me back in a blade lock."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ugh, nghh...！！」"
+    },
+    {
+        "message": "I couldn't hold her back. Even bracing myself with every ounce of my strength, my heels tore into the dirt as I slid backward."
+    },
+    {
+        "name": "Momiji",
+        "message": "（W-What is this... She's even stronger than before...！）"
+    },
+    {
+        "message": "She'd been plenty strong during the Martial Festival finals, too. Yet Setsugekka right now surpassed even that."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Come on, here I go！ Mishima-ryuu Type Hinoto: Enga！！！」"
+    },
+    {
+        "message": "Almost the exact instant her fist came at me—a rising kick slammed deep into my solar plexus."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Guh, haaah......！！」"
+    },
+    {
+        "message": "For an instant, I couldn't breathe."
+    },
+    {
+        "name": "Momiji",
+        "message": "（What is this... She's too fast, I can't even...！！）"
+    },
+    {
+        "message": "Setsugekka closed in on me while I was still airborne."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I'm not done yet！ Original Style Type Tsuchinoe: Houda Chouchuu Kai！！」"
+    },
+    {
+        "message": "Setsugekka's elbow came flying at me with the speed of a cannonball, and I somehow managed to block it with my Origami."
+    },
+    {
+        "message": "My beloved blade, Tsubakuro Nagamitsu, shuddered with a shrill ziiing. Even though it was heavily reinforced with Tenju."
+    },
+    {
+        "name": "Momiji",
+        "message": "（Are you insane?! If I took a hit like that head-on, my organs would rupture and I'd die...!!）"
+    },
+    {
+        "message": "Clenching my teeth, I endured the impact and touched down."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Hhhh... haaaah...」"
+    },
+    {
+        "message": "An immediate deep breath—freeing my mind."
+    },
+    {
+        "message": "Entering the state of Shohou Muga, I brought Setsugekka into my sight—"
+    },
+    {
+        "name": "Momiji",
+        "message": "（What is this......）"
+    },
+    {
+        "message": "What I saw—was a serpent coiling around Setsugekka."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Heh heh, you saw it, didn't you？ You went and saw it...？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「This... This right here is my true form...！！」"
+    },
+    {
+        "message": "In place of the “path” I had always seen before, a “serpent” had taken up residence."
+    },
+    {
+        "name": "Momiji",
+        "message": "（I see, so this is a Keyou...！）"
+    },
+    {
+        "message": "A Keyou is, in essence, the same thing as the “wind” I had been seeing. A “vortex” formed within the flow of causality."
+    },
+    {
+        "name": "Momiji",
+        "message": "「……You've turned into something pretty creepy, haven't you.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Don't act all high and mighty just 'cause you're a Suzakuin. Even you've got a dirty side or two, don't ya, asshole！！」"
+    },
+    {
+        "message": "With zero defense, Setsugekka lunges in carelessly."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Don't underestimate me……！！」"
+    },
+    {
+        "message": "I can see the \"path\" woven by the wind of causality."
+    },
+    {
+        "message": "So if I just stay close to it and time my counter――"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Gah……！？」"
+    },
+    {
+        "message": "Setsugekka's fist slams straight into my face."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Whoa there, guard up properly, ya know～, Momimomi. That pretty face of yours is gonna get smashed in！！！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ugh, fuuuh…………！！」"
+    },
+    {
+        "message": "Every single attack I throw is dodged, and every single attack Setsugekka unleashes lands――"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Hah…… haah, haaah……！」"
+    },
+    {
+        "message": "Even over a Barrier Jacket, every single blow from Setsugekka hits outrageously hard."
+    },
+    {
+        "message": "Unable to take it head-on, I pull back and reset my stance."
+    },
+    {
+        "name": "Momiji",
+        "message": "（W-Why…… how is this happening……！！?）"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「……Momimomi, you started seeing all kinds of stuff once you hit that Shohou Muga state, right？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Still, at the end of the day, you're just 'seeing' it, aren't ya？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Well see, I'm different……！！！」"
+    },
+    {
+        "message": "I lock my eyes straight onto Setsugekka as she closes in."
+    },
+    {
+        "name": "Momiji",
+        "message": "（It's fine, I can see the \"path\"――！！ ）"
+    },
+    {
+        "message": "I mustn't let myself get thrown off."
+    },
+    {
+        "message": "Accept things as they are, feel them as they are, and unite my own actions with the flow of all things."
+    },
+    {
+        "message": "There can never be any mistake in the \"path\" of causality seen that way――"
+    },
+    {
+        "name": "Momiji",
+        "message": "（Huh……！？）"
+    },
+    {
+        "message": "A split second ago, the serpent wrapped around Setsugekka sank its fangs into that \"path\"."
+    },
+    {
+        "message": "――And slightly warped that \"path.\""
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ah, guuuh……！！」"
+    },
+    {
+        "message": "Setsugekka's fist drives right into my shoulder."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ora-ora-ora-ora-ora-AAAAAHHHH！！！！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ghk, aaaaaaaaaaaahhhhh！！」"
+    },
+    {
+        "message": "A tremendous impact. Without even managing to break my fall, I rolled across the ground."
+    },
+    {
+        "name": "Momiji",
+        "message": "「W-What was that just now...？！」"
+    },
+    {
+        "message": "I couldn't comprehend what had just happened."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Man, gods really are super convenient, huh? Being able to meddle with *causality* like this...！」"
+    },
+    {
+        "message": "...Ah, so that's how it is."
+    },
+    {
+        "message": "Born from events and taking physical form—mononoke. If that is what a Keyou is, and what a god is."
+    },
+    {
+        "name": "Momiji",
+        "message": "（They can alter the very nature of the \"wind\"—！）"
+    },
+    {
+        "message": "From the very beginning, the Tenju we've wielded through Origami is itself an inhuman power born from events..."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「In other words, *I* have finally managed to surpass Momimomi...！」"
+    },
+    {
+        "message": "Up until now, Setsugekka had been using her anger and frustration as a medium to draw power from the god within her, Mizuchi."
+    },
+    {
+        "message": "The \"wind\" had told me that much."
+    },
+    {
+        "message": "Yet suddenly, the \"wind\" surrounding Setsugekka warped grotesquely, enveloping her in a raging maelstrom."
+    },
+    {
+        "message": "And as a result—"
+    },
+    {
+        "message": "Come to think of it, I heard someone say this a long time ago."
+    },
+    {
+        "message": "Why were the Ikusabito of old able to wield spirit blades so freely? Because they harbored gods within their own bodies."
+    },
+    {
+        "message": "An Ikusabito is a Saniwa who can fight. The ancestors of the Suzakuin family were Saniwa too."
+    },
+    {
+        "message": "And now, Setsugekka as she is right now is also—"
+    },
+    {
+        "name": "Momiji",
+        "message": "「...No, you're not Setsugekka.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「You're the Keyou Mizuchi, not Setsugekka！！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Even Mizuchi is a part of *me*！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「No! Setsugekka and a Keyou are two completely different things!!」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Geez, you're so stubborn, Momimomi！ I'm telling you, the Keyou in the hidden chamber was originally me！！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「The me that split off when I was little—that's *Mizuchi*！！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ugh... T-That's impossible！ Think about it for a second！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「If you just put something you cut apart back together, then why are you harboring a Keyou right now?！」"
+    },
+    {
+        "message": "Simply reattaching something split in half can never make it greater than one."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hah, like I care about the tiny details！！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「It was locked away in a dark place for ages, so it probably just aged and fermented until it was reborn as a Keyou！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「You idiot, as if that makes any sense！！！」"
+    },
+    {
+        "message": "Does she think a Keyou is some kind of fermented food?"
+    },
+    {
+        "message": "Yet this level of idiocy was undeniably Setsugekka's."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Tch, none of that crap matters...！ Only one thing does！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Right now, I'm stronger than Momimomi！！！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ghhhhhh...！！」"
+    },
+    {
+        "message": "Setsugekka swings her mighty arm—I barely manage to block it, only for the impact to send my entire body flying."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I'm standing on equal footing with the great Momimomi right now！ N-no, even more than that！！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I'm the one overwhelmingly winning here！！！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ghh.........！！」"
+    },
+    {
+        "message": "The “path” of causality still lies before me."
+    },
+    {
+        "message": "Yet a path that gets twisted however she pleases along the way serves as no guide at all."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Eat this！ Self-Styled Type Tsuchinoe: Axe-Blade Strike！！！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Uggghhhh...！！」"
+    },
+    {
+        "message": "An impossibly heavy blow, as if catching a falling bridge girder."
+    },
+    {
+        "message": "Unable to withstand the sheer impact, I drop to my knees."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hahahahaha, what's wrong, what's wrong?！ Aren't you gonna use your prized state of Shohou Muga?！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "（I've been using it from the very start...！！）"
+    },
+    {
+        "message": "I had never once lost in a battle of reads before. Yet this Setsugekka—"
+    },
+    {
+        "name": "Momiji",
+        "message": "（...No good, I can't see it...！！！）"
+    },
+    {
+        "message": "No matter what I tried, I couldn't see a future where I won."
+    },
+    {
+        "message": "Surging pessimism, the creeping scent of defeat. I tremble at a chill cold enough to freeze my very soul."
+    },
+    {
+        "name": "Momiji",
+        "message": "（Ah... So this is what despair feels like—）"
+    },
+    {
+        "message": "Only now do I realize it. Until this moment, I had never truly known despair."
+    },
+    {
+        "message": "No matter how difficult the situation, I had always been able to see a path."
+    },
+    {
+        "message": "Yet for that path to have a will of its own and evade me. I have never even imagined such a thing."
+    },
+    {
+        "message": "Against something like this—how am I supposed to win？"
+    },
+    {
+        "name": "Momiji",
+        "message": "（It's impossible...！ This is just a monster...！）"
+    },
+    {
+        "message": "Halfway through thinking those words, I understood."
+    },
+    {
+        "message": "Why everyone drifted away from me back in elementary school. Why nobody wanted to have a match with me."
+    },
+    {
+        "message": "Just as it is with Setsugekka right now."
+    },
+    {
+        "message": "Because to them, I was a monster too—"
+    },
+    {
+        "name": "Iori",
+        "message": "「Isn't that bad...！」"
+    },
+    {
+        "message": "A little while after the match began, Setsugekka suddenly went berserk... or so it appeared."
+    },
+    {
+        "message": "The aura radiating from Setsugekka clearly surpasses anything human."
+    },
+    {
+        "name": "Iori",
+        "message": "「Keisetsu, maybe we should stop this.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「...I wonder about that.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「This is a decisive bout with the futures of both Kazamine and Suzakuin at stake. I can't have you making rash judgments.」"
+    },
+    {
+        "message": "Keisetsu shot me a pointed glare."
+    },
+    {
+        "name": "Iori",
+        "message": "「I know that, but what do you plan to do if something happens to Setsugekka...？！」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「It certainly looks like she might be going berserk, yet at least the way she fights is considerably calmer than usual.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That's true enough, though……」"
+    },
+    {
+        "message": "Even while adding her own twists to Mishima-ryuu Martial Arts, Setsugekka is switching between offense and defense and handling it brilliantly."
+    },
+    {
+        "message": "If she were running wild, it wouldn't turn out like this."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Rather, it might be that Setsugekka right now is the one truly mastering the secret art 'Tamukai.'」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「If so, this is a golden opportunity to defeat Momiji. I can't just throw it away easily.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Please consider both sides' interests fairly and equally.」"
+    },
+    {
+        "message": "Pinpointed like that, I let out a big sigh."
+    },
+    {
+        "name": "Iori",
+        "message": "「……Got it, let's watch a little longer.」"
+    },
+    {
+        "message": "Keisetsu has a point too. Even I don't want to throw cold water on their fight for no good reason."
+    },
+    {
+        "name": "Iori",
+        "message": "「Still, if I think it's dangerous beyond this point, I'm stopping it.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Yes, you are the Umpire of this match after all. I'll leave the final call to your judgment.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ugh……！！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ooh, this is fun—it's the first time I've had a match like this！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Beating down an opponent who can't even fight back feels so damn good！」"
+    },
+    {
+        "message": "For a while now, Momiji had been strictly on the defensive."
+    },
+    {
+        "message": "Her pinpoint reads sealed off, she has now fallen into a state where her hands and feet are completely torn away."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hey, tell me—what does it feel like to get beaten to a pulp and cornered by someone overwhelmingly stronger？！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Even though you know you don't stand a chance, what does it feel like when you still have to fight？！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Even though you can't reach no matter how far you stretch out your hand, what does it feel like when you still have to put up a tough front？！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I know every single bit of it！！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Because for years now! Over and over, dozens of times!! I've tasted feelings just like that!!」"
+    },
+    {
+        "message": "My innate mental resonance was far too low, way too weak to keep going in Jindou."
+    },
+    {
+        "message": "Yet I had nothing else to rely on besides Jindou."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「So I begged Kei-chan to make me strong with the secret art 'Tamukai'……！！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I was told there'd be danger to my life too, but I didn't care about that at all！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Because, y'know！ Without being of any use at all, to anyone, getting compared to Kei-chan！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Spending my whole life getting called 'the useless one'—that's just plain hell！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「So I was ready to throw my life away, whatever happened to me, because I wanted to get strong！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「That's how I barely managed to get into the academy！ And when I challenged Momimomi to a duel, all fired up—！！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「You ran all over the place and didn't even fight me! Do you remember what you said to me back then?!」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「'I hardly possess the respect owed to some lowlife of unknown origin,' or something like that！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Stop acting so high and mighty!!」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Have you ever once imagined how painful and frustrating it was for me?!」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I wanted to get stronger, I wanted to surpass Momimomi, I wanted to know about you！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「And when I got close, your room was always a mess and you were dressed like a slob！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Who do you think cleaned up that room for you?！ It was all me！！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Even after that, you never thanked me once, did you?!」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「What, you think it's only natural I do it for you? Is that the kind of upbringing Suzakuins get?！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「No way！ Miyako-chan was a girl who could thank people properly！ She was a much better little sister than you were an older one！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「In short, Momimomi, it's because you're arrogant！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Because you think I'm an idiot and you're looking down on me!!」"
+    },
+    {
+        "message": "Putting up with all that, fighting fair and square."
+    },
+    {
+        "message": "……Yet I lost in the Martial Festival finals."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Saying I wanted to make it happen somehow so we could all spend time together in Takamura Class until graduation,」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I asked Kei-chan, got her to promise, worked hard, and fought with everything I had！」"
+    },
+    {
+        "message": "Yet all that blood-sweat-and-tears effort, all the hard work up to that point, was effortlessly surpassed right before my eyes."
+    },
+    {
+        "message": "Crushed by my own sheer inadequacy."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Even then, I swallowed it all, forced myself to endure it, and told myself I accepted it！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I was trying so hard to smile so we could part with smiles on our faces in our final class！！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「What is wrong with you?! 'If you're leaving, go right ahead,' seriously?!」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Don't fuuuuuuck with me！！！！！」"
+    },
+    {
+        "message": "I pour every ounce of my raging anger and pent―up passion into―my own fist."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Acting all 'I understand everything' with that smart head of yours, even though you totally get it！！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「You're ridiculously soft on yourself！ And not even a tiny bit gentle with anyone else！！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Your」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「That arrogant, prim-and-proper attitude of yours！！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I fucking hate it―――――――！！！！！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ghk…… uuuugh…………！」"
+    },
+    {
+        "message": "Mishima-ryuu Type Mizunoto: Banzetsu——"
+    },
+    {
+        "message": "A palm thrust carrying absurd energy blasted me all the way to the edge of the outdoor training ground."
+    },
+    {
+        "message": "I couldn't read Setsugekka's moves or dodge them. Barely avoiding a direct hit by eye alone was all I could manage."
+    },
+    {
+        "message": "Irritation at that sheer unreasonableness wells up."
+    },
+    {
+        "message": "――No, that isn't what I'm really mad about."
+    },
+    {
+        "name": "Momiji",
+        "message": "「……I've been listening quietly for a while now, and you just say whatever the hell you want, don't you……！！」"
+    },
+    {
+        "message": "My hand gripping the Origami creaks and groans. Blood vessels stand out on the back of my hand."
+    },
+    {
+        "name": "Momiji",
+        "message": "「What the hell do you mean, 'what does it feel like to be cornered in an overwhelmingly disadvantageous spot'！」"
+    },
+    {
+        "message": "Tearing through dirt and gravel, I launch toward Setsugekka――！！"
+    },
+    {
+        "name": "Momiji",
+        "message": "「You think I was just strong enough not to lose to anyone from the very start, huh！？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「No fucking way I was！！！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I worked my ass off too！ I pushed hard out of sight and grew strong！！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I've thought I might not be able to win plenty of times！ Even so, I got through it somehow！！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Do you have any idea how sick I am of people watching from the outside with fake expressions and saying 'You're so strong~'!?」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Could you possibly understand thataaahhll！！！」"
+    },
+    {
+        "message": "I wasn't thinking about anything anymore."
+    },
+    {
+        "message": "Casting aside any state of Shohou Muga, I was swinging the Origami around purely in blind rage."
+    },
+    {
+        "message": "Dazzlingly blinding wrath, passion beyond words. Blazing flames of resentment drove me onward."
+    },
+    {
+        "name": "Momiji",
+        "message": "「No matter how hard I work, it's 'Of course, you're a Suzakuin'！ Everyone's just idiots looking at the sign plastered on my forehead！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Setsugekka, you were like that at first too, weren't you！ 'I'll Definitely Beat Suzakuin-san Man' my ass！！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Because I'm carrying some stupid signboard like 'Suzakuin'！ I'm not even allowed a single loss！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Just how much have I suffered, forced to wear the collar of being undefeated! Have you ever even tried to imagine it?!」"
+    },
+    {
+        "message": "If working hard meant being recognized, if someone would praise me for it. I'm sure I would've become a girl who could give it her all."
+    },
+    {
+        "message": "But nobody ever looked at my efforts. Working hard was a given; getting results was a given too."
+    },
+    {
+        "message": "Then why not just try hard where people can see? Why not just deliver the results they want and nothing more?"
+    },
+    {
+        "message": "And just like that, I started slacking off out of sight."
+    },
+    {
+        "name": "Momiji",
+        "message": "「And then！ The moment I actually got strong, everyone started avoiding me instead！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Saying being around me just reminded them of how weak they were—pushing their own weakness aside and making me out to be the villain！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「All my friends walked away from me until there was no one left！ Treated like a monster, shut out by everyone！！！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「And even then, I can never quit Jindou！ Not as long as I carry the Suzakuin name—never！！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Could you ever understand how much I agonized over it?!」"
+    },
+    {
+        "message": "So I lived all alone this whole time. Using Suzakuin's \"standing alone\" as a shield, I held fast to my solitude."
+    },
+    {
+        "message": "It wasn't like I was acting all high and mighty. I was simply terrified of getting close to anyone."
+    },
+    {
+        "message": "They're the ones who came up to me, and yet the moment I opened my window, they'd slam it shut for their own selfish reasons and walk away."
+    },
+    {
+        "message": "I went through that over and over again, and got hurt every single time."
+    },
+    {
+        "message": "So I built up walls, making them too high to climb over easily. That was the only way I knew how to protect myself."
+    },
+    {
+        "name": "Momiji",
+        "message": "「...Even so, you told me, didn't you, Setsugekka? That win or lose, we'd stay friends.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「That as long as I kept wishing for it, you'd stay my friend forever！」"
+    },
+    {
+        "message": "Shunned, pushed away, convinced that no one who truly understood me would ever appear for the rest of my life—"
+    },
+    {
+        "message": "How happy I was, having believed that. How much it saved me."
+    },
+    {
+        "name": "Momiji",
+        "message": "「I always thought there was no way two swordfighters could stay friends—that it was completely impossible.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「But with Setsugekka, with you, maybe—you made me believe that！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「So one more time, just one more time... I genuinely thought I'd try trusting someone—that I wished we could be friends！」"
+    },
+    {
+        "message": "And yet, even so—"
+    },
+    {
+        "message": "Letting my rage take over, I launch strike after strike relentlessly."
+    },
+    {
+        "message": "Even faster than Tsubame Gaeshi—beyond even my own will, I slash away without a single thought."
+    },
+    {
+        "name": "Momiji",
+        "message": "「I knew, Setsugekka—I knew how hard you were trying so you could somehow stay with everyone in Takamura Class」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I knew, but I had no choice but to win！ Losing wasn't an option I was allowed to take！！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「So even after winning the tournament, even after becoming Toujinegi, I wasn't happy at all！！」"
+    },
+    {
+        "message": "What I did is the same as Iori-sensei."
+    },
+    {
+        "message": "In exchange for victory, I stole my best friend's dream. I shattered my friend's earnest wish."
+    },
+    {
+        "message": "That's why it's presumptuous of me to wish for anything from Setsugekka. Something like that could never be forgiven."
+    },
+    {
+        "name": "Momiji",
+        "message": "「...Do you have any idea how I felt when I heard you were dropping out over summer break, Setsugekka？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Even though I'd decided to try trusting you... even though I thought we'd finally become friends！！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Without talking to me about anything, just deciding all on your own to leave the academy！！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Even though I kept telling myself I had no right to say anything, trying so hard to swallow it down！！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「And what do you think you said to me then？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「—If Momimomi really insists, I guess I could stay here for you, ya know？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「D-D-Don't screw with me！！！！！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Even as a joke, there are things you just don't say！！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「With words I want to say but can't, words I have no right to say！ Putting me on the spot, messing with my head！！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「When you don't have the slightest intention of staying at the academy no matter what I say, going and saying things to get my hopes up！！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Did you even stop to think for a second how much those heartless words would hurt me?！！！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「That！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「insensitive, flippant side of yours！！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「pisses me off to death————！！！！！」"
+    },
+    {
+        "message": "A breathless flurry of strikes—unable to dodge them all, Setsugekka eats hit after hit and tumbles clumsily across the ground."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「...Hah, what the hell is that」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Insensitive? Hey now, I sure as hell don't wanna hear that from Momimomi！！」"
+    },
+    {
+        "message": "Setsugekka charges in—spinning into a sweeping slash."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Then what, you're saying you're all delicate and considerate yourself, huh？！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Take a look at yourself before you go spouting that crap！！」"
+    },
+    {
+        "message": "Setsugekka's kick—I barely block it with my Origami."
+    },
+    {
+        "name": "Momiji",
+        "message": "「That's my line！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「How am I arrogant？! You're way more arrogant than I am!!」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hmph, arrogant and proud as a cock-a-doodle-doo！！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Making light of it again like that……！ Knock off looking down on me！！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I'm only acting like an idiot 'cause Momimomi's always looking down on people~！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Hmph, you're not acting—you're a genuine idiot！ Don't get things twisted, you moron！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「What did you say, punk?！ You stuck-up bastard！！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Shut up, you dimwit face！！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Don't bring up my face！！！」"
+    },
+    {
+        "message": "Both of their strikes land cleanly――"
+    },
+    {
+        "message": "Blown apart as if bursting, they collide again――crossing blades as if biting."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Haa, haa…… Seriously though, Momimomi's got something totally wrong, doesn't she！？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ha…… huuuh, got something wrong—what do you mean……！！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Even if I was abroad, even if we were apart, we could've stayed friends, right?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「So isn't it weird that you're acting like I'm some heartless jerk who cut ties and said bye-bye？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「That's not good enough for me！！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「……Huh？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I want to be in the same class, in Takamura Class！ I want to keep going together！！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Haaaaah？！ You're saying that now？！ Momimomi's the one who wrecked it all！！！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I know that！ That's why I was keeping quiet, and then you go saying stuff that rubs me the wrong way！！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Read the room and figure out how I feel a little bit！！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Listen here, 'figure out how I feel'—are you some delicate little thing?！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Don't ask me for stuff like that! Anyone spending time with me can tell I'm a rough, careless person!」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Even so, reading each other is what friends are supposed to do！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Like I care！ Stuff like that's different for everybody！！！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「……Is that so？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Huh？ Well, yeah. Are you saying I'm supposed to change my personality just 'cause we became friends？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「So you're saying Setsugekka is, no matter how far you go, a rough, tactless, selfish, goofy person？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「You—are you pickin' a fight with me?!」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「People have good parts and bad parts, and that goes for everyone！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Sometimes you click, sometimes you don't, sometimes you hold back or push too hard, sometimes you clash and make up！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Even then, you don't let go of the hand you grabbed……！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「That resolve is what 'being friends' means, right?!」"
+    },
+    {
+        "message": "……Ah, I see."
+    },
+    {
+        "message": "It's annoying to admit it when Setsugekka's the one saying it, but I agreed."
+    },
+    {
+        "name": "Momiji",
+        "message": "「In other words, I was an idiot for expecting Setsugekka to have normal consideration」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「The way you put it really ticks me off, but yeah, pretty much」"
+    },
+    {
+        "message": "Now that it's been said, it was obvious, and it clicked right into place."
+    },
+    {
+        "message": "Apparently, I had been angry over something pretty trivial. Realizing that makes me a little embarrassed."
+    },
+    {
+        "message": "Setsugekka has plenty of shortcomings. But I have shortcomings too."
+    },
+    {
+        "message": "That's surely mutual, and without realizing it, we were complementing each other and keeping our balance."
+    },
+    {
+        "message": "My shortcoming is obvious."
+    },
+    {
+        "message": "It's conveying my true feelings honestly to the other person. I didn't have that courage."
+    },
+    {
+        "message": "Yes, I really had been saved by Setsugekka."
+    },
+    {
+        "message": "――And there's one more thing I realized."
+    },
+    {
+        "message": "My anger-driven attacks that I'd been unleashing just now――some of them were landing on Setsugekka."
+    },
+    {
+        "message": "Setsugekka should have had a way to completely shut down my reads. Yet why were my attacks getting through?"
+    },
+    {
+        "message": "I understand the reason for that now, too."
+    },
+    {
+        "message": "By accepting things as they are and feeling them as they are, one can read the “path” born of the winds of causality."
+    },
+    {
+        "message": "However, as long as there is an 《I》 trying to trace that “path,” the realm of Shohou Muga is never completed."
+    },
+    {
+        "message": "Seizing that opening, Mizuchi was twisting the “path.”"
+    },
+    {
+        "message": "Swept away by emotion, I completely ignored the “path.” In that case, twisting the “path” has no meaning."
+    },
+    {
+        "message": "In short, simply swinging the blade with an empty mind and trusting one's own intuition. That is the way not to give a Keyou an opening to exploit."
+    },
+    {
+        "message": "Those two realizations, seemingly unrelated, share a strange commonality. That is――"
+    },
+    {
+        "name": "Momiji",
+        "message": "（Move as freely as I please, is that it……）"
+    },
+    {
+        "message": "That was the very thing I was worst at."
+    },
+    {
+        "name": "Momiji",
+        "message": "「...Hey, Setsugekka.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「What?」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Iori―sensei taught me something―」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Momiji, if there's something truly precious to you, don't give up.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Even if it's pathetic, even if it's all in vain, you should keep struggling until the very end.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「If you give up on or let go of something precious so easily, you'll regret it for the rest of your life.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Momiji, there's something that only you can do.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「There must be words that only you can get across—」"
+    },
+    {
+        "message": "I relay Iori-sensei's words to Setsugekka just as he said them."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「…………」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Right now, I'm going to say everything I'm thinking out loud and tell you.」"
+    },
+    {
+        "message": "I had never even thought of doing something like that before."
+    },
+    {
+        "message": "But—there must be something that only I can do."
+    },
+    {
+        "message": "I'll surely be clumsy and pathetic at it. It might be in vain, and it might not mean anything at all."
+    },
+    {
+        "message": "Still, if there's something truly precious to me, I mustn't give up."
+    },
+    {
+        "message": "Yes, that's why—"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Please don't laugh, just listen to me...！！」"
+    },
+    {
+        "message": "Momiji lunges straight at me—！"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Setsugekka, until I met you and Iori-sensei, I spent my whole life playing the honor student！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I put up walls, hid my real self away as much as I could, and made sure no one could ever touch me！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「That's because I was weak！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Because I was afraid of wanting someone, only to be betrayed！！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「But the one who shattered those walls I built was Setsugekka—you！！」"
+    },
+    {
+        "message": "I can't read Momiji's slash at all. Right now, she's swinging her blade with no regard for tactics or calculation."
+    },
+    {
+        "name": "Momiji",
+        "message": "「It's all because you reached out to me first, Setsugekka.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Because I didn't have the courage to！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「So, Setsugekka, I was truly happy I could become friends with you！」"
+    },
+    {
+        "message": "I was just acting completely naturally, following my heart and doing whatever I felt like."
+    },
+    {
+        "message": "Yet that had been Momiji's salvation..."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Hey, Setsugekka... I'll be lonely if you're gone！！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Why are you leaving me behind and going abroad？！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I don't want that at all！！！！」"
+    },
+    {
+        "message": "It was a cry from the very bottom of Momiji's heart."
+    },
+    {
+        "name": "Momiji",
+        "message": "「I don't want to say goodbye to you, Setsugekka！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Stay here at this academy and be my friend forever！！」"
+    },
+    {
+        "message": "...I can tell, because I have Mizuchi's power."
+    },
+    {
+        "message": "How much courage Momiji is mustering just to say this much."
+    },
+    {
+        "message": "Things that are nothing to me are different for Momiji."
+    },
+    {
+        "message": "Because our birth and upbringing, our way of thinking, even the talents we were born with—everything about us is different."
+    },
+    {
+        "message": "For Momiji, honestly putting her feelings into words is many times harder than swinging a blade."
+    },
+    {
+        "message": "And right now, all of that courage of hers was directed straight at me."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「...I wanted that too」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I wanted to be with Momimomi, and Sensei, and everyone！ I wanted to stay together at this academy！！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「That's why I worked hard in my own way, and even made a promise with Kei-chan！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「All I had left to do was become the Toujinegi...！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「But it didn't come true！ Because I wasn't strong enough！！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Because I was weak...！！！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「It's so frustrating, Momimomi！！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Setsugekka, I'm so sorry...！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I'm the one who stole your dream, aren't I. Even though the dream you had, Setsugekka, was my dream too...！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「At the very, very end, I hesitated！ Wondering if it was really okay for me to win like this...！！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「But... if I held back, you'd notice. You would never be happy about something like that！」"
+    },
+    {
+        "message": "Of course I would—just how long does she think I've been training alongside Momimomi."
+    },
+    {
+        "name": "Momiji",
+        "message": "「That's why I had to keep moving forward！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I'm truly sorry, Setsugekka...！！」"
+    },
+    {
+        "message": "I know. Momiji didn't do anything wrong."
+    },
+    {
+        "message": "We both just did what was only natural. There was no grudge at all."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "（...Wait, huh？ I'm not angry anymore...？）"
+    },
+    {
+        "message": "While I was being shaken by Momiji's earnest words. Those fierce, smoldering embers of anger had vanished completely."
+    },
+    {
+        "message": "Yet Mizuchi is still swirling around me even now. The vast power of Tenju still remains as well."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "（Ah, so that's how it is...！）"
+    },
+    {
+        "message": "I had thought the filthy self deep in the darkness—that was Mizuchi, and the source of all my power."
+    },
+    {
+        "message": "But that's not it. The light inside me is also \"me.\""
+    },
+    {
+        "message": "Acknowledging both and making them coexist."
+    },
+    {
+        "message": "That is where \"I\" ought to arrive—the ultimate destination of the secret art Tamukai."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I feel the same way, Momimomi！！」"
+    },
+    {
+        "message": "At first, I wasn't looking at Momiji at all, only the nameplate of Suzakuin."
+    },
+    {
+        "message": "Yet as I interacted with Momiji, a sense of closeness gradually welled up. Before I knew it, I came to want to be friends."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「...Rivaling Momimomi, honing each other. You have no idea how much encouragement that gave me！！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Eating sweets together with Momimomi and talking all night long, it was so, sooooo fun！！！」"
+    },
+    {
+        "message": "If my goal hadn't been Momiji. If Momiji hadn't been friendly with me like she is now."
+    },
+    {
+        "message": "I surely wouldn't have been able to push myself this far. I wouldn't even have made it into the Martial Festival main tournament."
+    },
+    {
+        "message": "I couldn't have spent such fun times, and I never would have wished to stay at the academy—！"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Haaah, haa, haaah, haaaah...」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Fuuuh... fuu, faaah... fuaaah...」"
+    },
+    {
+        "message": "Catching ragged breaths against each other, I gaze at Momiji. There was no ill feeling left in my heart anymore."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hey, Momimomi...」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「What...？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「...It's bittersweet, but let's wrap this up soon」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Yeah, that's right」"
+    },
+    {
+        "message": "Which of us had the upper hand or the lower hand didn't matter at all. Trading blows and getting hit back, both of us were beaten ragged."
+    },
+    {
+        "message": "Honestly, my body doesn't look like it can hold out much longer."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Still, at the very end—let's enjoy it」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yeah, let's do that—！」"
+    },
+    {
+        "message": "<s28>　　　　Because having a serious match with ―you―,　　　　　might just be the last time—！！</s>"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Haaaaaaaaaahhh！！！」"
+    },
+    {
+        "message": "Momiji's barrage of strikes comes rushing in."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「My Own Style Type Kanoe: Kongouhou！！！」"
+    },
+    {
+        "message": "My outstretched fist barely grazed Momiji."
+    },
+    {
+        "name": "Momiji",
+        "message": "「...Secret Selection: Tsubame Sanren！！！！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Guuuh... as if I'd lose, My Own Style Type Hinoe: Enko Mouhazan！！！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Gah... I'm not done yet！！ Fivefold Swallow！！！！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「—Original Style, Type Mizunoto: Hatou Ranbu Kai！！！！」"
+    },
+    {
+        "message": "Kazamine and Suzakuin no longer matter."
+    },
+    {
+        "message": "All that's here are me and Momiji—just two swordswomen."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「...This is fun, isn't it, Momiji！！！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Yeah, it's so much fun, Setsugekka...！！！」"
+    },
+    {
+        "message": "Without a single worry, without a shred of hesitation—"
+    },
+    {
+        "message": "Simply pouring our very way of life into our blades with utter purity, and fighting."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hah, haah, ugh... haaaah...！！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Fwah, nngh... fuuuuh...！！」"
+    },
+    {
+        "message": "It hurts, I can't catch my breath."
+    },
+    {
+        "message": "And yet, a smile naturally spills across my face."
+    },
+    {
+        "message": "Momiji returned it with a full, beaming smile."
+    },
+    {
+        "message": "For a swordswoman, could there be any greater honor than this?"
+    },
+    {
+        "message": "I wish this moment could last forever."
+    },
+    {
+        "message": "I wish this battle would never end."
+    },
+    {
+        "message": "—And yet."
+    },
+    {
+        "message": "Everything must come to an end—"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「...Gotcha, Momimomi！！！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I knew you'd come, Setsugekka...！！！」"
+    },
+    {
+        "message": "I didn't see it coming. Just when I thought I'd grabbed Momiji's arm—"
+    },
+    {
+        "message": "Instead, it was my arm that Momiji had tightly in her grasp."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Tch... fuck thiiiisss！！！！」"
+    },
+    {
+        "message": "Before she could make her next move, desperate to break free, I violently swung my trapped arm around."
+    },
+    {
+        "message": "And flung Momiji high, high—up into the air."
+    },
+    {
+        "name": "Momiji",
+        "message": "「—Come at me, Setsugekka！！！！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「You bet！！！」"
+    },
+    {
+        "message": "I kicked off the ground and soared into the crimson moonlit night."
+    },
+    {
+        "message": "I closed in on Momiji as she began to free-fall."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Suzakuin Momijiiii！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I'm！ The one！ Who's gonna beat you！！」"
+    },
+    {
+        "message": "You were my goal, and the one I admired."
+    },
+    {
+        "message": "That's precisely why I have to defeat you—"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Kazamine Setsugekkaaa！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「You！ I！ I'll definitely defeat you！！」"
+    },
+    {
+        "message": "……I understand, Momiji."
+    },
+    {
+        "message": "You've recognized me as a full-fledged swordsman, your equal."
+    },
+    {
+        "message": "That makes me so happy――！"
+    },
+    {
+        "message": "Gazing at each other, pouring every emotion into our own Origami."
+    },
+    {
+        "message": "We unleash our all-or-nothing strike――！！！"
+    },
+    {
+        "name": "Momiji",
+        "message": "「――Secret Ultimate Art, Suzaku Enbu！！！！！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「――Self-Taught All-Ten-Stems」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Heaven-Wide Sovereign Blade！！！！！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ngh, uuughh……！！」"
+    },
+    {
+        "message": "Dropping to one knee on the earth."
+    },
+    {
+        "message": "Barely anything is left of my Barrier Jacket. Even maintaining Tenju is difficult."
+    },
+    {
+        "message": "I put strength into my legs, yet my knees only tremble."
+    },
+    {
+        "message": "I no longer had――any strength left to stand up."
+    },
+    {
+        "name": "Momiji",
+        "message": "「…………」"
+    },
+    {
+        "message": "Looking over at Momiji, she is standing straight on two feet."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "（Ah……my loss again, huh…………）"
+    },
+    {
+        "message": "Just as I thought that."
+    },
+    {
+        "message": "The Origami Momiji had been holding shattered into pieces――"
+    },
+    {
+        "message": "Momiji, silently and without a sound."
+    },
+    {
+        "message": "Slowly collapsed onto the earth――."
+    }
+]

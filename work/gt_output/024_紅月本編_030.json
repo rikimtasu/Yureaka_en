@@ -1,0 +1,757 @@
+[
+    {
+        "name": "Iori",
+        "message": "「Phew… I could’ve sworn she came this way…」"
+    },
+    {
+        "message": "I followed Ririmu from the shopping area all the way to the station front. This station has a direct train line that goes to Osaka Metropolis."
+    },
+    {
+        "name": "Iori",
+        "message": "「Aha, found you, Ririmu！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Gyaaaah, you followed me all the way out here?！」"
+    },
+    {
+        "message": "I grabbed the shoulder of Ririmu, who was trying to bolt again."
+    },
+    {
+        "name": "Iori",
+        "message": "「Gotcha. Now, we’re going back to the classroom…」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「No, no, no! Help, I’m being kidnapped! Someone save me!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hey, knock it off！ Don’t go shouting stuff like that at the top of your lungs！」"
+    },
+    {
+        "message": "The area in front of the station was bustling with people, including not just students, but businessmen in suits and the elderly."
+    },
+    {
+        "message": "The icy glares from those innocent bystanders pierced right through me."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Then let go of me~」"
+    },
+    {
+        "name": "Iori",
+        "message": "「If I let go, you’ll just run away！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Uh, obviously？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Then I’m not letting go.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Kyaa！ Somebody！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「St-stop it, I said！」"
+    },
+    {
+        "message": "I moved behind Ririmu, pinned her arms, and covered her mouth."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Mmph… mmmph-nggh, hnnngghhh！」"
+    },
+    {
+        "message": "Ririmu struggled and thrashed about."
+    },
+    {
+        "name": "Iori",
+        "message": "「Heh heh heh, when it comes to pure physical strength, this teacher won’t lose！」"
+    },
+    {
+        "name": "???",
+        "message": "「…Excuse me, could you come with us for a moment?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yes？」"
+    },
+    {
+        "message": "I turned around to find people in blue uniforms standing there."
+    },
+    {
+        "message": "…They were officers from the local police station."
+    },
+    {
+        "name": "Police Officer",
+        "message": "「We received a report. Could we have a word with you？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「…And that’s the situation. I’m so sorry.」"
+    },
+    {
+        "message": "I explained the situation to the police officer and lowered my head."
+    },
+    {
+        "name": "Police Officer",
+        "message": "「We understand the situation. You’re free to go.」"
+    },
+    {
+        "name": "Police Officer",
+        "message": "「Just try not to do anything so confusing in public, okay?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I am terribly sorry for the trouble！」"
+    },
+    {
+        "message": "I bowed deeply again to the departing police officers."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Aha-ha-ha-ha, Sensei got chewed out by the cops~！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...Who do you think's fault that is？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Whoa, scary face... Don't get so mad~」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「It was just a little joke, a joke」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You trying to kill me socially with your 'jokes'！？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Sorry~, but Sensei was being so pushy」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I just felt like getting a little help from the grownups♪」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Admittedly, my way of handling it wasn't the best either. I'll apologize for that.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「But that still doesn't excuse dragging the police into this...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「You say it's trouble, but we just talked for a bit, right? I don't think it was that big a deal~」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I know a bunch of cops, and they all seem happy to chat with me whenever I approach them？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「What kind of people are these police acquaintances of yours...？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「The people who came up to try and take me into custody when I ran away from home back then」"
+    },
+    {
+        "message": "So she has that kind of history... That sounds exactly like her."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Police officers look like they have it all together, but on the inside, they're just human beings like the rest of us」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「If you just talk to them, they're actually pretty understanding」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Some are super stiff and rigid like you, Sensei, and it's been annoying when they wouldn't bend the rules for me~」"
+    },
+    {
+        "name": "Iori",
+        "message": "「My bad for not being flexible enough」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Well, look, I'm gonna do things my way. So don't worry about me so much, okay?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...No, I can't do that.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ririmu, first-year students at the academy have their midterm exams around the middle of June. Naturally, students in Takamura Class have to take them, too.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Well, I know that much」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Then this will be quick.」"
+    },
+    {
+        "message": "I project the data shared by Sasaki onto the HR."
+    },
+    {
+        "name": "Iori",
+        "message": "「This is the result of a quiz Ririmu took around the middle of April.」"
+    },
+    {
+        "message": "Out of the written, performance, and practical portions, her score on the written exam was especially catastrophic."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Whoa... my score is way too low.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You’re one to talk.」"
+    },
+    {
+        "message": "First-year students are given numerous quizzes to measure their ability, and to ensure they grasp their own level of proficiency."
+    },
+    {
+        "message": "They use those results to identify and shore up their weaknesses."
+    },
+    {
+        "name": "Iori",
+        "message": "「If you don't get a certain score on the midterm exams, you'll fail. Fail, and you'll have to take remedial classes followed by a make-up exam.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Students who can't avoid failing that make-up exam will be held back.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Wait, s-seriously！？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, there are no safety nets. You're forcibly expelled.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「If your score on the April quiz is a true reflection of your current ability, you’ll almost certainly fail the midterm exam.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ehh~！？ Does that mean it's possible for me to get kicked out before July？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah. It's not uncommon for students to get expelled within three months for failing to deliver results in the practical exams. Students who don't have the aptitude are weeded out and dropped one after another.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Out of 200 freshmen, not even half will make it to graduation. That’s the kind of place Murakumo Academy is.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Th-that's bad！ You should've told me that from the start！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Normally, your homeroom teacher explains that at the start, and it’s written in the enrollment documents, too.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I didn't listen to the teacher, and why would I read those documents anyway！」"
+    },
+    {
+        "message": "For God's sake, listen, and read them."
+    },
+    {
+        "name": "Iori",
+        "message": "「You've brought this on yourself.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ehh~, Sensei, do something about it~」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Of course I plan to do something about it.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「But to do that, you first need to show up to class.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I don't wanna.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hey！ Are you okay with getting expelled！？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Besides, I saw my scores earlier, and my practical was super good, right? My form demonstration was pretty decent too, wasn't it?」"
+    },
+    {
+        "message": "She's right—the only problem was the written exam."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Then isn't that fine？ I mean, I'm in the Martial Arts Division, right？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Quite a few Martial Arts Division first-years flunk out because of the written exams, you know. Back when I was a student here, there were about ten of them.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「That makes no sense！ Why does the Martial Arts Division even have written exams？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Martial artists don't need stuff like book learning！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Just being a graduate of Murakumo Academy is a brand in itself. They probably want you to have the ability and education to match.」"
+    },
+    {
+        "message": "Compared to other educational institutions, graduating from Murakumo Academy is pretty tough. That's precisely why its graduates are held in high regard and sought after everywhere."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「No, come on—for a swordfighter, being strong is everything, right?」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Who's the number one student in the Martial Arts Division？ Obviously the Toujinegi, right？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Can you become the Toujinegi by getting a good score on a written exam？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Nope, you only get it by winning matches, right? You have to be strong.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「No matter how brainy you are, if you can't win matches, nobody's gonna value you as a swordfighter, and nobody's gonna need you.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well... that's true.」"
+    },
+    {
+        "message": "The Martial Arts Division is just like athletics. Only people with the skill to deliver results are guaranteed favorable treatment."
+    },
+    {
+        "message": "If a swordfighter isn't strong, there's no point in the first place."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Then shouldn't Martial Arts Division students be fine as long as they get good results in the practicals？ Why do you fail out just for not getting good scores on written exams？」"
+    },
+    {
+        "message": "When she puts it like that, a half-baked teacher like me is left at a loss for words."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「My last homeroom teacher kept telling me to study too, y'know, but I just couldn't accept it.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I mean, can you really get a proper education just from book learning？」"
+    },
+    {
+        "message": "I can understand the doubts Ririmu feels, and how unfair it seems to her. All the more reason I'm struggling with how to answer."
+    },
+    {
+        "name": "Iori",
+        "message": "「You're surprisingly sharp, Ririmu.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Heh-heh! You're dead wrong if you thought I was an idiot!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Then I feel like you could avoid failing grades if you just studied properly.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I told you before, Teach.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「If I can't accept something, I don't do it and I won't do it.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Why, because that’s my w-o-r-l-d-v-i-e-w, that’s why！」"
+    },
+    {
+        "message": "Man, what a handful..."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「And with that, I’m off to the mainland~」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hey, hey, hold on a second！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「No way~！ Bye-bye-kin！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Good grief, you never learn, do you...！」"
+    },
+    {
+        "message": "I had no choice but to chase after her—and then."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Whoa... ah, that was close！？」"
+    },
+    {
+        "message": "Ririmu slammed on the brakes, having almost collided with someone walking from the station."
+    },
+    {
+        "message": "But as expected of the Martial Arts Division, she stopped just before impact. The person she almost hit appeared to be a martial artist as well, as they quickly pulled back and evaded Ririmu."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「...Wait, Momiji！？」"
+    },
+    {
+        "message": "The person walking from the station was Momiji."
+    },
+    {
+        "name": "Momiji",
+        "message": "「I wondered who it was, and it’s Tobe-san... It’s dangerous to run like that.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「My baaaad, I’ll be careful~」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「What are you in such a rush for... wait, Iori-sensei？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I hadn't seen you since this morning, so you were heading to the mainland?」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Yes, that’s right.」"
+    },
+    {
+        "message": "Momiji replied with a composed look on her face."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Must be nice~ I wanna go to the mainland too, but that Iorin over there keeps getting in my way, telling me to go to class~」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I-Iorin？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Yup, Muragaki Iori, so Iorin. Right？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Iori-sensei, are you really going to let her call you that！？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「It sounds like Ririmu, so she can call me whatever she wants. But she’s still going to class.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「No way~！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「And for the record, that goes for you too, Momiji.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I’ve said it many times, but as a scholarship student, I am exempt from class. I am also permitted to go to the mainland during the day.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Seriously？ Lucky~ I wanna be a scholarship student too！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Just so you know, Ririmu, honors students still have to take midterm exams, okay？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「And if you don't keep your scores higher than normal, your honors status gets revoked. If you get a failing grade, there's no makeup exam—you're expelled on the spot.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Oh, on second thought, being a regular student works for me.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hey, Momicchi, did you score well on the written test for the last quiz？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Momicchi...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Yeah, Momicchi for Momiji. Momijiru sounds pretty good too~」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Please go with Momicchi.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「So, about the quiz.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Iorin's been grilling me over that quiz for a while now~」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「To be perfectly honest, I don't even understand the point of holding a test like that in the first place.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Uh-huh, totally! I think so too.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「For the record, Momiji got a perfect 100 on every single subject on the written test except Japanese.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Whoa, seriously？！ Momicchi, you're super smart！」"
+    },
+    {
+        "message": "Momiji's gripe with the test is probably something along the lines of not seeing why they have to bother checking stuff this easy."
+    },
+    {
+        "name": "Iori",
+        "message": "「You aced everything else, so why'd you lose points only on Japanese？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「The model answers designated as correct by the grader contained arbitrary interpretations. Personally, I still cannot accept their grading method.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ugh, I feel that! Japanese tests make zero sense~」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Like, 'Explain the author's feelings'? How am I supposed to know that?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hate to interrupt your bonding moment, Ririmu, but your problem starts way before that. You can't even write kanji properly in the first place.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Shut up, shut up! Stop only dissing me!」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I wish midterm exams would just disappear！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「As long as I produce results on the midterms, I can maintain my honors student status, so it would be rather troublesome for me if they were abolished.」"
+    },
+    {
+        "message": "She's right—for an honors student, test results are everything."
+    },
+    {
+        "message": "Only by proving through sheer ability that you are far superior to the other students are you granted the privilege of class exemption."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Oh, by the way, Momicchi, there's something I've been wondering about.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「That duffel bag looks heavy. What’s in it？」"
+    },
+    {
+        "message": "Momiji is carrying a large bag over her shoulder. Judging by how deeply the strap is digging into her shoulder, it seems to have some weight to it, but..."
+    },
+    {
+        "name": "Momiji",
+        "message": "「I just did a bit of shopping on the mainland.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「What did you buy？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「…………」"
+    },
+    {
+        "message": "If she bought a mountain of high-calorie snacks, I’d have to scold her as an athlete, that’s for sure."
+    },
+    {
+        "name": "Momiji",
+        "message": "「There’s nothing strange in there, really.」"
+    },
+    {
+        "message": "……Hmm, I’m suspicious."
+    },
+    {
+        "message": "Asahi said it too, didn’t she? That Momiji will use any means necessary to get her own way."
+    },
+    {
+        "name": "Iori",
+        "message": "「Then why don’t you let me see what’s inside?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「If it’s nothing strange, that shouldn’t be a problem, right？」"
+    },
+    {
+        "message": "I cast a gaze at her that brooks no argument, pressing Momiji for an answer. If she panics, it means she’s definitely hiding something."
+    },
+    {
+        "message": "Alright, Momiji, what’s your move？"
+    },
+    {
+        "name": "Momiji",
+        "message": "「……Do you really want to see inside that badly？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, I do.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Really？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「There’s no need to hide it, is there？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Why are you so interested in my personal belongings?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Because you’re my student, Momiji.」"
+    },
+    {
+        "message": "This is getting even more suspicious. What is she hesitating so much about？"
+    },
+    {
+        "name": "Momiji",
+        "message": "「*Sigh*………… Alright, fine.」"
+    },
+    {
+        "message": "As if resigned, Momiji unzipped the duffel bag and pulled out a small bundle."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Go ahead, please check the contents.」"
+    },
+    {
+        "message": "When I was told to open it and did so, what came out was… a tiny piece of cloth."
+    },
+    {
+        "message": "To put it bluntly, it was underwear."
+    },
+    {
+        "name": "Iori",
+        "message": "「Wh-what the…！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「It’s the underwear and undergarments I bought on the mainland. There are also some spare socks and towels; would you like to check those too？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ah, I get it, I totally get it. You can’t really find any decent clothes or underwear unless you go to the mainland~」"
+    },
+    {
+        "message": "What was inside were pure white panties and a bra, with very little decoration. It was a simple yet elegant design."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Please don't stare at it so closely. It's embarrassing.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「S-Sorry, I didn't know it was underwear！」"
+    },
+    {
+        "message": "I hurriedly handed the bundle back to Momiji."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Still, you noticed I didn't want you to, didn't you？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, yeah...」"
+    },
+    {
+        "message": "That's precisely why I thought it was suspicious, though."
+    },
+    {
+        "name": "Momiji",
+        "message": "「In that case, I wish you had shown a little more consideration.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「You've got no tact at all, Iori~n.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Sorry, you're right...」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Well, I hear this is your first time teaching girls' academy students, Iori-sensei, and I think the misleading way I acted was part of the problem too.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Let's both try to be more considerate of each other from now on.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, I'll be careful.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Please don't worry about it. Well then, I'll excuse myself now.」"
+    },
+    {
+        "message": "With her duffel bag in one hand, Momiji headed off toward the academy."
+    }
+]

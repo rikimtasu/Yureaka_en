@@ -1,0 +1,609 @@
+[
+    {
+        "message": "The morning after hearing about the secret arts."
+    },
+    {
+        "name": "Iori",
+        "message": "「I’ve finally gotten used to this lifestyle.」"
+    },
+    {
+        "message": "Waking up at 6:00, eating breakfast at the faculty cafeteria, and getting some light exercise. Once the time comes, I get ready and head to the classroom."
+    },
+    {
+        "message": "This routine has finally started to feel natural."
+    },
+    {
+        "name": "Iori",
+        "message": "「Alright, time to do my best as a teacher today too！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Good morning, everyone！ Time for roll call！」"
+    },
+    {
+        "message": "I say that, even though there are only five of them and no real need for it."
+    },
+    {
+        "name": "Iori",
+        "message": "「...Wait, someone’s missing.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Teach, Momitchi isn’t here yet～」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hmm？ What happened to Momiji？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Come to think of it, the light in Momiji’s room was still on until around 1:00 last night.」"
+    },
+    {
+        "message": "...Could Momiji be oversleeping？"
+    },
+    {
+        "name": "Iori",
+        "message": "「Actually, the fact that you know that means you were up late too, Asahi. What were you doing？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hehe, just a bit of independent training.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Training until 1:00 in the morning... you should take it easy, alright？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Thank you for your concern.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Still, Momiji really is a handful...」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Wouldn't it be fine to just leave her be? She is a scholarship student, after all, isn't she?」"
+    },
+    {
+        "message": "It’s true; whether Momiji oversleeps or skips class, it doesn't cause any real problems for her grades."
+    },
+    {
+        "name": "Iori",
+        "message": "「No, that’s a separate issue. We made a promise, so I need her to attend class properly.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「You really are earnest...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I’m going to the dorms to wake Momiji up now. Everyone, please wait and do some self-study for a while.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Are you going to drag Momimomi back？ If so, I want to go too！ I’m going to be an enforcer！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ugh, I really wanted to avoid any trouble...」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I haven't even done anything yet, so it’s rather insulting to be treated like a troublemaker.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I think it would be better to take her along. Momiji is a woman, after all, and you never know what might happen.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ah, right. That’s true.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Then Setsugekka, while you're at it, please go dig up some dirt on Momiji.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Roger that！ Leave it to me！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You guys...」"
+    },
+    {
+        "message": "Well, I suppose it can't be helped. It's Momiji's fault for oversleeping."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hey hey, open the door！ This is the Kazamine Police！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Don't start trouble three seconds after we arrive!」"
+    },
+    {
+        "message": "I hurriedly pull Setsugekka away from the door."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hmm, she's not waking up. I don't hear a sound either. Do you think she might've hated class so much that she ran away?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I'd like to think that's not the case, but」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Should I try entering through the window like last time?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, knowing Momiji's personality, she's probably already taken precautions. The same trick won't work twice.」"
+    },
+    {
+        "message": "It wouldn't even be surprising if she'd rigged up an electric shock trap."
+    },
+    {
+        "name": "Iori",
+        "message": "「Can't be helped, I'll use the master key.」"
+    },
+    {
+        "message": "I use the key I'm holding to unlock the door."
+    },
+    {
+        "name": "Iori",
+        "message": "「Ah, just as I thought...」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Nn…………mu, nya…………zzzz, zzzz……」"
+    },
+    {
+        "message": "In her characteristically messy room, the owner is fast asleep."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Oh~ look at that. She's sound asleep... So carefree, not even knowing what's about to be done to her~」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「So Sensei, what should I do？ Strip her？ Or maybe hang her upside down？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Just wake her up without causing any injuries.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Roger that！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hey hey, get up already, you sleepyhead！ If you don't get up, I'm gonna play some nasty pranks on you~♪」"
+    },
+    {
+        "message": "Setsugekka suddenly pounces and mounts Momiji. Control yourself, control yourself."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Fwahh！？ Eh……eehh！？ Not again！？ Wait, how come Setsugekka is here！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Heh heh heh, it's okay if you want to keep sleeping？ I'll make you feel reaaally good, ei ei~♪」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「St-stop~, uhehehehe, ahhahahaha」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Alrighty, time to momimomi Momimomi's boobs, momi momi momi……」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Eek！？ S-stop it, that tickles！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「So soft… I knew Suzakuin was just built different~♪ Hehehehe…」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Hnnnghh… w-wait, not there, nn-ahh, nn-uuh… kufuun!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hey, Setsugekka！ Quit that！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Alright, alright. How about this then？」"
+    },
+    {
+        "message": "She began massaging her back with her thumbs."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Fah… ah, that hits the spot… nnuuh, s-so good… ah, that’s nice… nnhooooo…」"
+    },
+    {
+        "name": "Iori",
+        "message": "「…Yeah, Setsugekka. You should probably stop that too.」"
+    },
+    {
+        "message": "Her voice sounds lewd regardless of what’s happening."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Come on, don't you think it's time to wake up, Momimomi？ If you don't, I'll just do this… momimomimomimomi♪」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Uwaaah… jeez, what are you, some kind of perverted old man? Seriously, cut it out already…！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Alright Setsugekka, she’s awake now, so that’s enough.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Okaaay!」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Haa, haa, haa… w-what is wrong with you two！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hm? The Momimomi Wake-Up Squad?」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Huh？ I have no idea what you’re talking about, but… you know, breaking into someone’s room to assault them is basically a crime, right！？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Momiji, what time do you think it is？ Class started a long time ago.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Eh？ But I set my alarm properly… wait, it’s stopped！？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Didn't you stop it yourself？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「…Sleeping in is just the best, isn’t it.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hey.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「It’s fine if I sleep in every once in a while. I’m a scholarship student; it’s not like I’m obligated to go to every class.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「So, that settles it—I’m taking the day off.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No way. I’m not letting you skip. You’re going to show up just like you promised.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ehh, you’re such a drag! Just let it slide this once, will ya~」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Oh, I get it. So that’s why you’ve been hoping Muragaki-sensei would come wake you up every morning.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Wha—！？ I’m not hoping for anything like that, and I’ve never even thought about it！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I—It’s just that I’m not a morning person, I’m more of a night owl, so...」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hmm, so Momimomi isn’t a morning person. Weakness found.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Oh, and by the way, I’m in a horrible mood when I first wake up. If you do anything weird again, I’ll legit kill you.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Whoa, scary.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Anyway, that’s enough for today, isn’t it? I’m still sleepy, so please get out.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Can’t be helped... Should I call Sasaki-sensei instead?」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Wait, what！？ Ugh, I really hate you, Iori-sensei！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You’ll come to class, right？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Yes, yes, I get it. I’m coming, I’m coming！」"
+    },
+    {
+        "message": "Still, it would be a real pain if I had to deal with this every single morning... What should I do."
+    },
+    {
+        "name": "Iori",
+        "message": "「Setsugekka, are you a morning person？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I’m the kind of girl who wakes up when the sun comes out and gets sleepy the moment it sets.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I see, you’re a good girl, Setsugekka.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yay, praise me more, praise me more~！」"
+    },
+    {
+        "message": "If she’s a morning person, this might work out perfectly."
+    },
+    {
+        "name": "Iori",
+        "message": "「Setsugekka, from now on, on days when there’s class, could you come wake Momiji up for me?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Huh? I don’t mind, but... I’m pretty sure Momimomi will lock her door and not let me in.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「It’ll be fine. I’ll give you the key to Momiji’s room.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「H-Haaah！？ You’ve gotta be joking, right！？ What about my privacy！？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No need to worry, it’s an electronic lock. I’ll make a limited-access key that only works on the mornings when we have class.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「That’s not the point~!」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「The job of dragging a sleepy Momimomi out of bed every morning... Hehehe, that actually sounds kind of fun.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Iori-sensei, harassment isn’t cool, you know!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Even so, if you won't get up on your own, someone's got to come wake you up.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Worst case, I can deal with Sensei, just spare me Setsugekka...」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hey, what's that supposed to mean?! You got a problem with me?」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Because you always do weird things to me!」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hey, that's just how I show affection.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Don't think an excuse like that justifies sexual harassment!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hmm... I see. Well, maybe I'll ask Asahi then.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Huh？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Asahi wouldn't sexually harass you, right? Does that work for you?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Sensei, if you hand Asahi-chan a room key, every last one of her secrets will get exposed and it'll be a total disaster~」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ah... yes, Setsugekka is fine after all.」"
+    },
+    {
+        "message": "Alright, she caved."
+    },
+    {
+        "name": "Iori",
+        "message": "「Then I'm counting on you starting tomorrow, Setsugekka.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Okaaay!」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Haaah, this is the woooorst...！」"
+    },
+    {
+        "message": "Momiji clutched her head and looked up at the ceiling."
+    },
+    {
+        "message": "Momiji said she'd catch up as soon as she finished changing, so Setsugekka and I decided to head back to the classroom first."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「By the way, Sensei, there's something I've been wondering about.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hm？ What's up？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Do you think... Momimomi hates me? She was acting kind of cold toward me earlier, too.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I don't think she hates you or anything.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Momiji is a daughter of the Suzakuin family, after all. She's probably spent most of her life alone.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I think she's just not very good at getting close to people and things like that.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ahh, now that you mention it, she does seem like that.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「So I'm hoping someone pushy like you can break through that wall for her, Setsugekka.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I see! So my job is to smash Momiji's stubborn heart to smithereens!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, don’t go breaking anything, okay? You two need to get along.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Understood! Just leave it all to me.」"
+    },
+    {
+        "message": "If he allowed her to be selfish, Momiji would only become more and more isolated. It should be fine for her to have people reach out to her, even if it might be an annoyance."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Still, ‘getting along,’ huh.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「It’s a bit strange, really. Kazamine and Suzakuin are both trying to be number one, yet here we are in the same Jindou class.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Is it really okay for me to get chummy with Momimomi~?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I don’t know about the family business. But you’re both my students, that much is certain.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「In that case, wouldn’t it be fine for you both to at least acknowledge each other’s dedication to Jindou？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hmm, I wonder if Momimomi will acknowledge me~」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You just need to become stronger, Setsugekka. If you do that, you can push each other to reach even greater heights.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I had someone like that, too. We were always trying to catch up to and surpass one another.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I believe I am who I am today because of that.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hehh~♪ So even Sensei had a rival！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, thinking back on it, it was fun. And, for the record, they were a flashy and loud nuisance.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Muragaki-sensei, you’re an alumnus of this school, right? Did you pull any pranks back when you were a student?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Haha, well, I did a few things.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Did you, by chance, put a hole in the arena wall？ You did, right？ Tell me you did！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Only someone like you would do something like that, Setsugekka.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ehh~~!？ That’s not true! Someone will definitely do it! Someday, eventually, for sure!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I can say with certainty that it would be you, Setsugekka.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Kyaaaa~~！？ H-hey, stop with the weird prophecies！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Good grief… hehe, hahaha.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ahahaha, so even Sensei laughs!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, of course. Because you’re fun to be around, Setsugekka.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yeah, yeah... wait, are you praising me？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, of course I am.」"
+    },
+    {
+        "message": "I wanted Setsugekka, with that dauntless cheerfulness of hers, to pull Momiji out of that room where she was all alone."
+    }
+]

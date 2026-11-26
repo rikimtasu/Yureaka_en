@@ -1,0 +1,580 @@
+[
+    {
+        "name": "Iori",
+        "message": "「Morning, everyone！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Good morning, Iori-sensei.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Oh? You’re early, Teach. What’s up?」"
+    },
+    {
+        "message": "It was still quite a bit before class, but having nothing else to do, I’d come to the classroom a little early."
+    },
+    {
+        "name": "Iori",
+        "message": "「Oh, I just happened to wake up early.」"
+    },
+    {
+        "message": "A quick glance around the classroom showed only Asahi and Ririmu present."
+    },
+    {
+        "message": "And in the corner of the room, Keisetsu was projecting a hologram and working on something."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Hmm… typical of the Suzakuin, I suppose. Trying to intervene in personnel affairs seems a bit of a stretch, though.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「What are you doing? Just what…」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Oh, you’re here. I’m just fulfilling my duties, so don’t mind me.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「It’s still early for class, but are you starting already？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, Setsugekka and Momiji haven’t arrived yet. We’ll start once everyone’s here.」"
+    },
+    {
+        "message": "As we were talking, I heard voices from the hallway. Speak of the devil, the two of them arrived."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Goooooood morning!」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ugh, morning…」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Whoa, Momitchi, your energy is super low. What’s up, what happened？」"
+    },
+    {
+        "message": "Momiji had a dejected look on her face as she walked in. And a small shadow was following behind her."
+    },
+    {
+        "name": "Miyako",
+        "message": "「Good morning!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「H-huh… Miyako-chan？」"
+    },
+    {
+        "message": "Miyako-chan had appeared along with Setsugekka and Momiji."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Attention, everyone! Who might this cute girl be?」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Oh, I know！ She’s gotta be Teach’s secret love child！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, she isn’t, okay…？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Iori-sensei, by all means, let’s make a secret love child together too.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Asahi, you don’t have to go along with that, either！？」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Nice to meet you. I’m Suzakuin Miyako, Momiji-onee-chan’s little sister. It’s a pleasure to meet you all.」"
+    },
+    {
+        "message": "Miyako-chan was smiling, surrounded by everyone. Yep, she’s such a good girl for being able to greet everyone so properly！"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Whoa, so you're Momicchi's little sister. Now that you mention it, you guys do look alike？ Miyako-cchi, I'm Ririmu. Nice to meet ya~！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「She's way more level-headed than Momimomi usually is, huh~」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Shut it, none of your business.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Welcome to the Takamura Class, Miyako-chan. Glad to have you.」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Iori-sensei, thank you very much.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No problem. Miyako-chan, you really are such a good girl~」"
+    },
+    {
+        "message": "My face softens involuntarily."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Se-sensei, you're making such a super lovey-dovey face right now.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「It seems you still love children even now, don't you.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「I have a frank question, if I may, Momiji-san.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Yeah, yeah, what is it？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「You brought your sister to the academy, but what exactly do you intend to do with her？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「'Brought her' is more like, she just showed up on her own...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I'll explain the situation from here.」"
+    },
+    {
+        "message": "I explain the circumstances to everyone in the Takamura Class."
+    },
+    {
+        "message": "That Miyako-chan ran away from home and came to this academy. And that she is currently being put up in Momiji's room."
+    },
+    {
+        "name": "Iori",
+        "message": "「Due to various family circumstances, we've settled on Momiji taking care of her for a while.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I'd appreciate it if you all could help out if possible.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yup, yup, nice to meet you, Miyako-chan!」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Once again, it's a pleasure to meet you all.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「I understand the situation now.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「But what will you do about bringing Miyako-san into the classroom? Do you intend to have her attend lessons with us?」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ah~ about that...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Miyako-chan is still small, after all. It’s only natural she’d stay with her guardian, Momiji.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You don't need to worry about it, Momiji.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「T-Thank you.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Whenever your hands are full with training or anything, I'll look after her for you, so don't worry.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Is that okay with you too, Miyako-chan？」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Yeah, okay.」"
+    },
+    {
+        "message": "Mm-hm, what a sweet, obedient little girl."
+    },
+    {
+        "message": "Yesterday she suspected I might be some shady guy, so I guess she's decided I'm safe after all."
+    },
+    {
+        "name": "Iori",
+        "message": "「All right then, everyone's here, so let's start class a little early. Move on to your usual training regimens.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Miyako-chan's watching too, so put some spirit into it！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Yeah, yeah, take good care of Miyako, okay~...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Man, you're always so low-energy, Momitchi.」"
+    },
+    {
+        "message": "At my prompting, everyone begins working on their respective regimens."
+    },
+    {
+        "name": "Miyako",
+        "message": "「What should I do？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Let's see... First, I'd love it if you could just watch without getting in everyone's way.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「If there's anything you don't understand, feel free to ask me anything. I'll teach you all about it~！」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Oka~y♪」"
+    },
+    {
+        "message": "Precious... Having a kid in class really is the best, huh. Today's gonna be a fun day！"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「N-Nngh... Uoryaaaaah！！」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「You can do it, Setsugekka-san. Just a little more~」"
+    },
+    {
+        "message": "Miyako-chan is cheering on Setsugekka, who's doing strength training with her face bright red."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「L-Leave it to meee... Th-This much is a piece of cake♪」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Three more to go, you can do it！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hnnnghh! If it's to beat Momimomi, this much is nothiiing...!!」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Do you want to beat Momiji-oneechan, Setsugekka-san？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I'll beat her, I'll definitely beat her! Because that's my destiny!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Whoa, ten percent more weight? Setsugekka, it's great to work hard, just don't overdo it, okay?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hwaaah, I kno~w！ I'm starting to get used to it anyway... I got this！」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「But why is Setsugekka-san doing muscle training? You don't really need that much muscle strength for Jindou, right?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Wow, you can tell that much, Miyako-chan！ It's true that muscle strength isn't the only thing you need.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「But Setsugekka’s fighting style is a bit unique. Muscle strength and stamina are indispensable for her.」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Hmm, is that so.」"
+    },
+    {
+        "message": "Miyako-chan nods in admiration."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「But moving your body feels super great, you know~♪ Haa, haa... aaaaand, done~♪」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Amazing, congrats~！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Thanks~, Miyako-chan. Oh, Miyako-chan, you really are such a good girl~！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yep, I’m retiring from being the 'Absolute Destroyer of Suzakuin.' From now on, I’m the 'Absolute Destroyer of Momiji.'」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「'Absolute Destroyer'…？」"
+    },
+    {
+        "message": "Miyako-chan looks puzzled."
+    },
+    {
+        "message": "Oh well, next up are the members using Yorishiro-kun. Let's go see how Asahi is doing first."
+    },
+    {
+        "name": "Asahi",
+        "message": "「…！ Right there, taaaah！！」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Wow… hey, hey, what is Asahi-san doing？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That’s training to discern the 'incipience.' It’s about reading the opponent's movements so you can respond optimally.」"
+    },
+    {
+        "message": "Incipience refers to the tell-tale sign before an opponent performs an action. She is executing a perfect Iai in sync with Yorishiro-kun's movements."
+    },
+    {
+        "name": "Iori",
+        "message": "「Yorishiro-kun is pretty tough, too. Your technique has become sharper than before. Keep it up.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Thank you, Iori-sensei.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Keep up the good work.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Yes!」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Do your best, Asahi-san~！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Thank you, Miyako-chan. But I won’t yield on Sensei.」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「？？？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Asahi, don't show such rivalry toward someone so small.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Iori-sensei, you were kinder to me when I was small. In other words, I figured that was just your preference.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「My fondness for kids doesn’t mean it like that！？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hehehe, I hope that's the case」"
+    },
+    {
+        "message": "...Let's pull ourselves together and move on."
+    },
+    {
+        "name": "Iori",
+        "message": "「Next up is Ririmu」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Huh？ Come to think of it, isn't Keisetsu-san practicing？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ah, Keisetsu is in the same Takamura Class as us, but she's in the Quartermaster Division. She's not a swordsman」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Hmm, what a waste, she looks so strong」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hahaha, everyone has their own strengths and weaknesses, you know」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Oh, Iorin and Miyako-chan. Hey hey~！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「How's it going？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Right now, I'm using Yorishiro-kun to pick my next opponent. I was hoping for someone a little stronger」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I'm going to take down every single registered Toujinegi！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That's reassuring to hear」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Come to think of it, while I was looking for Toujinegi data, I found something that caught my eye」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hm？ Which one is it？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Look at this, a guy named Kuki Takahisa」"
+    },
+    {
+        "name": "Iori",
+        "message": "「…………」"
+    },
+    {
+        "message": "That's right, he became a Toujinegi in his first year, so..."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hm? What's wrong, Sensei? You've got a scary look on your face」"
+    },
+    {
+        "name": "Iori",
+        "message": "「A-ah, sorry. Don't worry about it」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hey, this Kuki... could he be an acquaintance of that Oni woman？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Acquaintance is one way to put it; Kuki Takahisa is her older brother」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「No way, the Oni woman's big bro was a Toujinegi！？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, that's right. He was a user of the same Iai sword-drawing style as Asahi, and he was incredibly strong」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hmm, so if I can beat this guy Takahisa, that means I can clear Asahi too？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That's right, I think it will be a great reference for when you face Asahi」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I see~, then I think I'll give it a try！」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Good luck~, Ririmu-san」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Oh yeah, leave it to me~♪」"
+    },
+    {
+        "message": "I took Miyako-chan around to see everything there was to see."
+    },
+    {
+        "name": "Iori",
+        "message": "「How was it, Miyako-chan? Was it interesting?」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Everyone is actually pretty strong, aren't they?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Oh? You can even tell how strong they are?」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Yeah, out of those three, the strongest-looking one is Asahi-san. Next is Ririmu-san, and Setsugekka-san is... average？」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「It's just a feeling, but I don't think she's very strong.」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「The strongest one is probably Momiji-oneechan.」"
+    },
+    {
+        "message": "Heh, I'm surprised. Excluding Setsugekka's berserk state, that's a spot-on ranking."
+    },
+    {
+        "name": "Miyako",
+        "message": "「Iori-sensei, I want to try a match too~」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I see, so you've already started Jindou, Miyako-chan. Out of everyone here, who would you want to fight？」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「I want to fight you, Iori-sensei!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Huh? Me！?」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Yeah, because I think you're the strongest one here, Iori-sensei. I want to fight against strong people.」"
+    },
+    {
+        "message": "Miyako-chan directs her innocent, combative spirit straight at me."
+    },
+    {
+        "name": "Iori",
+        "message": "「I see... Yeah, sure. Let's go see how Momiji is doing, and then we'll have a sparring match.」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Yay~~♪ Thank you, Sensei~」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, yeah, you're welcome.」"
+    },
+    {
+        "message": "Ah, she's so cute... Kids really are the best."
+    },
+    {
+        "message": "With a soft smile, I took Miyako-chan and headed over to Momiji."
+    }
+]

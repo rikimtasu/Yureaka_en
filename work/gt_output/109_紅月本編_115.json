@@ -1,0 +1,369 @@
+[
+    {
+        "name": "Shizuku",
+        "message": "「...There, all set.」"
+    },
+    {
+        "message": "I make the final adjustments to my Origami―Type 13, No. 9: Shadow―ahead of the next match."
+    },
+    {
+        "message": "In the workshop, Technical Division students bustle back and forth."
+    },
+    {
+        "message": "The smell of scorched metal and the whine of grinders—I loved this atmosphere."
+    },
+    {
+        "name": "Shizuku",
+        "message": "（Sigh... The main tournament is finally here...）"
+    },
+    {
+        "message": "I've never really liked standing out in the first place."
+    },
+    {
+        "message": "Being able to lose myself alone in the things I love was always the best time for me."
+    },
+    {
+        "message": "Yes, if not for that encounter—I should have been completely content on my own."
+    },
+    {
+        "message": "...My parents were history researchers."
+    },
+    {
+        "message": "They were often away from home on fieldwork, leaving me by myself most of the time."
+    },
+    {
+        "message": "I never really felt lonely. In fact, being alone actually put me at ease."
+    },
+    {
+        "message": "Because my parents were very temperamental and always irritated about something."
+    },
+    {
+        "message": "Figuring out how not to ruin their mood—that was my biggest mission as a child."
+    },
+    {
+        "message": "—So I was thrilled when I got into Murakumo Academy."
+    },
+    {
+        "message": "A full boarding school with completely private rooms—this environment was heaven to me."
+    },
+    {
+        "name": "Teacher",
+        "message": "「...Minamoto Shizuku, why are you in the Technical Division？」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Huh...？」"
+    },
+    {
+        "name": "Teacher",
+        "message": "「Your strikes, your reads, even your spiritual sensitivity are all outstanding！ You really should transfer to the Martial Arts Division, even now.」"
+    },
+    {
+        "message": "First- and second-year students take the same classes regardless of whether they're in the Martial Arts Division, Technical Division, or Quartermaster Division. So I participated in sparring practice during class too."
+    },
+    {
+        "message": "Before I knew it, my swordsmanship somehow caught their eye."
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Um... I'm more interested in spiritual mechanisms and how Tenju works than in fighting... so the Technical Division suits me better...」"
+    },
+    {
+        "name": "Teacher",
+        "message": "「I see... Still, it'd be a waste not to put that talent to use! All right, why don't you try entering the Martial Festival preliminaries?!」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Wh-What, um, I couldn't...」"
+    },
+    {
+        "message": "In the end, I couldn't bring myself to refuse and wound up entering the Martial Festival preliminaries."
+    },
+    {
+        "message": "...I was eliminated in the preliminaries that year, but I placed 11th. For a first-year, it was by no means a bad result."
+    },
+    {
+        "message": "Because of that, I ended up getting selected for the Martial Festival preliminaries again in my second year."
+    },
+    {
+        "name": "Teacher",
+        "message": "「Whoa, that's incredible！ You made it to the main tournament！」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Um, thank you very much...」"
+    },
+    {
+        "message": "Once I realized how much useful data I could gather from fighting strong opponents, I got carried away."
+    },
+    {
+        "message": "Looking back now, I really should have held back more."
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Ugh... How did things turn out like this...」"
+    },
+    {
+        "message": "At the Martial Festival main tournament, right there—I met her."
+    },
+    {
+        "name": "Victoria",
+        "message": "「Hiii！ Minamoto Shizuku？ So you're a second-year too. Let's enjoy our match together！！」"
+    },
+    {
+        "message": "To put it mildly, her fighting style was quite amateurish."
+    },
+    {
+        "message": "Her offensive technique was so inconsistent that my first impression was... how on earth did she win her way up to the main tournament like this?"
+    },
+    {
+        "message": "But her spirit sensitivity was incredible, and the way she believed in herself and charged straight at me was dazzling."
+    },
+    {
+        "message": "She wielded her Origami and performed Jindou as if she were having the time of her life. She truly loved Jindou from the bottom of her heart."
+    },
+    {
+        "name": "Shizuku",
+        "message": "（Yeah, I think I'll end it here...）"
+    },
+    {
+        "message": "It felt wrong for someone like me, who wasn't even giving it my all, to defeat someone who felt that way."
+    },
+    {
+        "message": "So, I held back a little and conceded the victory to Victoria."
+    },
+    {
+        "message": "That was how my second-year Martial Festival ended. As far as I was concerned, it was a satisfying curtain call."
+    },
+    {
+        "message": "...But there were some who didn't see it that way."
+    },
+    {
+        "name": "Victoria",
+        "message": "「Hey, hey！！ Is Minamoto Shizuku here！？」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「...Victoria？」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「What was that match earlier？ Why did you get so weak halfway through！？」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「I can tell！ You held back, didn't you！！」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「That's not okay, why would you do that？ Why！？」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「U-um... I'm so sorry...」"
+    },
+    {
+        "message": "Confronted like that, I had no choice but to apologize."
+    },
+    {
+        "message": "I explained the situation to her while she sulked. She seemed surprised when she found out I was from the Technical Division."
+    },
+    {
+        "name": "Victoria",
+        "message": "「Whaaaat！？ Shizu, you're from the Technical Division？ And you're still that strong？ That's amazing！！」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Um, I'm really sorry... for doing something that sullied your match...」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「It's fine, it's fine! Now I know that Shizu had her own reasons for it!」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「More importantly, Shizu, how was it, fighting me？ Did I look cool？ Tell me what you thought！」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Um, are you sure you want me to be honest...？」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Of course！ Otherwise, there's no point！」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「...I thought you weren't very strong.」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Whoaaaaaah！？ Really！？ Wh-where？ What was wrong with it！？」"
+    },
+    {
+        "message": "I listed every issue I had noticed during our match and told them to her."
+    },
+    {
+        "name": "Victoria",
+        "message": "「Whoa！ Yeah, you might be right！」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Shizu, you're amazing！ You can tell all that just from fighting me once！」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Also, the settings for your Origami don't suit you right now. Would you mind letting me have a look at your Origami？」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Yaaay！ Look at all of it you want！」"
+    },
+    {
+        "message": "I borrowed the Origami and was stunned."
+    },
+    {
+        "message": "Victoria's Origami was still using almost entirely factory-default settings."
+    },
+    {
+        "name": "Shizuku",
+        "message": "「……You, could it be that you've never had a fitting done before？」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「What？ What's a 'fitting'？」"
+    },
+    {
+        "message": "Victoria's reply made my head spin. I was, conversely, impressed that she’d managed to fight at all like this."
+    },
+    {
+        "message": "And just like that, something sparked inside me."
+    },
+    {
+        "message": "If this girl went into battle with the perfect setup, what kind of fight would she show me, I wondered."
+    },
+    {
+        "name": "Shizuku",
+        "message": "「……Hey, Victoria.」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Um…… if you’re okay with it, I’d like to be your Second……」"
+    },
+    {
+        "message": "The data I could gain through her would surely be fascinating. Once I thought that and made the offer—"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Really！？ Yay, do it, do it！ Please, teach me！！」"
+    },
+    {
+        "message": "She readily agreed."
+    },
+    {
+        "name": "Umpire",
+        "message": "「Match over！！！」"
+    },
+    {
+        "message": "……And just like that, she won the Martial Festival spectacularly."
+    },
+    {
+        "name": "Victoria",
+        "message": "「Shizu, Shizu！！ You did it, did you see！？ I won, I actually became a Toujinegi！」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Yes, I saw. Congratulations, Vicky……！！」"
+    },
+    {
+        "message": "With an Origami fully customized to match her, Vicky's real ability had swelled many times over."
+    },
+    {
+        "name": "Victoria",
+        "message": "「Thank you, Shizu, it’s all thanks to you!! I love you, Shizu, Lovin’ you～～～!」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「Wait, Vicky…… mmm, nnh……！」"
+    },
+    {
+        "message": "I had my kiss stolen by an excited Vicky."
+    },
+    {
+        "message": "……But, for some reason, I was happy about that too."
+    },
+    {
+        "message": "Before I knew it, Vicky had transformed into an irreplaceable existence for me――."
+    },
+    {
+        "message": "Match time was approaching, and I headed to the entrance."
+    },
+    {
+        "message": "Exactly one year had passed since that time we experienced the Martial Festival victory together with Vicky."
+    },
+    {
+        "message": "I'm a third-year now, and this is my last year participating in the Martial Festival. I wonder what I'll be doing this time next year."
+    },
+    {
+        "name": "Shizuku",
+        "message": "「……Vicky.」"
+    },
+    {
+        "message": "Until a little while ago, I had somehow thought I'd probably be in the pro team Vicky was starting up."
+    },
+    {
+        "message": "But now――"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Independence and self-reliance. To forgo the use of a Second, and handle everything from forging the blade to adjusting the Origami entirely on one's own.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「That is the path of a fencer who aims to be self-sufficient.」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「Whoaaa…！ What is that, ama-zing！ It’s super cool, like one of those lone swordsmen！？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Well, if you want to put it coolly, I suppose that’s what it is…」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「I see~! So you’re aiming to be a perfect man who relies on no one and handles everything all by himself!」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「That’s great~! It’s so like Okita-kun! Maybe I should try doing that too~」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「I’ve been leaving all the little things up to Shizuku until now, but that’s no good, it’s not cool at all」"
+    },
+    {
+        "name": "Victoria",
+        "message": "「From now on, I’ll even make and prepare my own Origami！」"
+    },
+    {
+        "name": "Shizuku",
+        "message": "「…………」"
+    },
+    {
+        "message": "Suzakuin-san was right."
+    },
+    {
+        "message": "If one were a true swordsman, it would be problematic if they couldn't fit things to their own condition themselves."
+    },
+    {
+        "message": "If she doesn't learn to do for herself what she should be doing, it's Vicky herself who will be in trouble later."
+    },
+    {
+        "name": "Shizuku",
+        "message": "「But if that happens, I’ll… be unnecessary.」"
+    },
+    {
+        "message": "That, and only that—was something I absolutely could not allow."
+    }
+]

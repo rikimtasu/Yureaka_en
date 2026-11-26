@@ -1,0 +1,246 @@
+[
+    {
+        "name": "Maid",
+        "message": "「...Miss Ririmu.」"
+    },
+    {
+        "name": "Maid",
+        "message": "「Miss Ririmu, it's almost time.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "（Ah, my next lesson is already about to start...）"
+    },
+    {
+        "message": "The Tobe Family was a lineage of great landowners stretching back continuously to the Kamakura period. Its history was even older than that of the Suzakuin Family."
+    },
+    {
+        "message": "A grand mansion overlooking a Japanese garden on sprawling grounds. I was born into an environment far more privileged than that of most Japanese people."
+    },
+    {
+        "name": "Ririmu's Mother",
+        "message": "「Master Saionji, your koto teacher, is a very strict person. Make sure you learn properly.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Yes, Mother...」"
+    },
+    {
+        "message": "Mom was already over forty when she gave birth to me."
+    },
+    {
+        "message": "Being their long-awaited heir, both Dad and Mom treasured me deeply."
+    },
+    {
+        "message": "Only... being treasured like that felt heavy to me."
+    },
+    {
+        "name": "Koto Teacher",
+        "message": "「...What are you doing, Miss Ririmu！ Play it just as I taught you before！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「But it sounds prettier this way...」"
+    },
+    {
+        "name": "Koto Teacher",
+        "message": "「The classics only have meaning when you follow tradition. Until you understand the reasoning behind them, stay quiet and obey！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「…………」"
+    },
+    {
+        "name": "Maid",
+        "message": "「Miss Ririmu, it's almost time. Your next lesson is traditional dance.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Haah... I'm already sleepy...」"
+    },
+    {
+        "name": "Maid",
+        "message": "「Please bear with it. Your instructor is about to arrive.」"
+    },
+    {
+        "message": "Ever since I was three, my days were spent on lessons from morning till night. The only time I could rest was for a brief moment before and after meals."
+    },
+    {
+        "message": "My parents genuinely believed that was love. That bestowing so much upon me would enrich my future life."
+    },
+    {
+        "message": "But it didn't resonate with me in the slightest."
+    },
+    {
+        "name": "Chauffeur",
+        "message": "「Have a pleasant day, Young Lady.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「...I'm off.」"
+    },
+    {
+        "message": "I enrolled in a prestigious private elementary school for young ladies. It was a school my parents chose all on their own. I had no say in the matter."
+    },
+    {
+        "name": "Female Student",
+        "message": "「Why, good day, Lady Ririmu. Lovely weather we're having today, isn't it?」"
+    },
+    {
+        "message": "As the only daughter of the wealthy landowning Tobe Family, I was held in high regard even among the other students."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Yes, it really is.」"
+    },
+    {
+        "message": "To me, just a quiet, boring place with nothing fun about it."
+    },
+    {
+        "message": "Then, when the time came, I was chauffeured back and forth in a black luxury car, with studying and lessons waiting after school."
+    },
+    {
+        "message": "It truly was the picture-perfect life of a sheltered young lady."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Woaah... So pretty...！」"
+    },
+    {
+        "message": "One day, I was taken to a sword exhibition."
+    },
+    {
+        "message": "I was instantly captivated by the dull gleam reflecting off the blades of the Japanese swords I saw there."
+    },
+    {
+        "name": "Ririmu's Father",
+        "message": "「We Tobe are a martial family now, after all. It’s important to cultivate an aesthetic eye by looking at things like this.」"
+    },
+    {
+        "message": "That was the first time I felt grateful to my parents. I truly wanted to thank them for showing me something so beautiful."
+    },
+    {
+        "message": "I learned later that the sword exhibition had been hosted by the Sword-Bearing Self-Defense Association."
+    },
+    {
+        "message": "Perhaps that’s why there was a Jindou experience booth in one corner of the exhibition."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「What’s that, I wonder...」"
+    },
+    {
+        "message": "It was mostly aimed at children, intended to let them try out Jindou using safe Origami with blades covered in rubber coating."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「...Father, Mother. May I try that？」"
+    },
+    {
+        "name": "Ririmu's Father",
+        "message": "「Isn't it dangerous？」"
+    },
+    {
+        "name": "Ririmu's Mother",
+        "message": "「My dear, it's good to experience everything.」"
+    },
+    {
+        "message": "With my parents' permission, I held a sword for the very first time there."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Waaah...！」"
+    },
+    {
+        "message": "The feeling of Tenju activating and strength flooding through my entire body. I will never forget the exhilaration of that moment for as long as I live."
+    },
+    {
+        "name": "Jindou Trainer",
+        "message": "「W-wow... young lady, that's an incredible mental resonance value！ You could aim to be a professional Jindou athlete one day！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Really...？」"
+    },
+    {
+        "name": "Jindou Trainer",
+        "message": "「How about it, miss? Why don't you try practicing Jindou?」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「...Yeah, I want to try.」"
+    },
+    {
+        "name": "Ririmu's Father",
+        "message": "「Sir, please don't lead my daughter astray. I have no intention of turning her into a spectacle.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「But, Father... I want to try Jindou...」"
+    },
+    {
+        "name": "Ririmu's Father",
+        "message": "「No. Give that sword back right now.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「…………!」"
+    },
+    {
+        "message": "I couldn't accept it."
+    },
+    {
+        "message": "Why can't I do anything? Why can't I even make my own decisions?"
+    },
+    {
+        "message": "Why, why, why—"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Why...！！」"
+    },
+    {
+        "name": "Ririmu's Father",
+        "message": "「Wh-what is this...！？」"
+    },
+    {
+        "message": "Before I realized it, I had activated my Tenju and trapped Papa within my own illusion."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Why is my life just nothing but lessons every single day, with no time to play with my friends...？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Why am I never allowed to do anything...？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Why... why am I not allowed to decide anything for myself...！？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Why... hey, why...！」"
+    },
+    {
+        "name": "Ririmu's Father",
+        "message": "「O-okay... I'm sorry, Ririmu...！ I get it, just stop...！」"
+    },
+    {
+        "message": "――Because of things like that, my parents finally allowed me to pursue Jindou."
+    },
+    {
+        "message": "That said, it wasn't like the lessons I had been taking disappeared; Jindou was just added to the pile."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Well, that was fine too, I suppose.」"
+    },
+    {
+        "message": "And thanks to that, I’m able to stand on this stage right now."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Alright then, time to go and give it a shot.」"
+    }
+]

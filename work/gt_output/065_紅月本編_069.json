@@ -1,0 +1,368 @@
+[
+    {
+        "name": "Asahi",
+        "message": "「……？」"
+    },
+    {
+        "message": "On my way back to my room, I received a call."
+    },
+    {
+        "name": "Asahi",
+        "message": "「A call at this hour? Who on earth could it be...?」"
+    },
+    {
+        "message": "Checking the screen, I couldn't help but frown a little. It was from my older brother, Takahisa."
+    },
+    {
+        "name": "Asahi",
+        "message": "「...Yes, hello.」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「Wazzup, Asahiii！ How's it going~？！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「...I was feeling exceedingly well until just a moment ago, but hearing your voice has left me completely exhausted, Brother.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Therefore I think I will turn in for the day goodnight.」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「Whoa, wait, wait, wait！ That's just cold~！」"
+    },
+    {
+        "message": "Ugh... Honestly, this guy. Just listening to his <d0070>flippant</d> voice gets on my nerves."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Do you need something?」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「Nah, nothing in particular, I was just wondering how Asahi-chan's doing now that she's started at the academy.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「If you don't need anything, I'm hanging up.」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「Wait, please wait！ Come on, enjoy a little chat time with your big brother~！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I'm quite fine without it.」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「Now, now, what's the harm? Just for a little bit~」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Haah... You really are something else...」"
+    },
+    {
+        "message": "No matter how coldly you treat him or how much you smack him around, he never gets discouraged. There's no point saying anything to a flimsy scrap of paper."
+    },
+    {
+        "name": "Takahisa",
+        "message": "「So how is it, Asahi? Having fun at the academy?」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I came to the academy to study Jindou. I'm not here to play around.」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「Ahh, thought so. That's why I called, you know. You're such a straight-laced girl, Asahi-chan, so it's just like I worried.」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「You've got this precious academy life—you gotta enjoy it more~！」"
+    },
+    {
+        "message": "I got irritated and considered gently, calmly tearing him to shreds verbally—complete with a thorough character assassination—but decided against it."
+    },
+    {
+        "message": "After all, Iori-sensei had said something similar."
+    },
+    {
+        "name": "Asahi",
+        "message": "「...Mind your own business.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I'm blessed with good teachers and receiving high-quality instruction. There isn't a single thing for you to worry about.」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「I see~ Well, an academy like that must have tons of strong people, right？ Don't tell me you found a guy you're interested in？ Haha！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I've already set my heart on someone.」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「Whoops, my bad! Sorry, sorry, just kidding!」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「Well, you know, the academy draws the strongest people from all over the country, so I'm sure you get down on yourself sometimes.」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「But you're plenty strong, Asahi, so don't sweat it too much.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Yes... I know.」"
+    },
+    {
+        "message": "My brother is flaky and really annoying. But he does truly care about me."
+    },
+    {
+        "message": "That kindness... it made me happy, for once."
+    },
+    {
+        "name": "Takahisa",
+        "message": "「...So, what's the real deal？ Tell me the truth, my little sister.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「What is it you want to hear？」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「Oh, come on！ Back when I was there, there's no way the guys would've left a cute girl like you alone！」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「Even if you've got your heart set on someone, if a guy right in front of you started hitting on you hard, your heart might waver...」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「That is impossible. I cannot forgive the mere assumption that my feelings would waver for something so trivial.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Once I get back home, I’m going to beat you to a pulp, so prepare yourself.」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「Whoa, whoa, give me a break!」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「But still, you really are unwavering, aren't you, Asahi... I don't know if Iori is lucky or cursed.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I will do my utmost to ensure he feels lucky.」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「I see, well, if that's how you feel, I'll root for you.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I have no need for your support.」"
+    },
+    {
+        "message": "I snapped at him."
+    },
+    {
+        "name": "Takahisa",
+        "message": "「Oh, by the way, the Martial Festival is coming up soon, right？」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「You know how it is—people get anxious around this time, so I was a bit worried about you.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "（Seriously... how do you always know?）"
+    },
+    {
+        "message": "He can be thoughtful and he’s a kind brother. I know that, but still..."
+    },
+    {
+        "name": "Takahisa",
+        "message": "「High-quality instruction, huh? What kind of teacher is it? There aren't many teachers who’d meet your standards, are there?」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「...He is a very serious, thoughtful, and kind teacher who genuinely cares about helping me with my concerns.」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「I see, I see! That sounds just like him. No wonder he's caught your interest!」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Y-yes... I suppose so.」"
+    },
+    {
+        "message": "I can't tell him. That my teacher is Iori... Or maybe, I'm the one who doesn't want to tell him."
+    },
+    {
+        "name": "Takahisa",
+        "message": "「Well, training is probably gonna be pretty brutal and tough, but just make sure you don't get hurt, alright?」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I'll be fine. I won't be clumsy like you, brother.」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「...Hahaha, yeah, true. Guess I'm not really in a position to talk after the massive injury I got, am I?」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ah...」"
+    },
+    {
+        "message": "I regret saying it the moment it leaves my lips. Brother is laughing, but I must have hurt him."
+    },
+    {
+        "name": "Takahisa",
+        "message": "「Anyway, just give it your all and come back in one piece, that's all that matters.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「...Yes.」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「Alright then, good luck！ I can't go cheer for you in person, but I know you'll be able to become the Toujinegi, Asahi！」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「See ya later！」"
+    },
+    {
+        "message": "After saying his piece, my brother hung up."
+    },
+    {
+        "name": "Asahi",
+        "message": "「...*Sigh*」"
+    },
+    {
+        "message": "Regret comes crashing over me like a tidal wave."
+    },
+    {
+        "message": "My brother is bright, cheerful, and chatty. He’s the polar opposite of me."
+    },
+    {
+        "message": "One might even say our personalities are complete opposites."
+    },
+    {
+        "message": "Maybe because of that, I can never bring myself to get along with him, and I end up blurting out things I shouldn't."
+    },
+    {
+        "name": "Asahi",
+        "message": "「I do want to change how I act, but...」"
+    },
+    {
+        "message": "Whenever I start talking to my brother, I can't help but get irritated. Things rarely go the way I want them to."
+    },
+    {
+        "message": "――My family runs a kendo dojo, and by the time I was old enough to understand things, my brother was already swinging a sword."
+    },
+    {
+        "message": "My brother was incredibly strong; he entered a regional tournament with adults while still in elementary school. He won brilliantly, and it was quite the talk of the town back then."
+    },
+    {
+        "message": "Watching his back, I naturally started Jindou as well. I wanted to get even a little bit closer to my cool brother."
+    },
+    {
+        "name": "Takahisa",
+        "message": "「Asahi! I did it, big brother won!」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「No fair, big brother, I want to do it too！ I want to be number one in Jindou too！」"
+    },
+    {
+        "message": "My brother was so happy that I had started Jindou by chasing after him like that."
+    },
+    {
+        "name": "Takahisa",
+        "message": "「Oh! That's great! You've got real talent, Asahi!」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hehe, really？」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「Yeah, you're way better than me！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Yay! Then I'll work even harder!」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「Oh! Amazing, amazing, that's amazing! That's my Asahi. You can already do that much?!」"
+    },
+    {
+        "message": "My brother always used to praise me."
+    },
+    {
+        "name": "Takahisa",
+        "message": "「You're so strong, Asahi! You're gonna become the best swordsman in Japan someday!」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Yeah, I... I wanna become the best swordsman in Japan! Are you gonna be the best in Japan too, Big Brother？」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「I want to become a pro Jindou athlete in the future. And then I'll make this dojo even bigger and livelier！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I wanna be a pro athlete too!」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「Sounds great! Then let's both become pro Jindou athletes!」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Yeah, Big Brother!」"
+    },
+    {
+        "message": "My brother spared no time, patiently teaching me Jindou step by step."
+    },
+    {
+        "message": "Strong and kind... He was a brother I was truly proud of."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Brother...」"
+    },
+    {
+        "message": "I know how my brother truly feels."
+    },
+    {
+        "message": "That's why I'll become the Toujinegi. And once I graduate from here, I'll become a pro Jindou athlete."
+    },
+    {
+        "message": "When that dream comes true, then―I'm sure I'll finally be able to face my brother head―on."
+    },
+    {
+        "message": "And for that."
+    },
+    {
+        "name": "Asahi",
+        "message": "「I have to... get stronger...」"
+    },
+    {
+        "message": "...For my own sake, and for my brother's too. Clenching my fists, I headed back to my room."
+    }
+]

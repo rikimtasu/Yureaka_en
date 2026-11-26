@@ -1,0 +1,283 @@
+[
+    {
+        "name": "Iori",
+        "message": "「Excuse me, is Sasaki-sensei in？」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Yeah, I’m here. What do you need？」"
+    },
+    {
+        "message": "A listless voice came from the back of the infirmary. Thank goodness, having Sasaki-sensei here was reassuring."
+    },
+    {
+        "name": "Iori",
+        "message": "「Two students have collapsed. Could you please examine them?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ugh, uuu……」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I feel so sick……」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Kazamine Setsugekka and… oh, Momiji is here too today? What on earth happened?」"
+    },
+    {
+        "message": "Her expression changed the moment she saw Setsugekka and Momiji. I briefly explained the situation."
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Understood. Could you lay them both on the beds?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Understood.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「M-mughh……」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Breathing and pulse are stable… Next, let’s see about Momiji. Hmm, no particular issues here, either.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Thank goodness……」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ah~~… I feel sick, I’m going to throw up……」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「They should recover if they just rest for a while.」"
+    },
+    {
+        "message": "I let out a sigh of relief upon hearing Sasaki-sensei’s assessment. It’s been a long time since I’ve felt this tense."
+    },
+    {
+        "name": "Mikoto",
+        "message": "「So？ What exactly is going on？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I don’t know the details myself. Setsugekka and Shizuku-san were having a match, then suddenly……」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「……Shizuku？ You don’t mean Minamoto Shizuku, do you？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yes, that’s her.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「I see. That would explain their symptoms.」"
+    },
+    {
+        "message": "Sasaki-sensei clutched her head as soon as she heard Shizuku-san’s name. What on earth does that mean？"
+    },
+    {
+        "name": "Iori",
+        "message": "「What’s the problem with it being Shizuku-san？」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Listen, Minamoto Shizuku’s ancestor is none other than Minamoto no Yorimitsu.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「And she possesses the atavistic special Tenju, ‘<d0080>Demon Extermination</d>’.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Demon Extermination…… don’t tell me……」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Exactly, it’s that power of warding off evil everyone talks about. That stuff is seriously dangerous. Any ordinary Keyou would be blown to smithereens just by touching it.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「B-blown to smithereens, you say… that’s terrifying.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「I don’t know if Setsugekka is a Saniwa or what, but it seems she’s keeping a Keyou inside her.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「That’s likely what reacted to the Demon Extermination.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I believe what’s inside her is a Mizuchi—a dragon god or a snake god.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Hmm, I don't know who or what it is, but its status seems surprisingly high. Otherwise, it would have been wiped out without a trace by now.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「It seems weakened right now, but it should recover soon.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「O-oh, I see… that’s a relief.」"
+    },
+    {
+        "message": "If the god inside Setsugekka were to vanish, her dreams would be cut short."
+    },
+    {
+        "name": "Iori",
+        "message": "「But if that’s the case, why would it affect Momiji…」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「What, you didn’t know？」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「The Suzakuin Family has the blood of a Keyou mixed into their ancestry. In other words, Momiji is a <d0089>Hanyou</d> with very diluted blood.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Wait, that rumor was actually true！？」"
+    },
+    {
+        "message": "Isn't there Keyou blood mixed into the Suzakuin Family."
+    },
+    {
+        "message": "That was one of the rumors whispered plausibly about the overwhelming strength of the Suzakuin Family."
+    },
+    {
+        "name": "Mikoto",
+        "message": "「That said, it was a long time ago—over 400 years ago. The amount of Keyou blood in Momiji is only a tiny fraction.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「So you mean that blood reacted to the Demon Extermination?」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Well, that’s about it.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Momiji is also out of commission from being hit by the Demon Extermination, but she’ll recover soon, so don’t worry.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That’s good… Thank you very much, Doctor.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Don't mention it. I am a doctor, after all.」"
+    },
+    {
+        "message": "I breathed a sigh of relief and bowed my head."
+    },
+    {
+        "name": "Iori",
+        "message": "「By the way, I’d like to ask one thing.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「If these two end up facing Shizuku at the Martial Festival… what should they do?」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Well, not fighting is the best option.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「But then again, I know they can’t just easily withdraw from such a big stage.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Indeed... as I said before, the power of Anti-Evil is immense. If they were to remain exposed to its influence...」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Kazamine would lose his divine spirit of the secret place and cease to be a Saniwa. If that happens, he’d likely be finished as a swordsman.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「In Momiji’s case, her Mental Resonance Coefficient relies heavily on her bloodline. There’s a risk of severe repercussions.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「That said, in the end, no one can truly predict what kind of effects will manifest. We have no choice but to try.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「As long as you have your Barrier Jacket, you won’t be cut down. No matter what happens, at the very worst, you won’t die.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「However, the agony caused by Demon Extermination is beyond imagination. It’s not something you can just endure easily.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Well, if you think things are getting dangerous, you be the one to stop them.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...Understood.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「*Sigh*... To think there’s such a troublesome character around. That Anti-Evil power is nothing but a nuisance.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Are you not fond of the power of Anti-Evil either, Miss Sasaki？」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「W-what are you talking about？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, it’s just that you seem to really dislike it...」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「I-it’s not that I’m ‘not fond’ of it, it’s just... well. Demon Extermination is incredibly potent and frightening, after all.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「To a Hanyou, that thing is the equivalent of a walking time bomb. I’d rather not get near Minamoto Shizuku as much as possible.」"
+    },
+    {
+        "message": "...That sounds exactly like Miss Sasaki’s own personal experience."
+    },
+    {
+        "name": "Iori",
+        "message": "「Are you actually a Keyou, Miss Sasaki?」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「D-don’t be ridiculous! Do you really think a Keyou can be this human-like?!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, now that you mention it, that’s true.」"
+    },
+    {
+        "message": "She looks normal enough, and her mannerisms are truly human."
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Anyway, these two don’t have symptoms that are anything serious. Once they wake up, hurry up and take them home!」"
+    },
+    {
+        "message": "With that, Miss Sasaki walked off somewhere."
+    }
+]

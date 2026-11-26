@@ -1,0 +1,452 @@
+[
+    {
+        "message": "...When I came to, everything was already over."
+    },
+    {
+        "message": "Out of nowhere, my attacks stopped landing on Momiji, and while I was panicking, everything suddenly went pitch-black."
+    },
+    {
+        "message": "By the time I realized what had happened, I was lying on a bed in the stadium's infirmary."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Sigh... I totally missed Momimomi's Sword Dance Ceremony.」"
+    },
+    {
+        "message": "And I really wanted to see what kind of face she'd make while dancing, too."
+    },
+    {
+        "message": "Kei-chan was with me until just a moment ago, but I told her I could make it back to the dorm on my own and parted ways with her."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Man, I really lost...」"
+    },
+    {
+        "message": "Momiji won the tournament and became the Toujinegi."
+    },
+    {
+        "message": "Naturally, I wasn't able to become the Toujinegi."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Setsugekka-san.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Oh, Asahi-chan. What's up？」"
+    },
+    {
+        "message": "As I approached the school gate, Asahi-chan came walking up to me."
+    },
+    {
+        "name": "Asahi",
+        "message": "「What a shame about the match.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Whew, Momimomi was seriously strong. I thought I got pretty close, though.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Do you know why your attacks stopped hitting Momiji-san toward the end？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Nope, no idea. Do you know, Asahi-chan？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Yes, I have a good idea.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「In all likelihood, Momiji-san has attained the state of Shohou Muga that Iori-sensei was trying to teach.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Oh, that thing she was doing all that seated meditation for.」"
+    },
+    {
+        "message": "According to Asahi-chan, entering that state is apparently like having Shingan no Kiwamete activated at all times."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Whaaat?! That's way too overpowered! There's no way anyone could beat that!」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hehe, I think so too.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「However, that is the very essence of the swordswoman known as Suzakuin Momiji, and it is Momiji-san's true strength.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Denying the truth won't get us anywhere.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「W-Well, I guess you're right, but...」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「She may have taken the title of Toujinegi this year, but next year, I will definitely wrest it away from Momiji-san.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Let's both give it our all together, Setsugekka-san.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ah, yeah... You're right!」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Well then, please excuse me. I'm glad to see you're looking better than I expected.」"
+    },
+    {
+        "message": "With that, Asahi left."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Haa... next year, huh.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ooh, you're back, you're back!」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Secchan! Are you okay!？」"
+    },
+    {
+        "message": "The moment she spotted my face, Ririmu lunged at me."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Whoa, what's gotten into you, Ririmu-chan！？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I went to the infirmary, but you weren't waking up, Secchan, so I was worried.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「But I'm glad you look fine now.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I'm hardly fine~, I lost, you know.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「There, there, such a good girl~」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yawn... hey, stop treating me like a kid!」"
+    },
+    {
+        "message": "I swatted away Ririmu's hand as she patted my head."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Secchan, that was a great match.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Both you and Momitch were really strong. I seriously thought, 'I'm no match for them at all right now.'」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「That's not true, you're strong too, Ririmu-chan.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「No, seriously, for real, you two were insane！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Watching that match made me think I'm gonna have to work super hard just to catch up.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「So hey, let's do some special training together this summer break! Like, go off into the mountains or something!」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ahaha, you don't seem like the mountain type at all, Ririmu-chan. You're secretly a celebrity, after all.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Oh yeah, my family has our own RV, so we'd use that.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「It's got a shower and a toilet, so the mountains will be a breeze!」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Whoa, this is exactly why rich kids are the way they are.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「No way, the Kazamines are plenty rich too, right?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Oh, now that you mention it, that's true.」"
+    },
+    {
+        "message": "We both laughed together."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Alright, I'm heading back to my room now~」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yeah, see you tomorrow!」"
+    },
+    {
+        "message": "I watch Ririmu-chan as she heads back to the dormitory."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「…………」"
+    },
+    {
+        "message": "I'm sure Asahi-chan, and Ririmu-chan too,"
+    },
+    {
+        "message": "were both worried about me and waiting for me."
+    },
+    {
+        "name": "Iori",
+        "message": "「...Oh, Setsugekka.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ah, Sensei.」"
+    },
+    {
+        "message": "When I arrived at my room in the dormitory, Muragaki-sensei was standing there."
+    },
+    {
+        "name": "Iori",
+        "message": "「Are you feeling alright？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ahー, I'm still a bit sore all over, actually~」"
+    },
+    {
+        "message": "Even though I was protected by my Barrier Jacket, the damage still lingered, as expected."
+    },
+    {
+        "name": "Iori",
+        "message": "「I see. Shall we go to the infirmary together？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「No, no, I literally just got back. You're such a worrywart, Sensei.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「It's only natural. You are my precious student, Setsugekka.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「…………」"
+    },
+    {
+        "message": "A precious student, huh...."
+    },
+    {
+        "name": "Iori",
+        "message": "「Setsugekka, that was a very good match.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ahー... but I lost, after all.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That's true...」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Well, but the one who won is also your student, Sensei. I guess you could call that a proud achievement, right!」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「As expected of Muragaki-sensei, I respect you!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Setsugekka......」"
+    },
+    {
+        "message": "Sensei turns a face toward me that looks worried, troubled, and yet uneasy."
+    },
+    {
+        "message": "Seeing him look at me like that makes me feel awkward."
+    },
+    {
+        "name": "Iori",
+        "message": "「Setsugekka, what are you planning to do tomorrow？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Eh, am I allowed to take it off？ If so, I will!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, normal students have regular classes, and I'd like you to attend if you're able to... but you don't have to push yourself.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「It's fine, I'll be there.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I see. That's good.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Alright then, with that settled~！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, good night.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Haaah...」"
+    },
+    {
+        "message": "After having all sorts of people worry about me, I finally made it back to my room."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Man, winning is tough, but losing is tough too~」"
+    },
+    {
+        "message": "When people show me this much concern from every direction, I end up having to be extra careful around them in return."
+    },
+    {
+        "message": "Still, I finally got to be alone."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「...Haaah, I really wanted to win.」"
+    },
+    {
+        "message": "Now that I'm alone, it finally sinks in."
+    },
+    {
+        "message": "I couldn't win the Martial Festival."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I think I made it pretty far, though...」"
+    },
+    {
+        "message": "At first I went berserk and was totally hopeless, though."
+    },
+    {
+        "message": "Thanks to Muragaki-sensei, I made it into the Martial Festival main tournament."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Well, being a first-year and all, just making it to the main tournament is already enough of a miracle, y'know...」"
+    },
+    {
+        "message": "When I beat Victoria-senpai, who was the Toujinegi, even I couldn't believe it."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Sono-chan-senpai even told me I was cool, and not to lose...！」"
+    },
+    {
+        "message": "And then in the finals, facing off against Momiji."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「All I had left to do was beat Momimomi...！」"
+    },
+    {
+        "message": "I couldn't become the Toujinegi."
+    },
+    {
+        "message": "I couldn't keep my promise to Kei-chan."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Even though Kei-chan told me... that I'm the strongest swordsman of the Kazamine...！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Even though... she actually made that promise with me, I...」"
+    },
+    {
+        "message": "If I could've become the Toujinegi, staying right here at the academy."
+    },
+    {
+        "message": "Taking classes at this academy together with everyone in Takamura Class in the second semester too. With Kei―chan there too, all of us―"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ugh, snff... I really wanted to keep this life going...！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hic... With Muragaki-sensei, Asahi-chan, Ririmu-chan, Kei-chan, and Momimomi...！！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I wanted to spend time together with everyone...！」"
+    },
+    {
+        "message": "Tears spill over, endlessly."
+    },
+    {
+        "message": "Having a blast together through autumn and winter too. Moving up to the second year at the academy together."
+    },
+    {
+        "message": "Doing special training for the Martial Festival like this again."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hff, ugh... waaaah...！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I wanted to... spend the best time... with you...！！」"
+    },
+    {
+        "message": "Her voice failed her after that."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hiiiuh, uwaaaaaaaa...nn...！！」"
+    },
+    {
+        "message": "It wasn't anyone's fault."
+    },
+    {
+        "message": "It was just that I wasn't strong enough."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Fuaaaaaaaaaaaaaaaaaaaaaa...！！」"
+    },
+    {
+        "message": "I was ashamed and pathetic for having lost."
+    },
+    {
+        "message": "I buried my face in my futon and kept crying—"
+    }
+]

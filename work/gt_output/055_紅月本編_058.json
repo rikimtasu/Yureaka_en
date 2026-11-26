@@ -1,0 +1,904 @@
+[
+    {
+        "message": "We've come to another indoor training hall."
+    },
+    {
+        "message": "The academy has around thirty of these indoor training halls, and each one can be reserved individually."
+    },
+    {
+        "message": "Momiji says she \"can't concentrate if it's noisy around her,\" so she's training alone in a separate room."
+    },
+    {
+        "name": "Momiji",
+        "message": "「…………」"
+    },
+    {
+        "message": "Oh, she's at it, all right."
+    },
+    {
+        "message": "Momiji is sitting alone in the center of the room, doing zazen."
+    },
+    {
+        "name": "Miyako",
+        "message": "「What is Onee-chan doing？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「She's doing zazen to focus her mind.」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Hmm... I wonder if that really makes you stronger.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Momiji is already plenty strong, you see. To get even stronger, she has to reach for far greater heights.」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Whoa, it's amazing that you can get stronger just by sleeping.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...Huh？」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Onee-chan is sleeping.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Mmn, zzz~...」"
+    },
+    {
+        "message": "...Sigh, honestly, that girl."
+    },
+    {
+        "message": "I walk over and lean my face in close."
+    },
+    {
+        "name": "Iori",
+        "message": "<s36>\"Wake uuuuup！\"</s>"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Waaaah？！ Fwah, huh... Is it morning already？！」"
+    },
+    {
+        "message": "Momiji bolts upright in a panic."
+    },
+    {
+        "name": "Momiji",
+        "message": "「...Wh-what, it's just you, Sensei. Don't scare me like that!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Don't fall asleep, Momiji. That doesn't count as training.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Easy for you to say, but anyone would normally fall asleep if they close their eyes and try not to think about anything.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I really don't think stuff like zazen suits me at all~」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You'll never reach the state of Shohou Muga with an attitude like that. If you want to get stronger, take it seriously.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Yeees...」"
+    },
+    {
+        "message": "Suddenly, Momiji turns her gaze to Miyako-chan, standing next to me."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Huh? What are you here for, Miyako?」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Ehehe, Sensei's going to train me now!」"
+    },
+    {
+        "message": "She looks really happy."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ah, so you asked for it yourself, huh?」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Yeah, I didn’t have to ask Sis for help. I’m fine without her now.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「O-ouch, that’s cold... You’re cold-hearted, Miyako~」"
+    },
+    {
+        "name": "Iori",
+        "message": "「What about you, Momiji？ Want to watch？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Yeah, I think I’ll just watch from the sidelines. I want to see how much Miyako has grown, after all.」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Yeah!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Alright, then let’s get started, Miyako-chan！」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Yay！ I’ve been waiting for this♪ Let’s go, let’s go！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「How long have you been practicing Jindou, Miyako-chan？」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Hmm... about three years. But in our family, we start practicing with wooden swords when we’re two.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「What an impressive elite education...」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「How long have you been doing it, Sensei？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I’ve been at it for about twenty years. I’m not quite at your level, but I’ve been doing various things since I was small, so counting all that, anyway.」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「I see, that’s why you’re strong!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Haha, I wonder. I’ve seen plenty of people stronger than me, so I still feel I need to keep honing my skills.」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「I want to fight them too！ If I beat you, Sensei, will I get to？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, if you have enough strength to beat me, I imagine your opportunities to fight people like that will increase.」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Then I’ll do my best to defeat you, Sensei.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yes, yes, having that kind of challenging spirit is a good thing！」"
+    },
+    {
+        "message": "She’s a pure, good girl, yet she possesses a strong fighting spirit."
+    },
+    {
+        "name": "Iori",
+        "message": "「Alright then, let’s begin！」"
+    },
+    {
+        "message": "Drawing my Origami."
+    },
+    {
+        "name": "Miyako",
+        "message": "「Yes, let’s begin.」"
+    },
+    {
+        "message": "Miyako-chan draws the Origami she brought with a smooth motion. Surprisingly, her stance is quite professional."
+    },
+    {
+        "name": "Iori",
+        "message": "（...This kid is strong.）"
+    },
+    {
+        "message": "Perhaps I should call it the aura radiating from her body. Just by facing her, I could feel a tingle in the air."
+    },
+    {
+        "name": "Iori",
+        "message": "「Alright, first, try coming at me with a light strike.」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Okaaay！ Here I come... Hyaaaah！」"
+    },
+    {
+        "message": "Miyako-chan charges straight at me from the front and swings. It's genuinely childlike, straightforward, and refreshing."
+    },
+    {
+        "message": "As I block her strikes, I start feeling refreshed myself."
+    },
+    {
+        "name": "Miyako",
+        "message": "「Hah, yaaah！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Whoa, there！ Good job, Miyako-chan！ That's the spirit！」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Tah！ Hyaaaah！」"
+    },
+    {
+        "message": "Without counterattacking, I keep blocking Miyako-chan's strikes."
+    },
+    {
+        "message": "Yet even from just this, I can tell this kid's abilities are head and shoulders above the rest."
+    },
+    {
+        "message": "She unleashes relentless flurries while constantly reading two or three moves ahead; at the very least, she'd easily pry open the guard of anyone her own age."
+    },
+    {
+        "name": "Miyako",
+        "message": "「Yaaaaah！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, yeah, nice！ At this rate, you're going to grow up to be an amazing swordswoman, Miyako-chan！」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Yeah, I will！ 'Cause I'm aiming to be the strongest swordswoman in the world！」"
+    },
+    {
+        "message": "Taking my praise in stride, she says it as if it's only natural."
+    },
+    {
+        "message": "Whether it's the fruit of gifted training, innate talent, or both, her mental fortitude is something else too."
+    },
+    {
+        "name": "Iori",
+        "message": "（This kid really is amazing...！）"
+    },
+    {
+        "message": "As I block another one of Miyako―chan's attacks, admiring her like that―"
+    },
+    {
+        "name": "Miyako",
+        "message": "「...Mmph.」"
+    },
+    {
+        "message": "Miyako-chan suddenly stops swinging."
+    },
+    {
+        "name": "Iori",
+        "message": "「Huh, what's wrong？ Did you get tired？」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Boring.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「B-Boring？」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「I mean, you're not fighting back at all, Sensei！ This is no different from fighting a scarecrow~」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「If you don't get serious, fighting isn't any fun！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hmm... You might actually have a point there.」"
+    },
+    {
+        "message": "Right—no matter how small she is, she's a full-fledged swordswoman. Holding back too much would be disrespectful."
+    },
+    {
+        "name": "Iori",
+        "message": "「Sorry about that. Alright then, this time I'll come at you too.」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Okay, please do!」"
+    },
+    {
+        "message": "I'm obviously not going to go all out—but I'd like to see how her defense holds up too."
+    },
+    {
+        "message": "To coach her on both offense and defense, I step in and launch a strike of my own—"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, let's start with... maybe something like this？」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Ngh, hup！」"
+    },
+    {
+        "message": "Starting off light—she parried that without any trouble."
+    },
+    {
+        "name": "Miyako",
+        "message": "「Teacher, you can go harder than that, you know.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Alright. I'll ramp it up little by little from here.」"
+    },
+    {
+        "message": "As if testing Miyako's defensive capabilities, I began to increase the level of my attacks, step by step."
+    },
+    {
+        "message": "Not just speed and power, but also the complexity of my blade path, gradually raising the difficulty of her defense."
+    },
+    {
+        "name": "Miyako",
+        "message": "「That's—this way！ Hah！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You blocked that too? Well then, how about this！」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Whoa！」"
+    },
+    {
+        "message": "Miyako has quick reflexes like a child, and a sharp eye."
+    },
+    {
+        "message": "Though that also means she’s easily baited by feints. In fact, she did fall for one, but—"
+    },
+    {
+        "message": "even then, she managed to steady herself and block the strike."
+    },
+    {
+        "name": "Iori",
+        "message": "「Miyako, that's amazing！ It’s not often someone can block that！」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「You attacked from such a weird spot all of a sudden, it really surprised me.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Haha. I wonder if things will get too difficult from here on out？」"
+    },
+    {
+        "message": "From there, I kicked the level up even higher."
+    },
+    {
+        "message": "You could say it was a light psychological battle, anticipating that she could see through simple feints."
+    },
+    {
+        "message": "Even so, the speed was such that an average first―year student at the academy wouldn't have been able to keep up―"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Since the last one was like that, it's gotta be here！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...That's incredible, to be able to block this too.」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「This is actually pretty fun. Uh... how about this！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ngh...！」"
+    },
+    {
+        "message": "While saying that lightly, Miyako launched an attack with the exact same feint I had just used."
+    },
+    {
+        "name": "Miyako",
+        "message": "「There's no rule saying I can't counterattack, right？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, of course not.」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Then let's do more!♪」"
+    },
+    {
+        "message": "Looking like she was having fun, Miyako launched even more attacks at me."
+    },
+    {
+        "message": "It was an imitation of my earlier moves, yet she already seemed to be incorporating her own unique variations."
+    },
+    {
+        "name": "Miyako",
+        "message": "「Ya, tah！ Hah！」"
+    },
+    {
+        "message": "Accounting for the difference in our builds, she didn't attack from overhead, instead choosing to barrage me with hard-to-avoid strikes from below, leveraging the height gap."
+    },
+    {
+        "message": "Her movements undoubtedly show she knows exactly what a 'fight' is."
+    },
+    {
+        "name": "Iori",
+        "message": "「Heave-ho...！ Well then, how about this！」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Whoa, you really did it! Ahaha!♪」"
+    },
+    {
+        "message": "I had performed a parry anticipating a counter from the start, but Miyako-chan managed to respond to even that attack."
+    },
+    {
+        "message": "I suppose it means she had read that move entirely."
+    },
+    {
+        "name": "Iori",
+        "message": "（I'm stunned... she's a genius, no doubt about it.）"
+    },
+    {
+        "message": "Like Momiji, Miyako-chan excels at reading the flow. She saw through my blade's trajectory and reacted to it instantly."
+    },
+    {
+        "message": "Normally, however, her young body shouldn't possess the sheer physical strength to make that possible—"
+    },
+    {
+        "name": "Iori",
+        "message": "（So she's supplementing all that missing strength with Tenju.）"
+    },
+    {
+        "message": "Yet, to compensate for such a small frame, the spiritual sensory value required is far from ordinary."
+    },
+    {
+        "message": "There are probably many among the graduates, let alone the first-years at the academy, who couldn't match Miyako-chan's spiritual sensory value."
+    },
+    {
+        "name": "Iori",
+        "message": "（This girl is going to be someone truly incredible in the future...！）"
+    },
+    {
+        "message": "Just as my heart was racing with joy and expectation―Miyako―chan suddenly stopped moving."
+    },
+    {
+        "name": "Iori",
+        "message": "「What's wrong？ Are you tired out, at last？」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Nope. That's not it, but—Sensei, you have even more amazing techniques you can use, right？」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「I heard about it from Big Sister. The 'Swordsman-Killer', was it？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「O-oh... well, I suppose so.」"
+    },
+    {
+        "message": "I cast a sharp glare at Momiji."
+    },
+    {
+        "name": "Momiji",
+        "message": "「…………」"
+    },
+    {
+        "message": "Why on earth did she tell Miyako-chan something like that? She's a troublesome one."
+    },
+    {
+        "name": "Miyako",
+        "message": "「Hey Sensei, I want to see that！ Do it, please！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「N-no, I really can't do that.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That isn't something I can just show off. It was supposed to be a secret, even from Momiji.」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「No way...」"
+    },
+    {
+        "message": "When I said that, Miyako-chan let her shoulders drop in disappointment."
+    },
+    {
+        "message": "Pouting, she looked up at me with eyes that were glistening, somehow..."
+    },
+    {
+        "name": "Miyako",
+        "message": "「Is there really no way...？ I was so looking forward to having someone as strong as you, Sensei, show me a super-amazing move...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ugh...！ But that's... that's just too much...」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Senseeei...」"
+    },
+    {
+        "message": "S-stop it... looking at me with eyes like that...！"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Please... come on Sensei, please...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Alright, fine！ Just for a little bit, okay？」"
+    },
+    {
+        "message": "No, this is impossible, I couldn't handle it."
+    },
+    {
+        "name": "Miyako",
+        "message": "「Yay！ Thank you！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Teacher, you’re such a pushover.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Guh...」"
+    },
+    {
+        "message": "I mean, what else was I supposed to do? How could I ever ignore a kid's request? That would be inhumane."
+    },
+    {
+        "name": "Iori",
+        "message": "「A-anyway！ It’s really just for a little bit, you hear me？」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Okay！」"
+    },
+    {
+        "message": "Her cheerful response makes me happy, yet at the same time, I feel hesitant to unleash *that* on such a kid..."
+    },
+    {
+        "name": "Iori",
+        "message": "（Can't be helped. Just for a split second...）"
+    },
+    {
+        "message": "I switch gears and focus my consciousness."
+    },
+    {
+        "name": "Iori",
+        "message": "「Tengen Saimei―ryuu―here I come.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「...！」"
+    },
+    {
+        "message": "In that instant, Momiji, who had been merely watching from the sidelines, seemed to flinch as if she had caught a glimpse of my murderous intent."
+    },
+    {
+        "message": "But Miyako, on the other hand—"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Whoa...！ Teacher, you’re completely different from a second ago...！ Is this you being serious？ That’s amazing...！」"
+    },
+    {
+        "message": "Despite being hit head-on by my killing intent, she didn't show any fear, nor was she moved by it."
+    },
+    {
+        "message": "She just looked happy, her eyes shining with excitement."
+    },
+    {
+        "name": "Miyako",
+        "message": "「So cool, so cool! Where am I supposed to strike? I can’t tell at all... this is amazing~」"
+    },
+    {
+        "message": "She continues to stand in her guard against me, trying to find an opening to strike."
+    },
+    {
+        "message": "Of course, it seemed she couldn't find one―yet Miyako―chan looked even happier still."
+    },
+    {
+        "name": "Miyako",
+        "message": "「I’ve never seen anything like this before. Thank you, Teacher.」"
+    },
+    {
+        "name": "Iori",
+        "message": "（It throws me off my game, but... is it just because she’s a child？）"
+    },
+    {
+        "message": "Is curiosity simply outweighing her fear? Or is Miyako―chan just incredibly composed―"
+    },
+    {
+        "message": "Just as I was thinking that."
+    },
+    {
+        "name": "Miyako",
+        "message": "「You use so many feints it makes my head spin! Uhm... maybe something like this...!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ngh...！」"
+    },
+    {
+        "message": "Miyako-chan assumes a stance imitating mine."
+    },
+    {
+        "message": "No―she wasn't just imitating the stance; she was imitating the very essence of the Saimei―ryuu."
+    },
+    {
+        "message": "While it didn't quite reach the level of true killing intent, the pressure from her precise movements, blended with a flurry of feints, was unmistakably that of the Saimei-ryuu."
+    },
+    {
+        "name": "Iori",
+        "message": "（Th-this is...！）"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Alright, here I go！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Guh...！」"
+    },
+    {
+        "message": "While I was still taken aback, Miyako-chan lunged at me in one burst."
+    },
+    {
+        "message": "At first, it was a straightforward, honest strike, the kind meant to force a defense. But the next one—"
+    },
+    {
+        "name": "Miyako",
+        "message": "「First, from the right！」"
+    },
+    {
+        "message": "A diagonal slash from the left. I block it."
+    },
+    {
+        "name": "Miyako",
+        "message": "「Next, from above！」"
+    },
+    {
+        "message": "After extending her body as if to leap, she immediately sank down to my feet, aiming a strike at my knees."
+    },
+    {
+        "message": "I stepped back, lifting my leg slightly to avoid it—"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Once more, this time from above！」"
+    },
+    {
+        "message": "Feinting as if to continue her pursuit, she suddenly leaped up, aiming for my upper guard."
+    },
+    {
+        "message": "I caught that as well, but Miyako-chan used my blade as a foothold to perform an acrobatic backflip."
+    },
+    {
+        "message": "Foothold might be a stretch; she just used the recoil from her arm strength to vault away... though I suppose that, too, is a gift of the muscle augmentation from Tenju."
+    },
+    {
+        "name": "Iori",
+        "message": "「N-no way, how could this be...！」"
+    },
+    {
+        "message": "As she is only mimicking the superficial aspects, it is easily within my power to parry for now."
+    },
+    {
+        "message": "Although, the fact that she can mimic even the surface is itself abnormal..."
+    },
+    {
+        "name": "Miyako",
+        "message": "「Hehe, this is fun！」"
+    },
+    {
+        "message": "To my predicament, Miyako-chan looked as delighted as if she had just received a new toy."
+    },
+    {
+        "message": "In truth, for Miyako-chan, it probably is much the same thing."
+    },
+    {
+        "name": "Miyako",
+        "message": "「It’s so much fun to confuse people while fighting; I’ve never fought like this before!」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Hehe, I think I’ll try using this on all sorts of people from now on.」"
+    },
+    {
+        "message": "Miyako-chan is greedy for strength."
+    },
+    {
+        "message": "If she gets a glimpse of power the likes of which she has never known, she must find it impossibly thrilling."
+    },
+    {
+        "name": "Iori",
+        "message": "（That part of her is childlike and fine, but...）"
+    },
+    {
+        "message": "I am stunned by her talent and it is certainly worthy of praise, but I cannot allow her to learn the Tengen Saimei-ryuu."
+    },
+    {
+        "message": "Not because it is a secret technique—but because this is a killing sword."
+    },
+    {
+        "name": "Iori",
+        "message": "「...Sorry, Miyako-chan, but let’s bring this to an end.」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Eh—？ I want you to teach me more~！ Because this looks super strong！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Unfortunately, I cannot do that.」"
+    },
+    {
+        "message": "When faced with the Saimei-ryuu, one has no choice but to challenge it with the Saimei-ryuu."
+    },
+    {
+        "message": "I originally had no intention of attacking in this state, but it is unavoidable now."
+    },
+    {
+        "name": "Miyako",
+        "message": "「Sensei, you’re serious？ I won’t lose！」"
+    },
+    {
+        "message": "I lunged forward at full speed toward an eager Miyako-chan！"
+    },
+    {
+        "name": "Miyako",
+        "message": "「If this one is here, then—gotcha！」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Huh！？」"
+    },
+    {
+        "message": "I stepped in the exact opposite direction of where Miyako was striking, crossing her path widely."
+    },
+    {
+        "message": "From Miyako's perspective, it must have looked like I had suddenly vanished."
+    },
+    {
+        "message": "I continued to trail her blind spot, sweeping my blade across her wide―open torso―！"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Kyaa！」"
+    },
+    {
+        "message": "My strike knocked Miyako's Origami flying, and she collapsed from the impact."
+    },
+    {
+        "message": "The deflected Origami bounced a few times in the distance before coming to a stop...."
+    },
+    {
+        "name": "Iori",
+        "message": "「...S-sorry, Miyako！ Are you okay！？」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Ah, I lost~」"
+    },
+    {
+        "message": "I rushed over in a panic, but Miyako stood up with a springy hop, looking surprisingly energetic."
+    },
+    {
+        "name": "Iori",
+        "message": "「Are you hurt anywhere？」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Yep, I'm fine. Though it's frustrating that I lost. But that was fun！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...I see, that's good then.」"
+    },
+    {
+        "message": "She really didn't seem to be injured, so I felt relieved."
+    },
+    {
+        "name": "Miyako",
+        "message": "「I learned an interesting way to fight, too! I'll try using it next time!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No... wait a second, Miyako. You can't use that last one.」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Eh~？ But that was the funnest part.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That move, you see, puts a huge strain on your body.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「If you use it now, you might ruin your body and end up unable to practice Jindou in the future.」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Hmm... is that so.」"
+    },
+    {
+        "message": "...Well, that was a lie to get her to give up on it. Miyako believed me completely and pouted, looking troubled."
+    },
+    {
+        "name": "Iori",
+        "message": "「So, keep it under wraps for now, and come back to learn it again when you’re a bit older.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I think I'll be able to teach you more properly then.」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「...Alright. If Sensei says so, I won't use it.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, that’s a good girl！ Good job, you’re a champ.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Besides, Miyako can become an incredibly strong swordswoman without using techniques like that.」"
+    },
+    {
+        "message": "I patted her head as I praised her."
+    },
+    {
+        "message": "Miyako looked genuinely happy and smiled, saying, 『I definitely will！』"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well then, shall we head back to everyone else?」"
+    },
+    {
+        "name": "Miyako",
+        "message": "「Coming！」"
+    },
+    {
+        "message": "Miyako―chan replied energetically. She was as childishly cute as ever, but―"
+    },
+    {
+        "name": "Iori",
+        "message": "（...She reacted to my final strike.）"
+    },
+    {
+        "message": "It should have been an unblockable, guaranteed-kill strike, layered with feint upon feint."
+    },
+    {
+        "message": "Yet, Miyako-chan had managed to parry it, albeit barely, from an awkward position."
+    },
+    {
+        "message": "As a result, she couldn't maintain her stance and ended up getting her Origami knocked away—"
+    },
+    {
+        "name": "Iori",
+        "message": "（If Miyako-chan had the physique and experience of an adult...）"
+    },
+    {
+        "message": "And if she could use the Tengen Saimei-ryuu at that moment."
+    },
+    {
+        "name": "Iori",
+        "message": "（...No, I shouldn't think about the worst-case scenario.）"
+    },
+    {
+        "message": "Miyako-chan is a pure and cute girl. She promised not to use it, and surely, she wouldn't misuse it."
+    }
+]

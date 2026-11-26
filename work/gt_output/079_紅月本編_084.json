@@ -1,0 +1,654 @@
+[
+    {
+        "message": "Today is a day off."
+    },
+    {
+        "message": "At Setsugekka's invitation, it was decided that we would all go out for a little trip."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hurry, hurry~♪ Where are we going？ Hey, where shall we go! Whoa, ahaha!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hey, Setsugekka, stop running. Don't go wandering off！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Isn't Secchan, like, super hyper？ Momitchi, what’s up with her？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Beats me... and besides, I’m not Setsugekka’s handler.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Wait, and speaking of that, Momitchi, why are you in your uniform？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Because I don’t have any other clothes for going out.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Huh, is that so...」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「No, I’m joking. I had some business at the academy, that’s all.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Let’s go shopping for clothes together later, Momitchi.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I just told you I was joking!」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Oh my, the uniform isn't actually that bad, you know. There are times when the lack of individuality that comes from uniformity is required.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「...What’s that supposed to mean？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「In short, isn't it that you don’t want to stand out？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「You Kazamine sisters really have brains that are just off the charts~」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Fufu, I’ll take that as a compliment.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「That aside, sensei, we have to do something about her.」"
+    },
+    {
+        "message": "Momiji points at Setsugekka, who is darting back and forth."
+    },
+    {
+        "name": "Iori",
+        "message": "「Easy for you to say. Do you think that’s some kind of Tenju runaway effect too？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「No, it definitely isn’t.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Then, perhaps it is the lingering effects of the runaway？ This morning’s incident was quite severe, after all.」"
+    },
+    {
+        "message": "A lot has happened today, starting with Setsugekka barging in early this morning insisting we all go out, and topped off by her losing control during morning practice."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Oh, how about that Italian place Ririmu-chan was talking about before? That sounds good, right, Italian?」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Do you even realize we’re talking about you right now？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yeah, but more than that, what are we going to play？ Have we decided where we’re going？」"
+    },
+    {
+        "message": "Just as I thought Setsugekka had finally returned... she wound her arms around mine."
+    },
+    {
+        "message": "<s34>M-my arm, I feel something soft...！</s>"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hey... Setsugekka, what are you doing?」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Setsugekka, that’s not fair.」"
+    },
+    {
+        "message": "This time, Asahi wound her arms around my other side."
+    },
+    {
+        "name": "Iori",
+        "message": "「A-Asahi, you stop it too!」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I’ll stop when Setsugekka stops.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Whoa~, Sencei, you’ve got girls hanging all over you, how lewd~. It’s a <d0103>harem</d> date, a total harem date.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Teacher, you look pretty giddy about being asked out on a date, don’t ya~」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Fu-fu-fu, today is a day for no rules~！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Setsugekka, that’s not what ‘no rules’ means.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Fu-fu-fu, your arm is so warm, Iori.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I-in any case, both of you, let go!」"
+    },
+    {
+        "message": "I managed to get Setsugekka and Asahi to let go."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Phew, what a shame... I think you need to take a break sometimes too, Muragaki.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I’m fine. Just being here like this is fun enough.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Hmm, is that because your target of affection is among us？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「D-don’t jump to such wild conclusions!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I’m a man, after all. Of course I’d be happy being surrounded by such lovely ladies.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「...So, Iori, you really do want a harem after all.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, no, I didn’t mean anything deep by that!」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「You’re surrounded by us in the classroom too, right？ I don’t see why today would be any different~」"
+    },
+    {
+        "name": "Iori",
+        "message": "「There’s a difference between work and private life, you know.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「So, does that mean it’s open season to seduce you, Iori？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ah—I should warn you, I’m going to say no to anything that’ll get me fired as a teacher.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「A sincere relationship would be fine, then!」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Mmh, so basically, Sensei, are you quitting being a teacher today？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, that’s about the size of it.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ahaha, now that I think about it, that makes sense, doesn’t it~」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I’ve been calling him Iori-san for a while now.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Oh, that’s right. Asahi, why don’t you try calling him Iorin once in a while？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Eh, Iorin... is it? Iorin... hmmm.」"
+    },
+    {
+        "message": "—Come to think of it, the wall that used to be between Ririmu and Asahi seems to have completely vanished."
+    },
+    {
+        "message": "Seeing them chatting so normally, I feel relieved."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Iori-san, Iorin, which do you think is better? No, I mean, which would you prefer to be called?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You can call me whatever you like, Asahi.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Then, let’s strike a balance and go with Mura-chan! Mura-chan Sensei! How’s that!」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「That’s good.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「A... balance？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「That naming sense is... you aren’t actually serious, are you？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Geez~~, you two are such buzzkills！？ Things like this are all about the momentum, the M-O-M-E-N-T-U-M！」"
+    },
+    {
+        "message": "In that fashion, Setsugekka remained in high spirits the entire time."
+    },
+    {
+        "message": "It was just as we were returning to the original area after wandering around and checking out a few shops while making such a ruckus, that it happened."
+    },
+    {
+        "message": "Suddenly, Keisetsu pulled out her terminal and stopped in her tracks."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「…………」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Keisetsu, is something wrong？」"
+    },
+    {
+        "message": "I called out to Keisetsu, whose expression had changed after checking her terminal."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「I’m sorry, I have an urgent matter to attend to. I hate to do this, but I’ll have to excuse myself here.」"
+    },
+    {
+        "message": "Ah, work, I see."
+    },
+    {
+        "name": "Iori",
+        "message": "「Don’t worry about us. Go on ahead.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ehhhhh！ No way, isn’t there anything you can do...？ I guess not, huh？ Haaaauuu...」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「I’m sorry. Setsugekka, you go ahead and enjoy yourself with everyone else.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yeah, I got it. Kei-chan, let’s go out and hang out together again sometime！ It’s a promise！」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Hehe, all right. Well then, everyone, go have fun.」"
+    },
+    {
+        "message": "With that, Keisetsu turned on her heel and walked away. After watching her go for a moment, we all started walking again."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Good job, Secchan! You didn't act selfish at all.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Of course~ I don't wanna get in Kei-chan's way, after all.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Instead, I'm gonna have a blast and tell her all about it later♪」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, that's a good idea.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Come on, let's head out and find some fun！」"
+    },
+    {
+        "message": "With that, Setsugekka linked her arm through mine and started walking. As I got pulled along after her, I heard Asahi's and Momiji's voices from behind."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Mmmmm...」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「What's up? Why the scary face?」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hey~ No fair, Secchan！ Stop hogging Iorin all to yourself~！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Nope, not sharing♪ Today, Sensei and I are just a man and a woman！ Dating is war, Ririmu-chan！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Yes, that's quite right! I won't hold back either!」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ugh, you're making that dopey face again, sandwiched between the two of them. Think I'll report this to the academy later~」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「You say that, Momiji-san, but you really want to cling to Iori-san too, don't you？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「A-Are you stupid?! As if I'd ever want to do that!」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「You're such a tsundere, Momicchi~」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「You really are a tsundere, Momimomi~」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I said I'm not~！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hehehe, you really are popular, Iori-san. Personally, I can't stop worrying that you might cheat on me.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「And Momiji-san looks like she's having so much fun, too.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Even someone as skilled at reading moves ahead as Momiji-san can't see herself, it seems. That's a bit of a relief.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I told you, it's nothing like that!」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I officially consider Momiji-san a rival as well. I have absolutely no intention of yielding!」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「...Oh, really? Fine, whatever—I'm just gonna own it!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Whoa, Momiji too！？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Oh, Momimomi’s getting in on it too♪ We’re fighting over Sensei！」"
+    },
+    {
+        "message": "Momiji breaks through the space between Setsugekka and Asahi, who are wrapped around my arms, and clings to my body."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Mm... Momiji-san, that’s cheating! I wanted to get a taste of that chest too...!」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Hehe, early bird gets the worm~」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ahaha♪ Iorin, you’re so popular！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「G-guys, this is bad...！ If someone sees us like this...！」"
+    },
+    {
+        "message": "Asahi I could understand, but even Setsugekka and Momiji...！"
+    },
+    {
+        "name": "Iori",
+        "message": "「Can’t be helped, if it’s come to this... One, two...！！」"
+    },
+    {
+        "message": "I lift everyone up and haul them off to somewhere out of sight."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Whoa~, Sensei, you’re amazing♪」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Fufu, we’re heading straight to the bedroom, aren't we.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Don’t say such ominous things！」"
+    },
+    {
+        "message": "Even though I say that, it’s actually pretty fun. Before I knew it, I was laughing along with them."
+    },
+    {
+        "name": "Asahi",
+        "message": "「...Setsugekka-san, you really ate a lot. To polish off that much dessert just like that.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Wahahaha, I’m the <d0098>Glutton Champion</d>♪」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Seriously, that was wild！ You’re the first person besides me I’ve ever seen finish three giant crepes！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ririmu, you’re no one to talk, you know？ Watch your stomach, okay？」"
+    },
+    {
+        "message": "After taking a snack break, we all wander off together."
+    },
+    {
+        "message": "We turn the corner and come out in front of an apparel shop—or so I thought, and then Ririmu’s energy levels skyrocket."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ah！ This brand opened up a store here~！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Now that I think about it... your casual clothes now aren't bad, but let's try getting something even more stylish！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ehh~！？ I pick out my own clothes, so I’m fine.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Don’t say that. Secchan... here, take this！ I think this would look super good on you.」"
+    },
+    {
+        "message": "Ririmu effortlessly tosses over the clothes she picked in an instant. Hey, wait, just like that—"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Whoa, what’s this！？ It’s actually really cute！」"
+    },
+    {
+        "message": "—It... it actually suits her！？"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Fufun, don’t underestimate my aesthetic sense. I’ve got everyone’s worldviews perfectly figured out.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「That sounds interesting. Ririmu-san, what kind of clothes do you think would suit me？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Wait, what, Asahi-chan is going to...！？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「<d0099>murmur</d>, murmur...」"
+    },
+    {
+        "message": "In front of everyone's surprised eyes, Ririmu looks Asahi over from top to bottom."
+    },
+    {
+        "message": "Her gaze is terrifyingly serious. Oh, she’s entered designer mode, huh. Ririmu."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Being observed so closely... it's a little embarrassing.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hmm, for Asahi... Okay, decided！ Just wait a sec.」"
+    },
+    {
+        "message": "No sooner said than done, Ririmu darted into the store."
+    },
+    {
+        "name": "Momiji",
+        "message": "「...Isn't she more serious about this than she is about class？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hey, is it alright if I go somewhere else？」"
+    },
+    {
+        "message": "Standing in front of a women's clothing store for this long is just plain uncomfortable."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Once you get married, this sort of thing happens all the time, so you'd better just think of it as training and do your best.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ugh, okay...」"
+    },
+    {
+        "message": "I’d been lectured by Momiji."
+    },
+    {
+        "message": "While all that was going on, Ririmu came back."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Found it, found it！ It was tough, but I found the perfect one！ Here, Asahi, this is for you！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Is this... a dress? How mysterious... It's just black and white patterns, but the impression it gives changes completely from the front to the back.」"
+    },
+    {
+        "message": "A dress colored in separate black and white sections."
+    },
+    {
+        "message": "I was startled at first, thinking it looked like a cow... but that’s not quite it. When held up against her body, it gives off an entirely different impression."
+    },
+    {
+        "name": "Momiji",
+        "message": "「I see, simple is best, right?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Woooow！ How could you tell？ Could it be that Ririmu-chan is a genius！？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I just knew it would suit her, that's all. Besides, we're not done yet, okay？ If you're going to carry a bag, use this one and this one. And for the hair accessory, do it like this...」"
+    },
+    {
+        "message": "She shows off her sense one after another, like a fashion show. Asahi, the model, is wide-eyed and bewildered."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「You look like a different person！ Bravo, absolutely wonderful~♪」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I'm surprised... but, I think it suits you very well, Asahi.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Really？ I... I'm so happy...」"
+    },
+    {
+        "message": "Asahi shows a shy smile. It seems everyone is convinced by Ririmu’s impeccable sense."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Yep, yep, I'd say it's perfect, just like I imagined！ Asahi, you look super cool♪」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hey, hey, why did you choose this black and white dress？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Look, Asahi, you've got a crazy foul mouth, right？ So I tried expressing pure innocence and a two-faced side in a girly style.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「You chose my clothes for a reason like that...？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Oh, I'm not dissing you, okay？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Clothes are all about expressing a person's aesthetic, after all. I feel like there's no point if you don't play up their individuality and signature traits~」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「So Asahi's signature trait is being two-faced, huh? Yep, makes total sense.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ahahahaha! A two-faced outfit—that's hilarious!」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Mmm, as long as I don't think about the reason, it really is a lovely outfit, but... I have mixed feelings about this.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That's fine as long as you like it, isn't it? We've got Ririmu's fashion sense to thank for that.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「...You're right. The outfit Ririmu-san picked out for me—I don't think it's bad at all.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「All right~! While I'm on a roll, I'm gonna pick out Momimomi's outfit too~!」"
+    },
+    {
+        "message": "And so, with Ririmu on an unstoppable roll, the girls' dress-up extravaganza began."
+    }
+]

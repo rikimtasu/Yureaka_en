@@ -1,0 +1,199 @@
+# 紅月ゆれる恋あかり (Akatsuki Yureru Koi Akari) EN Glossary
+# Reference: https://vndb.org/v28712
+# Format: JP<TAB>EN<TAB>Note
+
+# --- Characters (VNDB v28712 + Script) ---
+村垣伊織	Muragaki Iori	Protagonist (VNDB c91892), male, homeroom sub-teacher
+村垣	Muragaki	Surname of Muragaki Iori
+伊織	Iori	Given name of Muragaki Iori (male)
+朱雀院紅葉	Suzakuin Momiji	Heroine (VNDB c91890), female
+朱雀院	Suzakuin	Surname of Suzakuin family (Momiji, Miyako, Tsubaki)
+紅葉	Momiji	Given name of Suzakuin Momiji (female)
+風嶺雪月花	Kazamine Setsugekka	Heroine (VNDB c91888), female
+風嶺	Kazamine	Surname of Kazamine family (Setsugekka, Keisetsu)
+雪月花	Setsugekka	Given name of Kazamine Setsugekka (female)
+九鬼旭	Kuki Asahi	Heroine (VNDB c91889), female
+九鬼	Kuki	Surname of Kuki family (Asahi, Takahisa)
+旭	Asahi	Given name of Kuki Asahi (female)
+十部梨々夢	Tobe Ririmu	Heroine (VNDB c91891), female
+十部	Tobe	Surname of Tobe Ririmu
+梨々夢	Ririmu	Given name of Tobe Ririmu (female)
+リリィ	Lily	Nickname for Tobe Ririmu
+天王寺ヴィクトリア	Tennouji Victoria	Side character (VNDB c92307), female, reigning Toujinegi
+天王寺	Tennouji	Surname of Tennouji Victoria
+ヴィクトリア	Victoria	Given name of Tennouji Victoria (female)
+ヴィッキー	Vicky	Nickname for Tennouji Victoria
+源雫	Minamoto Shizuku	Side character (VNDB c92308), female, Victoria's second/attendant
+源	Minamoto	Surname of Minamoto Shizuku (also TIPS d0015 Minamoto clan)
+雫	Shizuku	Given name of Minamoto Shizuku (female)
+荒川園美	Arakawa Sonomi	Side character (VNDB c92309), female
+荒川	Arakawa	Surname of Arakawa Sonomi
+園美	Sonomi	Given name of Arakawa Sonomi (female)
+風嶺蛍雪	Kazamine Keisetsu	Side character (VNDB c92310), female, Setsugekka's relative/client
+蛍雪	Keisetsu	Given name of Kazamine Keisetsu (female)
+ケイちゃん	Kei-chan	Nickname for Kazamine Keisetsu
+佐々木巫琴	Sasaki Mikoto	Side character (VNDB c65005), female, academy doctor
+佐々木	Sasaki	Surname of Sasaki Mikoto
+巫琴	Mikoto	Given name of Sasaki Mikoto (female)
+朱雀院都子	Suzakuin Miyako	Side character (VNDB c92970), female
+都子	Miyako	Given name of Suzakuin Miyako (female)
+朱雀院椿	Suzakuin Tsubaki	Side character (VNDB c92971), female
+椿	Tsubaki	Given name of Suzakuin Tsubaki (female)
+九鬼隆久	Kuki Takahisa	Side character (VNDB c94719), male (also TIPS d0028)
+隆久	Takahisa	Given name of Kuki Takahisa (male)
+中邑さくら	Nakamura Sakura	Side character (VNDB c157028), female (also TIPS d0026)
+中邑	Nakamura	Surname of Nakamura Sakura
+さくら	Sakura	Given name of Nakamura Sakura (female)
+佐々鳴子	Sassa Naruko	Side character (VNDB c157029), female
+佐々	Sassa	Surname of Sassa Naruko
+鳴子	Naruko	Given name of Sassa Naruko (female)
+朝霧ミドリ	Asagiri Midori	Recurring character, JGSDF Major (三等陸佐, TIPS d0040)
+柾胤	Masatane	Named character (also TIPS d0033)
+柾盛	Masamori	Named historical/family figure
+凛	Rin	Minor named character
+紗月	Satsuki	Referenced character (TIPS d0059)
+槇之丞	Makinojou	Named historical/martial figure
+嶺庵	Ryouan	Named figure
+ジェームズ・主水	James Mondo	Parody/referenced name (TIPS d0047)
+ヨリシロくん	Yorishiro-kun	Mascot/device character (TIPS d0085)
+
+# --- Speaker Box Labels ---
+立会人	Umpire	Speaker label
+？？？	???	Speaker label
+店長	Manager	Speaker label
+女の子	Girl	Speaker label
+女子生徒Ａ	Female Student A	Speaker label
+女子生徒Ｂ	Female Student B	Speaker label
+師匠	Master	Speaker label
+ナレーター	Narrator	Speaker label
+観客Ａ	Spectator A	Speaker label
+全員	Everyone	Speaker label
+女子生徒	Female Student	Speaker label
+観客Ｂ	Spectator B	Speaker label
+技巧科の生徒	Technical Division Student	Speaker label
+梨々夢の父	Ririmu's Father	Speaker label
+道場の後輩Ａ	Dojo Junior A	Speaker label
+店員	Clerk	Speaker label
+メイド	Maid	Speaker label
+教師	Teacher	Speaker label
+アナウンサー	Announcer	Speaker label
+秘書	Secretary	Speaker label
+蛍雪の部下	Keisetsu's Subordinate	Speaker label
+観客Ｃ	Spectator C	Speaker label
+観客Ｄ	Spectator D	Speaker label
+警察官	Police Officer	Speaker label
+みんな	Everyone	Speaker label
+刃道トレーナー	Jindou Trainer	Speaker label
+場内アナウンス	PA Announcement	Speaker label
+旭＆梨々夢	Asahi & Ririmu	Speaker label
+梨々夢の母	Ririmu's Mother	Speaker label
+琴の先生	Koto Instructor	Speaker label
+男の子	Boy	Speaker label
+観客たち	Spectators	Speaker label
+観客Ｅ	Spectator E	Speaker label
+観客Ｆ	Spectator F	Speaker label
+道場の後輩Ｂ	Dojo Junior B	Speaker label
+雪月花＆旭＆梨々夢	Setsugekka, Asahi & Ririmu	Speaker label
+雪月花＆梨々夢	Setsugekka & Ririmu	Speaker label
+雪月花＆紅葉	Setsugekka & Momiji	Speaker label
+ヴィクトリア＆雪月花	Victoria & Setsugekka	Speaker label
+学園システム	Academy System	Speaker label
+旭＆紅葉	Asahi & Momiji	Speaker label
+親戚Ａ	Relative A	Speaker label
+親戚Ｂ	Relative B	Speaker label
+運転手	Driver	Speaker label
+雪月花＆園美	Setsugekka & Sonomi	Speaker label
+雪月花＆都子	Setsugekka & Miyako	Speaker label
+雫＆紅葉	Shizuku & Momiji	Speaker label
+
+# --- World-Building, Factions, Martial Arts & TIPS ---
+紅月ゆれる恋あかり	Akatsuki Yureru Koi Akari	[title] Official VNDB romaji title
+叢雲学園	Murakumo Academy	[location] TIPS d0000; Jindou academy
+住吉学府	Sumiyoshi Academic Island	[location] Artificial island in Osaka Bay
+篁組	Takamura Class	[organization] Iori's homeroom class (篁=Takamura)
+武芸科	Martial Arts Division	[organization] TIPS d0006
+技巧科	Technical Division	[organization] TIPS d0007
+主計科	Quartermaster Division	[organization] TIPS d0008
+叢雲演武祭	Murakumo Martial Festival	[event] TIPS d0009; annual academy tournament
+天呪特科群『武蔵』	Tenju Special Forces Group "Musashi"	[organization] TIPS d0002; JGSDF special unit
+武蔵	Musashi	[organization] Short for Tenju Special Forces Group Musashi
+朱鴉	Akegarasu	[organization] JGSDF special unit (reading: あけがらす)
+神所霊庁	Spirit Agency	[organization] TIPS d0106; government supernatural bureau
+佩刀護身会	Sword-Bearing Self-Defense Association	[organization] TIPS d0011
+朱雀院家	Suzakuin Family	[organization] TIPS d0010
+風嶺家	Kazamine Family	[organization] TIPS d0030
+風嶺グループ	Kazamine Group	[organization] TIPS d0038
+大上家	Ookami Family	[organization] TIPS d0076 (reading: おおかみけ)
+三城家	Sanjou Family	[organization] TIPS d0087
+豊原狐平堂	Toyohara Konpeidou	[location] TIPS d0095; shop name
+堺の鮮魚市場	Sakai Fresh Fish Market	[location] TIPS d0053
+刃道	Jindou	[lore] TIPS d0088; Way of the Blade competitive martial art
+刀仕禰宜	Toujinegi	[title] TIPS d0012; champion title at Murakumo Academy
+介添人	Second	[role] TIPS d0014; match attendant/second (like Victoria's Shizuku)
+天呪	Tenju	[lore] TIPS d0004; supernatural spirit arts/curses
+折紙	Origami	[lore] TIPS d0003; spiritual talisman/fold-paper
+霊式具装	Spirit-Type Armament	[lore] TIPS d0019
+霊式機巧デバイス	Spirit-Type Mechanical Device	[lore] TIPS d0105
+バリアジャケット	Barrier Jacket	[lore] TIPS d0086; protective Jindou outfit
+精神感応係数	Mental Resonance Coefficient	[lore] TIPS d0056
+魂来	Tamukai	[lore] TIPS d0057; spirit summoning/channeling (reading: たむかい)
+審神者	Saniwa	[lore] TIPS d0058; spirit medium/diviner
+戦人	Ikusabito	[lore] TIPS d0078; warrior spirit/fighter (reading: いくさびと)
+化妖	Keyou	[lore] TIPS d0079; apparition/demonized spirit (reading: けよう)
+半妖	Hanyou	[lore] TIPS d0089; half-apparition
+鬼女	Kijo	[lore] TIPS d0048; oni woman / demoness (reading: おにおんな)
+魂鋼	Tamahagane	[lore] Spirit steel / jewel steel
+祝詞	Norito	[lore] TIPS d0090; Shinto ritual prayer/incantation
+ＨＲ	HR	[tech] TIPS d0001; Holographic Reality
+ホログラフィックリアリティ	Holographic Reality	[tech] Full expansion of HR
+単分子コーティング	Monomolecular Coating	[tech] TIPS d0072
+天元齊命流	Tengen Saimei-ryuu	[martial_art] TIPS d0034; Iori's sword style
+天然理心流	Tennen Rishin-ryuu	[martial_art] TIPS d0067
+三島流格闘術	Mishima-ryuu Martial Arts	[martial_art] TIPS d0024
+三島流	Mishima-ryuu	[martial_art] Short for Mishima-ryuu Martial Arts
+神眼極手	Shingan no Kiwamete	[technique] TIPS d0020; Divine Eye Ultimate Hand
+紅葉狩	Momijigari	[technique] TIPS d0021; Momiji's technique
+八紘我観	World is Mine	[technique] TIPS d0029; Ririmu's technique (ruby: ワールド・イズ・マイン)
+胡蝶爛漫	Butterfly Effect	[technique] Ruby reading: バタフライ・エフェクト
+横溢一閃	Ouitsu Issen	[technique] TIPS d0035; Overflowing Flash
+雷霆一閃	Raitei Issen	[technique] Thunderbolt Flash
+炎虎猛巴斬	Enko Mouhazan	[technique] Blazing Tiger Slash
+朱雀演舞	Suzaku Enbu	[technique] Vermilion Bird Dance
+波濤乱舞	Hatou Ranbu	[technique] Surging Wave Dance
+峰打頂肘	Houda Chouchuu	[technique] Martial strike
+破城掌	Hajoushou	[technique] Castle-Breaker Palm
+金剛砲	Kongouhou	[technique] Vajra Cannon
+剛砲	Gouhou	[technique] Heavy Cannon
+天山靠	Tenzankou	[technique] Shoulder ram technique
+万絶	Banzetsu	[technique] Sword technique
+穿火	Ugachibi	[technique] Piercing Flame
+銀楯	Ginjun	[technique] Silver Shield
+炎牙	Enga	[technique] Flame Fang
+枝薙	Edanagi	[technique] Branch Sweep
+地走	Chibashiri	[technique] Ground Runner
+湧流	Wakinagashi	[technique] Spring Flow
+燕長光	Tsubakuro Nagamitsu	[weapon] Named sword
+縮地	Shukuchi	[technique] TIPS d0025; shrunk-earth footwork
+居合	Iai	[technique] TIPS d0091; quick-draw swordsmanship
+諸法無我	Shohou Muga	[lore] TIPS d0062; Buddhist principle / state of selflessness
+甲型	Type Kou	[form] Heavenly Stem form 1 (きのえがた)
+丙型	Type Hinoe	[form] Heavenly Stem form 3 (ひのえがた)
+丁型	Type Hinoto	[form] Heavenly Stem form 4 (ひのとがた)
+戊型	Type Tsuchinoe	[form] Heavenly Stem form 5 (つちのえがた)
+己型	Type Tsuchinoto	[form] Heavenly Stem form 6 (つちのとがた)
+庚型	Type Kanoe	[form] Heavenly Stem form 7 (かのえがた)
+辛型	Type Kanoto	[form] Heavenly Stem form 8 (かのとがた)
+壬型	Type Mizunoe	[form] Heavenly Stem form 9 (みずのえがた)
+癸型	Type Mizunoto	[form] Heavenly Stem form 10 (みずのとがた)
+トレッター	Tretter	[misc] TIPS d0023; Twitter parody
+ポシェモン	Pochemon	[misc] TIPS d0060; Pokemon parody
+スザクハイパードラァイ	Suzaku Hyper Dry	[misc] TIPS d0054; beer parody
+Ｕ・キクイチモンジソード改	Ultimate Kikuichimonji Sword Kai	[weapon] TIPS d0068
+ＳＵＭＩＴＡＮＩ	SUMITANI	[misc] TIPS d0069; brand parody
+いけいけオキタくん	Go-Go Okita-kun	[misc] TIPS d0016
+ビミヤン	Bimiyan	[misc] TIPS d0045; Bamiyan restaurant parody
+村垣チャーハン	Muragaki Fried Rice	[misc] TIPS d0050
+理想郷	Arcadia	[lore] TIPS d0036 (ruby: アルカディア)
+悪鬼討滅	Demon Extermination	[lore] TIPS d0080
+道場破り	Dojo Crashing	[martial_art] TIPS d0066
+プロリーグ	Pro League	[organization] TIPS d0093

@@ -1,0 +1,325 @@
+[
+    {
+        "name": "Narrator",
+        "message": "「...Once again this year, that passionate season is upon us.」"
+    },
+    {
+        "name": "Narrator",
+        "message": "「A summer festival brought to you with the full might of Murakumo Academy！」"
+    },
+    {
+        "name": "Narrator",
+        "message": "「Its name―the 'Murakumo Martial Festival'―！」"
+    },
+    {
+        "name": "Narrator",
+        "message": "「Here at the Murakumo Academy stadium, the air is electric with the excitement of spectators eagerly awaiting the competitors' entrance！」"
+    },
+    {
+        "name": "Narrator",
+        "message": "「This Martial Festival is a ritual praying for the nation's prosperity and peace, dedicating to the Grand Shrine a sacred blade forged with the utmost skill by a swordsmith bearing the rank of Saishou.」"
+    },
+    {
+        "name": "Narrator",
+        "message": "「And the one who takes up that sacred blade to offer prayers to the gods on behalf of all the people is the champion who stands at the pinnacle of this Martial Festival—the 'Toujinegi'.」"
+    },
+    {
+        "name": "Narrator",
+        "message": "「Having fought their way through the fierce preliminary matches, the swordfighters who have stepped forward to claim the title of Toujinegi gather right here today！」"
+    },
+    {
+        "name": "Narrator",
+        "message": "「Now then, for this year's Martial Festival, we have invited a very special guest.」"
+    },
+    {
+        "name": "Narrator",
+        "message": "「Currently taking the Jindou Pro League by storm—it's Nakamura Sakura！」"
+    },
+    {
+        "name": "Nakamura Sakura",
+        "message": "「Yo! Good to meet ya, everyone!」"
+    },
+    {
+        "name": "Narrator",
+        "message": "「Nakamura Sakura will be providing commentary during the matches. Sakura-san, thank you very much for joining us！」"
+    },
+    {
+        "name": "Nakamura Sakura",
+        "message": "「Never done this kinda thing before, so I dunno if I'll be any good at it, but hey, bear with me, alright！」"
+    },
+    {
+        "name": "Sassa Naruko",
+        "message": "「Bringing you this Martial Festival will be Sakura-san on commentary, alongside myself as your host—Sassa Naruko, third-year student of the Quartermaster Division.」"
+    },
+    {
+        "name": "Sassa Naruko",
+        "message": "「And now, the Murakumo Martial Festival is about to begin！！！」"
+    },
+    {
+        "message": "...At last, the first day of the Murakumo Martial Festival main tournament has arrived."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Whoa—whoaaaaaaa！ Look, look, it's Nakamura Sakura！！」"
+    },
+    {
+        "message": "Watching the TV broadcast on a holographic display, Setsugekka is practically bouncing off the walls with excitement."
+    },
+    {
+        "name": "Iori",
+        "message": "「Setsugekka... calm down a little.」"
+    },
+    {
+        "message": "This is the backstage entrance where the competing fighters wait. Everyone from Takamura Class had gathered in one corner of it."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「But, but, Sakura is my idol！？ And she's going to be commentating on my match！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ah... I'm so glad to be alive...」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hehehe, you might end up suffering a crushing defeat right in front of your beloved idol Nakamura Sakura, you know.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Gyaaaaah, anything but thaaaat！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Besides, I'm gonna win！ I'm taking the whole championship！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Not a chance. I'm the one who's going to win.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Oh yeah, Momi-chan? Still talking big? Wanna settle this right here and now, huuuuh?！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Yeah, yeah. Save it for the stage.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Setsugekka-san looks like she's about to go off the rails at any second.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「*Sigh*... Honestly, what a handful.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Mmph, come on, everybody! Let's get a little more hyped up!」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「*Sigh*... If Ririmu-chan were here, she'd be getting into it with me.」"
+    },
+    {
+        "message": "Everyone had noticed long ago, and deliberately avoided bringing it up."
+    },
+    {
+        "message": "Ririmu isn't here right now."
+    },
+    {
+        "name": "Asahi",
+        "message": "「...Iori-sensei, did you reach out to Ririmu-san？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Of course. I told her to stop by if she felt up to it.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「...I see.」"
+    },
+    {
+        "message": "Since Ririmu was eliminated in the preliminaries, she can't participate in the main tournament. Therefore, she has no reason to come here today."
+    },
+    {
+        "message": "Still, Ririmu is an important member of our Takamura Class too. I don't want to leave her out."
+    },
+    {
+        "message": "That said, considering how she must feel, I can't bring myself to blame her for not showing up."
+    },
+    {
+        "name": "Momiji",
+        "message": "「...It can't be helped. That's just the kind of world we're in.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「We're going to compete in the main tournament now. Even so, not all of us can become the Toujinegi.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Some girls win, and some lose along the way. We knew that from the start, didn't we?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I know that, of course, but... Ririmu-chan is our friend. If she's feeling down, I want to cheer her up.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「That wouldn't be any comfort to her at all.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Whaaat？！ You're so cold, Momimomi！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「...Setsugekka-san, please think about it.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Suppose you were the only one eliminated in the preliminaries」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Would having those of us advancing to the main tournament console you really heal that wound？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「N-No... Probably not, I guess...」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Exactly, so there’s nothing we can do for Ririmu right now」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「What we need to do now is go out there and win. We can think about everything else after the Martial Festival is over」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Don't you agree, Iori-sensei?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, it’s painful, but Momiji is right.」"
+    },
+    {
+        "message": "I turn to face a dejected Setsugekka."
+    },
+    {
+        "name": "Iori",
+        "message": "「Setsugekka, your concern for your friend is noble and wonderful. I hope you always hold onto that.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「But for now, I need you to focus on the match right in front of you.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Muragaki-sensei……」"
+    },
+    {
+        "message": "I continue, hoping to spur her on."
+    },
+    {
+        "name": "Iori",
+        "message": "「Setsugekka, the spot you earned in the Martial Festival main tournament is something every single swordsman would kill for.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「There are so many people who have worked themselves to the bone for three years for this very day, yet couldn't reach it.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That’s why you must give it your all and face it with total sincerity. Don’t you think that’s what you can do right now？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「……Yeah, you’re right.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Once you understand that, pull yourself together, Setsugekka.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yes, sir！！」"
+    },
+    {
+        "message": "Good, Setsugekka’s expression has changed."
+    },
+    {
+        "name": "Iori",
+        "message": "「Alright everyone, listen up.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「……When I first came to this academy, they said the Takamura Class was nothing but a hopeless bunch of troublemakers.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「But look at you all now! The Takamura Class is the center of everyone’s attention!」"
+    },
+    {
+        "message": "Snakes and ogres that were once thrown into the bamboo grove—they have bloomed into magnificent, large flowers like this."
+    },
+    {
+        "name": "Iori",
+        "message": "「Setsugekka, Momiji, Asahi, and though she isn't here right now, Ririmu too. You are all incredible swordsmen.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「As the one who has watched from the sidelines, I believe I know your capabilities better than anyone.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That’s why I have no worries.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I will support you with everything I have. I will always be watching your backs.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Iori-sensei…… I’m so happy.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「All of you are my precious students.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Win or lose, no matter the outcome,」"
+    },
+    {
+        "name": "Iori",
+        "message": "「the way I cherish you all will never, ever change.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No matter what anyone else says, I am proud of you all！！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Sensei……」"
+    },
+    {
+        "name": "Iori",
+        "message": "「So you can rest easy, and give it everything you've got！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「And when the match is over, hold your heads high and come back to me with pride！！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That is all！！！」"
+    },
+    {
+        "name": "Everyone",
+        "message": "「Yes!」"
+    },
+    {
+        "message": "A dignified, resolute response, befitting of the Martial Festival, came from them all."
+    }
+]

@@ -1,0 +1,860 @@
+[
+    {
+        "name": "Asahi",
+        "message": "「Nngh！ Nn... Iori-sensei, a little... gentler... Ow... Nnah, augh...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Good grief, you pushed yourself way too hard on the first day, Asahi.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ugh, I can't put any strength into my body...」"
+    },
+    {
+        "message": "Having wrapped up our secret late-night training, I head back to the room with Asahi in tow."
+    },
+    {
+        "message": "Three times since I first said we should call it a night."
+    },
+    {
+        "message": "Asahi kept saying, \"I'm still fine\" and \"I want to keep going,\" so in the end I had to forcibly take her sword away to put a stop to the training."
+    },
+    {
+        "name": "Iori",
+        "message": "「This training isn't the kind of thing where just recklessly throwing yourself at it is enough, you know？」"
+    },
+    {
+        "message": "The moment training ended, Asahi collapsed to the floor and couldn't move an inch from that spot."
+    },
+    {
+        "message": "So right now, I'm lending her my shoulder and practically dragging her back to her room."
+    },
+    {
+        "name": "Iori",
+        "message": "「Plenty of athletes have cut their careers short with reckless training, you know.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I thought I could handle this much, though...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, a normal person wouldn't even last ten minutes, okay？」"
+    },
+    {
+        "message": "Even I could only keep up that regimen for about five minutes when I first started learning it, yet Asahi actually kept going for over an hour."
+    },
+    {
+        "message": "It was an extraordinary display of endurance."
+    },
+    {
+        "name": "Iori",
+        "message": "「Anyway, that training works muscles you don't normally use. It should get a bit easier from next time on, but don't overdo it.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Yes, next time I'll aim to keep going for three hours!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...If you're going to be that reckless, I'm calling off the training.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「N-No way...」"
+    },
+    {
+        "message": "The way she looks up at me with teary, glistening eyes is strangely cute."
+    },
+    {
+        "message": "Her flushed, sweat-dampened cheeks, and when I glance down, the chest slightly showing through her sweat-soaked clothes... No, not that."
+    },
+    {
+        "message": "I give my head a light shake, banishing the impure thoughts to the back of my mind."
+    },
+    {
+        "name": "Iori",
+        "message": "「If you're working muscles that even someone who trains as hard as you doesn't use, that means they're muscles you normally don't need.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Build them up too much and your body will get heavier, and your movements will get sluggish too.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I see... And here I thought it would make me stronger...」"
+    },
+    {
+        "message": "Asahi hanging her head with a face so dejected I could practically see a gloomy sound effect floating beside her."
+    },
+    {
+        "name": "Iori",
+        "message": "「Don't worry, I'm sure that technique suits you.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Just don't tell anyone about it, alright?」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Yes, a secret just between the two of us, Iori-sensei... Heheheh!」"
+    },
+    {
+        "message": "Well, as long as Asahi's happy, I guess it's fine."
+    },
+    {
+        "message": "...Though that's definitely not the face a young maiden should be making."
+    },
+    {
+        "name": "Iori",
+        "message": "「Hey, drool, you’re drooling.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Eh? I-I’m not drooling... am I?」"
+    },
+    {
+        "message": "Asahi tilts her head toward me with a movement that sounds like it ought to be accompanied by a creaking noise."
+    },
+    {
+        "name": "Iori",
+        "message": "「No, if you say so, then wipe it off quickly... alright？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「N-no, um... I can’t seem to lift my arm...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ah... I see. Well, that can't be helped then.」"
+    },
+    {
+        "message": "I reach out and wipe the corner of her mouth with my thumb."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hauhh！？ —gh, hngh.」"
+    },
+    {
+        "message": "Asahi lets out a small whimper, likely because the pain flared up when she reflexively tried to move her body."
+    },
+    {
+        "message": "―Yeah, let’s stop making that sound. Seriously. I never thought I’d need this much self―control as a teacher."
+    },
+    {
+        "name": "Iori",
+        "message": "「At this rate, tomorrow will have to be a rest day.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Eh？ N-no, that’s not allowed. Please keep training me tomorrow as well.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, no, I don't think you'll be able to move properly with that muscle pain.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I’ll manage somehow, just by sheer willpower!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You can’t just rely on willpower to fix things like that.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Don't rush, you need to rest properly first. Besides, this isn't the kind of thing you can just master easily.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「But we don't have much time left until the Martial Festival... I have to practice as much as I can...！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I know, but even so...」"
+    },
+    {
+        "message": "I understand how she feels, but it'll all be for nothing if she actually ruins her body."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Iori-sensei, please. I promise I won't overdo it. I really, really want to continue our special training...」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「If an ordinary person like me wants to go up against someone extraordinary, I have to work twice as hard.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I don’t want to regret doing nothing. Can’t you please, somehow...？」"
+    },
+    {
+        "message": "She looks up at me with tears glistening in the corners of her eyes."
+    },
+    {
+        "name": "Iori",
+        "message": "「...Alright, I get it. Only because you’re the one asking, Asahi.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Eh? Then... does that mean we can train?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, but there’s no way we can do it the way you are now.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「If you loosen up those sore muscles, ice them, and manage to recover enough to move by tomorrow, then we’ll see.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Understood! I'll recover through sheer willpower!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, you can't just use willpower for that.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, I know where you're hurt, and I can encourage an effective recovery by loosening up the muscles.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Really？ I would love for you to do that.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「But back then, I was the one receiving the massage. I've never given one to anyone.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「...By any chance, is this leading to a situation where I get to be massaged by Iori-sensei?」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hehehe, this is a huge opportunity knocking.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Asahi...」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hehe, I'm not thinking about anything inappropriate, you know？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, I'll take your word for it.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Of course, if Iori―sensei ever gets into the mood, I'm prepared to gladly offer my body to―」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, I was wrong to believe you. Part of a teacher's job is to stop their student's runaway imagination.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Then let's hurry back to the room.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That's fine, but I'm not the one doing the massage.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「But you're the only one who knows the technique, right？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I'll manage somehow, by asking someone else or...」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ufufu, if you leave me here, I won't be able to move a single step until morning and I'll stay collapsed on the floor, you know?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「But it requires direct skin-to-skin contact, and the spot is on your back. Being alone with a practically naked student is a bit...」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I understand, Iori-sensei.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Oh, you understand?」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「There is a way for Iori-sensei to directly knead my body from head to toe without leaving a single spot untouched.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Wh-I have a bad feeling about this...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...So, how did it end up like this.」"
+    },
+    {
+        "message": "After preparing in the room and deciding to start the procedure, I muttered in agony."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Iori-sensei？ I'm ready whenever you are. I'll be in your care.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「O-oh... alright. Let's get started, then.」"
+    },
+    {
+        "message": "That said, my vision was pitch black; I couldn't see a thing."
+    },
+    {
+        "message": "A massage was unavoidable in this situation, but since I refused to look at the student's naked body, this was the compromise Asahi offered."
+    },
+    {
+        "message": "Yes, a blindfold."
+    },
+    {
+        "name": "Iori",
+        "message": "（I can't see anything！ I have no clue where Asahi's body is exactly...！？）"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I'll guide your hands, Iori-sensei. That way, you can touch wherever you'd like.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Make sure you actually guide me to where I asked, alright？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ufufu, don't worry. I might slip a little lower or drift to the side, though.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Don't mess around too much, or the massage is off. Even as it stands, if a picture were taken of this, I'd be finished in one shot, you know?」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「It's fine. If that happens, I'll just hold a press conference to properly explain that we're a consenting couple.」"
+    },
+    {
+        "message": "Yeah, that would be my life ruined right there."
+    },
+    {
+        "name": "Iori",
+        "message": "「Forget it, let's just get started.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Then, Iori-sensei, please place your hands right there.」"
+    },
+    {
+        "message": "I slowly lowered my hands and made contact with her skin."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Fah... nnn...」"
+    },
+    {
+        "message": "I wonder, where exactly is this？"
+    },
+    {
+        "message": "Judging by the position of her voice and the posture she instructed, I'd guess her waist or back, but..."
+    },
+    {
+        "message": "I slid my fingertips along, feeling for the contours to find my position."
+    },
+    {
+        "name": "Asahi",
+        "message": "「...Ngh, being stroked is a little ticklish. U, fu... ah...！？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「W-what's wrong？ Did I touch somewhere I shouldn't have！？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「N-no... my heart just starts pounding when I think about how it's Iori-sensei touching me.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Your fingertips feel so cool against my flushed skin... it feels good... nnn...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「D-don't put it that way...！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ah, gu... that's a bit sore. Nnn, please forgive me if my whole body keeps twitching... it's just...」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「It's because of the muscle aches...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I know that, but watch how you phrase things！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「It's just that my body is so sore from the secret training with Iori-sensei...」"
+    },
+    {
+        "message": "I mean, Asahi, are you doing this on purpose？"
+    },
+    {
+        "name": "Iori",
+        "message": "「A-anyway... the muscles are here, right？ The trapezius... man, Asahi, you're really well-trained！」"
+    },
+    {
+        "message": "Even as I thought to myself that this wasn't the kind of thing one should say to a girl in her prime, I knew that if I didn't do something like this, my focus would drift in a very wrong direction."
+    },
+    {
+        "message": "Even so, precisely because I couldn't see, I was all the more conscious of the firm, fine-textured skin I could feel with my palms."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Nn, ahh... yes, I’m... happy...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I'm checking the shape and positioning, so please bear with it for a bit.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Yes, please, rub as much as you like. You don't just have to rub, you can even take advantage of the momentum and... ravage me...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「A-sa-hi？」"
+    },
+    {
+        "message": "While retorting, I grasped the general positioning and began loosening the tension from the outside with slow, rubbing motions."
+    },
+    {
+        "message": "Her back was abnormally tense, and she had developed muscle pain."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Haa, ah... my back is still so hot, even though some time has passed since the special training... haa, fuah...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Tell me if it hurts. Cooling it is also effective, but if you cool your back down too much, you'll ruin your body.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Sorry I don't have any secret medicine or anything. You have patches, right, Asahi? Shall we put one on later?」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Yes... ah, aun！？ Guh, nn... Iori-sensei's hands... they feel so... good... nhaa...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Look, Asahi, I don't mind that it feels good, but... could you, uh, keep it down a bit？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I'm sorry, but it really feels so good... haa... Iori-sensei, please... make it stronger...」"
+    },
+    {
+        "message": "Gah, I feel like because I can't see, it’s all the more stuck in my ears！"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Haa, fuu... ah, that's amazing...！ In such a short time, my body feels like it's gotten lighter than before...」"
+    },
+    {
+        "message": "Clear your mind. Just clear your mind."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ah, u... you're working... on such small areas. Nn, I can't help but... flinch... fuah！ I can feel it... ahn！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...I know it’s ticklish, but you have to bear with it.」"
+    },
+    {
+        "message": "The sensation of her soft, damp-with-sweat skin, the sound of Asahi gasping. Even though I shouldn't be able to see it, I feel like I can see Asahi's body..."
+    },
+    {
+        "name": "Iori",
+        "message": "「Alright... I'm starting to remember it...」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Nn-u, Iori-sensei, who gave you this massage back in the day？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「My grandfather. I told you I used to get injured too, right？ I'm just recalling how it was back then.」"
+    },
+    {
+        "message": "I rely on the memory of how my back felt when my grandfather rubbed it to recall the technique."
+    },
+    {
+        "name": "Iori",
+        "message": "「...Alright. I think that's enough for the trapezius. The issue is the erector spinae underneath. Since they’re internal muscles, it's tricky.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「If I remember correctly... it starts from near the underarm, right？ Asahi, I need to shift my position a bit. Is the underarm right here？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Yes... please slide your hand down along that path.」"
+    },
+    {
+        "message": "They are muscles that are constantly tense, but they get especially fatigued during intense training. I stimulate them by pressing with my palm from near the underarm."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ah, ugh...！？ H-haaaa... It’s so hot. It feels like you’re touching the inside of my body directly...！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Apparently, you’re supposed to use muscle to press and loosen up muscle. I hope I’m doing this right...」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「You’re doing it so well... ha-fah, nnngh...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「What’s wrong, does it hurt？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「No, it doesn’t hurt at all... actually, I want you to touch me more... ugh, my chest... a little further down.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I see, I wonder if it’s working. Let’s keep going a bit more.」"
+    },
+    {
+        "message": "Try not to dig your fingers in... don't apply force, just press. I continue, repeating the motion while keeping the positions of the muscles in my mind."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Haa, fuuh... just like that, all the way to the end... ah, no... don’t mind me, just keep... haa-ugh...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Phew, is there anywhere else that’s sore？ Don’t hesitate to tell me.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Further... down there is... it’s a bit sensitive. More firmly... yes, rub it... no, massage it.」"
+    },
+    {
+        "message": "It seems she’s even managed to overwork her pectoral muscles. I stretch my hand down as I’d imagined."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Aah♪ Nn... yes, right around there... especially.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hmm, this area is difficult, isn’t it？ There seems to be something... quite soft in the way.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Take your time, it’s fine. If you rub it, I’m sure it’ll... be okay. Haa, ah...！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Rub... wait, the point of this is to loosen the muscles, rubbing isn’t really...」"
+    },
+    {
+        "message": "...Something’s not right. What’s being transmitted to my palm is a squishy, bouncy, soft—"
+    },
+    {
+        "name": "Iori",
+        "message": "「I-is that what this is！？」"
+    },
+    {
+        "message": "I hurriedly pull my hand away from that part of Asahi."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Uuu... that’s a shame. I wanted you to touch it a little longer...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Y-you idiot, that was a boob, wasn't it！？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「No, it was the pectoralis major.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, that’s absolutely wrong! That didn’t feel like muscle, did it？ Muscles don’t feel all squishy and bouncy, do they？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ufufu, you really do remember how it feels. Iori-sensei has memorized the feel of me.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Asahi？ Didn't I say no treatment if you mess around too much？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I'm sorry... I'm not messing around...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, that makes it even worse, you know？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Well, if the person you like is touching you slowly and thoroughly, you end up thinking about naughty things... don't you？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I'm not thinking about them—I'm definitely not thinking about them！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「...Staaare...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hey, tell me what you're looking at！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ah, Iori-sensei, you hid it... Did it get bigger...？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「It didn't!!」"
+    },
+    {
+        "message": "Seriously, what an outrageous girl...！"
+    },
+    {
+        "name": "Iori",
+        "message": "「Enough already, let's just hurry up and finish the rest. You want to do special training tomorrow too, right？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Yes, please take care of me!」"
+    },
+    {
+        "message": "At times like this, she's just as obedient as when she was little. Asahi... How did you turn into a girl like this..."
+    },
+    {
+        "message": "As I kept moving my hands while thinking about that, the treatment was mostly finished."
+    },
+    {
+        "name": "Iori",
+        "message": "「Alright, that should pretty much do it.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Huh？ Oh...！ Iori-sensei, it doesn't hurt at all anymore. It really feels so much better...！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You should probably be able to move fine now, though pushing yourself is strictly off-limits.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Understood. I promise not to push myself.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Um, wouldn't you like to touch me just a little at the end？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I'm not touching you! Just hurry up and put your clothes on!」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Fufu, what a shame.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「...It's been a while since we went for a walk together, Iori-san.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Cooling down is important. We put compresses on too, so you should be fine.」"
+    },
+    {
+        "message": "After exercising, rather than resting completely all at once, moving your body a bit while slowly returning to a normal state helps you recover from fatigue faster."
+    },
+    {
+        "message": "And while I'm at it, I need to cool my own head down too."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Iori-san, this is a date, isn't it? Having a private, secret training session that’s also a date... it’s like a dream.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, I suppose it might be.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「……I’m glad. You look well, Iori-san.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Me？ I’m the same as always.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「But when you were at the academy, you didn’t look like it. You didn’t seem very happy.」"
+    },
+    {
+        "message": "—Ah, that. I was remembering a lot of things, that's why."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Actually…… I received a phone call from my brother the other day.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「……From Takahisa？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Yes. He’s doing well now, working as an instructor at the dojo. He was worried about whether I was doing okay.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I see……」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Um, have you heard from my brother……？」"
+    },
+    {
+        "message": "I shake my head silently."
+    },
+    {
+        "message": "A long time has passed since then, and in the meantime, I have grown completely estranged from Takahisa."
+    },
+    {
+        "name": "Asahi",
+        "message": "「……I know it might be presumptuous of me to say this, but…… my brother is doing fine.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「So, I don't think you need to feel burdened by guilt anymore, Iori-san.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Asahi…… thank you.」"
+    },
+    {
+        "message": "I think I understand Asahi's consideration all too well. She's been worrying about me, all this time."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Iori-san……」"
+    },
+    {
+        "message": "With a quick motion, Asahi straightens her posture and stares straight at me."
+    },
+    {
+        "name": "Asahi",
+        "message": "「I will be the one to clear my brother's regrets. I will become a Toujinegi and fulfill my brother's dream.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「So…… please, don't carry this burden anymore, Iori-san.」"
+    },
+    {
+        "message": "She speaks each word firmly, like a declaration of resolve, but her eyes alone are wavering with anxiety."
+    },
+    {
+        "name": "Iori",
+        "message": "「—You're reliable, Asahi.」"
+    },
+    {
+        "message": "But…… sorry, Asahi, but I can't accept that offer of yours."
+    },
+    {
+        "name": "Iori",
+        "message": "「Asahi, you mustn't fight for my sake or for Takahisa's.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I appreciate the sentiment, but that’s a problem between me and Takahisa. It’s not something you should have to shoulder.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Both Takahisa and I are grown adults. We’ll resolve it between the two of us eventually.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Iori-san……」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I want Asahi to grasp her own dream. I want her to spread her wings and follow her heart」"
+    },
+    {
+        "message": "As long as people are alive, they are bound to carry shackles."
+    },
+    {
+        "message": "Restraints can sometimes become a source of strength, but more often than not, they are not. I just want Asahi to fight without any regrets."
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, in other words―I want you to do what you want to do, without worrying about grown―up complications」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「……Thank you, Iori-san」"
+    },
+    {
+        "name": "Iori",
+        "message": "「—Though, don't overdo it with the special training」"
+    },
+    {
+        "name": "Iori",
+        "message": "「If Asahi ends up getting injured from overtraining, I’m certain Takahisa will kill me」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「It’s alright, I’ll kill my brother if that happens」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You’re scary, Asahi」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hehehe」"
+    },
+    {
+        "message": "Asahi gave me a smile that looked as if she had finally found clarity, and gave a small, polite bow."
+    },
+    {
+        "name": "Asahi",
+        "message": "「……Well then, I’ll head back and get some rest. Goodnight, Iori-san」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, goodnight. Asahi」"
+    },
+    {
+        "message": "With a bright smile, Asahi turned and headed back to the dormitory."
+    }
+]

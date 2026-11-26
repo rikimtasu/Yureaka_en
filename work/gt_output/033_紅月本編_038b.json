@@ -1,0 +1,594 @@
+[
+    {
+        "name": "Iori",
+        "message": "「Next up, Asahi！」"
+    },
+    {
+        "message": "As if swapping places with Ririmu, Asahi stepped forward."
+    },
+    {
+        "name": "Asahi",
+        "message": "「I’m already prepared. I’m ready whenever you are.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Then let’s get started right away.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Are you sure you don’t need a break, Sensei？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, I’ve still got plenty of energy.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ririmu-san, thanks for acting as her warm-up partner.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I swear, one day I’m gonna kill you！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「By the way, Iori-sensei, may I ask you something？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Earlier, when you were sparing with Ririmu-san, you started acting a bit strange halfway through...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Acting strange？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Yes. You were backing up when nothing was there, and your gaze was darting in strange directions.」"
+    },
+    {
+        "message": "Could that be..."
+    },
+    {
+        "name": "Iori",
+        "message": "（I see, so that phantom isn't visible to anyone but the opponent...！）"
+    },
+    {
+        "message": "During my training with Ririmu, Setsugekka and the others didn't seem surprised. I thought it was odd, but that explains it."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Sensei, what I showed you earlier is a secret between just the two of us, okay~?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, I got it.」"
+    },
+    {
+        "message": "So that phantom is Ririmu’s secret weapon, huh."
+    },
+    {
+        "message": "Well, it’ll naturally come out when the students spar with each other, so it’s not for me to go blabbing about."
+    },
+    {
+        "name": "Asahi",
+        "message": "「A secret between you and Iori-sensei... that’s intriguing.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You should try sparring with Ririmu sometime. You’ll understand then.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Understood. I look forward to exposing that secret one of these days.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hey, what's with the way you say things！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Come now, Iori-sensei, I’m tired of waiting. Let’s start already.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You got it！」"
+    },
+    {
+        "message": "I drew my Origami and took my stance. Asahi took her stance without drawing hers."
+    },
+    {
+        "name": "Iori",
+        "message": "「Can we go all out today？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Yes, I don't mind.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I'd like to fight the Tenju Special Forces side of Iori-sensei that I don't know yet, too.」"
+    },
+    {
+        "message": "Thank goodness—looks like I won't have to use Tengen Saimei-ryuu."
+    },
+    {
+        "name": "Iori",
+        "message": "「All right, here I come！！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Whenever you're ready.」"
+    },
+    {
+        "message": "Taking a half-turned stance, Asahi quietly probes my every move."
+    },
+    {
+        "message": "The instant I step into range, she draws and slashes at me. However, I already figured out Asahi's range and strike patterns during our last practice."
+    },
+    {
+        "message": "Effortlessly deflecting her blade, I surge right into her guard in a single burst."
+    },
+    {
+        "name": "Iori",
+        "message": "「Keep up with me, Asahi！！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Gh...！」"
+    },
+    {
+        "message": "I unleash a flurry of strikes at Asahi, giving her no room to even catch her breath."
+    },
+    {
+        "message": "In response, Asahi fights back with her drawn Origami and deflects every single blow."
+    },
+    {
+        "message": "Asahi's form is remarkably refined, and when it comes to defense, her stability is second to none."
+    },
+    {
+        "name": "Iori",
+        "message": "「Your greatest strength is your high defensive ability, Asahi！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No matter the angle of attack, once you decide to block it, you never let a blade through！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「If you praise me like that, I'll get so happy I might make a mistake!」"
+    },
+    {
+        "message": "Iai quick-draw holds killing in a single strike as its ideal. To achieve that, however, one must catch the opponent off guard."
+    },
+    {
+        "message": "To use it in a match like Jindou, she had to endure patiently until the right opportunity arrived."
+    },
+    {
+        "message": "And what supports that patience is this ironclad defense of Asahi's."
+    },
+    {
+        "name": "Iori",
+        "message": "「Then how about this...！！」"
+    },
+    {
+        "message": "This time I weave in feints—yet she blocks them all cleanly."
+    },
+    {
+        "message": "I deliberately created an opening to bait out a counterattack, but Asahi refuses to fall for such a cheap provocation."
+    },
+    {
+        "message": "Here too, Asahi remains patient and rock-steady."
+    },
+    {
+        "name": "Iori",
+        "message": "「Still, you can't win just by defending！！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Kuh...！」"
+    },
+    {
+        "message": "Asahi keeps backing away to create distance, while I stay right on her heels, showering her relentlessly with naked steel."
+    },
+    {
+        "message": "Because of that, Asahi can't return her blade to its scabbard."
+    },
+    {
+        "name": "Asahi",
+        "message": "「I'm happy to have Sensei chasing me around, truly, but...！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Could you please back off just a little...？！」"
+    },
+    {
+        "message": "Asahi forced our blades into a lock."
+    },
+    {
+        "name": "Iori",
+        "message": "「No way, I can't let you have that...！！」"
+    },
+    {
+        "message": "I put all my strength into pushing forward... yet Asahi didn't give an inch."
+    },
+    {
+        "name": "Iori",
+        "message": "「Heh, you’ve got more strength than I thought！」"
+    },
+    {
+        "message": "Even though Tenju can bolster physical strength, if your base muscle power is low, it’s impossible to push through in a struggle like this."
+    },
+    {
+        "message": "And yet, Asahi is resisting my push—and strength training is a part of my job."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hnn… I haven’t been training lightly, either!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I see. Well then, let’s see just how much you can take…！」"
+    },
+    {
+        "message": "I gradually shift the Tenju I’d been channeling into my feet for an explosive dash—in case Asahi tried to retreat—over into my arm strength instead."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ugh… ngh…！」"
+    },
+    {
+        "message": "Asahi makes a pained face as I put my full strength into pushing her back."
+    },
+    {
+        "name": "Iori",
+        "message": "「…You’re impressive, Asahi.」"
+    },
+    {
+        "message": "There probably aren't many academy students who could withstand my full power."
+    },
+    {
+        "name": "Iori",
+        "message": "「On top of having a rock-solid defense, you’ve got muscle to back it up.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Once you master that, you can become even stronger than you are now！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Thank you… so much…！！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Though, there’s still room for improvement when it comes to your offense！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ugh…！？」"
+    },
+    {
+        "message": "I exploit the opening created when she relaxes her power and her center of gravity shifts slightly, landing a strike on her Barrier Jacket."
+    },
+    {
+        "name": "Iori",
+        "message": "「Being cautious is a great virtue, but sometimes you won't see a chance to win unless you're willing to take a gamble！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I know that…！」"
+    },
+    {
+        "message": "Asahi says this while retreating. I instantly close the distance."
+    },
+    {
+        "message": "And so, Asahi was forced back into a one―sided defensive struggle again―."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ugh, what are you doing！」"
+    },
+    {
+        "message": "Ririmu, who was watching from the sidelines, shouts in frustration."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「That Kijo, she’s not gonna win if she doesn’t go on the offensive！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hey, don’t you think so too, Momichi？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Hm, well, I suppose so.」"
+    },
+    {
+        "message": "This girl Ririmu was so overly familiar right from the start that I didn't like her much at first."
+    },
+    {
+        "message": "But her attitude hasn't changed at all, even after I started speaking more naturally."
+    },
+    {
+        "message": "She’s probably the type who doesn’t put up barriers with anyone. I find that easy to deal with, and I’ve grown to appreciate it."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Asahi seems to rely mostly on her Iai sword arts, so I suppose it’s inevitable that she ends up on the defensive.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Still… even so, she’s almost too cautious, or perhaps I should say, timid.」"
+    },
+    {
+        "message": "Iori had said something similar just a moment ago, but if I don't go on the offensive even when the odds are bad, there's no chance of victory."
+    },
+    {
+        "name": "Momiji",
+        "message": "「What are you so scared of...？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Huh？ Don't tell me that Kijo is actually afraid of Sensei？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Wow, how pathetic~！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「No, it’s not that simple.」"
+    },
+    {
+        "message": "Looking at their interactions so far, Sensei and Asahi must have known each other for a long time and understand each other quite well."
+    },
+    {
+        "message": "If so, this caution might be because she knows his true strength."
+    },
+    {
+        "name": "Momiji",
+        "message": "「...I’ll ask him about it later.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hey, Momimomi~」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「That nickname really rubs me the wrong way.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I wonder if Muragaki-sensei is an infighter like me.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「See, he’s sticking right to Asahi-chan as she tries to run, making sure not to let any distance open up.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Iai sword-drawing requires you to put the blade back into the sheath after every strike.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「But if he stays that close and keeps landing hits like that, there’s no way she could sheath her blade.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「So, he’s forcing an infight to seal off the drawing-style attacks that are Asahi’s greatest strength.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I see, he’s so smart~. I should try that too.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Seriously, you... you should try using your head like that when you fight, you know？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hmm, I’m not really good at using my head.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I usually just leave all that stuff to Kei-chan.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「So Keisetsu took all the brains, huh? How pitiful...」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Shut it！ I’ve gone through life wondering if that might be the case myself, but it pisses me off when someone else says it！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ahahaha, Secchan is such an airhead, that’s why~」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Look who’s talking, you’re the one always failing those pop quizzes!」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Wait, hey, Secchan！ How do you know about that！？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hehe~, Asahi-chan told me.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「That Kijo...！」"
+    },
+    {
+        "message": "Beside me, Setsugekka and Ririmu start making a ruckus. These two, they actually get along surprisingly well."
+    },
+    {
+        "name": "Momiji",
+        "message": "「…………」"
+    },
+    {
+        "message": "I keep my gaze fixed on the match between the teacher and Asahi, thinking."
+    },
+    {
+        "message": "Asahi is nearing her limit."
+    },
+    {
+        "message": "Every time she takes one of Iori-sensei's strikes, the Origami in her hand is being pushed back by centimeters."
+    },
+    {
+        "message": "Her arms are screaming because she’s been taking his heavy blows one after another."
+    },
+    {
+        "message": "Furthermore, Iori-sensei has been weaving subtle feints into his striking lines each time. Because of that, Asahi is forced to waste extra energy every time she blocks."
+    },
+    {
+        "name": "Momiji",
+        "message": "（That looks even tougher than it seems...）"
+    },
+    {
+        "message": "Things I’ve realized from watching Ririmu and Asahi's matches."
+    },
+    {
+        "message": "It’s that Iori―sensei is more of a monster than I’d expected―"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Aahhh...！！」"
+    },
+    {
+        "message": "Asahi's solid defense has started to crumble bit by bit."
+    },
+    {
+        "message": "From continuing to receive my strikes, her concentration and arm strength have been whittled away, and she has finally reached her limit."
+    },
+    {
+        "message": "Once it comes to this, there's no way forward."
+    },
+    {
+        "name": "Iori",
+        "message": "「That's it for now, Asahi！！！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ngh............！！」"
+    },
+    {
+        "message": "The overhead strike aiming for her forearm and the torso slash released immediately after both landed perfectly."
+    },
+    {
+        "name": "Iori",
+        "message": "「...All right, let's stop here.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Haa, haa... Thank you very much.」"
+    },
+    {
+        "message": "Asahi bows her head as she sheathes her blade, her breathing heavy."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「What, what just happened？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「That Kijo hasn't even collapsed yet.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That's because Asahi's Barrier Jacket is almost at zero.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Eh, it’s already over even though she barely got any hits on Sensei？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「That’s no good, you know.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hehe, I just got criticized by someone who was groveling on the ground in a pathetic display as the first one up♪」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「You...! That’s a really nasty way to put it!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Alright, alright, stop the bickering.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「But Sensei, she's being mean！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Asahi, try not to provoke people needlessly.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Yes!」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Seriously, you only ever show your good side to Sensei...」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Of course. Iori-sensei is a god, after all.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, I’m not a god. I’m just a public servant, okay?」"
+    },
+    {
+        "message": "Ah, right. I’d forgotten to ask something important."
+    },
+    {
+        "name": "Iori",
+        "message": "「Asahi, I want to hear it from you, too. What is your dream for the future？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「That’s a foolish question, Iori-sensei.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「My dream is to become Iori-sensei’s wife and spend the rest of my life by your side%0」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, cut the jokes！ Give me a serious answer！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I don’t intend to be joking, but...」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Well, there’s no point in troubling Iori-sensei here, so let’s save this talk for another time.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「She never wavers, does she, Asahi-chan?」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「She’s a total fanatic, that one.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「My goal as a student, of course, is to become a Toujinegi.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Understood. Then I shall provide guidance with that in mind.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Yes, I’m counting on you!」"
+    }
+]

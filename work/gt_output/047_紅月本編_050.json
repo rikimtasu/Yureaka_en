@@ -1,0 +1,304 @@
+[
+    {
+        "name": "Momiji",
+        "message": "「……Alright, it’s time for the post-mortem review.」"
+    },
+    {
+        "message": "Before me sits a 350ml non-alcoholic beer."
+    },
+    {
+        "message": "I open it right away and let it flow down my throat."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Glug… glug…」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Phaaah~, Suzaku Hyper Dry！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「……Wait, no it’s not！ This isn't the time for that！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ah, geez, stupid, stupid, I’m so stupid！」"
+    },
+    {
+        "message": "I thrash around on my bed."
+    },
+    {
+        "name": "Momiji",
+        "message": "「What was that about ‘I have no intention of getting involved with you’?！ Stop trying to act so cool, Momiji！」"
+    },
+    {
+        "message": "I cringe while replaying the conversation with Iori-sensei earlier."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ugh, why did I have to go and say something like that to Iori-sensei?」"
+    },
+    {
+        "message": "Even though, in truth, I was actually happy that he paid attention to me…"
+    },
+    {
+        "message": "Well, I do know the reason why."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Because Sensei asked me if ‘I like being alone’ and all that…」"
+    },
+    {
+        "message": "It’s not like I particularly hate being alone. But it’s not like I love it either."
+    },
+    {
+        "name": "Momiji",
+        "message": "「I just ended up wanting to test him, didn’t I…」"
+    },
+    {
+        "message": "When I’m interested in someone, I want to find out what kind of person they really are. That’s why I end up asking these weird questions."
+    },
+    {
+        "name": "Momiji",
+        "message": "「But then I do stuff like that and end up pushing them away~」"
+    },
+    {
+        "message": "Even though I know it, I can’t break this habit."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Sigh, how did I end up like this…」"
+    },
+    {
+        "message": "I mutter to myself while sipping on the non―alc beer. How I ended up this way is―"
+    },
+    {
+        "message": "…The people of the Suzakuin clan grip a wooden sword at two, and a real blade at four. And at five, they begin their training in Jindou."
+    },
+    {
+        "message": "By the time I was around seven, everyone around me started Jindou too, and I finally made friends my own age."
+    },
+    {
+        "name": "Girl",
+        "message": "「Hey Momiji, let’s go home together.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Yeah, let’s go！」"
+    },
+    {
+        "message": "…Up until then, I had been swinging my sword all by myself, so I was incredibly happy to have a friend."
+    },
+    {
+        "name": "Girl",
+        "message": "「You’re entering the junior division of the Jindou tournament, right, Momiji? I’m going to be in it too.」"
+    },
+    {
+        "name": "Girl",
+        "message": "「Let’s both do our best.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Yeah, let’s both do our best!」"
+    },
+    {
+        "message": "I had made such a close friend. Back then, I loved Jindou more than anything every single day."
+    },
+    {
+        "name": "Umpire",
+        "message": "「That is all！ ……Winner, Suzakuin Momiji！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Thank you very much！」"
+    },
+    {
+        "name": "Girl",
+        "message": "「...Thank you very much」"
+    },
+    {
+        "message": "...But ever since I won the junior division at the Jindou tournament. Little by little, the gears started slipping out of place."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Hey, hey, let's do some mutual sparring」"
+    },
+    {
+        "name": "Girl",
+        "message": "「...Sorry, I don't want to practice with you, Momiji」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Huh...? Why?」"
+    },
+    {
+        "name": "Girl",
+        "message": "「Because you're so strong, Momiji... I can't beat you」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「That's not true, let's work hard together」"
+    },
+    {
+        "name": "Girl",
+        "message": "「I'm sorry...」"
+    },
+    {
+        "message": "She gradually drifted away from me and grew close to another girl. She stopped walking home with me."
+    },
+    {
+        "name": "Girl",
+        "message": "「Hey, I've decided to quit this dojo」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「O-Oh, I see. Why are you quitting？」"
+    },
+    {
+        "name": "Girl",
+        "message": "「Because watching you made me realize it's impossible」"
+    },
+    {
+        "name": "Girl",
+        "message": "「No matter how hard I try, I'll never beat you, Momiji. So there's no point trying here anymore」"
+    },
+    {
+        "name": "Girl",
+        "message": "「It's all your fault, Momiji」"
+    },
+    {
+        "message": "...And just like that, my close friend left the dojo."
+    },
+    {
+        "name": "Boy",
+        "message": "「W-What the hell are you... That's insane！ How the hell did you dodge that?！」"
+    },
+    {
+        "name": "Boy",
+        "message": "「Forget it, I'm quitting Jindou！ I'm so done with this crap！」"
+    },
+    {
+        "message": "Even after that... kids like them kept showing up, over and over again."
+    },
+    {
+        "name": "Dojo Junior A",
+        "message": "「Ah, Momiji-san...」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Where are you all going？」"
+    },
+    {
+        "name": "Dojo Junior A",
+        "message": "「Um, just stopping by a pancake shop on the way home」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Oh, that sounds delicious. Can I come with you？」"
+    },
+    {
+        "name": "Dojo Junior A",
+        "message": "「I'm sorry, since it's just close friends going...」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「...O-Oh, I see, sorry」"
+    },
+    {
+        "message": "Until no one would come near me anymore."
+    },
+    {
+        "name": "Dojo Junior B",
+        "message": "「Hey, why’d you turn Suzakuin-san down？」"
+    },
+    {
+        "name": "Dojo Junior A",
+        "message": "「Well, it’s depressing being around Suzakuin-san, right? There’s just no way you could ever beat someone like that…」"
+    },
+    {
+        "name": "Dojo Junior B",
+        "message": "「People from the Suzakuin Family, they’re just like a different species, aren’t they.」"
+    },
+    {
+        "name": "Dojo Junior A",
+        "message": "「Yeah, I think they’re monsters.」"
+    },
+    {
+        "message": "…Called a monster, shunned by everyone."
+    },
+    {
+        "name": "Momiji",
+        "message": "「That’s… fine, whatever.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「If that’s how it is, I’m better off alone.」"
+    },
+    {
+        "message": "If I stay by myself, I won’t get hurt for no reason—"
+    },
+    {
+        "name": "Momiji",
+        "message": "「……Ugh, I went and remembered something shitty.」"
+    },
+    {
+        "message": "Being smart has its drawbacks. No matter how much time passes, the unpleasant past never fades."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ugh, screw it, desperation-cider time！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Phew… ah, I wish I could drink the real stuff.」"
+    },
+    {
+        "message": "If I did, maybe those nasty memories would blur a little."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Yeah, yeah, I’m a total loner, I get it. Not like I care anyway—long live my solo life, actually.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「And it’s all, every last bit of it, Iori-sensei’s fault!」"
+    },
+    {
+        "message": "Ever since that man became the assistant homeroom teacher for Takamura Class, my life has been nothing but a mess."
+    },
+    {
+        "name": "Momiji",
+        "message": "「But… funny enough, I don’t actually hate it.」"
+    },
+    {
+        "message": "If it were the old me, I definitely would’ve rejected him. No, at first, I did."
+    },
+    {
+        "message": "Yet Iori-sensei kept coming, so sincere, never giving up, worming his way into my heart."
+    },
+    {
+        "message": "I wish he were just a jerk, I really do. Then I could’ve rejected him without a second thought."
+    },
+    {
+        "name": "Momiji",
+        "message": "「That guy is just way too good-natured…」"
+    },
+    {
+        "message": "And a man like that… actually wants me, so aggressively."
+    },
+    {
+        "name": "Momiji",
+        "message": "「That’s so unfair…」"
+    },
+    {
+        "message": "Well, regardless."
+    },
+    {
+        "name": "Momiji",
+        "message": "「……Iori-sensei, sorry.」"
+    },
+    {
+        "message": "I know I’m a brat… but please, I don’t want you to hate me."
+    }
+]

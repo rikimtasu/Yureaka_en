@@ -1,0 +1,379 @@
+[
+    {
+        "name": "Mikoto",
+        "message": "「Honestly, I can’t forgive this.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Reducing the number of <d0094>inarizushi</d> from three to two, and on top of that, raising the price？」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「<d0031>Convenience stores these days are hopeless</d>. Should I put a curse on them...！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...Finally found you, Ms. Sasaki.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Whoa！？ Oh, it’s you, Muragaki.」"
+    },
+    {
+        "message": "I had walked around searching everywhere, and finally managed to find Ms. Sasaki."
+    },
+    {
+        "name": "Mikoto",
+        "message": "「What’s the matter? Have you already finished meeting the Takamura Class lot?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yes, I have.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Hmm, you’ve got a face that says you want to tell me something. Well, I can pretty much guess the reason.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「In that case, you have time for me now, don’t you？」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Mmph... and here I was planning to eat.」"
+    },
+    {
+        "message": "The convenience store bag is filled with a mountain of inarizushi. Does she intend to eat them all by herself?"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Oh, fine. Come along with me.」"
+    },
+    {
+        "message": "I followed Ms. Sasaki to an embankment overlooking the sea."
+    },
+    {
+        "name": "Mikoto",
+        "message": "「So, what are your thoughts after meeting them？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Just like you said, Ms. Sasaki, they’re all fun and cute girls.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「I thought as much, I thought as much.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「However, trying to conduct instruction in a friendly, harmonious, and fun environment seems like it will be difficult.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Nonsense, it’ll be fine. You can handle it.」"
+    },
+    {
+        "message": "Ms. Sasaki takes an inarizushi out of the bag and starts munching on it."
+    },
+    {
+        "name": "Iori",
+        "message": "「No, that’s impossible！ They all have such strong personalities！」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Well, I’ll give you that.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「They’re all quite the eccentric bunch, even among the first years. Dealing with them is going to be a real pain, I’m sure.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「So you knew that and saddled me with being the assistant homeroom teacher anyway...」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Obviously. Do you really think I’d go out of my way to call someone from the Tenju Special Forces if it were something anyone could easily do?」"
+    },
+    {
+        "message": "I understand that logic, and I don’t mind the difficulty itself."
+    },
+    {
+        "message": "The more difficult the mission, the greater the sense of joy when it is accomplished."
+    },
+    {
+        "message": "Still, there's one thing I just can't accept."
+    },
+    {
+        "name": "Iori",
+        "message": "「I have no complaints about serving as the assistant homeroom teacher. But you're a teacher too, Sasaki-sensei, and you're their homeroom teacher, aren't you？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Momiji-san told me.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「She said you're completely hands-off and don't do anything. Isn't that why Takamura Class has gotten such a bad reputation?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「If students have problems, isn't it a teacher's job to help them solve them?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Abandoning that duty and dumping everything on me isn't right, is it？」"
+    },
+    {
+        "message": "A master is one who points the lost toward the right path. A teacher—an educator—is one who instructs and guides them along that way."
+    },
+    {
+        "message": "That is precisely why a teacher who fails to do so has no right to call themselves a teacher."
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Hmm. A naive argument, but you're right.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「You've got one thing wrong, though. I'm not a teacher in the first place.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Huh? Wait, you're not?」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「I'm a doctor. I was assigned to this academy as the school physician. I'll take care of the students' injuries and illnesses, but as a rule, anything else isn't my problem.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Then why are you a homeroom teacher...?」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「It's a long story... It was forced on me as part of a deal. It's all a scheme by that man, <d0033>Masatane</d>.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Masatane... I feel like I've heard that name somewhere before.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「He's the current head of the Suzakuin Family. I just cannot get along with that guy!」"
+    },
+    {
+        "message": "Muttering to herself, she tosses a piece of inari sushi into her mouth."
+    },
+    {
+        "name": "Iori",
+        "message": "「The head of the Suzakuin... What kind of connection do you have with him, Sasaki-sensei？」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「That doesn't matter right now.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「At first, Momiji was the only student in Takamura Class. That much made sense, so even though I wasn't ideal for the job, I still handled it.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「But then the academy seized the opportunity to cram every problem child into Takamura Class. That's when it got the name Takamura Class, too.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Muragaki. Do you know what 'takamura' means？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, I don't.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「'Takamura' means a bamboo thicket—a dense grove of bamboo. What do you think comes out when you poke a thicket？」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Will a demon come out, or a snake? In short, it's just a way to get rid of their nuisances.」"
+    },
+    {
+        "message": "Hearing that, I understand."
+    },
+    {
+        "message": "In other words, Takamura Class is a place to isolate demons and snakes. Shove anything foul into the thicket and leave it there—is that the idea?"
+    },
+    {
+        "name": "Iori",
+        "message": "「……I cannot forgive this.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Just because they’re too much for you to handle, you treat the students like nuisances? Is that what a teacher is supposed to do……！！！」"
+    },
+    {
+        "message": "Anger bubbled up inside me."
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Well, those teachers have all sorts of ties and circumstances to deal with. Don’t be too hard on them.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「However, the fact remains that the students in Takamura Class are outcasts. To provide guidance to such a group, you’ll need the resolve to match.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Muragaki Iori, do you have that resolve？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「……Yes, of course. I’ll make it happen.」"
+    },
+    {
+        "message": "Outcasts, huh? That’s fine by me."
+    },
+    {
+        "message": "Before coming to this academy, I had been an outcast my whole life too. I came to Murakumo Academy, made friends, and I changed."
+    },
+    {
+        "message": "And now, it’s my turn to pass on what I’ve received."
+    },
+    {
+        "name": "Mikoto",
+        "message": "「At this rate, it’s doubtful they’ll even be able to advance to their second year. I need you to use your strength to help them out.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Understood, leave it to me！」"
+    },
+    {
+        "message": "I’m glad I spoke with Sasaki-sensei. Now, the path I need to take is clear."
+    },
+    {
+        "message": "No matter what happens, I will ensure they advance to the second year."
+    },
+    {
+        "name": "Iori",
+        "message": "「……Wait, what about you, Sasaki-sensei？ Are you not participating in the training？」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「I told you, I’m a doctor. I can’t provide specialized instruction to students in the Martial Arts Division.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Momiji is a Suzakuin and does things her own way, so that wasn’t an issue. But the others? It’s absolutely impossible. You’re the only one who can do it.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「W-well, I suppose that’s true.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Then why don’t you just take care of everything yourself? I absolutely hate dealing with troublesome things.」"
+    },
+    {
+        "message": "……Is that your real reason, seriously?"
+    },
+    {
+        "name": "Iori",
+        "message": "「Fine, I get it. Then I can do things my own way, right？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「If I’m going to be the one teaching them…… there’s something I absolutely want to do.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Do you have some kind of policy, then？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yes. Something I simply refuse to compromise on.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I don’t want them to look back on the days they spent at this academy with regret.」"
+    },
+    {
+        "message": "Whether they can become stronger depends partly on the students themselves. That’s not something I can guarantee."
+    },
+    {
+        "message": "But I can certainly teach them how not to have any regrets."
+    },
+    {
+        "name": "Mikoto",
+        "message": "「I don’t mind. Do as you see fit.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Thank you very much！」"
+    },
+    {
+        "message": "With this, I can give my all to the mission…！"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「But this is your first time as a teacher, isn't it？ You must be feeling anxious about various things. Let me give you one piece of advice from a senior regarding instruction.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I’d be grateful for that! Please, enlighten me!」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「All right, fair enough. Then listen up.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Look, even if they’re called students, they aren't baby birds anymore. Think of them as fully grown birds of prey.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「What does that mean…？」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「In short, they might have cute faces, but underneath they’re just brats who take pride in swinging around giant blades.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「You think you’re going to teach them in a gentle, homey, and friendly atmosphere？」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Take that sickly sweet fantasy and toss it into the sea right now！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「T-that’s some <d0032>refreshing hypocrisy</d> right there！？」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「You know it as well as I do—people from martial families are nothing but a bunch of pride-stuffed, deep-fried assholes.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「So first, you smash them down, break their spirit, and force them to submit.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Corporal punishment, discipline, radical remedies, even sexual things—anything goes.」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「Professional ethics and compliance? Screw that. Forget their clever human sophistry, give it everything you've got！！」"
+    },
+    {
+        "name": "Mikoto",
+        "message": "「That is all.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「O-oh, I see…」"
+    },
+    {
+        "message": "In the end, there wasn't a single helpful thing in what she said."
+    }
+]

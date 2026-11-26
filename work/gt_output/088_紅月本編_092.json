@@ -1,0 +1,280 @@
+[
+    {
+        "name": "Setsugekka",
+        "message": "「Ahh, that yakiniku was so good~ Let's head home, Kei-chan~♪」"
+    },
+    {
+        "message": "After parting ways with everyone else along the way, Kei-chan and I walk home together."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「…………」"
+    },
+    {
+        "message": "Speaking of Kei-chan, she's been walking slowly while glaring at empty space for a while now."
+    },
+    {
+        "message": "She must be looking at her holographic display set to private mode, deep in thought about something again."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「...Sigh, this is a problem.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hm~？ What's the problem, Kei-chan？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Yes... Never mind, though. Don't worry about it, Setsugekka.」"
+    },
+    {
+        "message": "Hearing that makes me a little miffed."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Aw, come on~ You can tell me, can't you? If you're in trouble, Kei-chan, I want to help you out.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Setsugekka, just focus on yourself. You don't need to worry about me.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「...Treating me like a fool like that」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I'm always the one getting helped. You think someone like me can't be relied on, don't you!」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「That's not it. I'm just worried about you.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I'm worried about you too, Kei-chan, you know？」"
+    },
+    {
+        "message": "Usually I'd back down right away, but for some reason, I just wasn't in the mood to do that today."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「...Phew, I suppose I have no choice. All right, I'll tell you everything.」"
+    },
+    {
+        "message": "Kei-chan briskly points her hand toward me. She just sent something over holographically."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「This is...？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「It's an encrypted email addressed to me that arrived a little while ago.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「The sender is Makinojou-san, the head of the Kazamine Family.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Huh... From the Family Head？！」"
+    },
+    {
+        "message": "I was shocked."
+    },
+    {
+        "message": "Including the branch families and extended relatives, the Kazamine Family is a massive household."
+    },
+    {
+        "message": "The one leading that massive household is the family head, Kazamine Makinojou-san—someone way above the clouds from my perspective."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Um... 'Business Consultation' means the Family Head is asking you for a job directly？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Yes, that's what it comes down to.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「W-Way to go... That's amazing, Kei-chan！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「So basically, this means the Family Head recognized your abilities and asked you to take on a job, Kei-chan！？」"
+    },
+    {
+        "message": "The next Family Head is decided by an election across the entire Kazamine Family."
+    },
+    {
+        "message": "However, with an endorsement from the current Head, a candidate's chances of being chosen are undoubtedly much higher."
+    },
+    {
+        "message": "In short, this is a massive opportunity for Kei-chan."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「True. It feels very much like a litmus test, but if I succeed, it will greatly open up the path to becoming Family Head.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Then you've definitely got to pull it off!」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「...Still, as for whether I can accept it without hesitation, it's not quite that simple.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ehh, why？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「I think you'll understand if you read it.」"
+    },
+    {
+        "message": "At her prompting, I scan through the contents of the email."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Let's see... 'Area management to handle risk management and build synergy for Kazamine Group subsidiaries expanding into Southeast Asia'... Huh？ What does that actually mean？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「It means he wants me to oversee all the Kazamine Group companies and organizations expanding into Southeast Asia.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「W-Whoa... That basically makes you a shadow ruler！」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Hehe, I suppose it would.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「You've got an offer this amazing and you're not going to take it？」"
+    },
+    {
+        "message": "At my question, Kei-chan gives a wry smile."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「If I accept this, I won't be able to stay in Japan anymore.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「...Huh？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「This job requires flying all across Southeast Asia, speaking directly with key figures, and building relationships with them.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「It's not the kind of work I can do remotely from the academy, and I'd have to dedicate myself to it full-time for at least two... no, three years.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I-I see...」"
+    },
+    {
+        "message": "In other words, if she takes this job, she won't be able to come back to Japan for two to three years at the earliest..."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「What's more, Makinojou-san seems to be in quite a hurry. I have to make my decision by the end of July at the latest.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「That's another reason I'm torn on how to respond.」"
+    },
+    {
+        "message": "To think that while I was getting all excited about yakiniku, Kei-chan was agonizing over something like this..."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I'm sorry... Here I was, getting all carried away by myself...」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Silly, didn't I tell you not to worry about it？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「This is my problem. All you need to think about is what's right in front of you—the Martial Festival.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「But this is something really important to you, isn't it, Kei-chan?」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Yes, it is. But Setsugekka, this is an important time for you too, isn't it?」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「The reason I didn't tell you about this until today was because I wanted you to be able to focus on the Martial Festival.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「I never meant to slight you or act like I don't rely on you—not in the slightest.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Kei-chan...」"
+    },
+    {
+        "message": "I see... Kei-chan was only keeping quiet for my sake, and here I went jumping to weird conclusions..."
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「If this ends up hurting your performance in the matches at all, I'll regret ever telling you.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「So please, forget about this. Devote yourself to what you must do.」"
+    },
+    {
+        "message": "...I see. She's right."
+    },
+    {
+        "message": "Kei-chan already knows everything I'm thinking. She doesn't even need my help."
+    },
+    {
+        "message": "So all I need to think about is what's right in front of me."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yeah... I understand. Sorry for making you worry, Kei-chan.」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Hehe, it's alright.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「But Kei-chan, let me say this up front.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「No matter what path you choose from here on out, I'm going to follow you.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Because you and I are two in one, halves split from a single cell—right？」"
+    },
+    {
+        "name": "Keisetsu",
+        "message": "「Yes, we are.」"
+    },
+    {
+        "message": "I couldn't tell what Kei-chan was thinking behind that smile, though."
+    },
+    {
+        "message": "Still, I just had to make sure she knew how I felt."
+    }
+]

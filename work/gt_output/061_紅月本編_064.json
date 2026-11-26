@@ -1,0 +1,726 @@
+[
+    {
+        "message": "Setsugekka and Asahi finished their mutual practice drills, and it was time for a break."
+    },
+    {
+        "message": "We have more practice scheduled for later today, so I guess I'll just wait here for now."
+    },
+    {
+        "name": "Iori",
+        "message": "「Momiji, how have things been with Miyako lately？」"
+    },
+    {
+        "message": "I call out to Momiji, who is sitting nearby."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Miyako？ She’s not as much trouble as I thought she’d be~」"
+    },
+    {
+        "message": "A few days have passed since Miyako first arrived at the academy. She only showed up in the classroom on the first day, and I haven't seen her face since."
+    },
+    {
+        "name": "Momiji",
+        "message": "「It’s been like that for a long time, but Miyako is just one of those kids who can do everything on her own.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「She says she’s bored of just watching the lessons, so it seems she’s just wandering around the academy by herself.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I don’t even know what she’s actually up to.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hahaha, she’s certainly free-spirited.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「She’s the very definition of a lone wolf. Honestly, Miyako might be the most well-suited for the Suzakuin family.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I really wish she’d just take over the Suzakuin house for me.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Miyako’s dream is to conquer the world, you know.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「W-well, once she grows up and learns how the real world works, she’ll probably mellow out a bit. A little bit of mischief never hurt, right？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You really don’t want to become the head of the family that much?」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Do you really think I want to take on such a troublesome task as carrying the Sword-Bearing Self-Defense Association on my back and leading all those martial families？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, absolutely not.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Exactly.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「That’s why, even though Keisetsu is working so hard to become the head, I can’t help but think... are you out of your mind...?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「The Kazamine and Suzakuin families really are polar opposites in so many ways.」"
+    },
+    {
+        "message": "It must be tough, carrying the burden of such famous names."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Haaaaahhh...」"
+    },
+    {
+        "message": "Just then, Setsugekka, who also carries such a burden, came walking over."
+    },
+    {
+        "name": "Iori",
+        "message": "「What’s wrong, Setsugekka?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「...Teacher, am I really getting stronger?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Judging by the numbers, you’re doing much better than before. Are you worried about losing your practice matches？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yes... Everyone seems to be moving ahead so quickly. I wonder if I can really become a Toujinegi...」"
+    },
+    {
+        "message": "There are less than two months left until the Martial Festival. It’s a period when anyone would start to feel impatience and anxiety."
+    },
+    {
+        "name": "Iori",
+        "message": "「You’ve been handling the rigorous basic training well and working hard.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「For a fencer like you, Setsugekka, who moves all over the field to fight, muscular strength and stamina are significantly more important than for others.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「In that regard, your physique has been steadily leveling up compared to before.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「And yet, I still can’t win our sparring sessions.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Right, but it might take some time before that translates into results.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「How long is ‘some time’ exactly！？」"
+    },
+    {
+        "message": "Setsugekka’s bottleneck is her low psychical sensitivity value."
+    },
+    {
+        "message": "To compensate for that, it is essential to utilize the secret art 《Tamukai》, but…"
+    },
+    {
+        "message": "I reached out through my acquaintances to ask around about cases where a Saniwa was able to unleash their power without losing control."
+    },
+    {
+        "name": "Iori",
+        "message": "（Well, I did get some answers, but they’re all pretty vague…）"
+    },
+    {
+        "message": "Still, it might be worth a shot."
+    },
+    {
+        "name": "Iori",
+        "message": "「Alright, Setsugekka. Come with me for a moment.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「What is it？ Did you find a good method！？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, there’s something I want you to try.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Hmm, can I tag along too？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Of course you can’t！ Are you trying to peek at the secret training between me and Muragaki-sensei?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, it’s fine. You can come along.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ehhh！？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Heh, score!」"
+    },
+    {
+        "message": "I brought the two of them to the indoor training facility."
+    },
+    {
+        "name": "Iori",
+        "message": "「Phew, glad the facility was free.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Muragaki-sensei, what are we doing here？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I want you to spar against this Yorishiro-kun.」"
+    },
+    {
+        "message": "I operate the simulator to call forth an opponent."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ehhhhh, m-me！？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That’s right, you.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「W-Why do I have to fight myself？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, let's just give it a try for now」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Y-Yes...」"
+    },
+    {
+        "message": "Waiting until Setsugekka finishes getting ready, I start up the simulator."
+    },
+    {
+        "name": "Yorishiro-kun",
+        "message": "「Combat simulation will now commence」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I don't really get it, but... here I go~！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Take this, Mishima-ryuu Type Hinoe: Ugachibi！！」"
+    },
+    {
+        "name": "Yorishiro-kun",
+        "message": "「.........」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Whoa... T-Type Kanoe: Gouhou, huh」"
+    },
+    {
+        "name": "Iori",
+        "message": "「How is it, Setsugekka? Fighting yourself」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Uuu~, this is so hard to fight against」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「My range and my opponent's range are the exact same, so it's super nerve-wracking~！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Haha, I bet」"
+    },
+    {
+        "message": "Setsugekka exchanges several more blows."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Why you... Your body's wide open, hey~！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Setsugekka, that's your own opening. Make sure you realize that you normally don't keep your arms tucked in tight enough」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ugh... Guhh, this is getting even harder to fight~」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I mean, what's even the point of this！？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「The Yorishiro-kun you're fighting right now is Setsugekka」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I can tell just by looking！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That's not what I mean. I don't want you to just look—I want you to feel it」"
+    },
+    {
+        "name": "Iori",
+        "message": "「The you who's fighting, the you who faces your opponent. Through fighting yourself, I want you to view your own inner self objectively」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「View my own inner self objectively...？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, that's right. Think carefully, Setsugekka」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Who you really are, what it is you desire. Why you are alive, and what you are living for」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Look at yourself standing right before your own eyes, and get to know yourself even better.」"
+    },
+    {
+        "message": "Through a friend's connection, I was able to hear from a certain exorcist."
+    },
+    {
+        "message": "How to control a god―it is this―"
+    },
+    {
+        "name": "Iori",
+        "message": "「Gods always lend a hand to sincere wishes. The only thing that draws a wish to oneself is one's own will.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「In other words, it’s about knowing yourself—knowing yourself better than anyone else. That builds a strong self capable of standing on equal footing with a god.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Setsugekka, you need to know yourself better.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「When you feel joy, when you feel anger, when you feel sadness, and when you feel happiness.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Delve deeper, right down to the root of your inner self. That will surely be useful when you commune with a god.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hmm… I-I don’t really get it!」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「But, I think I sort of understand.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「That I really don't understand myself at all.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I’m full of openings everywhere, I’ve got weird habits, and my gaze and expressions are so easy to read… I’m hopeless, aren’t I.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「But when I think about *why* I’m like that, I realize—ah, I see.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Good, Setsugekka. That realization is an important first step！」"
+    },
+    {
+        "message": "Everyone thinks they know themselves best, yet in reality, there are times when they don't understand themselves at all."
+    },
+    {
+        "message": "That is because they are unable to view themselves objectively."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Whoa, I feel like I’m getting closer to the answer!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Keep at it, and keep communing with yourself！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Okay, I’ll give it a shot！」"
+    },
+    {
+        "message": "Setsugekka shows sudden, renewed motivation."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Come on, come on—hey there, Kazamine Setsugekka！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Let’s cross our Origami and lay everything out on the table！」"
+    },
+    {
+        "name": "Yorishiro-kun",
+        "message": "「.........」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Right then, here I go！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Take that… don’t use such half-baked attacks on me！」"
+    },
+    {
+        "name": "Yorishiro-kun",
+        "message": "「Barrier Jacket integrity has fallen below the safety threshold. Please terminate the combat simulation.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yes! I took you down!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Good work, Setsugekka. Shall we take a break?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yes!」"
+    },
+    {
+        "message": "I hand her a towel and commend Setsugekka as she returns."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Phew... That really cleared my head. It’s fresh and fun to spar with yourself, isn’t it~」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, checking your form in a mirror is fine, but this is much closer to a real fight.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Besides, once you get used to it, I hope you can focus more on internal dialogue.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Understood!」"
+    },
+    {
+        "message": "Setsugekka had been down before starting this training, but she’s regained a lot of her energy."
+    },
+    {
+        "name": "Momiji",
+        "message": "「That’s good for you, Setsugekka.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yeah, feeling like a fool for overthinking everything. I guess I’m better at moving than thinking, huh~」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Hey, Sensei, don't I get anything？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You have zazen, don't you, Momiji?」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ugh, I’m sick of zazen already~!」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Seriously, not thinking about anything at all is just agonizing.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Is it really that agonizing？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Even just trying not to think for a minute is pretty rough.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...I see. You’ve got a sharp mind, Momiji.」"
+    },
+    {
+        "message": "For Momiji, whose mind is constantly racing, 'not thinking about anything' must be many times more painful than it is for a normal person."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「That’s weird. I find it easier not to think about anything, though~」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Must be nice... being so carefree. I’m genuinely envious.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「That’s kinda annoying, you’re making fun of me, aren't you!」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「No, no, I seriously want to know. How do you go about not thinking？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Why are you asking me？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Because, Setsugekka, you don't even think when you're living your daily life anyway.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Don't mess with me, I think plenty when I'm living my life！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「But it’s easier not to think about it, right？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Well, yeah, thinking about complicated stuff just makes my head hurt, and it’s happier to just do nothing and go powaa~」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Right there, that ‘powaa~’ thing, tell me more about it.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Huh? What do you mean ‘more about it’? Powaa~ is just powaa~.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Show me by actually doing it.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I-I guess that’s fine, but…」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Powaa~……」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Is this good？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Can you do it one more time?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Powaa~, powawa~……」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Pfft……」"
+    },
+    {
+        "message": "Seeing Setsugekka’s blissed-out expression, I couldn't help but burst out laughing."
+    },
+    {
+        "name": "Momiji",
+        "message": "「She’s just a total airhead.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hey, come on, that’s enough, you know！？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「And why are you laughing too, Sensei！？ That’s rude, isn’t it！？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「S-sorry. I didn't mean any harm, forgive me.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「What’s the deal? You just wanted to diss me, didn't you?」"
+    },
+    {
+        "message": "Setsugekka fumed in annoyance."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Sorry, sorry. I just want to know how to do that ‘powaa~’ thing.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「What do you mean ‘how’? Can’t you just try making the same face?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Come on, Momimomi, try imitating me.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「O-okay.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Powaa~……」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Powaa~」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Bfff……」"
+    },
+    {
+        "message": "No good, it hit my funny bone."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Sorry, no way. This is just too embarrassing.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Are you saying that I’m some kind of embarrassing creature!?」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「No, I mean, seriously, it’s just too hard to not think about anything at all.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I honestly have no idea what’s so hard about it.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I mean, just get plenty of sleep, eat something delicious, and gaze up at the sky—it’s easy, right?」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I’m amazed you’ve managed to get by until now like that.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hmm... Well, in my case, Kei-chan does all the difficult thinking for me.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I could never just leave things up to someone else. I don’t understand how you can be satisfied with that.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Kei-chan is kind, and she’s always on my side.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Plus, Kei-chan always finds a better answer than whatever I could come up with on my own.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Things always turn out way better when I just do what she suggests.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「You know how they say, an amateur’s thinking is as good as sleeping, right?」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「‘An amateur’s thinking is like a waste of time,’ you mean.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yeah, that. If I’m just going to stress over things I don’t understand forever, I think it’s better to just leave it to someone who can.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「…………」"
+    },
+    {
+        "message": "Listening to Setsugekka, Momiji fell silent."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hmph, I sense you’re looking down on me again!」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I’m not. Hmm, I see.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「What do you see?」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「No, just… the idea that it’s better to leave it to others than to stress over things you don’t understand… that’s actually kind of nice.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hm？ I just said what felt obvious to me.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Well, it isn’t obvious to me.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Eh, what do you mean？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Doesn't it just mean she's too smart, and doesn't have anyone around she can entrust her problems to?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「What's with that sarcasm? I hope you agonize over it and writhe in misery.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Don't put a curse on me!」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Well, I might've gotten a bit of a hint, though.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hmm, well, that's good then.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Thanks, Secchan.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yeah, don't sweat it!」"
+    },
+    {
+        "message": "Thanks to Setsugekka, it seemed Momiji had grasped something too."
+    }
+]

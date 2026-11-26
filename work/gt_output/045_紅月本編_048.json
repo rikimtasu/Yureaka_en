@@ -1,0 +1,293 @@
+[
+    {
+        "message": "With classes all wrapped up for the day, it's after school."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Good work today. Sensei, got a minute？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, what's up？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「If you've got time after this, I was hoping you could train with me.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, that's rare. You're actually eager to train?」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Hey, I've been doing solo practice like normal this whole time, you know？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「It's just that zazen really stressed me out today. So I was thinking I wanna move around a bit~」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Zazen stressed you out...？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Just sitting there without thinking about anything is pure torture, isn't it?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「W-Well, I guess... Sorry, though. I've got remedial lessons with Ririmu right now.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Oh, I see~ Guess it can't be helped, then.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I'll definitely spar with you next time.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Yeah... Well, see ya~」"
+    },
+    {
+        "message": "Momiji looks a little disappointed as she leaves the classroom. I'm bummed too, but it can't be helped."
+    },
+    {
+        "name": "Iori",
+        "message": "「All right, since I turned down her offer, I'd better make this count！ He~y, Ririmu~！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ehhh~~ We're seriously doing this~？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, first up is a quick quiz to see where you're at. Go ahead and start.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「All do~ne！ Well then, catch ya later, Iorin~♪」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Whoa！？ Caught me~！？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hold it. I'll grade it right now, so sit down.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Mgh, let go of me~! I did it, so we're done, right!」"
+    },
+    {
+        "message": "I grab Ririmu by the arm as she tries to make a break for it and sit her back down."
+    },
+    {
+        "name": "Iori",
+        "message": "「...I see. This is pretty bad. Even worse than I thought.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Urgh... I actually tried, you know！ I really did！ You think I'm lying, don't you！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I don't think you're lying. It's just that every single question on this quiz was lowered to a middle-school level.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Oh, really？」"
+    },
+    {
+        "message": "Even during remedial lessons, Ririmu's grasp of the material was uneven—some parts she understood, and others she didn't."
+    },
+    {
+        "message": "So when I narrowed the questions down to middle-school level, she missed them across the board."
+    },
+    {
+        "name": "Iori",
+        "message": "「Ririmu, is there some reason you don't seem to know any middle-school material at all？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hmm... Well, the reason's pretty clear, I guess」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「My parents have been super strict ever since I was a kid, y'know? I hated it, so I ran away from home.」"
+    },
+    {
+        "message": "Ah, now that she mentions it, she did tell me that before."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Because of that, I barely went to school at all during middle school.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Where did you spend your time？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Downtown, mostly. I stayed at hotels. They never froze my credit card, after all.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Well, I guess they figured it was better than me turning to crime.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「At first, some guys my parents hired came to drag me back, though」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「You know how strong I am, right？ Once I beat every single one of them, they gave up pretty quick.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hahaha, you're quite the tomboy.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「While I was living out in the city like that, there were tons of people with reasons just like mine」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「They couldn't study to save their lives, but there were so many people I could really respect, and people making their dreams come true all on their own.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I mean, fashion, hanging out—there were whole worlds out there I'd never even known about！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Staying up till morning talking with friends and stuff—it was super fun！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「People who really shine, y'know, they all have their own worldview, and they stay true to it.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「So I thought, I want to be like that too.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I started wanting to do what I want to do, and stay true to my own worldview.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「......Ugh, totally put you off, didn't I? You're probably thinking, 'What is she doing instead of studying?'」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, I don't think that at all.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Long ago, back in the Sengoku period, there were samurai known as 'kabukimono'—have you ever heard of them？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ehhh, more history studyin'？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hahaha, no, that's not it. The kabukimono mindset I just mentioned is just like you, Ririmu.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Living for your own sense of aesthetics—that's what a kabukimono is.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「They'd even put their lives on the line for their aesthetics and beliefs. Some of them even went head-to-head against the rulers of their time like that.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「For real？ Whoa, people like that actually existed！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「So I don't think your way of thinking is weird at all, Ririmu.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「There have always been a certain number of people like that throughout history, and sometimes they're the ones who shake up the whole world.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I hope you can become someone like that someday too, Ririmu.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Th-Thanks... for understanding. I think that's the first time anyone's ever said something like that to me...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Like, I just don't think Jindou should be all about strength, y'know?」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Being fashionable and stylish—all of that is part of Jindou too, right?」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「That's why I'm a swordswoman, sure, but I'm a model too. The Jindou stage is my runway.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I wanna show that off in the ultimate way at the Martial Festival！ That's my dream！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I think that's awesome. I'll back you up with everything I've got.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Really？ Thanks a ton, Iorin！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「And so, here's step one of my all-out support.」"
+    },
+    {
+        "message": "I toss a hologram over toward Ririmu."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hmm？ What's this？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Memorize all of it. By tomorrow.」"
+    },
+    {
+        "message": "What I tossed to Ririmu is a history textbook loaded onto the hologram."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Wh-Whaaaaat？！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「If you're a model walking the ultimate runway that is the Martial Festival, something like this should be a piece of cake.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「H-Hey, putting it like that is totally unfair！！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Pass your midterms without a hitch, Ririmu, and show me the best fashion show ever.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「U-Ughhhhh... okay.」"
+    },
+    {
+        "message": "Ririmu hangs her head with a defeated slump."
+    }
+]

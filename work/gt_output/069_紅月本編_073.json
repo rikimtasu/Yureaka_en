@@ -1,0 +1,317 @@
+[
+    {
+        "message": "After parting ways with Asahi, I came to the stadium by myself."
+    },
+    {
+        "name": "Iori",
+        "message": "「...‘Don’t carry the burden,’ huh.」"
+    },
+    {
+        "message": "I know full well what Asahi wanted to say to me. She’s always been very perceptive."
+    },
+    {
+        "name": "Iori",
+        "message": "「Seeing it again like this brings back memories...」"
+    },
+    {
+        "message": "And looking at this stadium brings it all back. What I should be carrying, not her."
+    },
+    {
+        "message": "Something I must never forget, something I can never forget—the memories of that summer."
+    },
+    {
+        "message": "—That year, too, it was a hot summer."
+    },
+    {
+        "message": "In the Murakumo Martial Festival, I managed to fight my way through the main tournament and made it to the finals."
+    },
+    {
+        "message": "I was a second-year in the Martial Arts Division, and I was determined to become the Toujinegi this year."
+    },
+    {
+        "name": "Iori",
+        "message": "「Man... the semifinals were rough.」"
+    },
+    {
+        "message": "My opponent in the semis was a third-year, and since it was his last Martial Festival, his offensive was fierce and desperate."
+    },
+    {
+        "message": "In that sense, the upcoming final against someone I know well doesn’t carry that same kind of tension."
+    },
+    {
+        "name": "Iori",
+        "message": "「...Well, I always knew we’d face each other eventually. He’s more than worthy.」"
+    },
+    {
+        "message": "I center my mind and regulate my breathing. My spirits rise naturally."
+    },
+    {
+        "name": "Iori",
+        "message": "「Because my opponent is the current Toujinegi.」"
+    },
+    {
+        "message": "Last year, Takahisa took down several veterans to become the Toujinegi, a real rising star despite being only a first-year."
+    },
+    {
+        "message": "He’s already received offers from several professional Jindou teams and is the most talked-about athlete this year."
+    },
+    {
+        "name": "Iori",
+        "message": "（Whoever wins becomes the Toujinegi. This match decides everything between me and Takahisa...！）"
+    },
+    {
+        "name": "Iori",
+        "message": "「I’m going to win this year. I will not lose to Takahisa...！！」"
+    },
+    {
+        "message": "Just as I was burning with that fighting spirit—"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「Yo, Iori! It’s finally time for our match, man! Ooh~, I’m getting pumped up!♪」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...Seriously? Are you an idiot for coming to your opponent’s waiting room at a time like this? What are you even thinking?」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「Come on, what’s the point of glaring at each other now？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Should I tell Asahi-chan about this later?」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「W-wait, is she actually here!？ Iori, that’s dirty! You know I can’t stand up to Asahi, using her as a hostage like that!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I’m kidding. I just saw her in the stands earlier.」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「Whoa, you got me there！ Hahaha, Iori’s got the upper hand now, huh.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「If you’re going to let your Iai and sword-drawing skills get rusty over something like this, maybe I really should take you hostage.」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「Oh ho, sure thing？ If you take her as your bride while you're at it, I'd feel at ease too! Wahahaha!」"
+    },
+    {
+        "message": "We laugh loudly together in the waiting room before the match."
+    },
+    {
+        "name": "Takahisa",
+        "message": "「Listen up, Iori！ Come at me with everything you've got; I'm gonna go all out too！ Don't you dare end this while still holding your cards back！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, of course. I'm looking forward to it, Takahisa.」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「Oh yeah！ In that case, I'll be waiting for you！」"
+    },
+    {
+        "message": "Saying that, Takahisa returned to his own waiting area."
+    },
+    {
+        "name": "Iori",
+        "message": "「Phew... haaah...」"
+    },
+    {
+        "message": "The match became a tense, down-to-the-wire affair."
+    },
+    {
+        "message": "An offensive style that utilized innate reaction speed and Iai-style quick-draws to boldly attack and toy with the opponent despite the disadvantageous circumstances—."
+    },
+    {
+        "name": "Iori",
+        "message": "（Guh, I can't push him back... At this rate, I'm done for！）"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「Come on, come on, don't you go losing your breath now...！ You're not the type to get taken down by something like this, are you！？」"
+    },
+    {
+        "message": "His expression was brimming with intensity, as if he were a completely different person from the one I had shared a laugh with earlier."
+    },
+    {
+        "message": "I was gradually being driven into a corner."
+    },
+    {
+        "name": "Iori",
+        "message": "「Ugh...！」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「How's that, look at it—this is the strike of a Toujinegi！！！」"
+    },
+    {
+        "message": "Letting them cut your flesh to cut their bones, and vice versa. I couldn't land a single blow unless I whittled down his Barrier Jacket."
+    },
+    {
+        "name": "Iori",
+        "message": "（No good... my stamina... it's all gone...！！）"
+    },
+    {
+        "message": "I thought I had trained more than the average person, but it seemed I was no match for Takahisa."
+    },
+    {
+        "message": "Right now, Takahisa was about to settle this endless war of attrition."
+    },
+    {
+        "name": "Iori",
+        "message": "（Am I... going to lose here？ Will the title of Toujinegi remain out of my reach this year too...？）"
+    },
+    {
+        "message": "My breathing couldn't keep up with the physical exertion at all. My field of vision began to narrow, little by little."
+    },
+    {
+        "name": "Iori",
+        "message": "（No... I absolutely refuse to lose...！！）"
+    },
+    {
+        "message": "An emotion chilling me to the core—the beast had awakened."
+    },
+    {
+        "name": "Iori",
+        "message": "「Haa, haa... hah, haaah...！！」"
+    },
+    {
+        "message": "That's right, didn't Takahisa say so himself?"
+    },
+    {
+        "message": "Like this, with my cards still hidden. I cannot afford to end it here—"
+    },
+    {
+        "name": "Iori",
+        "message": "「...The Muragaki essence, Tengen Saimei―ryuu―I come.」"
+    },
+    {
+        "message": "I muttered the words as if sliding into another state."
+    },
+    {
+        "message": "Something flashed."
+    },
+    {
+        "name": "Iori",
+        "message": "「...H-huh？」"
+    },
+    {
+        "message": "By the time I realized it."
+    },
+    {
+        "message": "Everything before my eyes was simply red... yes, dyed in deep crimson."
+    },
+    {
+        "name": "Iori",
+        "message": "（I see, I was struck... I lost, didn't I...）"
+    },
+    {
+        "message": "No, something is wrong. Is this... blood？"
+    },
+    {
+        "name": "Iori",
+        "message": "「Huh...？」"
+    },
+    {
+        "message": "Screams filled the arena, and Takahisa writhed in agony."
+    },
+    {
+        "message": "Looking closely, my Origami had,"
+    },
+    {
+        "message": "pierced clean through Takahisa's shoulder."
+    },
+    {
+        "name": "Iori",
+        "message": "「Taka, hisa...？」"
+    },
+    {
+        "message": "With his artery severed, blood sprayed from Takahisa with every pulse."
+    },
+    {
+        "name": "Iori",
+        "message": "<s34>\"Ah... aaah, aaaaaaaah...！！！！\"</s>"
+    },
+    {
+        "message": "The match ended in my victory."
+    },
+    {
+        "message": "...Due to massive blood loss, Takahisa fell into a critical, unconscious state."
+    },
+    {
+        "message": "A few days later, he somehow managed to regain consciousness, but that wasn't the end of it."
+    },
+    {
+        "message": "Takahisa's right upper arm was on the verge of amputation."
+    },
+    {
+        "message": "Fortunately, the surgery was successful and he didn't lose his arm, but he could no longer move it as he once had."
+    },
+    {
+        "message": "...The impairment of his dominant arm was fatal for a swordsman."
+    },
+    {
+        "message": "The god-speed Iai draw that Takahisa showed when he was a Toujinegi was lost to the world forever."
+    },
+    {
+        "message": "Even so... Takahisa didn't give up."
+    },
+    {
+        "message": "At first, he had no grip strength and couldn't even hold a sword. He practiced swinging with his left hand instead."
+    },
+    {
+        "message": "After grueling, blood-sweating rehabilitation, Takahisa attempted the Martial Festival qualifiers in his third year."
+    },
+    {
+        "message": "But—the result was a loss in the qualifiers."
+    },
+    {
+        "message": "All offers from professional teams were canceled, and that was the end of Takahisa's Jindou."
+    },
+    {
+        "message": "I have no right to be involved in Jindou. Because there is no mistaking that it was I who stole Takahisa's dream."
+    },
+    {
+        "message": "Yes, that's why I abandoned my dream of becoming a teacher and knocked on the doors of the Ground Self-Defense Force."
+    },
+    {
+        "message": "I thought that was the just reward, and the just atonement."
+    },
+    {
+        "name": "Iori",
+        "message": "「And yet, what am I doing...」"
+    },
+    {
+        "message": "Actually working as a teacher, I realized something."
+    },
+    {
+        "message": "I love this job of nurturing, teaching, and guiding others. I can't get enough of watching them grow, of seeing their happy faces."
+    },
+    {
+        "message": "Next year, and the year after that. If I could keep doing this job, how happy I would be."
+    },
+    {
+        "message": "And that is precisely why I must not be a teacher."
+    },
+    {
+        "message": "To have stolen Takahisa's dream and his happiness, only to find my own？ Such a thing can never be forgiven."
+    },
+    {
+        "name": "Iori",
+        "message": "「...Well, it's only until this mission is over」"
+    },
+    {
+        "message": "Once this 'errand' is finished, I will return to the Tenju Special Forces."
+    },
+    {
+        "message": "That was both lonely, and a relief."
+    }
+]

@@ -1,0 +1,2685 @@
+{
+  "vn": {
+    "aliases": [
+      "ゆれあか",
+      "Yureaka",
+      "紅月搖曳的戀之星火"
+    ],
+    "alttitle": "紅月ゆれる恋あかり",
+    "description": "\"Jindou\" it's a near-future sport where you fight with real swords that's really hot in Japan in the 2040s. Two girls enrolled into Murakumo Academy where said Jindou is taught. One of them is Kazamine Setsugekka, a rough and emotionally-driven girl who bolsters her blade with the unparalleled strength within her. The other is Suzakuin Momiji, a cool headed and incredibly precise girl with a prodigious sense for swordplay and a frightening sharp mind. These two, whose circumstances and personalities are completely different, both aim for the the title conferred upon the strongest in the academy, the \"Toujinegi\". \n\nThe protagonist, Muragaki Iori, is invited to the academy as a temporary teacher and is ordered to be the sub homeroom tutor of the special top class \"Takamura\", which Setsugekka and Momiji are a part of. However, the students in this Takamura class... turned out to all be incredibly troublesome kids! There's Kuki Asahi, a girl who has a serious and calm personality, but goes on fanatical rampages when it comes to Iori; and Tobe Ririmu, an incredibly selfish gyaru who believes her \"self\" only belongs to herself.\n\nJust will Iori be able to successfully guide these incredibly \"unique\" students? Just who will receive the title of the strongest in the academy, the \"Toujinegi\"? And in whom will the light of love for Iori be lit?\n\n[Translated from the [url=http://crystalia.amusecraft.com/yureaka/introduction.html]official website[/url]]",
+    "id": "v28712",
+    "title": "Akatsuki Yureru Koi Akari",
+    "titles": [
+      {
+        "lang": "ja",
+        "latin": "Akatsuki Yureru Koi Akari",
+        "title": "紅月ゆれる恋あかり"
+      },
+      {
+        "lang": "zh-Hans",
+        "latin": "Hongyue Yaoye de Lian zhi Xinghuo",
+        "title": "红月摇曳的恋之星火"
+      }
+    ]
+  },
+  "vndb_characters": [
+    {
+      "vndb_id": "c65005",
+      "role": "side",
+      "name_en_vndb": "Sasaki Mikoto",
+      "original_jp": "佐々木 巫琴",
+      "surname_jp": "佐々木",
+      "given_jp": "巫琴",
+      "sex": "f",
+      "speaker_count": 342,
+      "description": ""
+    },
+    {
+      "vndb_id": "c91888",
+      "role": "primary",
+      "name_en_vndb": "Kazamine Setsugekka",
+      "original_jp": "風嶺 雪月花",
+      "surname_jp": "風嶺",
+      "given_jp": "雪月花",
+      "sex": "f",
+      "speaker_count": 3159,
+      "description": ""
+    },
+    {
+      "vndb_id": "c91889",
+      "role": "primary",
+      "name_en_vndb": "Kuki Asahi",
+      "original_jp": "九鬼 旭",
+      "surname_jp": "九鬼",
+      "given_jp": "旭",
+      "sex": "f",
+      "speaker_count": 2009,
+      "description": "Protagonist best friend, Kuki Takahisa younger sister. She had a crush on protagonist ever since her childhood. First year student of martial arts section and part of special class, Takamuragumi."
+    },
+    {
+      "vndb_id": "c91890",
+      "role": "primary",
+      "name_en_vndb": "Suzakuin Momiji",
+      "original_jp": "朱雀院 紅葉",
+      "surname_jp": "朱雀院",
+      "given_jp": "紅葉",
+      "sex": "f",
+      "speaker_count": 2930,
+      "description": ""
+    },
+    {
+      "vndb_id": "c91891",
+      "role": "primary",
+      "name_en_vndb": "Tobe Ririmu",
+      "original_jp": "十部 梨々夢",
+      "surname_jp": "十部",
+      "given_jp": "梨々夢",
+      "sex": "f",
+      "speaker_count": 1981,
+      "description": ""
+    },
+    {
+      "vndb_id": "c91892",
+      "role": "main",
+      "name_en_vndb": "Muragaki Iori",
+      "original_jp": "村垣 伊織",
+      "surname_jp": "村垣",
+      "given_jp": "伊織",
+      "sex": "m",
+      "speaker_count": 5280,
+      "description": ""
+    },
+    {
+      "vndb_id": "c92307",
+      "role": "side",
+      "name_en_vndb": "Tennouji Victoria",
+      "original_jp": "天王寺 ヴィクトリア",
+      "surname_jp": "天王寺",
+      "given_jp": "ヴィクトリア",
+      "sex": "f",
+      "speaker_count": 594,
+      "description": ""
+    },
+    {
+      "vndb_id": "c92308",
+      "role": "side",
+      "name_en_vndb": "Minamoto Shizuku",
+      "original_jp": "源 雫",
+      "surname_jp": "源",
+      "given_jp": "雫",
+      "sex": "f",
+      "speaker_count": 381,
+      "description": ""
+    },
+    {
+      "vndb_id": "c92309",
+      "role": "side",
+      "name_en_vndb": "Arakawa Sonomi",
+      "original_jp": "荒川 園美",
+      "surname_jp": "荒川",
+      "given_jp": "園美",
+      "sex": "f",
+      "speaker_count": 577,
+      "description": ""
+    },
+    {
+      "vndb_id": "c92310",
+      "role": "side",
+      "name_en_vndb": "Kazamine Keisetsu",
+      "original_jp": "風嶺 蛍雪",
+      "surname_jp": "風嶺",
+      "given_jp": "蛍雪",
+      "sex": "f",
+      "speaker_count": 723,
+      "description": ""
+    },
+    {
+      "vndb_id": "c92970",
+      "role": "side",
+      "name_en_vndb": "Suzakuin Miyako",
+      "original_jp": "朱雀院 都子",
+      "surname_jp": "朱雀院",
+      "given_jp": "都子",
+      "sex": "f",
+      "speaker_count": 312,
+      "description": ""
+    },
+    {
+      "vndb_id": "c92971",
+      "role": "side",
+      "name_en_vndb": "Suzakuin Tsubaki",
+      "original_jp": "朱雀院 椿",
+      "surname_jp": "朱雀院",
+      "given_jp": "椿",
+      "sex": "f",
+      "speaker_count": 67,
+      "description": ""
+    },
+    {
+      "vndb_id": "c94719",
+      "role": "side",
+      "name_en_vndb": "Kuki Takahisa",
+      "original_jp": "九鬼 隆久",
+      "surname_jp": "九鬼",
+      "given_jp": "隆久",
+      "sex": "m",
+      "speaker_count": 181,
+      "description": "Asahi's older brother."
+    },
+    {
+      "vndb_id": "c157028",
+      "role": "side",
+      "name_en_vndb": "Nakamura Sakura",
+      "original_jp": "中邑 さくら",
+      "surname_jp": "中邑",
+      "given_jp": "さくら",
+      "sex": null,
+      "speaker_count": 189,
+      "description": ""
+    },
+    {
+      "vndb_id": "c157029",
+      "role": "side",
+      "name_en_vndb": "Sassa Naruko",
+      "original_jp": "佐々 鳴子",
+      "surname_jp": "佐々",
+      "given_jp": "鳴子",
+      "sex": null,
+      "speaker_count": 238,
+      "description": ""
+    }
+  ],
+  "all_speakers": {
+    "伊織": 5280,
+    "雪月花": 3159,
+    "紅葉": 2930,
+    "旭": 2009,
+    "梨々夢": 1981,
+    "蛍雪": 723,
+    "ヴィクトリア": 594,
+    "園美": 577,
+    "雫": 381,
+    "巫琴": 342,
+    "都子": 312,
+    "佐々鳴子": 238,
+    "中邑さくら": 189,
+    "隆久": 181,
+    "立会人": 85,
+    "椿": 67,
+    "朝霧ミドリ": 45,
+    "？？？": 27,
+    "店長": 23,
+    "柾胤": 23,
+    "女の子": 13,
+    "女子生徒Ａ": 11,
+    "女子生徒Ｂ": 11,
+    "師匠": 11,
+    "凛": 11,
+    "ナレーター": 10,
+    "観客Ａ": 9,
+    "女子生徒": 8,
+    "全員": 8,
+    "ヨリシロくん": 8,
+    "観客Ｂ": 8,
+    "技巧科の生徒": 7,
+    "梨々夢の父": 6,
+    "道場の後輩Ａ": 5,
+    "店員": 4,
+    "メイド": 4,
+    "教師": 4,
+    "警察官": 3,
+    "秘書": 3,
+    "蛍雪の部下": 3,
+    "観客Ｄ": 3,
+    "観客Ｃ": 3,
+    "アナウンサー": 3,
+    "みんな": 2,
+    "雪月花＆旭＆梨々夢": 2,
+    "雪月花＆梨々夢": 2,
+    "男の子": 2,
+    "道場の後輩Ｂ": 2,
+    "旭＆梨々夢": 2,
+    "雪月花＆紅葉": 2,
+    "梨々夢の母": 2,
+    "琴の先生": 2,
+    "刃道トレーナー": 2,
+    "観客Ｅ": 2,
+    "観客Ｆ": 2,
+    "観客たち": 2,
+    "場内アナウンス": 2,
+    "雪月花＆園美": 1,
+    "親戚Ａ": 1,
+    "親戚Ｂ": 1,
+    "学園システム": 1,
+    "雪月花＆都子": 1,
+    "運転手": 1,
+    "雫＆紅葉": 1,
+    "ヴィクトリア＆雪月花": 1,
+    "旭＆紅葉": 1
+  },
+  "tips_terms": [
+    {
+      "id": "d0000",
+      "jp": "叢雲学園",
+      "reading": "むらくもがくえん",
+      "img_small": "tips0000S",
+      "img_big": "tips0000B",
+      "link_texts": [
+        "叢雲学園"
+      ],
+      "occurrences": 59
+    },
+    {
+      "id": "d0001",
+      "jp": "ＨＲ",
+      "reading": "ほろぐらふぃっくりありてぃ",
+      "img_small": "tips0001S",
+      "img_big": "tips0001B",
+      "link_texts": [
+        "ＨＲ"
+      ],
+      "occurrences": 15
+    },
+    {
+      "id": "d0002",
+      "jp": "天呪特科群『武蔵』",
+      "reading": "てんじゅとっかぐんむさし",
+      "img_small": "tips0002S",
+      "img_big": "tips0002B",
+      "link_texts": [
+        "天呪特科群『武蔵』"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "d0003",
+      "jp": "折紙",
+      "reading": "おりがみ",
+      "img_small": "tips0003S",
+      "img_big": "tips0003B",
+      "link_texts": [
+        "折紙"
+      ],
+      "occurrences": 2
+    },
+    {
+      "id": "d0004",
+      "jp": "天呪",
+      "reading": "てんじゅ",
+      "img_small": "tips0004S",
+      "img_big": "tips0004B",
+      "link_texts": [
+        "天呪"
+      ],
+      "occurrences": 158
+    },
+    {
+      "id": "d0005",
+      "jp": "中隊規模",
+      "reading": "ちゅうたいきぼ",
+      "img_small": "tips0005S",
+      "img_big": "tips0005B",
+      "link_texts": [
+        "中隊規模"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "d0006",
+      "jp": "武芸科",
+      "reading": "ぶげいか",
+      "img_small": "tips0006S",
+      "img_big": "tips0006B",
+      "link_texts": [
+        "武芸科"
+      ],
+      "occurrences": 88
+    },
+    {
+      "id": "d0007",
+      "jp": "技巧科",
+      "reading": "ぎこうか",
+      "img_small": "tips0007S",
+      "img_big": "tips0007B",
+      "link_texts": [
+        "技巧科"
+      ],
+      "occurrences": 39
+    },
+    {
+      "id": "d0008",
+      "jp": "主計科",
+      "reading": "しゅけいか",
+      "img_small": "tips0008S",
+      "img_big": "tips0008B",
+      "link_texts": [
+        "主計科"
+      ],
+      "occurrences": 9
+    },
+    {
+      "id": "d0009",
+      "jp": "叢雲演武祭",
+      "reading": "むらくもえんぶさい",
+      "img_small": "tips0009S",
+      "img_big": "tips0009B",
+      "link_texts": [
+        "叢雲演武祭"
+      ],
+      "occurrences": 16
+    },
+    {
+      "id": "d0010",
+      "jp": "朱雀院家",
+      "reading": "すざくいんけ",
+      "img_small": "tips0010S",
+      "img_big": "tips0010B",
+      "link_texts": [
+        "朱雀院家"
+      ],
+      "occurrences": 37
+    },
+    {
+      "id": "d0011",
+      "jp": "佩刀護身会",
+      "reading": "はいとうごしんかい",
+      "img_small": "tips0011S",
+      "img_big": "tips0011B",
+      "link_texts": [
+        "佩刀護身会"
+      ],
+      "occurrences": 24
+    },
+    {
+      "id": "d0012",
+      "jp": "刀仕禰宜",
+      "reading": "とうじねぎ",
+      "img_small": "tips0012S",
+      "img_big": "tips0012B",
+      "link_texts": [
+        "刀仕禰宜"
+      ],
+      "occurrences": 194
+    },
+    {
+      "id": "d0013",
+      "jp": "サービスだいじ！",
+      "reading": "さーびすだいじ",
+      "img_small": "tips0013S",
+      "img_big": "tips0013B",
+      "link_texts": [
+        "サービスだいじ！"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "d0014",
+      "jp": "介添人",
+      "reading": "かいぞえにん",
+      "img_small": "tips0014S",
+      "img_big": "tips0014B",
+      "link_texts": [
+        "介添人"
+      ],
+      "occurrences": 23
+    },
+    {
+      "id": "d0015",
+      "jp": "源",
+      "reading": "みなもと",
+      "img_small": "tips0015S",
+      "img_big": "tips0015B",
+      "link_texts": [
+        "源"
+      ],
+      "occurrences": 75
+    },
+    {
+      "id": "d0016",
+      "jp": "いけいけオキタくん",
+      "reading": "いけいけおきたくん",
+      "img_small": "tips0016S",
+      "img_big": "tips0016B",
+      "link_texts": [
+        "いけいけオキタくん"
+      ],
+      "occurrences": 3
+    },
+    {
+      "id": "d0017",
+      "jp": "尊王攘夷",
+      "reading": "そんのうじょうい",
+      "img_small": "tips0017S",
+      "img_big": "tips0017B",
+      "link_texts": [
+        "尊王攘夷"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "d0018",
+      "jp": "夷狄",
+      "reading": "いてき",
+      "img_small": "tips0018S",
+      "img_big": "tips0018B",
+      "link_texts": [
+        "夷狄"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "d0019",
+      "jp": "霊式具装",
+      "reading": "れいしきぐそう",
+      "img_small": "tips0019S",
+      "img_big": "tips0019B",
+      "link_texts": [
+        "霊式具装"
+      ],
+      "occurrences": 15
+    },
+    {
+      "id": "d0020",
+      "jp": "神眼極手",
+      "reading": "しんがんのきわめて",
+      "img_small": "tips0020S",
+      "img_big": "tips0020B",
+      "link_texts": [
+        "神眼極手"
+      ],
+      "occurrences": 29
+    },
+    {
+      "id": "d0021",
+      "jp": "紅葉狩",
+      "reading": "もみじがり",
+      "img_small": "tips0021S",
+      "img_big": "tips0021B",
+      "link_texts": [
+        "紅葉狩"
+      ],
+      "occurrences": 3
+    },
+    {
+      "id": "d0022",
+      "jp": "ライバル",
+      "reading": "らいばる",
+      "img_small": "tips0022S",
+      "img_big": "tips0022B",
+      "link_texts": [
+        "ライバル"
+      ],
+      "occurrences": 21
+    },
+    {
+      "id": "d0023",
+      "jp": "トレッター",
+      "reading": "とれったー",
+      "img_small": "tips0023S",
+      "img_big": "tips0023B",
+      "link_texts": [
+        "トレッター"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "d0024",
+      "jp": "三島流格闘術",
+      "reading": "みしまりゅうかくとうじゅつ",
+      "img_small": "tips0024S",
+      "img_big": "tips0024B",
+      "link_texts": [
+        "三島流格闘術"
+      ],
+      "occurrences": 5
+    },
+    {
+      "id": "d0025",
+      "jp": "縮地",
+      "reading": "しゅくち",
+      "img_small": "tips0025S",
+      "img_big": "tips0025B",
+      "link_texts": [
+        "縮地"
+      ],
+      "occurrences": 3
+    },
+    {
+      "id": "d0026",
+      "jp": "中邑さくら",
+      "reading": "なかむらさくら",
+      "img_small": "tips0026S",
+      "img_big": "tips0026B",
+      "link_texts": [
+        "中邑さくら"
+      ],
+      "occurrences": 219
+    },
+    {
+      "id": "d0027",
+      "jp": "切歯扼腕",
+      "reading": "せっしやくわん",
+      "img_small": "tips0027S",
+      "img_big": "tips0027B",
+      "link_texts": [
+        "切歯扼腕"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "d0028",
+      "jp": "九鬼隆久",
+      "reading": "くきたかひさ",
+      "img_small": "tips0028S",
+      "img_big": "tips0028B",
+      "link_texts": [
+        "九鬼隆久"
+      ],
+      "occurrences": 13
+    },
+    {
+      "id": "d0029",
+      "jp": "八紘我観",
+      "reading": "わーるどいずまいん",
+      "img_small": "tips0029S",
+      "img_big": "tips0029B",
+      "link_texts": [
+        "八紘我観"
+      ],
+      "occurrences": 6
+    },
+    {
+      "id": "d0030",
+      "jp": "風嶺家",
+      "reading": "かざみねけ",
+      "img_small": "tips0030S",
+      "img_big": "tips0030B",
+      "link_texts": [
+        "風嶺家"
+      ],
+      "occurrences": 31
+    },
+    {
+      "id": "d0031",
+      "jp": "最近のコンビニはなっとらん",
+      "reading": "さいきんのこんびにはなっとらん",
+      "img_small": "tips0031S",
+      "img_big": "tips0031B",
+      "link_texts": [
+        "最近のコンビニはなっとらん"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "d0032",
+      "jp": "朝令暮改",
+      "reading": "ちょうれいぼかい",
+      "img_small": "tips0032S",
+      "img_big": "tips0032B",
+      "link_texts": [
+        "朝令暮改"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "d0033",
+      "jp": "柾胤",
+      "reading": "まさたね",
+      "img_small": "tips0033S",
+      "img_big": "tips0033B",
+      "link_texts": [
+        "柾胤"
+      ],
+      "occurrences": 41
+    },
+    {
+      "id": "d0034",
+      "jp": "天元齊命流",
+      "reading": "てんげんさいめいりゅう",
+      "img_small": "tips0034S",
+      "img_big": "tips0034B",
+      "link_texts": [
+        "天元齊命流"
+      ],
+      "occurrences": 40
+    },
+    {
+      "id": "d0035",
+      "jp": "横溢一閃",
+      "reading": "おういついっせん",
+      "img_small": "tips0035S",
+      "img_big": "tips0035B",
+      "link_texts": [
+        "横溢一閃"
+      ],
+      "occurrences": 4
+    },
+    {
+      "id": "d0036",
+      "jp": "理想郷",
+      "reading": "りそうきょう",
+      "img_small": "tips0036S",
+      "img_big": "tips0036B",
+      "link_texts": [
+        "理想郷"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "d0037",
+      "jp": "客寄せパンダ",
+      "reading": "きゃくよせぱんた",
+      "img_small": "tips0037S",
+      "img_big": "tips0037B",
+      "link_texts": [
+        "客寄せパンダ"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "d0038",
+      "jp": "風嶺グループによる複合型施設",
+      "reading": "かざみねぐるーぷによるふくごうしせつ",
+      "img_small": "tips0038S",
+      "img_big": "tips0038B",
+      "link_texts": [
+        "風嶺グループによる複合型施設"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "d0039",
+      "jp": "橋頭堡",
+      "reading": "きょうとうほ",
+      "img_small": "tips0039S",
+      "img_big": "tips0039B",
+      "link_texts": [
+        "橋頭堡"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "d0040",
+      "jp": "朝霧ミドリ三等陸佐",
+      "reading": "あさぎりみどりさんとうりくさ",
+      "img_small": "tips0040S",
+      "img_big": "tips0040B",
+      "link_texts": [
+        "朝霧ミドリ三等陸佐"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "d0041",
+      "jp": "マイ鉄フライパン",
+      "reading": "まいてつふらいぱん",
+      "img_small": "tips0041S",
+      "img_big": "tips0041B",
+      "link_texts": [
+        "マイ鉄フライパン"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "d0042",
+      "jp": "鬼退治",
+      "reading": "おにたいじ",
+      "img_small": "tips0042S",
+      "img_big": "tips0042B",
+      "link_texts": [
+        "鬼退治"
+      ],
+      "occurrences": 5
+    },
+    {
+      "id": "d0043",
+      "jp": "江戸時代",
+      "reading": "えどじだい",
+      "img_small": "tips0043S",
+      "img_big": "tips0043B",
+      "link_texts": [
+        "江戸時代"
+      ],
+      "occurrences": 2
+    },
+    {
+      "id": "d0044",
+      "jp": "クールビューティ",
+      "reading": "くーるびゅーてぃ",
+      "img_small": "tips0044S",
+      "img_big": "tips0044B",
+      "link_texts": [
+        "クールビューティ"
+      ],
+      "occurrences": 3
+    },
+    {
+      "id": "d0045",
+      "jp": "ビミヤン",
+      "reading": "びにやん",
+      "img_small": "tips0045S",
+      "img_big": "tips0045B",
+      "link_texts": [
+        "ビミヤン"
+      ],
+      "occurrences": 2
+    },
+    {
+      "id": "d0046",
+      "jp": "バーミアン",
+      "reading": "ばーみあん",
+      "img_small": "tips0046S",
+      "img_big": "tips0046B",
+      "link_texts": [
+        "バーミアン"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "d0047",
+      "jp": "ジェームズ・主水",
+      "reading": "じぇーむず・もんど",
+      "img_small": "tips0047S",
+      "img_big": "tips0047B",
+      "link_texts": [
+        "ジェームズ・主水"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "d0048",
+      "jp": "鬼女",
+      "reading": "おにおんな",
+      "img_small": "tips0048S",
+      "img_big": "tips0048B",
+      "link_texts": [
+        "鬼女"
+      ],
+      "occurrences": 26
+    },
+    {
+      "id": "d0049",
+      "jp": "不倶戴天の敵",
+      "reading": "ふぐたいてんのてき",
+      "img_small": "tips0049S",
+      "img_big": "tips0049B",
+      "link_texts": [
+        "不倶戴天の敵"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "d0050",
+      "jp": "村垣チャーハン",
+      "reading": "むらがきちゃーはん",
+      "img_small": "tips0050S",
+      "img_big": "tips0050B",
+      "link_texts": [
+        "村垣チャーハン"
+      ],
+      "occurrences": 2
+    },
+    {
+      "id": "d0051",
+      "jp": "糖質制限メニュー",
+      "reading": "とうしつせいげんめにゅー",
+      "img_small": "tips0051S",
+      "img_big": "tips0051B",
+      "link_texts": [
+        "糖質制限メニュー"
+      ],
+      "occurrences": 2
+    },
+    {
+      "id": "d0052",
+      "jp": "修行僧",
+      "reading": "しゅぎょうそう",
+      "img_small": "tips0052S",
+      "img_big": "tips0052B",
+      "link_texts": [
+        "修行僧"
+      ],
+      "occurrences": 2
+    },
+    {
+      "id": "d0053",
+      "jp": "堺の鮮魚市場",
+      "reading": "さかいのせんぎょいちば",
+      "img_small": "tips0053S",
+      "img_big": "tips0053B",
+      "link_texts": [
+        "堺の鮮魚市場"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "d0054",
+      "jp": "スザクハイパードラァイ",
+      "reading": "すざくはいぱーどらぁい",
+      "img_small": "tips0054S",
+      "img_big": "tips0054B",
+      "link_texts": [
+        "スザクハイパードラァイ"
+      ],
+      "occurrences": 11
+    },
+    {
+      "id": "d0055",
+      "jp": "六法全書",
+      "reading": "ろっぽうぜんしょ",
+      "img_small": "tips0055S",
+      "img_big": "tips0055B",
+      "link_texts": [
+        "六法全書"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "d0056",
+      "jp": "精神感応係数",
+      "reading": "せいしんかんのうけいすう",
+      "img_small": "tips0056S",
+      "img_big": "tips0056B",
+      "link_texts": [
+        "精神感応係数"
+      ],
+      "occurrences": 10
+    },
+    {
+      "id": "d0057",
+      "jp": "魂来",
+      "reading": "たむかい",
+      "img_small": "tips0057S",
+      "img_big": "tips0057B",
+      "link_texts": [
+        "魂来"
+      ],
+      "occurrences": 14
+    },
+    {
+      "id": "d0058",
+      "jp": "審神者",
+      "reading": "さにわ",
+      "img_small": "tips0058S",
+      "img_big": "tips0058B",
+      "link_texts": [
+        "審神者"
+      ],
+      "occurrences": 16
+    },
+    {
+      "id": "d0059",
+      "jp": "紗月",
+      "reading": "さつき",
+      "img_small": "tips0059S",
+      "img_big": "tips0059B",
+      "link_texts": [
+        "紗月"
+      ],
+      "occurrences": 3
+    },
+    {
+      "id": "d0060",
+      "jp": "ポシェモン",
+      "reading": "ぽしぇもん",
+      "img_small": "tips0060S",
+      "img_big": "tips0060B",
+      "link_texts": [
+        "ポシェモン"
+      ],
+      "occurrences": 16
+    },
+    {
+      "id": "d0061",
+      "jp": "ゾーン",
+      "reading": "ぞーん",
+      "img_small": "tips0061S",
+      "img_big": "tips0061B",
+      "link_texts": [
+        "ゾーン"
+      ],
+      "occurrences": 5
+    },
+    {
+      "id": "d0062",
+      "jp": "諸法無我",
+      "reading": "しょほうむが",
+      "img_small": "tips0062S",
+      "img_big": "tips0062B",
+      "link_texts": [
+        "諸法無我"
+      ],
+      "occurrences": 26
+    },
+    {
+      "id": "d0063",
+      "jp": "鬼のゼロカロリー理論",
+      "reading": "おにのぜろかろりーりろん",
+      "img_small": "tips0063S",
+      "img_big": "tips0063B",
+      "link_texts": [
+        "鬼のゼロカロリー理論"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "d0064",
+      "jp": "個室サウナ",
+      "reading": "こしつさうな",
+      "img_small": "tips0064S",
+      "img_big": "tips0064B",
+      "link_texts": [
+        "個室サウナ"
+      ],
+      "occurrences": 4
+    },
+    {
+      "id": "d0065",
+      "jp": "世界征服",
+      "reading": "せかいせいふく",
+      "img_small": "tips0065S",
+      "img_big": "tips0065B",
+      "link_texts": [
+        "世界征服"
+      ],
+      "occurrences": 9
+    },
+    {
+      "id": "d0066",
+      "jp": "道場破り",
+      "reading": "どうじょうやぶり",
+      "img_small": "tips0066S",
+      "img_big": "tips0066B",
+      "link_texts": [
+        "道場破り"
+      ],
+      "occurrences": 5
+    },
+    {
+      "id": "d0067",
+      "jp": "天然理心流",
+      "reading": "てんねんりしんりゅう",
+      "img_small": "tips0067S",
+      "img_big": "tips0067B",
+      "link_texts": [
+        "天然理心流"
+      ],
+      "occurrences": 8
+    },
+    {
+      "id": "d0068",
+      "jp": "Ｕ・キクイチモンジソード改",
+      "reading": "あるてぃめっと・きくいちもんじそーどかい",
+      "img_small": "tips0068S",
+      "img_big": "tips0068B",
+      "link_texts": [
+        "Ｕ・キクイチモンジソード改"
+      ],
+      "occurrences": 2
+    },
+    {
+      "id": "d0069",
+      "jp": "ＳＵＭＩＴＡＮＩ",
+      "reading": "すみたに",
+      "img_small": "tips0069S",
+      "img_big": "tips0069B",
+      "link_texts": [
+        "ＳＵＭＩＴＡＮＩ"
+      ],
+      "occurrences": 3
+    },
+    {
+      "id": "d0070",
+      "jp": "チャラい",
+      "reading": "ちゃらい",
+      "img_small": "tips0070S",
+      "img_big": "tips0070B",
+      "link_texts": [
+        "チャラい"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "d0071",
+      "jp": "職権乱用",
+      "reading": "しょっけんらんよう",
+      "img_small": "tips0071S",
+      "img_big": "tips0071B",
+      "link_texts": [
+        "職権乱用"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "d0072",
+      "jp": "単分子コーティング",
+      "reading": "たんぶんしこーてぃんぐ",
+      "img_small": "tips0072S",
+      "img_big": "tips0072B",
+      "link_texts": [
+        "単分子コーティング"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "d0073",
+      "jp": "筋骨隆々のお姉さん",
+      "reading": "きんこつりゅうりゅうのおねえさん",
+      "img_small": "tips0073S",
+      "img_big": "tips0073B",
+      "link_texts": [
+        "筋骨隆々のお姉さん"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "d0074",
+      "jp": "今日のブツ",
+      "reading": "きょうのぶつ",
+      "img_small": "tips0074S",
+      "img_big": "tips0074B",
+      "link_texts": [
+        "今日のブツ"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "d0075",
+      "jp": "お礼参り",
+      "reading": "おれいまいり",
+      "img_small": "tips0075S",
+      "img_big": "tips0075B",
+      "link_texts": [
+        "お礼参り"
+      ],
+      "occurrences": 4
+    },
+    {
+      "id": "d0076",
+      "jp": "大上家",
+      "reading": "おおかみけ",
+      "img_small": "tips0076S",
+      "img_big": "tips0076B",
+      "link_texts": [
+        "大上家"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "d0077",
+      "jp": "麒麟児",
+      "reading": "きりんじ",
+      "img_small": "tips0077S",
+      "img_big": "tips0077B",
+      "link_texts": [
+        "麒麟児"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "d0078",
+      "jp": "戦人",
+      "reading": "いくさびと",
+      "img_small": "tips0078S",
+      "img_big": "tips0078B",
+      "link_texts": [
+        "戦人"
+      ],
+      "occurrences": 13
+    },
+    {
+      "id": "d0079",
+      "jp": "化妖",
+      "reading": "けよう",
+      "img_small": "tips0079S",
+      "img_big": "tips0079B",
+      "link_texts": [
+        "化妖"
+      ],
+      "occurrences": 37
+    },
+    {
+      "id": "d0080",
+      "jp": "悪鬼討滅",
+      "reading": "あっきとうめつ",
+      "img_small": "tips0080S",
+      "img_big": "tips0080B",
+      "link_texts": [
+        "悪鬼討滅"
+      ],
+      "occurrences": 10
+    },
+    {
+      "id": "d0081",
+      "jp": "狐",
+      "reading": "きつね",
+      "img_small": "tips0081S",
+      "img_big": "tips0081B",
+      "link_texts": [
+        "狐"
+      ],
+      "occurrences": 7
+    },
+    {
+      "id": "d0082",
+      "jp": "モク",
+      "reading": "もく",
+      "img_small": "tips0082S",
+      "img_big": "tips0082B",
+      "link_texts": [
+        "モク"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "d0083",
+      "jp": "奉行",
+      "reading": "ぶぎょう",
+      "img_small": "tips0083S",
+      "img_big": "tips0083B",
+      "link_texts": [
+        "奉行"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "d0084",
+      "jp": "仙人",
+      "reading": "せんにん",
+      "img_small": "tips0084S",
+      "img_big": "tips0084B",
+      "link_texts": [
+        "仙人"
+      ],
+      "occurrences": 2
+    },
+    {
+      "id": "d0085",
+      "jp": "ヨリシロくん",
+      "reading": "よりしろくん",
+      "img_small": "tips0085S",
+      "img_big": "tips0085B",
+      "link_texts": [
+        "ヨリシロくん"
+      ],
+      "occurrences": 37
+    },
+    {
+      "id": "d0086",
+      "jp": "バリアジャケット",
+      "reading": "ばりあじゃけっと",
+      "img_small": "tips0086S",
+      "img_big": "tips0086B",
+      "link_texts": [
+        "バリアジャケット"
+      ],
+      "occurrences": 135
+    },
+    {
+      "id": "d0087",
+      "jp": "三城家",
+      "reading": "さんじょうけ",
+      "img_small": "tips0087S",
+      "img_big": "tips0087B",
+      "link_texts": [
+        "三城家"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "d0088",
+      "jp": "刃道",
+      "reading": "じんどう",
+      "img_small": "tips0088S",
+      "img_big": "tips0088B",
+      "link_texts": [
+        "刃道"
+      ],
+      "occurrences": 200
+    },
+    {
+      "id": "d0089",
+      "jp": "半妖",
+      "reading": "はんよう",
+      "img_small": "tips0089S",
+      "img_big": "tips0089B",
+      "link_texts": [
+        "半妖"
+      ],
+      "occurrences": 2
+    },
+    {
+      "id": "d0090",
+      "jp": "祝詞",
+      "reading": "のりと",
+      "img_small": "tips0090S",
+      "img_big": "tips0090B",
+      "link_texts": [
+        "祝詞"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "d0091",
+      "jp": "居合",
+      "reading": "いあい",
+      "img_small": "tips0091S",
+      "img_big": "tips0091B",
+      "link_texts": [
+        "居合"
+      ],
+      "occurrences": 57
+    },
+    {
+      "id": "d0092",
+      "jp": "陸自の特殊部隊",
+      "reading": "りくじのとくしゅぶたい",
+      "img_small": "tips0092S",
+      "img_big": "tips0092B",
+      "link_texts": [
+        "陸自の特殊部隊"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "d0093",
+      "jp": "プロリーグ",
+      "reading": "ぷろりーぐ",
+      "img_small": "tips0093S",
+      "img_big": "tips0093B",
+      "link_texts": [
+        "プロリーグ"
+      ],
+      "occurrences": 7
+    },
+    {
+      "id": "d0094",
+      "jp": "いなり寿司",
+      "reading": "いなりずし",
+      "img_small": "tips0094S",
+      "img_big": "tips0094B",
+      "link_texts": [
+        "いなり寿司"
+      ],
+      "occurrences": 6
+    },
+    {
+      "id": "d0095",
+      "jp": "豊原狐平堂",
+      "reading": "とよはらこんぺいどう",
+      "img_small": "tips0095S",
+      "img_big": "tips0095B",
+      "link_texts": [
+        "豊原狐平堂"
+      ],
+      "occurrences": 2
+    },
+    {
+      "id": "d0096",
+      "jp": "バツギュン",
+      "reading": "ばつぎゅん",
+      "img_small": "tips0096S",
+      "img_big": "tips0096B",
+      "link_texts": [
+        "バツギュン"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "d0097",
+      "jp": "デート",
+      "reading": "でーと",
+      "img_small": "tips0097S",
+      "img_big": "tips0097B",
+      "link_texts": [
+        "デート"
+      ],
+      "occurrences": 113
+    },
+    {
+      "id": "d0098",
+      "jp": "大食いちゃんぴおーん",
+      "reading": "おおぐいちゃんぴおん",
+      "img_small": "tips0098S",
+      "img_big": "tips0098B",
+      "link_texts": [
+        "大食いちゃんぴおーん"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "d0099",
+      "jp": "ざわ",
+      "reading": "ざわ",
+      "img_small": "tips0099S",
+      "img_big": "tips0099B",
+      "link_texts": [
+        "ざわ"
+      ],
+      "occurrences": 24
+    },
+    {
+      "id": "d0100",
+      "jp": "ゾンビ",
+      "reading": "ぞんび",
+      "img_small": "tips0100S",
+      "img_big": "tips0100B",
+      "link_texts": [
+        "ゾンビ"
+      ],
+      "occurrences": 2
+    },
+    {
+      "id": "d0101",
+      "jp": "トドメ",
+      "reading": "とどめ",
+      "img_small": "tips0101S",
+      "img_big": "tips0101B",
+      "link_texts": [
+        "トドメ"
+      ],
+      "occurrences": 3
+    },
+    {
+      "id": "d0102",
+      "jp": "焼き肉",
+      "reading": "やきにく",
+      "img_small": "tips0102S",
+      "img_big": "tips0102B",
+      "link_texts": [
+        "焼き肉"
+      ],
+      "occurrences": 10
+    },
+    {
+      "id": "d0103",
+      "jp": "ハーレム",
+      "reading": "はーれむ",
+      "img_small": "tips0103S",
+      "img_big": "tips0103B",
+      "link_texts": [
+        "ハーレム"
+      ],
+      "occurrences": 6
+    },
+    {
+      "id": "d0104",
+      "jp": "ヒモ",
+      "reading": "ひも",
+      "img_small": "tips0104S",
+      "img_big": "tips0104B",
+      "link_texts": [],
+      "occurrences": 0
+    },
+    {
+      "id": "d0105",
+      "jp": "霊式機巧デバイス",
+      "reading": "れいしききこうでばいす",
+      "img_small": "tips0105S",
+      "img_big": "tips0105B",
+      "link_texts": [],
+      "occurrences": 0
+    },
+    {
+      "id": "d0106",
+      "jp": "神所霊庁",
+      "reading": "しんしょれいちょう",
+      "img_small": "tips0106S",
+      "img_big": "tips0106B",
+      "link_texts": [
+        "神所霊庁"
+      ],
+      "occurrences": 6
+    }
+  ],
+  "ruby_terms": [
+    {
+      "jp": "神眼極手",
+      "reading": "しんがんのきわめて",
+      "count": 27,
+      "sample": "（……神眼極手、開始）"
+    },
+    {
+      "jp": "賜",
+      "reading": "たま",
+      "count": 16,
+      "sample": "「八百萬の神等を神集えにて集え賜い、神議りにて議り賜い。　天地清浄、六根清浄、祓え給え、清め給え……！」"
+    },
+    {
+      "jp": "給",
+      "reading": "たま",
+      "count": 16,
+      "sample": "「八百萬の神等を神集えにて集え賜い、神議りにて議り賜い。　天地清浄、六根清浄、祓え給え、清め給え……！」"
+    },
+    {
+      "jp": "庚型",
+      "reading": "かのえがた",
+      "count": 12,
+      "sample": "「庚型・剛砲！！！」"
+    },
+    {
+      "jp": "開始",
+      "reading": "スタート",
+      "count": 11,
+      "sample": "（……神眼極手、開始）"
+    },
+    {
+      "jp": "癸型",
+      "reading": "みずのとがた",
+      "count": 10,
+      "sample": "「喰らえ――三島流癸型・万絶ッ！！！」"
+    },
+    {
+      "jp": "丙型",
+      "reading": "ひのえがた",
+      "count": 10,
+      "sample": "「食らえっ、三島流丙型・穿火ッ！」"
+    },
+    {
+      "jp": "魂来",
+      "reading": "たむかい",
+      "count": 9,
+      "sample": "「その術式とは、風嶺グループ旗下の術式研究所が　発見した――秘術《魂来》」"
+    },
+    {
+      "jp": "戦人",
+      "reading": "いくさびと",
+      "count": 8,
+      "sample": "「霊刀持ちの戦人だけで構成された特殊部隊のことか。　名前だけはよく聞くが実体は『武蔵』より謎だからなぁ」"
+    },
+    {
+      "jp": "八百萬",
+      "reading": "やおよろず",
+      "count": 8,
+      "sample": "「八百萬の神等を神集えにて集え賜い、神議りにて議り賜い。　天地清浄、六根清浄、祓え給え、清め給え……！」"
+    },
+    {
+      "jp": "神等",
+      "reading": "かみたち",
+      "count": 8,
+      "sample": "「八百萬の神等を神集えにて集え賜い、神議りにて議り賜い。　天地清浄、六根清浄、祓え給え、清め給え……！」"
+    },
+    {
+      "jp": "神集",
+      "reading": "かむつど",
+      "count": 8,
+      "sample": "「八百萬の神等を神集えにて集え賜い、神議りにて議り賜い。　天地清浄、六根清浄、祓え給え、清め給え……！」"
+    },
+    {
+      "jp": "集",
+      "reading": "つど",
+      "count": 8,
+      "sample": "「八百萬の神等を神集えにて集え賜い、神議りにて議り賜い。　天地清浄、六根清浄、祓え給え、清め給え……！」"
+    },
+    {
+      "jp": "神議",
+      "reading": "かむはか",
+      "count": 8,
+      "sample": "「八百萬の神等を神集えにて集え賜い、神議りにて議り賜い。　天地清浄、六根清浄、祓え給え、清め給え……！」"
+    },
+    {
+      "jp": "議",
+      "reading": "はか",
+      "count": 8,
+      "sample": "「八百萬の神等を神集えにて集え賜い、神議りにて議り賜い。　天地清浄、六根清浄、祓え給え、清め給え……！」"
+    },
+    {
+      "jp": "天地清浄",
+      "reading": "てんちしょうじょう",
+      "count": 8,
+      "sample": "「八百萬の神等を神集えにて集え賜い、神議りにて議り賜い。　天地清浄、六根清浄、祓え給え、清め給え……！」"
+    },
+    {
+      "jp": "六根清浄",
+      "reading": "ろっこんしょうじょう",
+      "count": 8,
+      "sample": "「八百萬の神等を神集えにて集え賜い、神議りにて議り賜い。　天地清浄、六根清浄、祓え給え、清め給え……！」"
+    },
+    {
+      "jp": "祓",
+      "reading": "はら",
+      "count": 8,
+      "sample": "「八百萬の神等を神集えにて集え賜い、神議りにて議り賜い。　天地清浄、六根清浄、祓え給え、清め給え……！」"
+    },
+    {
+      "jp": "清",
+      "reading": "きよ",
+      "count": 8,
+      "sample": "「八百萬の神等を神集えにて集え賜い、神議りにて議り賜い。　天地清浄、六根清浄、祓え給え、清め給え……！」"
+    },
+    {
+      "jp": "八卦揚々",
+      "reading": "はっけようよう",
+      "count": 8,
+      "sample": "「――八卦揚々、見合うて待ったなし！」"
+    },
+    {
+      "jp": "見合",
+      "reading": "みお",
+      "count": 8,
+      "sample": "「――八卦揚々、見合うて待ったなし！」"
+    },
+    {
+      "jp": "西方",
+      "reading": "にしかた",
+      "count": 8,
+      "sample": "「西方、有馬凛のバリアジャケット消滅を認め！」"
+    },
+    {
+      "jp": "東方",
+      "reading": "ひがしかた",
+      "count": 8,
+      "sample": "「よって東方、天王寺ヴィクトリアの勝利とするッ！」"
+    },
+    {
+      "jp": "戊型",
+      "reading": "つちのえがた",
+      "count": 7,
+      "sample": "「次はこれっ……三島流戊型・峰打頂肘ッ！」"
+    },
+    {
+      "jp": "万絶",
+      "reading": "ばんぜつ",
+      "count": 6,
+      "sample": "「喰らえ――三島流癸型・万絶ッ！！！」"
+    },
+    {
+      "jp": "穿火",
+      "reading": "うがちび",
+      "count": 6,
+      "sample": "「食らえっ、三島流丙型・穿火ッ！」"
+    },
+    {
+      "jp": "銀楯",
+      "reading": "ぎんじゅん",
+      "count": 6,
+      "sample": "「これは辛型・銀楯で受け止められる！」"
+    },
+    {
+      "jp": "峰打頂肘",
+      "reading": "ほうだちょうちゅう",
+      "count": 6,
+      "sample": "「次はこれっ……三島流戊型・峰打頂肘ッ！」"
+    },
+    {
+      "jp": "篁",
+      "reading": "たかむら",
+      "count": 5,
+      "sample": "「一年特甲級『篁組』だ。覚えておけ」"
+    },
+    {
+      "jp": "丁型",
+      "reading": "ひのとがた",
+      "count": 5,
+      "sample": "「おーよ、今のは三島流丁型・炎牙だっ！」"
+    },
+    {
+      "jp": "剛砲",
+      "reading": "ごうほう",
+      "count": 5,
+      "sample": "「庚型・剛砲！！！」"
+    },
+    {
+      "jp": "八紘我観",
+      "reading": "ワールド・イズ・マイン",
+      "count": 5,
+      "sample": "「行くよ――八紘我観！」"
+    },
+    {
+      "jp": "天元齊命流",
+      "reading": "てんげんさいめいりゅう",
+      "count": 5,
+      "sample": "「村垣が真髄、天元齊命流――いざ参る」"
+    },
+    {
+      "jp": "謀",
+      "reading": "たばか",
+      "count": 5,
+      "sample": "「まったく……言うことは聞かないわ、ワガママは言うわ、　困らせるわ謀るわ逃げ回るわで、本当にあいつらはっ！」"
+    },
+    {
+      "jp": "己型",
+      "reading": "つちのとがた",
+      "count": 5,
+      "sample": "「うりゃあ～～っ、己型・地走っ！！」"
+    },
+    {
+      "jp": "壬型",
+      "reading": "みずのえがた",
+      "count": 5,
+      "sample": "「今のは三島流壬型・湧流でいなせたはずだぞ！」"
+    },
+    {
+      "jp": "辛型",
+      "reading": "かのとがた",
+      "count": 5,
+      "sample": "「これは辛型・銀楯で受け止められる！」"
+    },
+    {
+      "jp": "金剛砲",
+      "reading": "こんごうほう",
+      "count": 5,
+      "sample": "「我流庚型・金剛砲ッ！！」"
+    },
+    {
+      "jp": "炎牙",
+      "reading": "えんが",
+      "count": 4,
+      "sample": "「おーよ、今のは三島流丁型・炎牙だっ！」"
+    },
+    {
+      "jp": "甲型",
+      "reading": "きのえがた",
+      "count": 4,
+      "sample": "「今の斬り込みは膝下に甲型・枝薙で反撃可能だ！」"
+    },
+    {
+      "jp": "枝薙",
+      "reading": "えだなぎ",
+      "count": 4,
+      "sample": "「今の斬り込みは膝下に甲型・枝薙で反撃可能だ！」"
+    },
+    {
+      "jp": "審神者",
+      "reading": "さにわ",
+      "count": 4,
+      "sample": "「村垣さんは、審神者についてはご存じ？」"
+    },
+    {
+      "jp": "破城掌",
+      "reading": "はじょうしょう",
+      "count": 4,
+      "sample": "「三島流庚型・破城掌ッ！！！」"
+    },
+    {
+      "jp": "雷霆一閃",
+      "reading": "らいていいっせん",
+      "count": 4,
+      "sample": "「秘技、雷霆一閃ッ！！！！」"
+    },
+    {
+      "jp": "炎虎猛巴斬",
+      "reading": "えんこもうはざん",
+      "count": 4,
+      "sample": "「我流丙型・炎虎猛巴斬ッ！！！」"
+    },
+    {
+      "jp": "風嶺",
+      "reading": "かざみね",
+      "count": 3,
+      "sample": "「風嶺雪月花……武芸科一年。風嶺蛍雪、主計科一年」"
+    },
+    {
+      "jp": "雪月花",
+      "reading": "せつげっか",
+      "count": 3,
+      "sample": "「風嶺雪月花……武芸科一年。風嶺蛍雪、主計科一年」"
+    },
+    {
+      "jp": "柾盛",
+      "reading": "まさもり",
+      "count": 3,
+      "sample": "ちなみに佩刀護身会の現会長は朱雀院柾盛。彼女の祖父にあたる人物だ。"
+    },
+    {
+      "jp": "燕長光",
+      "reading": "つばくろながみつ",
+      "count": 3,
+      "sample": "私のオリガミ――燕長光が甲高い悲鳴を上げた。"
+    },
+    {
+      "jp": "横溢一閃",
+      "reading": "おういついっせん",
+      "count": 3,
+      "sample": "「秘技、横溢一閃――！！！！」"
+    },
+    {
+      "jp": "侮",
+      "reading": "あなど",
+      "count": 3,
+      "sample": "「そうだ。雪月花も紅葉も、旭も梨々夢もお前を侮っている」"
+    },
+    {
+      "jp": "地走",
+      "reading": "ちばしり",
+      "count": 3,
+      "sample": "「うりゃあ～～っ、己型・地走っ！！」"
+    },
+    {
+      "jp": "湧流",
+      "reading": "わきながし",
+      "count": 3,
+      "sample": "「今のは三島流壬型・湧流でいなせたはずだぞ！」"
+    },
+    {
+      "jp": "蛟",
+      "reading": "みずち",
+      "count": 3,
+      "sample": "「術後、すぐに退魔師に診てもらったところによれば、　『蛟』の類ではないかと言われたわ」"
+    },
+    {
+      "jp": "大袖冥加",
+      "reading": "おおそでのみょうが",
+      "count": 3,
+      "sample": "「大袖冥加――簡単に言えば、　バリアジャケットを堅く、厚く展開して、　甲冑を作り上げているようなものです」"
+    },
+    {
+      "jp": "齋匠",
+      "reading": "さいしょう",
+      "count": 3,
+      "sample": "「できる限りのことはしているんですが……これ以上は、　それこそ齋匠レベルじゃないと無理ですよ」"
+    },
+    {
+      "jp": "槇之丞",
+      "reading": "まきのじょう",
+      "count": 3,
+      "sample": "「えっ、風嶺槇之丞さんっ……！？」"
+    },
+    {
+      "jp": "波濤乱舞",
+      "reading": "はとうらんぶ",
+      "count": 3,
+      "sample": "「砕けろ！　ソニック・ラアアアァッシュッ！！！！」「三島流奥義！！　癸型・波濤乱舞ッ！！！！」"
+    },
+    {
+      "jp": "踵",
+      "reading": "かかと",
+      "count": 3,
+      "sample": "飛び上がったと思ったらきりもみして、私の脳天に向かって踵と刃を同時に落としてきた。"
+    },
+    {
+      "jp": "折紙",
+      "reading": "オリガミ",
+      "count": 2,
+      "sample": "霊式機巧刀――折紙。"
+    },
+    {
+      "jp": "嶺庵",
+      "reading": "りょうあん",
+      "count": 2,
+      "sample": "武士の魂とも言うべき刀を守るために立ち上がったのが彼女のご先祖様、朱雀院嶺庵だ。"
+    },
+    {
+      "jp": "刀仕禰宜",
+      "reading": "とうじねぎ",
+      "count": 2,
+      "sample": "叢雲学園の頂点を意味する『刀仕禰宜』の称号を持っている。"
+    },
+    {
+      "jp": "源",
+      "reading": "みなもと",
+      "count": 2,
+      "sample": "「えっ、源ってあの源氏の？」"
+    },
+    {
+      "jp": "三島流",
+      "reading": "みしまりゅう",
+      "count": 2,
+      "sample": "「おーよ、今のは三島流丁型・炎牙だっ！」"
+    },
+    {
+      "jp": "柾胤",
+      "reading": "まさたね",
+      "count": 2,
+      "sample": "「それは色々あってな……交換条件で押しつけられたんだ。　全てはあの男、柾胤の陰謀だな」"
+    },
+    {
+      "jp": "佇",
+      "reading": "たたず",
+      "count": 2,
+      "sample": "旭の佇まいに、親友だった隆久の姿が重なって見える。"
+    },
+    {
+      "jp": "戦",
+      "reading": "いくさ",
+      "count": 2,
+      "sample": "「彼女たちはワガママを通すためならどんな手でも使ってきます。　そんな泥沼の戦に、先生は丸腰で挑むつもりですか？」"
+    },
+    {
+      "jp": "命",
+      "reading": "タマ",
+      "count": 2,
+      "sample": "「こっちァ生まれてこの方ずっと命張って生きてきてんだ。　連中とはそもそも覚悟が違ェんだよ」"
+    },
+    {
+      "jp": "胡蝶爛漫",
+      "reading": "バタフライ・エフェクト",
+      "count": 2,
+      "sample": "「行くよセンセー……奥義、《胡蝶爛漫》ッ！！！」"
+    },
+    {
+      "jp": "偽",
+      "reading": "いつわ",
+      "count": 2,
+      "sample": "企み、謀り、偽る。全ては私の命を刈り取るために。"
+    },
+    {
+      "jp": "憑",
+      "reading": "つ",
+      "count": 2,
+      "sample": "「確かに、蛇憑きは昔からよくある話だな。　犬憑き、狐憑きにつぐ有名どころだ」"
+    },
+    {
+      "jp": "柄",
+      "reading": "つか",
+      "count": 2,
+      "sample": "「柄で攻撃するとか、そういうことでしょうか」"
+    },
+    {
+      "jp": "れ",
+      "reading": "・",
+      "count": 2,
+      "sample": "慌てて旭のそれから手を離す。"
+    },
+    {
+      "jp": "贖",
+      "reading": "あがな",
+      "count": 2,
+      "sample": "それが当然の報いであり、当然の贖いであると思っていた。"
+    },
+    {
+      "jp": "術",
+      "reading": "すべ",
+      "count": 2,
+      "sample": "恐らく、並の剣士ならばなす術もないだろう。"
+    },
+    {
+      "jp": "豊原狐平堂",
+      "reading": "とよはらこんぺいどう",
+      "count": 2,
+      "sample": "「ううん、狐さん。どうしても豊原狐平堂の　お稲荷さんが欲しいんだって」"
+    },
+    {
+      "jp": "直々",
+      "reading": "じきじき",
+      "count": 2,
+      "sample": "それは、風嶺現当主である槇之丞さんが私に宛てた直々のメールだった――。"
+    },
+    {
+      "jp": "天山靠",
+      "reading": "てんざんこう",
+      "count": 2,
+      "sample": "「――三島流己型・天山靠！！」"
+    },
+    {
+      "jp": "黄泉還",
+      "reading": "よみじがえ",
+      "count": 2,
+      "sample": "「わかったぞ……これは特殊天呪だ。　あいつがつけた名前は……確か《黄泉還り》……！」"
+    },
+    {
+      "jp": "邪",
+      "reading": "よこしま",
+      "count": 2,
+      "sample": "そこから邪で――黒く邪悪な、闇の力を感じる。"
+    },
+    {
+      "jp": "焦",
+      "reading": "じ",
+      "count": 2,
+      "sample": "（この状況だったら、普通は少しは焦れると　思うんだけどな～！）"
+    },
+    {
+      "jp": "軛",
+      "reading": "くびき",
+      "count": 2,
+      "sample": "私も、旭も、何もかも――今まで確固たる軛があるように思えていたものは全て、思考が作り出した幻想だと気付く。"
+    },
+    {
+      "jp": "躱",
+      "reading": "かわ",
+      "count": 2,
+      "sample": "「必ず躱してくださいね。　でないと――」"
+    },
+    {
+      "jp": "為",
+      "reading": "な",
+      "count": 2,
+      "sample": "「試合については……ただ為るべくして為った、　それだけのことだと思います」"
+    },
+    {
+      "jp": "白雄滝",
+      "reading": "しらおだき",
+      "count": 2,
+      "sample": "「我流壬型・白雄滝ッ！！！」"
+    },
+    {
+      "jp": "斧刃撃",
+      "reading": "ふじんげき",
+      "count": 2,
+      "sample": "「まだまだ行くよっ！　我流戊型・斧刃撃ッ！！」"
+    },
+    {
+      "jp": "朱雀演舞",
+      "reading": "すざくえんぶ",
+      "count": 2,
+      "sample": "「――秘選奥義、朱雀演舞ッ！！！！！」"
+    },
+    {
+      "jp": "学舎",
+      "reading": "まなびや",
+      "count": 1,
+      "sample": "叢雲学園――それは刃道を専門的に教える学舎だ。"
+    },
+    {
+      "jp": "魂鋼",
+      "reading": "たまはがね",
+      "count": 1,
+      "sample": "オリガミは八百万の神々を宿した魂鋼と呼ばれる金属を霊式機巧パーツによって制御する霊刀の亜種だ。"
+    },
+    {
+      "jp": "天呪",
+      "reading": "てんじゅ",
+      "count": 1,
+      "sample": "このオリガミから引き出す特殊な力を『天呪』と言う。"
+    },
+    {
+      "jp": "朱鴉",
+      "reading": "あけがらす",
+      "count": 1,
+      "sample": "「上には上がいますからね。例えば『朱鴉』とか」"
+    },
+    {
+      "jp": "蛍雪",
+      "reading": "けいせつ",
+      "count": 1,
+      "sample": "「風嶺雪月花……武芸科一年。風嶺蛍雪、主計科一年」"
+    },
+    {
+      "jp": "十部",
+      "reading": "とべ",
+      "count": 1,
+      "sample": "「あとは十部梨々夢と朱雀院紅葉……二人とも武芸科一年か」"
+    },
+    {
+      "jp": "梨々夢",
+      "reading": "りりむ",
+      "count": 1,
+      "sample": "「あとは十部梨々夢と朱雀院紅葉……二人とも武芸科一年か」"
+    },
+    {
+      "jp": "朱雀院",
+      "reading": "すざくいん",
+      "count": 1,
+      "sample": "「あとは十部梨々夢と朱雀院紅葉……二人とも武芸科一年か」"
+    },
+    {
+      "jp": "紅葉",
+      "reading": "もみじ",
+      "count": 1,
+      "sample": "「あとは十部梨々夢と朱雀院紅葉……二人とも武芸科一年か」"
+    },
+    {
+      "jp": "佩刀護身会",
+      "reading": "はいとうごしんかい",
+      "count": 1,
+      "sample": "彼は多くの武家を組織して『佩刀護身会』を設立。"
+    },
+    {
+      "jp": "源雫",
+      "reading": "みなもとしずく",
+      "count": 1,
+      "sample": "「私は源雫、技巧科三年生です」"
+    },
+    {
+      "jp": "源氏",
+      "reading": "げんじ",
+      "count": 1,
+      "sample": "「えっ、源ってあの源氏の？」"
+    },
+    {
+      "jp": "源頼朝",
+      "reading": "みなもとのよりとも",
+      "count": 1,
+      "sample": "源家は鎌倉幕府を拓いて武家の頭領となったあの源頼朝の子孫だ。"
+    },
+    {
+      "jp": "夷狄",
+      "reading": "いてき",
+      "count": 1,
+      "sample": "「アメリカからはるばるやってきた夷狄である　ヴィクトリアさんを、今ここで打ち倒すわけですから」"
+    },
+    {
+      "jp": "漲",
+      "reading": "みなぎ",
+      "count": 1,
+      "sample": "先ほどまでとは打って変わり、ヴィクトリアさんの気力が漲っていく。"
+    },
+    {
+      "jp": "紅葉狩",
+      "reading": "もみじがり",
+      "count": 1,
+      "sample": "「そして使う獲物は紅葉狩！　ど～だ悔しいか紅葉っ！」"
+    },
+    {
+      "jp": "炯々",
+      "reading": "けいけい",
+      "count": 1,
+      "sample": "炯々と輝く瞳には射殺さんばかりの殺意が込められていた。"
+    },
+    {
+      "jp": "五月蝿",
+      "reading": "うるさ",
+      "count": 1,
+      "sample": "「五月蝿いぞ、この蛮族が！」"
+    },
+    {
+      "jp": "喧",
+      "reading": "やかま",
+      "count": 1,
+      "sample": "「喧しい、貴様と話すことなど何もない！！」"
+    },
+    {
+      "jp": "中邑",
+      "reading": "なかむら",
+      "count": 1,
+      "sample": "「先生は『中邑さくら』って人、知ってますか？」"
+    },
+    {
+      "jp": "九鬼",
+      "reading": "くき",
+      "count": 1,
+      "sample": "俺に向かって全力ダイビングをしてきたのは、九鬼旭ちゃんだった。"
+    },
+    {
+      "jp": "旭",
+      "reading": "あさひ",
+      "count": 1,
+      "sample": "俺に向かって全力ダイビングをしてきたのは、九鬼旭ちゃんだった。"
+    },
+    {
+      "jp": "隆久",
+      "reading": "たかひさ",
+      "count": 1,
+      "sample": "「……お兄ちゃんは、隆久は元気にしている？」"
+    },
+    {
+      "jp": "独壇場",
+      "reading": "ステージ",
+      "count": 1,
+      "sample": "「うん、だってここからはあたしの独壇場だから」"
+    },
+    {
+      "jp": "竹叢",
+      "reading": "たかむら",
+      "count": 1,
+      "sample": "「篁とは竹叢、つまりは竹藪のことだ。　藪をつつくと中から何が出てくると思う？」"
+    },
+    {
+      "jp": "熾火",
+      "reading": "おきび",
+      "count": 1,
+      "sample": "身体の奥で疼き続ける熾火を、どうにかしてかき出したい。"
+    },
+    {
+      "jp": "妨",
+      "reading": "さまた",
+      "count": 1,
+      "sample": "３０センチ手前、不可視の何かによって刃が妨げられた。"
+    },
+    {
+      "jp": "煌",
+      "reading": "きら",
+      "count": 1,
+      "sample": "旭の持つ鯉口が煌めき――空間を真二つに穿つがごとき一撃が放たれた。"
+    },
+    {
+      "jp": "穿",
+      "reading": "うが",
+      "count": 1,
+      "sample": "旭の持つ鯉口が煌めき――空間を真二つに穿つがごとき一撃が放たれた。"
+    },
+    {
+      "jp": "荒川",
+      "reading": "あらかわ",
+      "count": 1,
+      "sample": "「……あたしは荒川園美だ」"
+    },
+    {
+      "jp": "園美",
+      "reading": "そのみ",
+      "count": 1,
+      "sample": "「……あたしは荒川園美だ」"
+    },
+    {
+      "jp": "理想郷",
+      "reading": "アルカディア",
+      "count": 1,
+      "sample": "「はああぁ、そのゴミを見るようなクールな視線にラフな口調、　まさに私の目指す遠き果ての理想郷……！」"
+    },
+    {
+      "jp": "雪隠",
+      "reading": "せっちん",
+      "count": 1,
+      "sample": "「雪隠ってあの、それトイレのことなんですけど……」"
+    },
+    {
+      "jp": "頭",
+      "reading": "こうべ",
+      "count": 1,
+      "sample": "「武芸者はな、　自分より格下の人間に頭を垂れたりはしないんだよ。　どんな手段を使ってもいいから上下関係を叩き込め」"
+    },
+    {
+      "jp": "覆",
+      "reading": "くつがえ",
+      "count": 1,
+      "sample": "「武芸科の生徒が筆記で赤点取ったからって落第はおかしい、　って言っても俺にそれを覆すことはできない」"
+    },
+    {
+      "jp": "襖",
+      "reading": "ふすま",
+      "count": 1,
+      "sample": "間仕切りは襖か障子、上は飾り欄間でスカスカ。襖に鍵などついていないので、誰でも簡単に出入りできる。"
+    },
+    {
+      "jp": "障子",
+      "reading": "しょうじ",
+      "count": 1,
+      "sample": "間仕切りは襖か障子、上は飾り欄間でスカスカ。襖に鍵などついていないので、誰でも簡単に出入りできる。"
+    },
+    {
+      "jp": "欄間",
+      "reading": "らんま",
+      "count": 1,
+      "sample": "間仕切りは襖か障子、上は飾り欄間でスカスカ。襖に鍵などついていないので、誰でも簡単に出入りできる。"
+    },
+    {
+      "jp": "肴",
+      "reading": "さかな",
+      "count": 1,
+      "sample": "「なぁんて、おいしい肴が食べたいだけなんだけどね～」"
+    },
+    {
+      "jp": "燻",
+      "reading": "くん",
+      "count": 1,
+      "sample": "「あとは焼き鳥をあっためて～、イカ燻ちゃんも用意して～」"
+    },
+    {
+      "jp": "撫子",
+      "reading": "なでしこ",
+      "count": 1,
+      "sample": "「撫子も都子も椿も、みんなかわいいからなぁ～」"
+    },
+    {
+      "jp": "偏",
+      "reading": "かたよ",
+      "count": 1,
+      "sample": "「梨々夢は熱くなると攻撃が右上方起点に偏るクセがあるなぁ」"
+    },
+    {
+      "jp": "本気",
+      "reading": "マジ",
+      "count": 1,
+      "sample": "「おっけ～、じゃあ本気で行くわッ……！」"
+    },
+    {
+      "jp": "頂点",
+      "reading": "てっぺん",
+      "count": 1,
+      "sample": "「この力があれば、頂点とれるって信じてるから！」"
+    },
+    {
+      "jp": "極",
+      "reading": "き",
+      "count": 1,
+      "sample": "「ああ、打つのも極めるのも投げるのも一通りな」"
+    },
+    {
+      "jp": "嫡男",
+      "reading": "ちゃくなん",
+      "count": 1,
+      "sample": "「伊織先生はその村垣家の嫡男、現村垣家当主です」"
+    },
+    {
+      "jp": "暗殺者",
+      "reading": "アサシン",
+      "count": 1,
+      "sample": "村垣家――それは将軍家に不都合な存在を抹殺するため御庭番衆に組み込まれた、生粋の暗殺者一家だ。"
+    },
+    {
+      "jp": "懐刀",
+      "reading": "ふところがたな",
+      "count": 1,
+      "sample": "（まさに将軍家の懐刀、当時の武家からは　『戦人でも村垣には敵わぬ』　なんて言われてたとか言われてないとか）"
+    },
+    {
+      "jp": "姦",
+      "reading": "かしま",
+      "count": 1,
+      "sample": "「姦しい男だ……　いま為すべきは斬り合うこと、ただそれのみ！」"
+    },
+    {
+      "jp": "表裏",
+      "reading": "ひょうり",
+      "count": 1,
+      "sample": "「表裏陰陽、合わせて一つ。これが世の真理だ！」"
+    },
+    {
+      "jp": "陰陽",
+      "reading": "いんよう",
+      "count": 1,
+      "sample": "「表裏陰陽、合わせて一つ。これが世の真理だ！」"
+    },
+    {
+      "jp": "幼子",
+      "reading": "おさなご",
+      "count": 1,
+      "sample": "「貴様ァ……よりにもよって私を幼子呼ばわりだと……！？」"
+    },
+    {
+      "jp": "鳩尾",
+      "reading": "みぞおち",
+      "count": 1,
+      "sample": "雪月花が拳を繰り出す寸前――俺の掌底が、雪月花の鳩尾へとめり込む。"
+    },
+    {
+      "jp": "砂埃",
+      "reading": "すなぼこり",
+      "count": 1,
+      "sample": "「砂埃と同程度だそうです」"
+    },
+    {
+      "jp": "上手",
+      "reading": "うわて",
+      "count": 1,
+      "sample": "その雪月花さんがわたしより上手の紅葉さんを倒すというのは、あまりにも無謀が過ぎると言うものだ。"
+    },
+    {
+      "jp": "如何",
+      "reading": "いか",
+      "count": 1,
+      "sample": "「剣豪殺しの殺人剣が如何ほどのものか、私に見せてください」"
+    },
+    {
+      "jp": "企",
+      "reading": "たくら",
+      "count": 1,
+      "sample": "企み、謀り、偽る。全ては私の命を刈り取るために。"
+    },
+    {
+      "jp": "来",
+      "reading": "きた",
+      "count": 1,
+      "sample": "「来るべき戦いに備え、勝つために全力を尽くす」"
+    },
+    {
+      "jp": "適",
+      "reading": "かな",
+      "count": 1,
+      "sample": "「あなたの目指すやり方は、私たち剣士の理に適っているの？」"
+    },
+    {
+      "jp": "白鷺",
+      "reading": "はくろ",
+      "count": 1,
+      "sample": "「おもに『白鷺』や『天鈿』といった祭典式典で用いられる　ものが課題になる。刃道をやっていれば当たり前だな」"
+    },
+    {
+      "jp": "天鈿",
+      "reading": "あめのうず",
+      "count": 1,
+      "sample": "「おもに『白鷺』や『天鈿』といった祭典式典で用いられる　ものが課題になる。刃道をやっていれば当たり前だな」"
+    },
+    {
+      "jp": "寿",
+      "reading": "ことほ",
+      "count": 1,
+      "sample": "礼儀作法や寿ぎを表す際に用いられるものだ。"
+    },
+    {
+      "jp": "肥州",
+      "reading": "ひしゅう",
+      "count": 1,
+      "sample": "「薩摩や肥州、土佐、備州など優れた玉鋼の産出国を　有する西軍は精強な戦人で東軍を圧倒」"
+    },
+    {
+      "jp": "備州",
+      "reading": "びしゅう",
+      "count": 1,
+      "sample": "「薩摩や肥州、土佐、備州など優れた玉鋼の産出国を　有する西軍は精強な戦人で東軍を圧倒」"
+    },
+    {
+      "jp": "後々",
+      "reading": "のちのち",
+      "count": 1,
+      "sample": "「それに、はあっ……雪月花とあまりに差があると、　後々の関係性に、色々と支障がっ……」"
+    },
+    {
+      "jp": "司",
+      "reading": "つかさど",
+      "count": 1,
+      "sample": "「そう。ご存知の通り、蛇や龍神は水を司るもの。　人に恵みをもたらす正の面と、荒々しい負の面がある」"
+    },
+    {
+      "jp": "八紘我観",
+      "reading": "ワールドイズマイン",
+      "count": 1,
+      "sample": "「あったり前じゃん♪　あたしの八紘我観は特別だから。　誰にも真似なんてできないからねっ」"
+    },
+    {
+      "jp": "見鬼",
+      "reading": "けんき",
+      "count": 1,
+      "sample": "都子はいわゆる霊能力者で、化妖を直接見ることができる“見鬼”の能力を持っている。"
+    },
+    {
+      "jp": "符牒",
+      "reading": "ふちょう",
+      "count": 1,
+      "sample": "「というか中華料理店っていうのは何の符牒なの？　ここは伊織先生の部屋でしょ」"
+    },
+    {
+      "jp": "開始ッ！",
+      "reading": "スタート",
+      "count": 1,
+      "sample": "「……神眼極手、開始ッ！」"
+    },
+    {
+      "jp": "そ",
+      "reading": "・",
+      "count": 1,
+      "sample": "慌てて旭のそれから手を離す。"
+    },
+    {
+      "jp": "あ",
+      "reading": "・",
+      "count": 1,
+      "sample": "あれからだいぶ経ったが、以来、隆久とはすっかり疎遠になってしまった。"
+    },
+    {
+      "jp": "不動如山",
+      "reading": "うごかざることやまのごとく",
+      "count": 1,
+      "sample": "まさに不動如山、動如雷霆――"
+    },
+    {
+      "jp": "動如雷霆",
+      "reading": "うごくことらいていのごとし",
+      "count": 1,
+      "sample": "まさに不動如山、動如雷霆――"
+    },
+    {
+      "jp": "杖術",
+      "reading": "じょうじゅつ",
+      "count": 1,
+      "sample": "「長巻の型には杖術も組み込まれているんだ」"
+    },
+    {
+      "jp": "乙型",
+      "reading": "きのとがた",
+      "count": 1,
+      "sample": "「喰らえっ、三島流乙型・枝垂桜ッ！」"
+    },
+    {
+      "jp": "枝垂桜",
+      "reading": "しだれざくら",
+      "count": 1,
+      "sample": "「喰らえっ、三島流乙型・枝垂桜ッ！」"
+    },
+    {
+      "jp": "薫",
+      "reading": "かお",
+      "count": 1,
+      "sample": "光が薫るというのもおかしなことだが、そうとしか表現しようがない。"
+    },
+    {
+      "jp": "源頼光",
+      "reading": "みなもとのよりみつ",
+      "count": 1,
+      "sample": "「いいか、源雫のご先祖様はあの源頼光だ」"
+    },
+    {
+      "jp": "下々",
+      "reading": "しもじも",
+      "count": 1,
+      "sample": "「下々の争いは見ていて楽しいですね」"
+    },
+    {
+      "jp": "千手沙華",
+      "reading": "せんじゅしゃげ",
+      "count": 1,
+      "sample": "「とりあえずジャンジャン焼こうね！　まっかせてー、　はぁぁっ……三島流猫の型、千手沙華！！」"
+    },
+    {
+      "jp": "丁",
+      "reading": "ちょう",
+      "count": 1,
+      "sample": "「このやろう、私に箸で勝てると思うなよぉ～っ！　くらえ三島流丁の型陰っ、炎突っ！！」"
+    },
+    {
+      "jp": "型陰",
+      "reading": "かたいん",
+      "count": 1,
+      "sample": "「このやろう、私に箸で勝てると思うなよぉ～っ！　くらえ三島流丁の型陰っ、炎突っ！！」"
+    },
+    {
+      "jp": "炎突",
+      "reading": "えんと",
+      "count": 1,
+      "sample": "「このやろう、私に箸で勝てると思うなよぉ～っ！　くらえ三島流丁の型陰っ、炎突っ！！」"
+    },
+    {
+      "jp": "私事",
+      "reading": "わたくしごと",
+      "count": 1,
+      "sample": "「私事で恐縮なのだけれど、私は近いうちに日本を　離れることになるかもしれない」"
+    },
+    {
+      "jp": "相応",
+      "reading": "ふさわ",
+      "count": 1,
+      "sample": "「その適任者として私はあなたが相応しいと思っている」"
+    },
+    {
+      "jp": "一時",
+      "reading": "ひととき",
+      "count": 1,
+      "sample": "いずれは中隊に帰る、それまでのわずかな間にだけ、一時の夢を見る……それだけだ。"
+    },
+    {
+      "jp": "退",
+      "reading": "ひ",
+      "count": 1,
+      "sample": "「退くつもりなんて、ないよッ！」"
+    },
+    {
+      "jp": "生ける屍",
+      "reading": "アンデッド",
+      "count": 1,
+      "sample": "骸骨、化け物……生ける屍か？なるほど、こいつにはあたしがそう見えるわけだな。"
+    },
+    {
+      "jp": "位",
+      "reading": "くらい",
+      "count": 1,
+      "sample": "「この演武祭は国家の豊饒と安寧を願い、　齋匠の位を冠した刀鍛冶が腕によりをかけて作り上げた　御神刀を神宮に奉納する儀式」"
+    },
+    {
+      "jp": "私",
+      "reading": "わたくし",
+      "count": 1,
+      "sample": "「本演武祭では解説のさくらさんと、司会進行を務めます私、　主計科３年の佐々鳴子にてお送りさせていただきます」"
+    },
+    {
+      "jp": "佐々鳴子",
+      "reading": "さっさなるこ",
+      "count": 1,
+      "sample": "「本演武祭では解説のさくらさんと、司会進行を務めます私、　主計科３年の佐々鳴子にてお送りさせていただきます」"
+    },
+    {
+      "jp": "闘犬",
+      "reading": "ピットブル",
+      "count": 1,
+      "sample": "「おおっとさくら選手、テーブルに足を乗せております！　さすがは“花嵐の闘犬”、怖いものなしだぁ～っ！」"
+    },
+    {
+      "jp": "拾参型玖号",
+      "reading": "じゅうさんがたきゅうごう",
+      "count": 1,
+      "sample": "次の試合に向けて私のオリガミ――拾参型玖号・影の最終調整を行う。"
+    },
+    {
+      "jp": "憤",
+      "reading": "いきどお",
+      "count": 1,
+      "sample": "何をそんなに憤っているのかわからない。"
+    },
+    {
+      "jp": "巌",
+      "reading": "いわお",
+      "count": 1,
+      "sample": "全く、微動だにしなかった巌が少しずつ後退を始めた。"
+    },
+    {
+      "jp": "膂力",
+      "reading": "りょりょく",
+      "count": 1,
+      "sample": "「どっちも膂力に割り振ってる天呪がとんでもねーなぁ！　精神感応値の化けモンみたいな連中だ」"
+    },
+    {
+      "jp": "十八番",
+      "reading": "おはこ",
+      "count": 1,
+      "sample": "「出た～～～～っ！　ヴィクトリア選手の十八番、　多段突きの構えだぁ～～～っ！！！」"
+    },
+    {
+      "jp": "怪力試合",
+      "reading": "パワーゲーム",
+      "count": 1,
+      "sample": "「やべぇなおい……こんな怪力試合、　プロリーグでも滅多に見られるもんじゃねーぞ！」"
+    },
+    {
+      "jp": "会得",
+      "reading": "えとく",
+      "count": 1,
+      "sample": "あれは、教えられて身につけられるような代物じゃない。一ヶ月そこらで会得できるようなものじゃない。"
+    },
+    {
+      "jp": "様",
+      "reading": "さま",
+      "count": 1,
+      "sample": "その姿は、伊織先生よりもひどく様になっていた。"
+    },
+    {
+      "jp": "苛",
+      "reading": "さいな",
+      "count": 1,
+      "sample": "先ほどまで極度の緊張に苛まれていたが、今は穏やかだ。"
+    },
+    {
+      "jp": "悋気",
+      "reading": "りんき",
+      "count": 1,
+      "sample": "悋気、羨望、嫉妬。私がオリガミを手にした時から、常に向けられてきた感情だ。"
+    },
+    {
+      "jp": "変化",
+      "reading": "へんげ",
+      "count": 1,
+      "sample": "強烈な闘気と殺気が相まって、瘴気へと変化する。"
+    },
+    {
+      "jp": "衒",
+      "reading": "てら",
+      "count": 1,
+      "sample": "――明るく微笑む雪月花には何の衒いもなかった。"
+    },
+    {
+      "jp": "螺旋焔",
+      "reading": "らせんのほむら",
+      "count": 1,
+      "sample": "「我流丁型・螺旋焔ッ！！」"
+    },
+    {
+      "jp": "翻",
+      "reading": "ひるがえ",
+      "count": 1,
+      "sample": "今まで黙って従っていた蛍雪に反旗を翻してでも、伊織先生をこの学園に残そうとした。"
+    },
+    {
+      "jp": "紅",
+      "reading": "あか",
+      "count": 1,
+      "sample": "白々としているはずの月が、紅く染まっていた。"
+    },
+    {
+      "jp": "献",
+      "reading": "ささ",
+      "count": 1,
+      "sample": "神々に祝詞を献げ、そして自らまた祈る。"
+    },
+    {
+      "jp": "幸",
+      "reading": "さち",
+      "count": 1,
+      "sample": "どうか二人に、幸ある未来が与えられんことを――"
+    },
+    {
+      "jp": "煙",
+      "reading": "けむ",
+      "count": 1,
+      "sample": "綺麗な言葉で煙に巻いて、その実、自分の勝ち筋はきっちりと計算済み。要領のよろしいことだ。"
+    },
+    {
+      "jp": "纏",
+      "reading": "まと",
+      "count": 1,
+      "sample": "瞬前、その“道”へ雪月花が纏った蛇が喰らいつき。"
+    },
+    {
+      "jp": "怪",
+      "reading": "かい",
+      "count": 1,
+      "sample": "事の中に生まれ物へと具象する――物の怪。それが化妖であり、神であるとするなら。"
+    },
+    {
+      "jp": "有り様",
+      "reading": "ありよう",
+      "count": 1,
+      "sample": "（彼らは“風”の有り様を変えることができる――！）"
+    },
+    {
+      "jp": "出",
+      "reading": "いで",
+      "count": 1,
+      "sample": "元より私たちがオリガミを介して使ってきた天呪こそが、事より生まれ出し人外の力――。"
+    },
+    {
+      "jp": "勝",
+      "reading": "まさ",
+      "count": 1,
+      "sample": "「私の方が、圧倒的に勝ってるんだよッ！！！」"
+    },
+    {
+      "jp": "総十干",
+      "reading": "そうじっかん",
+      "count": 1,
+      "sample": "「――我流総十干」"
+    },
+    {
+      "jp": "普天御劔",
+      "reading": "ふてんのみつるぎ",
+      "count": 1,
+      "sample": "「普天御劔ッ！！！！！」"
+    },
+    {
+      "jp": "埋",
+      "reading": "うず",
+      "count": 1,
+      "sample": "「ぜひこのまま叢雲学園に骨を埋めてくれ」"
+    },
+    {
+      "jp": "公",
+      "reading": "おおやけ",
+      "count": 1,
+      "sample": "公私をきちんと切り分けて、公の場では平等に、それでいてプライベートでは交際を続ける。"
+    },
+    {
+      "jp": "力",
+      "reading": "ちから",
+      "count": 1,
+      "sample": "「これが旭の正妻力……！　なんだか旭が大きく見えるような気がしないでもない……！」"
+    }
+  ]
+}

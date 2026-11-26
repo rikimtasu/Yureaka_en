@@ -1,0 +1,602 @@
+[
+    {
+        "name": "Announcer",
+        "message": "「...Well then, here are the news highlights for today」"
+    },
+    {
+        "message": "A news program plays on the TV I switched on at random."
+    },
+    {
+        "name": "Iori",
+        "message": "「Whew, I can finally take a break」"
+    },
+    {
+        "message": "With the semifinals safely over, I return to my room to catch my breath."
+    },
+    {
+        "message": "After the second match, I went to check on Asahi and Momiji individually, but..."
+    },
+    {
+        "name": "Iori",
+        "message": "「Somehow, both of them were so indifferent...」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「...Oh, Iori-sensei. I’m fine, I don't have any injuries」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「As for the match... unfortunately, my skills weren't enough to reach Momiji-san」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「You went out of your way to teach me Tengen Saimei-ryuu, and I’m sorry I couldn't deliver results...」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I’m fine on my own, so please go check on Momiji-san」"
+    },
+    {
+        "message": "After being told that, I went to see Momiji, and—"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Iori-sensei, thank you. Because of your guidance, I was able to make it through safely」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「About the match... I just think it was a case of what was meant to happen, happening, that's all」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「While I won, I was made to realize that I’m still immature」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I’m fine, so please go check on Asahi-san」"
+    },
+    {
+        "message": "I had hoped I could encourage them or celebrate with them, but the atmosphere was far from that."
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, they are really delicate right after a match...」"
+    },
+    {
+        "message": "Both of them seemed more worried about the other than themselves. They must each have their own thoughts on the matter."
+    },
+    {
+        "name": "Announcer",
+        "message": "「Now, next is a topic about a rare astronomical show」"
+    },
+    {
+        "name": "Announcer",
+        "message": "「Coming up on July 21st, a rare astronomical phenomenon where the moon is hidden in the Earth's shadow, a total—」"
+    },
+    {
+        "message": "The 21st is the final day of school for the first term. From the day after, Murakumo Academy enters its long summer break."
+    },
+    {
+        "message": "By this time next week, the finals will be over, the heat of the Martial Festival will have faded, and everyone should be busy making plans for summer vacation."
+    },
+    {
+        "message": "Will I have been called back to my original unit by then?"
+    },
+    {
+        "name": "Iori",
+        "message": "「...I have to think about a training menu for everyone during summer break」"
+    },
+    {
+        "message": "Students who want to grow don't neglect hard training even during summer break. I want to leave them with something, even if it's just a little bit."
+    },
+    {
+        "message": "Just as I was thinking that—"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hm...？」"
+    },
+    {
+        "message": "A call comes through."
+    },
+    {
+        "message": "I check the name of the person calling... and freeze up."
+    },
+    {
+        "name": "Iori",
+        "message": "「Ta, Takahisa...！？ Wh, why now of all times...！」"
+    },
+    {
+        "message": "Since graduating from the academy until today, I’ve never contacted him. And I haven't heard from him either."
+    },
+    {
+        "message": "I thought we'd never be able to talk again. And yet, why."
+    },
+    {
+        "message": "With trembling fingers, I press the answer button."
+    },
+    {
+        "name": "Iori",
+        "message": "「...H-Hello?」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「Yo, Iori？ How've you been？」"
+    },
+    {
+        "message": "...It was Takahisa's voice, after so long."
+    },
+    {
+        "name": "Iori",
+        "message": "「Y-Yeah... How about you？」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「Eh, so-so, I guess. Just getting along fine back at my parents' place.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I see. I'm glad to hear that.」"
+    },
+    {
+        "message": "Hearing Takahisa's voice brings old memories flooding back."
+    },
+    {
+        "message": "The days spent at the academy, all the crazy stunts Takahisa and I pulled. Every single one of them was a nostalgic, precious memory."
+    },
+    {
+        "name": "Takahisa",
+        "message": "「Wait a sec, Iori, why the hell haven't you kept in touch?！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「N-No, it's just... I didn't think I had the right to...」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「Huh? What do you mean, 'the right'? You're still getting hung up on the weirdest stuff, same as ever.」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「...Then again, I can't put all the blame on you. I didn't reach out either, after all.」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「My bad, Iori.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, I'm the one who should be apologizing. That injury of yours, I...！」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「Whoa, hold on, we're not talking about that.」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「Listen, me getting hurt wasn't your fault. Next time you apologize to me for that, we're done being friends.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「G-Got it... Sorry.」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「Didn't I just tell you not to apologize?！ Man, you haven't changed a single bit since back then！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I'm relieved to see you haven't changed either.」"
+    },
+    {
+        "message": "The voice reaching my ears was the exact same Takahisa from back when we were still students at the academy."
+    },
+    {
+        "name": "Takahisa",
+        "message": "「Hey Iori, where are you these days, and what're you up to？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I'm with the Self-Defense Forces right now.」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「Aw, come on, don't be so cold. Tell me the truth. You're working as a teacher at Murakumo Academy, aren't you？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「T-That... how did you...？！」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「I heard it from Asahi.」"
+    },
+    {
+        "message": "……I see. So that's how it is."
+    },
+    {
+        "name": "Takahisa",
+        "message": "「Murakumo Academy, brings back memories, doesn't it.」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「You said you wanted to be a teacher after you graduated, remember? It's great that your dream came true.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「……I'm only a teacher because I was ordered to from above. I'll be going back to the Ground Self-Defense Force once the mission is over.」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「Why? Why not just keep doing it, teaching? It's what you wanted to do, right?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「……No, I can't do that.」"
+    },
+    {
+        "message": "How could I possibly be allowed to fulfill my own dream, when it was me who shattered yours?"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「I knew it, you're still hung up on my injury.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, of course I am.」"
+    },
+    {
+        "message": "Ending Takahisa's career as an athlete is a sin I must carry with me for the rest of my life."
+    },
+    {
+        "name": "Takahisa",
+        "message": "「Seriously, you are just so damn inflexible……. Are you an idiot or what？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Who are you calling an idiot? This is a conclusion I reached after serious consideration.」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「I'm calling you an idiot because you're stupidly serious. It doesn't matter what happened to my injury, does it?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Of course it matters！ You were my best friend！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I couldn't just stand by and be a person who could act like nothing happened after stealing my best friend's dream！！」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「I know that, dammit……！」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「I know that you're honorable, idiotically stubborn, and more compassionate than anyone else I've ever known！」"
+    },
+    {
+        "message": "Takahisa lets out a deep sigh."
+    },
+    {
+        "name": "Takahisa",
+        "message": "「……I should have known better.」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「I couldn't bring myself to reach out to you. Man, I'm just pathetic.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Takahisa……」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「……To be honest, I did resent you at first. Thinking about how things could've been if I hadn't gotten injured.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I'm sorr……」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「Hey, cut it out! I told you not to apologize. Are you trying to get me to cut ties with you？」"
+    },
+    {
+        "message": "I am cut off by Takahisa and fall silent."
+    },
+    {
+        "name": "Takahisa",
+        "message": "「……I was still just a brat when I graduated. I couldn't get over it.」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「I kept thinking, 'Nobody understands how I feel.' Acting like I was carrying all the misfortune in the world on my own shoulders.」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「Playing the tragic hero and thinking only about myself. I really am such an idiot...」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「Did you know? Asahi was aiming to become Toujinegi for my sake. Seeing how bitter I was that I couldn't achieve my dream.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Is that right...」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「I had no idea at all. It never even crossed my mind.」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「And just like that, I was pushing the important people around me into a corner without even realizing it.」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「That goes for you too, Iori.」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「If I'd just stopped to think about it, I would've known right away how much you were suffering over injuring me.」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「Even so, I just couldn't bring myself to take that step, so I couldn't contact you until today.」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「So, I know I'm way too late... but still, let me say this！」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「Iori, me getting hurt wasn't your fault.」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「That was an accident that happened because two swordsmen fought each other in dead earnest.」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「It was an accident, Iori.」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「So you don't have to feel guilty about it at all.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Takahisa……」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「...I was the only one who could've told you that, too. Why didn't I say it sooner...」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「Seriously, I'm sick of how stupid I am. I've been regretting it this whole time.」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「Iori... I'm really sorry it took me so long.」"
+    },
+    {
+        "message": "Before I knew it, the corners of my eyes grew hot."
+    },
+    {
+        "name": "Iori",
+        "message": "「Is that really okay？ What I did to you...！」"
+    },
+    {
+        "message": "The words caught in my throat, and I couldn't get the rest out."
+    },
+    {
+        "name": "Takahisa",
+        "message": "「Hey, do you remember, Iori?」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「Back in our first year, our homeroom teacher said something wrong, and when I pointed it out, he suddenly blew his top...」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「And then he started saying, 'That constitutes disrespect! Apologize!' Remember when that happened？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, I remember.」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「And that's when you started saying stuff like, 'Why is an apology necessary for stating that what is wrong is wrong?'」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「Seeing you get beat up by our homeroom teacher during disciplinary training right along with me, just for backing me up... that’s what I thought.」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「That this guy’s gotta be a complete idiot.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I didn't do anything wrong. That teacher is the one who's messed up.」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「That was the moment. That’s when we became friends.」"
+    },
+    {
+        "message": "Ah... that's right. We spent the whole night talking trash about our teacher and bonded."
+    },
+    {
+        "name": "Takahisa",
+        "message": "「You haven't changed a bit since then.」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「You were a sincere, stubborn, upright guy who hated anything crooked—a damn good, respectable person.」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「That’s why you’ll surely make a great teacher. You ought to be one.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「But... you couldn't fulfill your dream. How could I just go and...」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「Look, I had no choice but to give up on my dream, but that’s not the case for you, is it? You’re just giving up on your own.」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「Don't go throwing away something precious that easily.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I didn't just throw it away on a whim. I thought about it, and I believed it was the right thing to do.」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「Playing the tragic hero and pretending you’re shouldering some great sin... nobody benefits from that, you know.」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「In fact, you just end up hurting the people around you—the people who care about you.」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「Being that kind of idiot, one of me is more than enough.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Takahisa……」"
+    },
+    {
+        "message": "I had no words to retort."
+    },
+    {
+        "name": "Takahisa",
+        "message": "「Do it. Be a teacher.」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「Iori, live your life the way you want to.」"
+    },
+    {
+        "message": "With those words from Takahisa."
+    },
+    {
+        "message": "The shackles that had kept me bound for so long—came crumbling down with a sound."
+    },
+    {
+        "name": "Iori",
+        "message": "「...Thank you, Takahisa.」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「Don't mention it, don't worry about it. We're friends, aren't we?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, I guess we are.」"
+    },
+    {
+        "message": "I replied, wiping the corner of my eye."
+    },
+    {
+        "name": "Takahisa",
+        "message": "「Hey, you're going to be at the academy for a while, right？ Can I come visit sometime？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...I wonder about that.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Once the Martial Festival is over, I might be called back to my original unit. If that happens, I’ll only be able to stay on as a teacher until the end of summer vacation.」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「Seriously？ You’re heading back to the JGSDF already！？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, I won’t know the details until I talk to the company commander, but…」"
+    },
+    {
+        "message": "Still, based on the way he put it, there’s no doubt I’ll have to return at some point."
+    },
+    {
+        "name": "Takahisa",
+        "message": "「Then just quit the JGSDF already.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Don’t say that so easily. I have a lot of attachment to that place.」"
+    },
+    {
+        "message": "There are so many people there who took care of me, and my comrades. It’s not something I can just walk away from that easily."
+    },
+    {
+        "name": "Takahisa",
+        "message": "「But you’ve wanted to be a teacher for a long time, right? You’re really just going to throw that away and leave?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That’s…」"
+    },
+    {
+        "message": "Of course, I absolutely don’t want to throw it away."
+    },
+    {
+        "message": "However, the JGSDF—and the Tenju Special Forces—aren’t organizations where personal whims hold any sway."
+    },
+    {
+        "message": "If I’m ordered to return for duty, I won’t be able to refuse."
+    },
+    {
+        "name": "Iori",
+        "message": "「…But, you’re right.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「After you went through all the trouble of encouraging me, I hate the idea of giving up without trying anything.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I’ll look for a way to see if I can’t somehow get my deployment extended.」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「Yeah, you do that. Definitely do that.」"
+    },
+    {
+        "message": "I’ll try making a proposal to the company commander as early as tomorrow."
+    },
+    {
+        "name": "Takahisa",
+        "message": "「Man, I finally got to say what I wanted to say, I feel so much better！」"
+    },
+    {
+        "name": "Takahisa",
+        "message": "「Alright, see ya later. I’m glad we got to talk today.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah… I’m really, really glad we talked.」"
+    },
+    {
+        "message": "We promise to get in touch again soon, then end the call."
+    },
+    {
+        "name": "Iori",
+        "message": "「…It’s a nice night tonight.」"
+    },
+    {
+        "message": "The night sky I looked up at seemed to shine just as brightly as it did that summer."
+    }
+]

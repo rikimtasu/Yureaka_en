@@ -1,0 +1,702 @@
+[
+    {
+        "name": "Iori",
+        "message": "「Zzz... mmm...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Nn...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hau-wha！？」"
+    },
+    {
+        "message": "Hearing the sound of a bugle, my consciousness snapped awake in an instant."
+    },
+    {
+        "message": "I jumped up, reached for my uniform... and then realized."
+    },
+    {
+        "name": "Iori",
+        "message": "「...Ah, this isn't the barracks, is it？」"
+    },
+    {
+        "message": "Right, I'm currently on an “errand”..."
+    },
+    {
+        "message": "It's 6:00 AM."
+    },
+    {
+        "message": "I’d left my alarm set to the one I’m used to, so I woke up with more clarity than I’d ever want."
+    },
+    {
+        "name": "Iori",
+        "message": "「...Maybe I should change my alarm.」"
+    },
+    {
+        "message": "This is a room in the academy’s staff dormitory. It’s a room the academy provided for me since I’m on assignment here."
+    },
+    {
+        "message": "The staff dormitory is built right next to the students' dorms and connected by a hallway. I can rush over anytime if something happens."
+    },
+    {
+        "message": "After finishing my morning routine and leaving my room, it was already 6:30."
+    },
+    {
+        "name": "Iori",
+        "message": "「It really is an impressive building.」"
+    },
+    {
+        "message": "I thought so when I was a student here too, but all the facilities at Murakumo Academy are luxurious. Just looking at the dorm, it’s better built than your average hotel."
+    },
+    {
+        "name": "Iori",
+        "message": "「As expected of the Suzakuin... or rather, I wonder if this is thanks to the Kazamine？」"
+    },
+    {
+        "message": "Murakumo Academy was only able to gather these well-equipped facilities because of the full backing of the Sword-Bearing Self-Defense Association."
+    },
+    {
+        "message": "Keisetsu did say that the Kazamine were the ones supporting the finances, didn't she?"
+    },
+    {
+        "name": "Iori",
+        "message": "「Phew, my stomach feels heavy...」"
+    },
+    {
+        "message": "There’s a small cafeteria for staff on the first floor of the dormitory, and residents can eat as much of any dish as they want for free."
+    },
+    {
+        "message": "The food was so delicious that I ended up eating a bit too much first thing in the morning."
+    },
+    {
+        "name": "Iori",
+        "message": "「Murakumo Academy is great. I’d love to get a permanent job here if I could.」"
+    },
+    {
+        "message": "I’ve spent several years living in barracks without any major complaints, but once I get used to living here, going back seems tough."
+    },
+    {
+        "name": "Iori",
+        "message": "「...Wait, hmm？」"
+    },
+    {
+        "message": "A notification came in from an app."
+    },
+    {
+        "message": "When I pulled up the holographic display, I saw a character modeled after a cat hiding in the shadows of some grass."
+    },
+    {
+        "name": "Iori",
+        "message": "「Whoa, I’ve never seen that one before！？」"
+    },
+    {
+        "message": "The app I opened was 『Pochett Monster GO』."
+    },
+    {
+        "message": "<d0060>Pochemon</d> utilize HR, so monsters appear all over town as if they actually exist in reality."
+    },
+    {
+        "message": "Players catch and train Pochemon, then make them fight in battles."
+    },
+    {
+        "name": "Iori",
+        "message": "「Ooh, I want to catch it！」"
+    },
+    {
+        "message": "I am on duty, but it’s before work starts, so just a little bit should be fine...！"
+    },
+    {
+        "message": "I slowly inch closer to the Pochemon."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「...Whoa？！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ah... G-Good morning, Setsugekka！」"
+    },
+    {
+        "message": "Setsugekka shows up right as I'm poised to catch it."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「W-What are you doing？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Uh, well, I was just thinking of catching a cat.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Huh, a cat？ What are you going to do once you catch it？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I'm gonna raise it and use it in battle.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「U-Use a cat in battle？！ Sensei, you're a total monster！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「N-No, that's not what I meant！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「No, no~ No need to explain. If you'll excuse me!」"
+    },
+    {
+        "message": "Whoa, I totally creeped her out..."
+    },
+    {
+        "name": "Iori",
+        "message": "「Hey, wait up. Where are you going？」"
+    },
+    {
+        "message": "I stop Setsugekka as she starts heading off in a different direction from the classroom."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Um, I was thinking of grabbing some food at the convenience store.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hmm, I can't say I'm a fan of that. Your diet's going to be unbalanced.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「W-Well, that's true, but~...」"
+    },
+    {
+        "message": "The academy has a cafeteria with a system where, if a student requests it, a nutritionist will help them maintain a balanced diet."
+    },
+    {
+        "message": "Students in the Martial Arts Division, in particular, are actively encouraged to make use of this system."
+    },
+    {
+        "message": "Well, back when I was a student here, I used to go out buying snacks all the time myself."
+    },
+    {
+        "message": "Telling academy students who are still growing in both mind and body not to snack is just way too cruel."
+    },
+    {
+        "name": "Iori",
+        "message": "「Oh well, guess it's fine. Let's go together, then.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Whaaaat？！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hey, what's that for? You don't have to be so against it.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「B-Because... it's embarrassing.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「What is？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Come on, you saw it, didn't you?！ My... you-know-what！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ahh...」"
+    },
+    {
+        "message": "Talking about the masturbation I saw on the first day?"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ah, you’re remembering it right now！ Stop it, it’s embarrassing, don't humiliate me any further~！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I get it, I won’t think about it anymore！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Are you sure？ Even looking at this face？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「……I won’t think about it.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ah, there was a pause just now！ I hate this so muuuuch！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Alright, let’s erase Mr. Muragaki’s memory！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「How？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hmm, I wonder if there’s a memory-erasing beam or something.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「And then I’ll blast Mr. Muragaki to death.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「If you kill me, wouldn't erasing the memory be irrelevant...？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Noooo, I still want you to erase it.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Because if you were to reincarnate in another world, you’d be taking my embarrassing memories to that world, wouldn't you?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I absolutely forbid that！ The contaminated memory must be scrubbed clean~！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I want to be a pure, innocent maiden in Mr. Muragaki’s mind！」"
+    },
+    {
+        "message": "……She really is a strange girl."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「So, you’re really coming with me.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, I just thought I should check what you’re buying.」"
+    },
+    {
+        "message": "If she ends up buying something with way too many calories, I should probably warn her about it."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Does that mean you’re interested in what kind of feminine hygiene products I use...？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, you said you were going to buy food just a second ago, didn’t you！？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Th-that’s true, but...」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「It’s just that, how should I put it, Mr. Muragaki and I have this kind of... horny-for-each-other type of relationship.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I’d appreciate it if you stopped being lustful toward me.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「N-no, that’s not the nuance I meant!」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Like, I kind of want to wrap Muragaki-sensei around my little finger with my own alluring charm, you know！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You realize that by saying that out loud, you’ve pretty much ruined any chance of that happening, right？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ahhh—！？ Damn it, I’m such an idiot, such an idiot！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ughhh, why do I have to be such a ditz……」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「*Sigh*, I wish I had a cool, intellectual aura like Kei-chan and a silent, beast-like demeanor like Nakamura Sakura.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Does a person like that even exist in this world……？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「They do! And if they don't, I’ll just have to become one myself!」"
+    },
+    {
+        "name": "???",
+        "message": "「Watch it……」"
+    },
+    {
+        "message": "Setsugekka was passionately laying out her theory, but she ended up bumping into a student who was just walking out of the convenience store."
+    },
+    {
+        "name": "???",
+        "message": "「Hey…… watch where you’re going, will you?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「So-so-sorry！」"
+    },
+    {
+        "name": "???",
+        "message": "「Tch…… be more careful.」"
+    },
+    {
+        "message": "The girl, who was radiating a dangerous aura, didn't bother engaging any further and walked off in the opposite direction of the academy."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「…………」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hey, Setsugekka. You alright？」"
+    },
+    {
+        "message": "Setsugekka was frozen in place."
+    },
+    {
+        "message": "She was a girl with a very intense vibe, so she must have been too shocked to move."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「……Good.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Huh？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「It’s good…… it’s actually really good！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「You saw her too, right, Sensei? That dangerous, dark, shadowy aura！ The way she spoke, like a knife that cuts through everything it touches！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「That’s it! That’s exactly what I’m looking for! That person is my ideal!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Y-your ideal？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Exactly! My vision for the future, you know, my role model？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Oh, right, her name! I have to go ask for her name!」"
+    },
+    {
+        "message": "No sooner had she said that than Setsugekka dashed off."
+    },
+    {
+        "name": "Iori",
+        "message": "「Wait, what about the convenience store！？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Sooorryyyyy!」"
+    },
+    {
+        "message": "Along with Setsugekka, I chase after the threatening girl from before."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「You there! Please, just a moment of your time!」"
+    },
+    {
+        "name": "???",
+        "message": "「...Hah？」"
+    },
+    {
+        "message": "The girl who was called out to turns around lethargically."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Um, excuse me！ May I have your name？」"
+    },
+    {
+        "name": "???",
+        "message": "「Why the hell should I tell you my name?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Because you’re so cool！！！」"
+    },
+    {
+        "name": "???",
+        "message": "「H, hah? What the hell are you talking about?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I beg of you, I’m begging you, just your name, please～」"
+    },
+    {
+        "message": "Setsugekka edges closer, her hands wriggling with excitement."
+    },
+    {
+        "name": "???",
+        "message": "「G, gross... fine, just don’t come any closer.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「...I’m Arakawa Sonomi.」"
+    },
+    {
+        "message": "I launch my HR in private mode so no one around can see, and check the profile registered with the academy."
+    },
+    {
+        "message": "Arakawa Sonomi, second-year in the Martial Arts Division. As a first-year, she already cleared the Martial Festival qualifiers, but was defeated in the first round of the main tournament."
+    },
+    {
+        "message": "She tends to skip class and her conduct isn't great, but it seems she is one of the top fighters among the second-year Martial Arts students."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「S, Sonomi-san... Sono-chan？」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Hey, are you my friend or something？ Don't go calling me so familiarly.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Aaaah, that cool gaze like you’re looking at trash, and that rough tone... truly the distant <d0036>Arcadia</d> I aim for...！」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「...Hey you, the guy there. Do you know this person?」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Know her? She’s a student in my class.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Tch... you’re a teach, huh.」"
+    },
+    {
+        "message": "Sonomi glares at me with intense hostility in her eyes. It seems she really doesn't like teachers."
+    },
+    {
+        "name": "Iori",
+        "message": "「The academy isn't in that direction, though. Where are you going？」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Wherever I’m going or whatever I’m doing, it’s got nothing to do with you.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「It may not have anything to do with me, but I can’t just leave you be.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Tch, this is exactly why teachers are such a pain...！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Um, Sono-chan?」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Cut it out, don't call me Sono-chan！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Then what should I call you...?」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「You're a first-year, right？ That makes me your upperclassman. At the very least, show some respect to your seniors.」"
+    },
+    {
+        "message": "I don’t think you use respectful language with your seniors either, though..."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hmm, how about Sono-chan-senpai？」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Seriously, you... whatever, fine, call me whatever you want.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「So? What do you want with me?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I really look up to people like you, Sono-chan-senpai!」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Huh? Do you even know who I am?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「No, I just found out about you earlier.」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Do you want me to clobber you？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「To be exact, I actually look up to Nakamura Sakura.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「You have such a similar vibe to Nakamura Sakura, Sono-chan-senpai, I fell for you the moment I saw you！」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Oh, so you're a fan of Nakamura Sakura?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yes! Does that mean you like her too, Nakamura Sakura?」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「...I guess you could say that.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Whoaaaaa！！ Seriously?！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「To think we’d even share the same taste in idols—this meeting must be destiny！」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「That’s some cheap-ass destiny.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「A <d0044>cool beauty</d> who likes Nakamura Sakura and carries herself with a rebellious edge—to me, your very existence is perfect！」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Quit saying such embarrassing crap...」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「In that case, I’m following you wherever you go, Sono-chan-senpai！」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Ugh, stop following me, you're annoying.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Eeeeh—, no way！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「But Sonomi-senpai and I are comrades bound together by our love for Nakamura Sakura-senshu, aren't we?！」"
+    },
+    {
+        "message": "To Setsugekka, who admires heels, it seems Arakawa Sonomi is an incredibly captivating existence."
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, it's not a bad thing to admire someone.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Right?！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「But Setsugekka, you have class coming up, don't you？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Sensei... today, I met my spiritual mentor.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「If I had to choose between a mentor and a teacher, I think the mentor is more important.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Wait, really？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「So today, I intend to learn all sorts of things from this mentor of mine!」"
+    },
+    {
+        "message": "Setsugekka hides behind Arakawa Sonomi."
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Hey, don't tell me... who exactly is this 'mentor' you're talking about？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「It's obviously you, Sonomi-senpai. Right, Master？」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Are you an idiot? Don't ask me to agree with you!」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「A-and, when I'm with Muragaki-sensei, all those traumatic memories come flooding back, making my heart thump and race!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Does it really make you that excited?」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「It’s just that I think I need a bit more time before we can interact...」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I'm sorry! So, today, I'm going to go with my mentor!」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「I told you not to follow me！ And I'm not your mentor！」"
+    },
+    {
+        "name": "Sonomi",
+        "message": "「Good grief, this is ridiculous. I'm done with this!」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ah, wait for me, Master~！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hey... where are you going, Setsugekka!」"
+    },
+    {
+        "message": "Not that I even had a chance to stop her. Setsugekka stuck herself to Sonomi’s heels and headed off somewhere."
+    },
+    {
+        "message": "That girl... I hope she actually makes it back in time for class..."
+    }
+]

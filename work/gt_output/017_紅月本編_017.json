@@ -1,0 +1,382 @@
+[
+    {
+        "message": "...Setsugekka didn't show up to the classroom even when class time started."
+    },
+    {
+        "message": "It wasn't just Setsugekka. Momiji, Ririmu, and Keisetsu were also absent. Right now, only Asahi and I were in the classroom."
+    },
+    {
+        "name": "Iori",
+        "message": "「Those guys... they're ditching class already.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Then, Teacher Iori, let's start a nasty private lesson, just the two of us.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, that's not gonna fly, is it?」"
+    },
+    {
+        "message": "Waiting for them might make them show up to class on their own... yeah, right. That’s never gonna happen, absolutely not."
+    },
+    {
+        "name": "Iori",
+        "message": "「Can't be helped. Guess I'll go look for them.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ugh, so Teacher Iori, you care more about everyone else than you do about me.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Sorry, Asahi, but go ahead and do some self-training for now.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I got smoothly brushed off...」"
+    },
+    {
+        "message": "I left Asahi in the classroom and headed outside."
+    },
+    {
+        "name": "Iori",
+        "message": "「Now then, let's see which bad students are wandering about at this hour...」"
+    },
+    {
+        "message": "Oh, there they are."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ugh！？」"
+    },
+    {
+        "message": "At this hour, while class is in session, a student wandering around alone in uniform stands out quite a bit."
+    },
+    {
+        "message": "I was able to find Ririmu right away."
+    },
+    {
+        "name": "Iori",
+        "message": "「Found ya. Come on, let's head to the classroom, shall we？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Kyaa! Sensei, you've got a strong grip! Don't grab me so hard!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Ririmu, your arm muscles are thin. You need to train more.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「S-stop it! Don't go poking and prodding my upper arm!」"
+    },
+    {
+        "message": "Ririmu shook off my hand and backed away, inch by inch."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「H-hey! Just because you're the Sensei doesn't mean there aren't things you should and shouldn't do!」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「What are you doing, touching a girl's body so calmly！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Oh, right... sorry. I apologize for touching you without asking.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「But the students in the Martial Arts Division are athletes, after all.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I can't exactly decide on a training regimen if I don't check how well your muscles are developed.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「W-well, what does that mean？ Does that mean you're going to touch my chest, my thighs, and my inner thighs too！？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, that would be sexual harassment, wouldn't it...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Well, if you get it, that's fine then」"
+    },
+    {
+        "message": "She looks a little disappointed, or is it just me...？"
+    },
+    {
+        "name": "Iori",
+        "message": "「Moving past that. Why aren't you coming to class？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Oh, you know why. Because of that girl, Kuki Asahi.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I can't stand her. I don't feel like we could ever get along.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Asahi is a good kid. A bit eccentric, sure, but she's good.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Well, that's only from your perspective, Sensei.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「She's got a nasty personality to everyone but you. Seriously, no way.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「If you want me to show up for class, kick that girl out first.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I'm afraid I can't do that. She's a student in the Takamura Class too.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Fine, then I'm not coming.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You're being awfully headstrong...」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Listen, you say being headstrong like it's a bad thing, but I don't see it that way at all.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Being headstrong basically just means speaking up about what you want to do, right？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「What's so wrong with that？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Do you want me to just keep my mouth shut, endure it, and do whatever other people say？ That's ridiculous.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, I suppose you're right.」"
+    },
+    {
+        "message": "Ririmu has a point."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I decide things for myself. I belong to me, and to nobody else.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I absolutely hate the idea of living my life worried about what others think or walking on eggshells.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I'd rather die than live a life like that.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I won't be anyone's puppet. I've decided that I live according to my own worldview.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「So, it's a waste of time to try and force me to do anything.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I don't do things I can't bring myself to agree with.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「So look, Sensei. If you want me to do something, just convince me.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Once I've made up my mind, I'll do it myself without anyone telling me to. I decide everything for myself, and I make sure it gets done.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「If I don't keep my own decisions, that means I'm betraying myself. And that’s just, like, totally pathetic.」"
+    },
+    {
+        "message": "I see... so that’s Ririmu’s policy."
+    },
+    {
+        "name": "Iori",
+        "message": "「I understand your stance, Ririmu. I’ll keep that in mind.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「O-okay, good. In that case, we're good～」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, that aside, don't just go wandering off on your own.」"
+    },
+    {
+        "message": "I grabbed her wrist lightly and lifted it. That alone was enough to keep Ririmu from moving a single step."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ow-ow-ow... hey, I can't shake this off at all！？ Sensei, you're seriously way too strong～」"
+    },
+    {
+        "message": "Don't think I'm being cruel; she is, after all, a swordswoman who practices martial arts."
+    },
+    {
+        "message": "Holding back just because of some strange label like 'she's a girl' would actually be rude."
+    },
+    {
+        "name": "Iori",
+        "message": "「I train, too, you know. If you want to win, Ririmu, you should train harder.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「A-and I do! I might skip class, but I do self-practice! And I do my strength training every single day!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Oh ho, and what does your routine look like？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「That’s... wait, why should I have to tell you, Sensei！？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, I am your teacher, after all.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Nngh... fine, I won't run anymore, so let go!」"
+    },
+    {
+        "message": "I let go of her hand, popping my fingers off."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ah, geez, you made my wrist all red. How much grip strength do you have?！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「When I measured it a while back, it was around 118kg raw.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Huh？ Without an Origami！？ You’re such a muscle-head, Sensei...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, training is basically my job when I'm off the clock.」"
+    },
+    {
+        "message": "When there are no dispatch orders, I basically just do drills, practice, and workouts. Even in my free time, I end up strength training out of habit."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hey, hey, isn't that Momiji？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Huh? Where?」"
+    },
+    {
+        "message": "In the moment I took my eyes off her, Ririmu bolted."
+    },
+    {
+        "name": "Iori",
+        "message": "「Ah, hey, wait！！」"
+    },
+    {
+        "message": "That girl Ririmu, she lied after saying she wouldn't run away...！"
+    },
+    {
+        "name": "Iori",
+        "message": "「Alright, fine. You asked for it—I'm chasing you to the ends of the earth！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Whoa, Iorin, you're so fast！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I'm going all out this time！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Haa, haa... Dammiiitt, I can't shake hiiim！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「What's the matter, what's the matter? Already out of breath~?」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「D-Don't mock meee！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Gah, hff... I-Iorin, you're seriously way too persistent！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Come on, come on, Ririmu. Without stamina, you'll burn out right away in a match~」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「So annoying！ Quit flexing on meee！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Pwah, hah, haa, huff, I-I can't anymoreee...」"
+    },
+    {
+        "message": "After about thirty minutes of playing tag, Ririmu finally calls it quits. She plops down right onto the bare ground."
+    },
+    {
+        "name": "Iori",
+        "message": "「Whew, feels like I'm finally just about warmed up.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Huuuhhh？ Are you seriously saying that right now...？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You really need to build up more endurance from here on out, Ririmu. Otherwise, you'll never beat Asahi, and I know how much you dislike her.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ugh, that pisses me off! I'm definitely beating that girl, no matter whaaat...!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「All right then, from now on, whenever I spot you, Ririmu, I'll chase you around every single time to help build your endurance.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Stop iiiit, that's straight-up stalking at that point...！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「If you don't like it, start showing up to class properly.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Uwaaah！？ Give me a breeeak...！」"
+    },
+    {
+        "message": "Yeah, I guess that's enough coaching for today."
+    }
+]

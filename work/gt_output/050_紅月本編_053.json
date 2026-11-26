@@ -1,0 +1,1228 @@
+[
+    {
+        "name": "Iori",
+        "message": "「All right, it's time for some practice matches. First up are Setsugekka and Ririmu.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「—However, for this practice match, I'm going to put a little restriction on the two of you.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Setsugekka, you have to stay calm and not go berserk. And Ririmu, you'll fight using only swordsmanship, without using your special Tenju.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Whaaat, no way！ That's my whole aesthetic！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Nope. Whether it's going berserk or that Tenju, in a way, they're secret weapons for you two—your trump cards, so to speak.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「So it's important to build a solid foundation first, that way you can save them as a last resort.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Yessir, roger that！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hmm, well, pulling out a trump card in a pinch for a dramatic comeback might not be half bad~」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Glad to hear you're on board.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Now then, make sure you fight under those restrictions. Break them, and not only is it an automatic loss, I'll confiscate your pudding snack too！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「No way！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「...Did we even have snacks？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「No, we don't, but I still don't want my pudding confiscated~！」"
+    },
+    {
+        "message": "Setsugekka and Ririmu face off in the center of the training ground, brimming with motivation."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Anyway, I just have to knock you flat without going berserk, right? Easy, super easy~!」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I wonder if you can pull that off, Secchan？ Aren't you gonna go berserk and still end up getting knocked flat？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Whaaat was that?！」"
+    },
+    {
+        "message": "Grinning boldly at each other, trading barbs as if just chatting—"
+    },
+    {
+        "name": "Iori",
+        "message": "「Are you two ready？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「All right—whenever you're ready, Sensei.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I'm ready too—we can start anytime.」"
+    },
+    {
+        "message": "The moment they draw their Origami, both of their expressions change in an instant."
+    },
+    {
+        "message": "Even if they were just chatting moments ago, when it comes to fighting they're dead serious—they really are swordswomen, after all."
+    },
+    {
+        "name": "Iori",
+        "message": "「Now then... begin！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Here I come, Ririmu-chan！」"
+    },
+    {
+        "message": "Almost the very instant the signal is given, it's Setsugekka who springs forward—"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "（Strike first, win the day！ Dive in all at once and take her down in one go！）"
+    },
+    {
+        "message": "If I can't go berserk, then I just need to take her down so fast that I don't even have time to."
+    },
+    {
+        "message": "I push off the ground with all my might and charge toward Ririmu！"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hraaaaaah！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Whoa... that was close！」"
+    },
+    {
+        "message": "After a side-swinging strike, I step in further for a backhand follow-up. But she dodged it."
+    },
+    {
+        "message": "Ririmu looks surprised as she hops backward like a rabbit—"
+    },
+    {
+        "message": "I chase after her instantly！"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Gotcha！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Watch it！」"
+    },
+    {
+        "message": "This time, Ririmu swings her Origami while retreating, lightly scraping my Barrier Jacket."
+    },
+    {
+        "message": "Still, this much is nothing. I'll keep pushing, keep attacking！"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「That's barely anything, keep going！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「And you're not catching me with that either~！」"
+    },
+    {
+        "message": "I aim for the right, anticipating she’ll dodge right, but she goes left. I aim for the left, and she goes right—"
+    },
+    {
+        "message": "Even at a distance where I think I’ve got her, Ririmu slips through my reach with nimble steps."
+    },
+    {
+        "message": "Before I know it, she’s swinging her Origami from out of my reach."
+    },
+    {
+        "message": "The attacks are so shallow I wouldn't even need my Barrier Jacket, yet she manages to land them every time I attack！"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ugh, I'm the one on the offense here！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「But you’re not landing a single hit！」"
+    },
+    {
+        "message": "The only one landing hits, as usual, is Ririmu...！"
+    },
+    {
+        "message": "Dammit！ Why is this happening when I'm the one putting on the pressure?！"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hyaaaaaaah！」"
+    },
+    {
+        "message": "I use a bare-handed strike as a feint and swing my Origami in a hurry before she can escape."
+    },
+    {
+        "message": "But Ririmu blocks it—"
+    },
+    {
+        "message": "Or rather, she looks so composed that it feels like she stopped instead of running away on purpose...！"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ahaha, are you just charging ahead blindly now？ Have you gone berserk already~？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「No way!? I'm totally fine!」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「You've got a pretty scary look on your face, though！」"
+    },
+    {
+        "message": "I pull back the blocked Origami and immediately target Ririmu's torso from a different angle."
+    },
+    {
+        "message": "But by then, Ririmu had already moved away. And my Barrier Jacket got scraped again for good measure！"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Stop running away like that...！」"
+    },
+    {
+        "message": "Each hit is only minor, but I can feel them stacking up because she keeps landing them."
+    },
+    {
+        "message": "I can't land a hit, she keeps running away, she keeps poking at me. All of it is just so frustrating I can't stand it."
+    },
+    {
+        "message": "And that irritation swirls up, turning my mind pitch black—"
+    },
+    {
+        "name": "Iori",
+        "message": "「Setsugekka！ No going berserk！ Calm down！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ngh！ S-Sensei...！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「For an in-fighter, chasing down a fleeing opponent is an everyday occurrence. What good does getting irritated over it do！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Only giving advice to Secchan is so unfair~！ Say something to me too！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Keep it up, Ririmu, try even harder！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Isn't that kinda half-assed？！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Well, things are going so smoothly right now that there's nothing to critique.」"
+    },
+    {
+        "message": "While Sensei and Ririmu―chan are talking, I calm myself down―that's right, I have to stay calm！"
+    },
+    {
+        "message": "My opponent hates close combat, so she runs away. She tries to keep a distance that favors her. That's only natural."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "（But looking at it the other way, she's running away because it'd be bad for her if I got close...！）"
+    },
+    {
+        "message": "In other words, this is the right move. I just have to close in with everything I've got. If she runs away, I just have to get so close she can't escape！"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Here I come, Ririmu-chan！」"
+    },
+    {
+        "message": "I kick off the ground hard once again and charge forward at full speed."
+    },
+    {
+        "message": "Charging headlong like a boar？ Like hell I'll settle for just a boar！"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「There you go again！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "（This is my way of fighting！）"
+    },
+    {
+        "name": "Iori",
+        "message": "「...Setsugekka's movements changed a little.」"
+    },
+    {
+        "message": "I watch Setsugekka fiercely pressing in on Ririmu, impressed."
+    },
+    {
+        "message": "Meanwhile, Asahi and Momiji beside me look on with half-lidded eyes and mutter in exasperation."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Well, certainly... she's charging ahead even harder than before.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Dunno if I'd call that changing, though.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, she has changed. Setsugekka is keeping her cool.」"
+    },
+    {
+        "message": "While following Setsugekka with my eyes as she parries Ririmu's diagonal slash and dashes even further forward."
+    },
+    {
+        "name": "Iori",
+        "message": "「Up until a moment ago, she was just repeating the same cycle: charge in and attack, get dodged and countered, then charge in again once Ririmu backed off.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「But now, she's deliberately letting Ririmu strike first, blocking it, and then stepping even further into the space Ririmu retreats toward.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「That's why her forward momentum looks even stronger than before. And thanks to that—」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Gotcha！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「It hit...！」"
+    },
+    {
+        "message": "Setsugekka's attack finally grazed Ririmu just as she was pulling back."
+    },
+    {
+        "message": "That in itself probably didn't deal much damage. Yet—it carries far more meaning than that."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Darn it...！ I wanted a total shutout！」"
+    },
+    {
+        "message": "With Setsugekka having regained her composure, Ririmu is finding it harder to keep getting away."
+    },
+    {
+        "name": "Iori",
+        "message": "（If she loses control, it won't go like this. I wonder if she realizes how important this calmness is）"
+    },
+    {
+        "message": "In fact, Setsugekka seems to have gotten a feel for it, showing a smug expression that contrasts sharply with earlier."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hehehe~. Ririmu-chan, you've just been running away, haven't you？ It feels like I'm chasing after a mouse.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Nah, it's just that before I can even get close, Secchan starts sending out such passionate love calls.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I feel bad for you, Secchan, but I'm not into that sort of thing~♪」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I'm not into that either！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ahaha！ Well, I guess so... Besides, just running away all the time isn't really my style, you know？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Think it's time I gave you a little skinship from my end！」"
+    },
+    {
+        "message": "In a sudden turn, Ririmu makes her move—！"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Here I come, Secchan！」"
+    },
+    {
+        "message": "Ririmu begins unleashing attacks mixed with feints, utilizing a unique, zigzagging step."
+    },
+    {
+        "message": "Right when it looks like she's going right, she comes from the left; from the left, she comes from below."
+    },
+    {
+        "message": "Setsugekka seems bewildered by the blades launched from such an unusual tempo and stance."
+    },
+    {
+        "message": "Furthermore, Ririmu is taking advantage of the difference in reach to strike from outside Setsugekka's range."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Swordsmanship is all about how you swing that Origami, isn't it~！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I have an Origami too, you know！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Gyah！」"
+    },
+    {
+        "message": "Setsugekka swings her reverse-gripped Origami like a hook, but it's easily dodged and she takes a counterattack."
+    },
+    {
+        "message": "Her reverse grip is a result of her focus on unarmed combat, but attacks with the Origami are a step too slow, and the disadvantage in reach remains."
+    },
+    {
+        "message": "Because of this, when a skilled swordswoman like Ririmu goes on the offensive, she is inevitably forced into a disadvantageous defensive battle."
+    },
+    {
+        "message": "That is Setsugekka's struggle, but as long as she fights with martial arts, it is a wall she must absolutely overcome."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Come on, come on！ I'm gonna finish this all at once~！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Dammit！」"
+    },
+    {
+        "message": "Setsugekka catches Ririmu's downward strike by crossing her arms and blocking it with her gauntlets, like a shirahadori blade catch."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Whoa, that's way too reckless...！」"
+    },
+    {
+        "message": "Of course, normally you wouldn't be able to counter after catching a blow like that, but—"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「……Mishima-ryuu Type Kou, Edanagi！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Kyaauhh！？」"
+    },
+    {
+        "message": "Not with her arms, but with her leg this time. She kicks Ririmu’s body away while spinning！"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ow-ow-ow…… Seriously, Secchan, you’re absolutely brutal.」"
+    },
+    {
+        "message": "Managing to correct her posture without falling, she rubs her stomach where she was kicked."
+    },
+    {
+        "message": "Even with her Barrier Jacket active, the impact is ridiculous. If she were flesh and blood, her organs might have been in trouble."
+    },
+    {
+        "name": "Ririmu",
+        "message": "（Honestly, I might’ve underestimated her a bit……）"
+    },
+    {
+        "message": "She watches Secchan while getting back into her stance."
+    },
+    {
+        "name": "Ririmu",
+        "message": "（I thought there was no way she could win fighting an Origami barehanded, but she’s actually pretty capable, huh……）"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Come on, we’re just getting started！」"
+    },
+    {
+        "message": "Secchan dives in. She’s many times faster than a normal person; she’s not a boar, she’s like a bullet—！"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I’d really prefer it if you’d slow down！」"
+    },
+    {
+        "message": "Her attacks are incredibly fast, too. No matter how many she dodges, Secchan’s body immediately follows up with the next strike."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I’m not letting you get away！」"
+    },
+    {
+        "message": "Secchan’s fist whistles past Ririmu's side. It was so fast and sharp she could feel the wind from it alone—"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Next up is this…… Mishima-ryuu Type Tsuchinoe, Houda Chouchuu！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Aghh……！！」"
+    },
+    {
+        "message": "The fist that had passed by turned into an elbow strike and flew right into her side……！"
+    },
+    {
+        "name": "Ririmu",
+        "message": "（It’s moves like this that are a real pain！）"
+    },
+    {
+        "message": "That elbow just now, and that kick from before. Unexpected attacks keep coming from unexpected angles."
+    },
+    {
+        "message": "On top of that, Ririmu's own attacks get blocked by her gauntlets like before."
+    },
+    {
+        "message": "She’s essentially a walking weapon and a walking suit of armor all in one. If she didn't have an Origami, Secchan might seriously be the strongest."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「……Well, since I’ve got my Origami, I’m still stronger！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Gyan！」"
+    },
+    {
+        "message": "Secchan’s attacks are definitely fast, and sometimes they don’t even make sense, but her reach is short after all, so I have the definitive advantage！"
+    },
+    {
+        "message": "Thanks to that, for every three hits I land, I only take one from her."
+    },
+    {
+        "message": "In that case, if I just press the attack like this, I win—！"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Here I come！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hmph……！」"
+    },
+    {
+        "message": "Ririmu steps forward to launch an attack. At that moment—she felt like Secchan’s eyes flashed."
+    },
+    {
+        "name": "Ririmu",
+        "message": "（Uh-oh, this might be bad...！！）"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Mishima-ryuu Type Tsuchinoto—Chibashiri！！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Kyaaaaaaaah！」"
+    },
+    {
+        "message": "Taking Setsugekka's strike dead―on, Ririmu is sent flying back―"
+    },
+    {
+        "message": "The instant Ririmu launched her attack. Without even taking a defensive stance, Setsugekka had suddenly halted as if glued to the ground, driving in a counterattack fully willing to trade blows."
+    },
+    {
+        "message": "Let them cut your flesh to sever their bone, I suppose."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「O-Ow... Seriously, you're pretty good, huh？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Whoa, I was totally sure that took you out！ You can still get back up.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Well, I hadn't really taken much damage up 'til now, y'know... My VF value only dropped a tiny bit, right？」"
+    },
+    {
+        "message": "In reality, that last hit shaved off quite a chunk, and even if she's putting on a brave front, Ririmu surely knows it too."
+    },
+    {
+        "message": "The damage must really be taking its toll, as her face is twisted in pain."
+    },
+    {
+        "name": "Iori",
+        "message": "「Ririmu, don't get cocky just because you have the upper hand. Setsugekka's martial arts have plenty of techniques meant for dealing with swordsmen.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Yeah, yeah, I know already~！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Heh-heh-heh, I'm gonna push right through and take this！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Didn't you hear that advice about not getting cocky？ Get too full of yourself and the tables'll turn on you in a flash, y'know？」"
+    },
+    {
+        "message": "Ririmu readies her Origami once more—and leaps forward."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「'Cause after all, I'm about to get a little serious！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ngh...！ Take this！」"
+    },
+    {
+        "message": "Blocking Ririmu's barrage of strikes, Setsugekka launches a counterattack."
+    },
+    {
+        "message": "However, Ririmu deflects it with a spinning motion and uses that momentum to press her assault even further."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Come on, come on！ Right there！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Then how about this... Mishima-ryuu Type Hinoe—Ugachibi！！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Huh！？」"
+    },
+    {
+        "message": "It looked like Setsugekka had tried to land a counterattack just like before."
+    },
+    {
+        "message": "Yet that too is effortlessly parried aside, leaving her doing nothing more than exposing her defenseless body."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I'm not gonna let you hit me anymore~！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Kyauuu！」"
+    },
+    {
+        "message": "From the right, from the left, and even from above and below, Ririmu rains down a flurry of strikes from all directions as if dancing."
+    },
+    {
+        "message": "Unable to keep up with her rhythm, Setsugekka is simply toyed with, her occasional counterattacks slicing vainly through empty air—"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「This oughta finish it！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Nghaaaaa...！」"
+    },
+    {
+        "message": "A powerful blow landed square on her as she staggered, and Setsugekka finally collapsed to her knees."
+    },
+    {
+        "name": "Iori",
+        "message": "「Match over！ That’s enough！」"
+    },
+    {
+        "message": "I saw that Setsugekka’s Barrier Jacket had been completely depleted, so I declared the end of the match."
+    },
+    {
+        "message": "Setsugekka braced her hands on the ground and hung her head in frustration."
+    },
+    {
+        "name": "Iori",
+        "message": "「Ririmu wins this one.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Heh-he-heh. Well, that was a piece of cake！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Setsugekka, you alright？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ugh... I’m fine, but it’s so frustrating. I really thought I could’ve kept going...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Staying calm until the very end was great work. Ririmu’s skills were just a cut above today.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「That’s exactly why it’s so frustrating！」"
+    },
+    {
+        "message": "Well, there’s no helping that, and it’s a good thing to feel frustrated."
+    },
+    {
+        "name": "Iori",
+        "message": "「In fact, Ririmu’s swordsmanship sense is quite high. She’s able to fight this well even without her special Tenju.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「See? I’m full of potential when I put my mind to it~」"
+    },
+    {
+        "name": "Iori",
+        "message": "「If you keep refining it like this, Ririmu, you’re really going to be a powerhouse.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Teach, you’re really laying on the compliments today, aren’t ya?♪」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Oh, right！ Let me spar with Momichi next！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No, I was planning on having Momiji spar with Asahi. Besides, don’t you have some damage from this round？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「A little bit like this is nothing！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Besides, I’m in the zone right now. Like, this is the perfect chance to beat Momichi up, ya know？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Hmm... I don’t know about that. I’m sure Asahi wanted her turn to spar, too.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I don’t mind. I’ll let Ririmu have my spot.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「For real！？ C’mon, Teach！ Asahi says it’s fine！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Are you sure, Asahi？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Yes. Watching the current match made me feel that I need a bit more objective observation.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Alright, if that’s what you say, then let’s do it. Ririmu, you’re staying in！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Yay！ Asahi does something nice once in a while, huh. Is this what they call even a demoness shedding a tear？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Fufufufu...」"
+    },
+    {
+        "message": "...No telling what she's plotting."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Oh, well then maybe I should let Setsugekka have a turn~. You know, I kinda want to do some observing and stuff.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「No.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ehh, whyyy！ Discrimination is bad, you know~」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You just want to slack off, don't you, Momiji？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Gnu...」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Then, let's start the match between Ririmu and Momiji.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Fufu. I'm on a roll right now. Even though it's you, Momitchi, don't you go letting your guard down, okay？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Didn't you just say earlier that if you get carried away, you'll get turned around in an instant？」"
+    },
+    {
+        "message": "While bickering, the two take their stances and face off."
+    },
+    {
+        "message": "We take Setsugekka and step away from the scene—"
+    },
+    {
+        "name": "Iori",
+        "message": "「The conditions are the same as before. Ririmu, no special Tenju, swordplay only.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Now then... begin！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Here I come！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「...Understood.」"
+    },
+    {
+        "message": "At the signal, this time it is Ririmu who takes the initiative, the opposite of the previous match."
+    },
+    {
+        "message": "That said, of course she isn't charging straight in; she's using the same eccentric footwork she showed in her fight with Setsugekka."
+    },
+    {
+        "message": "With a hopping, dancing-like rhythm and feints, she closes the distance to strike at Momiji, who stands still in her stance."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Take this, and this！」"
+    },
+    {
+        "message": "She keeps her sword tip hidden behind her body, making the origin of her attacks difficult to read."
+    },
+    {
+        "message": "Combined with Ririmu's peculiar movements, even watching from the side is enough to get someone disoriented."
+    },
+    {
+        "message": "Even so, Momiji manages to parry them, but—"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Still not enough, how about this！」"
+    },
+    {
+        "message": "Momiji is forced to retreat by an attack aimed at her feet. She blocks and deflects the attacks from the pursuing Ririmu, then retreats further."
+    },
+    {
+        "message": "The scene looks just like Ririmu did when she faced Setsugekka."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Are you copying me？ Too bad for you, that won't work on me~！」"
+    },
+    {
+        "message": "In reality, Ririmu's attacks are extremely difficult to dodge."
+    },
+    {
+        "message": "To counterattack, one would have to use a method like Setsugekka's—sacrificing one's own flesh to break the opponent's bones."
+    },
+    {
+        "message": "Ririmu knows this too, and by refusing to give Momiji a clear target, she keeps changing up her tactics, attacking Momiji with every conceivable trajectory."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Come on, how about something like this！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ngh...！」"
+    },
+    {
+        "message": "Perhaps unable to fend off that unique assault any longer, Ririmu's blade tip begins to catch Momiji."
+    },
+    {
+        "message": "However—though Momiji’s face twisted slightly, she didn't shift to a counterattack, silently taking it instead."
+    },
+    {
+        "name": "Iori",
+        "message": "「...Momiji, what’s wrong？ You’re not trying to attack.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Maybe there’s no opening？ Even for Momimomi, taking that head-on seems tough.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「True, it doesn't look like it could be handled with standard reads, but...」"
+    },
+    {
+        "message": "In other words, does this mean even with Momiji’s power, she hasn’t found a way to deal with it yet—？"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Moo... Hey, Momitchi！ It’s felt totally one-sided since a while ago, you know？」"
+    },
+    {
+        "message": "She isn't attacking back at all, and it’s somehow unsettling, so I pause for a moment—is this what they call ‘testing the waters’？"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Are you perhaps, holding back？」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「No, that is not the case at all.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Whoa, you’ve got such a calm look on your face！ Creepy.」"
+    },
+    {
+        "message": "...But then again, no matter what Momitchi does, it’s not like I’m going to change, right？"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I’m just going to stick to my own worldview, that’s all.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I see. Please, show me more.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Well then, I guess I’ll grant your request！」"
+    },
+    {
+        "message": "I charge at Momitchi, who still isn't moving！"
+    },
+    {
+        "message": "And this time, I’ll set the rhythm so she can’t dodge it—！"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Gotcha！！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Ugh...！！」"
+    },
+    {
+        "message": "Avoiding her guard, I land a direct hit to her stomach！ A solid impact！"
+    },
+    {
+        "message": "Well, I didn't manage to take her down, but the fact that Momitchi jumped back in a panic means it definitely did some damage."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Heh, hmph. Momitchi, are you actually not all that much？ Or is the current me just too strong？」"
+    },
+    {
+        "message": "I try provoking her."
+    },
+    {
+        "message": "But Momitchi still isn't biting, and there’s still no sign of her counterattacking."
+    },
+    {
+        "message": "Wait a minute, I’ve been hearing something for a while now..."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Hmm, hmmm-hmm...♪」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Humming？ Momitchi, surely you aren't trying to make a fool out of me...」"
+    },
+    {
+        "message": "Making a fool of me—that’s what I thought, but no. This is...！"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Fufufun, hmm, hmm...♪ Fufufun...♪」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Eh, wait... seriously？ Momitchi, that is...」"
+    },
+    {
+        "message": "A chill runs down my spine."
+    },
+    {
+        "message": "I know this hummed tune. Of course I know it."
+    },
+    {
+        "message": "I mean—nobody except me is supposed to know it！"
+    },
+    {
+        "message": "I could clearly see Ririmu's shock and agitation."
+    },
+    {
+        "name": "Momiji",
+        "message": "（Well, I guess that's only natural—it's probably something she really doesn't want found out, after all）"
+    },
+    {
+        "message": "I had been thinking about it the whole time. Ririmu's unique footwork, her attacks—whether there was some kind of pattern behind that strange rhythm."
+    },
+    {
+        "name": "Momiji",
+        "message": "（It's not completely at random. I know that much. No human is capable of that）"
+    },
+    {
+        "message": "Then what was the basis of that pattern? Counting her steps, observing the movement of her feet, tracing the flow of her gaze..."
+    },
+    {
+        "message": "And just now, I finally figured it out."
+    },
+    {
+        "message": "It was that humming—music."
+    },
+    {
+        "message": "In Ririmu's head, there must always be some kind of music playing."
+    },
+    {
+        "message": "The steps she beats out, the sword strikes riding that rhythm—all of it follows that music."
+    },
+    {
+        "name": "Momiji",
+        "message": "（Though because it's packed with Ririmu's own personal arrangements, it took me quite a while to decipher）"
+    },
+    {
+        "message": "Still, I've roughly \"understood\" the pattern now. It might not be everything, but this is enough."
+    },
+    {
+        "name": "Momiji",
+        "message": "「Now then... shall we finish this?」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「...Yeah right. We're only just getting started！」"
+    },
+    {
+        "message": "Shaking off her agitation, she raises her stance."
+    },
+    {
+        "message": "Even so, it's already over."
+    },
+    {
+        "name": "Momiji",
+        "message": "（...Shingan no Kiwamete, engage）"
+    },
+    {
+        "message": "At that moment—with timing that seemed utterly abrupt, Momiji made her move."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Tch, why you—！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Kyaaah！？」"
+    },
+    {
+        "message": "Ririmu's uniquely stepped attacks, defenses, evasions—as if seeing completely through them all, Momiji cuts her off and lands a fierce blow."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「You little... You're suddenly going way too hard！」"
+    },
+    {
+        "message": "Ririmu immediately regains her stance and shifts to a counterattack."
+    },
+    {
+        "message": "Moreover, her movements are different from before, as if she's changed the tempo."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Not yet—over here！」"
+    },
+    {
+        "message": "Not only faking her motions, she mixes in feints that even shift the timing of her lunges, unleashing a unique flurry of strikes at the pursuing Momiji—"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Right there！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Too bad, that's not it.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「No way！？ You're reading all of this too！？」"
+    },
+    {
+        "message": "Ririmu's counterattack—Momiji parried every single strike to perfection."
+    },
+    {
+        "message": "And with that, next up—"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Now then, it's my turn！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Aghhh！」"
+    },
+    {
+        "message": "Once the situation flipped and Momiji went on the offensive, Ririmu couldn't even manage a proper defense."
+    },
+    {
+        "message": "Or rather, it was as if every move and dodge she made was being read, and she was being countered at every turn."
+    },
+    {
+        "message": "And after that barrage—"
+    },
+    {
+        "name": "Momiji",
+        "message": "「This is the end！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Kyaaaaaa！」"
+    },
+    {
+        "message": "Finally, dealt a powerful blow, Ririmu dropped to her knees on the spot."
+    },
+    {
+        "name": "Iori",
+        "message": "「That’s it！ Momiji wins.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「...Haa~, all done, all done~」"
+    },
+    {
+        "message": "As soon as I signaled the end of the match, Momiji immediately slumped, her strength leaving her."
+    },
+    {
+        "name": "Iori",
+        "message": "「You looked so cool during the match, but you’re back to normal the second it’s over.」"
+    },
+    {
+        "message": "I couldn't help but let out a wry smile."
+    },
+    {
+        "name": "Momiji",
+        "message": "「When we draw our Origami and face off, it’s sword against sword. Since it’s a serious fight, showing the utmost respect is only natural.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「But there’s no benefit in staying all stiff and formal all the time, is there?」"
+    },
+    {
+        "message": "Well, I guess she’s just balancing things out in her own way."
+    },
+    {
+        "name": "Iori",
+        "message": "「More importantly, Ririmu, are you okay？」"
+    },
+    {
+        "message": "When I helped her up, Ririmu looked up with a frustrated expression."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ah, man, I got totally wrecked！ I thought I had a chance at the start, too！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Pfft, that’s exactly what happened to me earlier！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「I don’t appreciate being laughed at by Secchan, but hey, I was the one who beat you, right！？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Heh, why don’t we howl like loser dogs together?」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「No way~, being lumped in with Secchan is an insult！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「That remark is an insult to me in the first place!」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「You two are quite alike.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Haa... dammit, Suzakuin really is strong. Especially that last bit—it was crazy！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「But that was amazing. I want to know how you did it~」"
+    },
+    {
+        "message": "Despite her frustration, Ririmu moved closer to Momiji."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hey, how come you were able to read my attacks？ What’s the trick behind that？ Tell me！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「N-no, I’m not telling you... everyone will find out!」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Eh？ Then forget it. Hey, Teach, tell us！」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Wait, you’re asking him！？」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Come on, Teach, it’s fine, right~？ You said we were all gonna share, rememberrr！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Yeah, of course it’s fine.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「Hey！ Stop it, will you！？」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ah, then I want to know too！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「May I ask as well？ I’ve started to get a handle on Ririmu-san’s side of things, but I haven’t been able to quite grasp Momiji-san’s.」"
+    },
+    {
+        "name": "Momiji",
+        "message": "「I said noooo！！」"
+    },
+    {
+        "message": "An annoyed Momiji cuts in, trying to shoo everyone away. Meanwhile, the others dodge her attempts, determined to hear what I have to say."
+    },
+    {
+        "message": "And I watch the whole scene unfold, feeling strangely amused by it all—"
+    }
+]

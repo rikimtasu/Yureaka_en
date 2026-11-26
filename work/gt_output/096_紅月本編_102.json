@@ -1,0 +1,929 @@
+[
+    {
+        "name": "Iori",
+        "message": "「No way, to think the very first match I support would be between two members of Takamura Class...」"
+    },
+    {
+        "message": "Right now, Setsugekka and Asahi are facing each other right before my eyes."
+    },
+    {
+        "message": "I did say that sometimes classmates from Takamura Class would end up clashing in the qualifiers... but to have it happen right out of the gate is something else."
+    },
+    {
+        "message": "...And on top of that, right next to me is."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ooh, I wonder who's gonna win? This is gonna be fun!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「...Why are you here, Ririmu?」"
+    },
+    {
+        "message": "Even though I'd just sent her off with so much encouragement."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Nah, well, truth is, I went there, but it's not even close to my turn yet.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「So, I was bored just sitting around, and I figured I’d scout the competition!」"
+    },
+    {
+        "name": "Iori",
+        "message": "「You really do move at your own pace, Ririmu.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Obviously! I’m the one who decides my own pace!」"
+    },
+    {
+        "message": "Well, maybe it’s less nerve-wracking than watching alone."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「So, Teach, who do you think is gonna win？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「It’s hard to guess... or rather, if I had my way, I’d want both of them to win！」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Yeah, that’s impossible. It’s a match, so one’s gonna win and the other’s gonna lose.」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I know that, but... dammit, this is tough！」"
+    },
+    {
+        "message": "Having seen how hard everyone in Takamura Class has been working, just imagining the sadness of the one who loses makes my chest ache."
+    },
+    {
+        "name": "Iori",
+        "message": "「...Alright！ I don't know who will win, but I'm going to go encourage whoever loses！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「I'll leave the winner to you, Ririmu.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Whoa, you’re dumping a weird job on me！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Just treat them to some kind words as my stand-in. Honestly, just having someone to talk to would be enough.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Fine, fine, leave it to me. You really are a softhearted teacher, aren't you?」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「But when I win, you better be the one to show me some appreciation, okay？」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Sure, as long as it's not a match between Takamura Class members.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Ugh... you’re not soft there, huh? You really don't budge.」"
+    },
+    {
+        "message": "That's my pride as a teacher, so I can't help it."
+    },
+    {
+        "name": "Iori",
+        "message": "「Truth is, I wanted to be the Second for everyone. But... things like this happen.」"
+    },
+    {
+        "message": "A Second can only support one of the two participants in a match."
+    },
+    {
+        "message": "However, if I were to support, say, only Setsugekka or only Asahi, it would come across as favoritism."
+    },
+    {
+        "message": "After much thought, I decided to unify my stance by stating that I couldn't be a Second for anyone."
+    },
+    {
+        "name": "Ririmu",
+        "message": "「It’s not like I really need a Second or anything～」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Are you sure? Couldn't you have asked one of the students from the Technical Division to be your Second, Ririmu?」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Hmm, well, that girl specializes in smithing, y'know～。 She’s not really the type who can chime in with advice during a match.」"
+    },
+    {
+        "name": "Ririmu",
+        "message": "「Plus, there’s nobody else who can support us as accurately as you can, Teach.」"
+    },
+    {
+        "message": "When I asked the others, they all gave me the same answer as Ririmu just did."
+    },
+    {
+        "message": "Because of that, the end result was that everyone in the Takamura Class competed in the Martial Festival without a Second."
+    },
+    {
+        "name": "Umpire",
+        "message": "「Both combatants, take your stances！」"
+    },
+    {
+        "name": "Iori",
+        "message": "「Oh... looks like it's about to start.」"
+    },
+    {
+        "message": "At the Umpire's voice, the two facing each other quietly take their stances, and the tension spikes instantly."
+    },
+    {
+        "message": "Both Ririmu and I hold our breath—"
+    },
+    {
+        "name": "Umpire",
+        "message": "「...Begin！」"
+    },
+    {
+        "message": "At last, the battle has begun."
+    },
+    {
+        "message": "Right up until the signal to start, I had been nervous."
+    },
+    {
+        "message": "The atmosphere and the sheer intensity were completely different from our usual practice matches."
+    },
+    {
+        "message": "I felt all of that pressing down on me, and I was anxious about whether I could perform as I intended."
+    },
+    {
+        "message": "But as soon as it began, all of that was blown away in an instant."
+    },
+    {
+        "message": "Perhaps that is because—"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Here I come, Asahi-chan！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "（Perhaps it’s thanks to Setsugekka-san charging in just as she always does.）"
+    },
+    {
+        "message": "Setsugekka-san lunges forward with tremendous momentum."
+    },
+    {
+        "message": "Gauging her speed and the distance—the moment she enters my range, I strike！"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Haaaah！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Whoa...！ That won't hit me！」"
+    },
+    {
+        "message": "Setsugekka-san dodged the first strike with surprising ease."
+    },
+    {
+        "message": "And immediately, she closes the distance once more."
+    },
+    {
+        "message": "This was something that hadn't happened before. But—"
+    },
+    {
+        "name": "Asahi",
+        "message": "「It’s not over yet！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Whoa！？」"
+    },
+    {
+        "message": "I instantly reverse my blade and deliver a second strike."
+    },
+    {
+        "message": "Although she managed to block it, Setsugekka-san retreated once because of it."
+    },
+    {
+        "message": "In that time, I sheath my sword and reset my stance."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「That surprised me... I thought I’d be good once I dodged the first one.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Come to think of it, I don't think I've shown you this much. It would be a big mistake to think of Iai as just a one-trick pony.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「If you're fighting Asahi-chan, you wouldn't think that. But wow, you really have a lot of techniques.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Yes. Moreover—the Iai draw isn't just about waiting for an opening！」"
+    },
+    {
+        "message": "This time, I won't wait for Setsugekka-san to approach—I'll take the offensive！"
+    },
+    {
+        "message": "No holding back. I've won before and I'm confident now, but I won't be careless."
+    },
+    {
+        "message": "Give it my all, use every tactic, and win decisively！"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Coming from you...！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「You mustn't let your guard down！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ngh...！」"
+    },
+    {
+        "message": "I dash in and slash my blade the moment I enter range."
+    },
+    {
+        "message": "Though the tip of my blade caught Setsugekka-san, she managed to dodge at the very last second."
+    },
+    {
+        "message": "It looked like she was trying to put some distance between us—but I won't let her escape！"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Second strike—！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Kyaaaaah！」"
+    },
+    {
+        "message": "Stepping forward to cut off her path, I unleash a second, upward-slashing strike."
+    },
+    {
+        "message": "This one landed. I could feel the distinct sensation of my blade shaving through her Barrier Jacket."
+    },
+    {
+        "message": "However—"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I'm not planning on backing down！」"
+    },
+    {
+        "message": "Despite taking damage, Setsugekka-san didn't flinch, instead stepping in to strike at my momentary opening."
+    },
+    {
+        "message": "A low stance, moving with fierce speed as if sliding across the ground. I have to get into a defensive posture—！"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「...Mishima-ryuu Type Kanoe, Gouhou！！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ghuuuuuh...!」"
+    },
+    {
+        "message": "A strike launched diagonally from below—"
+    },
+    {
+        "message": "It had enough power to pierce my guard, scrape my Barrier Jacket, and lift my body into the air."
+    },
+    {
+        "message": "Gritting my teeth at the unpleasant feeling of having no ground beneath my feet, I see Setsugekka-san closing in to follow up."
+    },
+    {
+        "name": "Asahi",
+        "message": "「In that case...！」"
+    },
+    {
+        "message": "Left with no choice, I drew my blade while still sliding through the air to drive her back."
+    },
+    {
+        "message": "I figured even a strike without a firm stance would at least buy me those precious few seconds until I landed, but—"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「―Mishima―ryuu Type Tsuchinoto, Tenzankou！！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Akkhhh！？」"
+    },
+    {
+        "message": "Setsugekka-san sank her body as if turning her back to me, slipping under my slash to ram into me with her shoulder and back."
+    },
+    {
+        "message": "I was sent flying before I could even land, crashing straight into the wall."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Guh, ugh...！ You really are a walking weapon...！」"
+    },
+    {
+        "message": "Savoring the feel of the ground finally beneath my feet, I endure the pain and lift my face."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I'll finish this in one go！！」"
+    },
+    {
+        "message": "Setsugekka-san sprints toward me to press her attack."
+    },
+    {
+        "message": "However, I have already finished sheathing my blade—！"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Do you really think... I'll let you do that?！」"
+    },
+    {
+        "message": "From my crouched stance, I use the momentum of rising to unleash an upward slashing counter from below！"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ghh...？！ Playing dead？！」"
+    },
+    {
+        "message": "With terrifying reflexes, Setsugekka-san barely managed to dodge it."
+    },
+    {
+        "message": "It only grazed her body, failing to deal any major damage."
+    },
+    {
+        "message": "Still, her advance was halted, and her stance broke. In that case, now it's my turn！"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I am certainly not dead！！」"
+    },
+    {
+        "message": "My follow-up strike—yet Setsugekka-san managed to catch it, however narrowly."
+    },
+    {
+        "message": "With our blades still locked, Setsugekka-san smiles at me right before my eyes."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「This is so fun, Asahi-chan！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Hehe... It certainly is.」"
+    },
+    {
+        "message": "I return her smile—though deep down, this was no situation to be smiling in."
+    },
+    {
+        "message": "Setsugekka-san has clearly grown stronger than before. She is no longer an opponent I can defeat with ease."
+    },
+    {
+        "message": "Still, I don't think my calculations were off. I knew from the start that Setsugekka-san would grow tremendously."
+    },
+    {
+        "name": "Asahi",
+        "message": "（Setsugekka-san isn't the only one who has grown. I, too, have been receiving Sensei's guidance all this time...！）"
+    },
+    {
+        "message": "From the wings of the stage, I feel Iori―sensei's gaze―"
+    },
+    {
+        "name": "Asahi",
+        "message": "（Please keep watching, Iori-sensei. The me who has grown stronger through your guidance...！）"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Haaaaah！」"
+    },
+    {
+        "message": "Knocking my blade aside from the lock, Asahi-chan drives straight in with a strike."
+    },
+    {
+        "message": "Even with her blade already drawn, her swings are fast and heavy—just blocking each blow is a struggle."
+    },
+    {
+        "message": "On top of that, last time, even when I struggled to close in, she immediately shook me off, and I lost without ever getting into my own range."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "（But it's different now！）"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Right there！！」"
+    },
+    {
+        "message": "Weaving through the openings in Asahi-chan's attacks, I drive in a strike."
+    },
+    {
+        "message": "It missed, but I don't care."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I won't let you get away！」"
+    },
+    {
+        "message": "The moment I sense Asahi-chan trying to pull back, I preempt her by keeping her in check with an Origami."
+    },
+    {
+        "message": "In that opening, I step in again and rain down a flurry of blows！"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "（I can move, I can fight！ I'm growing stronger, Sensei！）"
+    },
+    {
+        "message": "Being able to feel that for myself made me happy."
+    },
+    {
+        "message": "Thanks to Sensei's guidance, I've gotten way stronger than before！"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hraaaaaaah！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Too slow！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Kyaaah！」"
+    },
+    {
+        "message": "Just as I tried to move, Asahi-chan’s attack came flying in, catching me in a counter."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "（I guess I can't just keep being happy about this...！）"
+    },
+    {
+        "message": "I’ve definitely become stronger. I can tell that much clearly now."
+    },
+    {
+        "message": "But it’s the same for Asahi-chan. If anything, she was strong from the start, and now she’s even more polished."
+    },
+    {
+        "message": "If I wait until I see the attack coming, my defenses and evasions aren’t fast enough to keep up."
+    },
+    {
+        "message": "So, I have no choice but to predict her moves and act first—"
+    },
+    {
+        "name": "Asahi",
+        "message": "「It’s about time... I’ll show you my full power！！」"
+    },
+    {
+        "message": "I manage to catch two of her attacks. And the next one is—"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "（The next one is probably... right！）"
+    },
+    {
+        "message": "I think that and brace my defenses."
+    },
+    {
+        "message": "But in that instant, Asahi-chan’s body leaned ever so slightly to the left."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "（The other way...！？ I have to defend！）"
+    },
+    {
+        "name": "Asahi",
+        "message": "「You’re naive—Secret Art, Ouitsu Issen！！！！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Guaaaaaah...！？」"
+    },
+    {
+        "message": "The secret art, laced with a feint, was truly ferocious."
+    },
+    {
+        "message": "With no time to dodge, I took it head-on. I managed to regain my stance while rolling across the ground."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Hah, hah... that one really got me...！」"
+    },
+    {
+        "message": "Since my style relies mostly on intuition, it’s incredibly tough when a skilled fighter like Asahi-chan uses fakes."
+    },
+    {
+        "message": "With that last blow, my Barrier Jacket is down to about a fifth. From here on out, if I get hit even once more, I’m finished."
+    },
+    {
+        "message": "This is bad... if it keeps going like this, I’m going to lose...！"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "（I don’t want that... I don't want to lose！ Sensei is watching, too, so I can’t lose here！）"
+    },
+    {
+        "message": "Just as I thought that—I felt Mizuchi stir deep within me."
+    },
+    {
+        "message": "『I understand well... I do not wish to lose to anyone...！ Who could ever admit that they are inferior...！』"
+    },
+    {
+        "message": "I felt as if I’d heard a voice. That voice threw words at me, as if carving them into my mind."
+    },
+    {
+        "message": "『I will not lose to the likes of Asahi here... I will show Sensei, and everyone else, the greatness of my own power...！！』"
+    },
+    {
+        "message": "It was vanity, it was pride―something dark and murky that couldn’t be described with pretty words―"
+    },
+    {
+        "message": "『I want to win, I want to be recognized, I want to be needed...！ I want to be above everyone else, I am stronger than anyone...！！』"
+    },
+    {
+        "message": "It was jealousy, and it was arrogance."
+    },
+    {
+        "message": "It wasn’t about being a swordsman, or about the Kazamine name. It was a prideful, swelling desire to look good in front of Sensei."
+    },
+    {
+        "message": "It was rising up within me, accompanied by anger."
+    },
+    {
+        "message": "――Ah, this is the sign of a berserk state."
+    },
+    {
+        "message": "If I just let my emotions take over like this, I'll end up entrusting everything to Mizuchi again."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "（No... that's not right...！）"
+    },
+    {
+        "message": "Until now, I had been pushing it away. I was desperately trying to keep it from entering me."
+    },
+    {
+        "message": "But, I recall what Sensei said once more."
+    },
+    {
+        "message": "Who am I, what do I desire, and why, for what purpose do I live?"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "（I am a Kazamine, and I am the younger sister of the person I respect, Kei-chan）"
+    },
+    {
+        "message": "But that's not all."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "（I have to fight Momimomi, and I have to win）"
+    },
+    {
+        "message": "But that's not all."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "（I am... I am...）"
+    },
+    {
+        "message": "When I was little, I smiled even though I didn't want to. Because I had to."
+    },
+    {
+        "message": "But now――？"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "（That's right... I'm already much stronger than I was back then. Not just in Jindou. My body and my heart have grown stronger too）"
+    },
+    {
+        "message": "So, I'm okay now. I should be able to accept it."
+    },
+    {
+        "message": "This is what I have hidden deep in the darkness. A part of me that has been inside me all along."
+    },
+    {
+        "message": "I can feel it overflowing from the bottom of the darkness. It is circulating through my entire body, trying to seep into me."
+    },
+    {
+        "message": "It doesn't matter. I can accept this darkness now—this black, raging emotion that has become a 'dwelling for the Keyou'."
+    },
+    {
+        "message": "The vanity, the jealousy, the arrogance. Everything is within me."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "（That's right, Mizuchi is me. This is 'me'――！！）"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Haa... hah, hah, fuuuu...！！」"
+    },
+    {
+        "message": "Something changed inside me."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ah, I see... this is the real me, isn't it？」"
+    },
+    {
+        "message": "There is no one to answer that question."
+    },
+    {
+        "message": "But I felt like I had finally arrived at the true answer――."
+    },
+    {
+        "name": "Asahi",
+        "message": "「............！！」"
+    },
+    {
+        "message": "I stopped mid-stride, about to pursue Setsugekka-san as she stumbled from the damage."
+    },
+    {
+        "message": "Something happened right before my eyes. That much was certain."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Setsugekka-san, you...」"
+    },
+    {
+        "message": "As if answering my call, Setsugekka-san opens her eyes, which had been closed, and gazes at me."
+    },
+    {
+        "message": "Her presence is completely different."
+    },
+    {
+        "message": "While carrying the same aura as when she was berserk, it is something quieter and stronger."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Asahi-chan... I don't want to lose.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I want to show Sensei that I can do well, I want to be praised by him, and I want everyone to say that I'm amazing.」"
+    },
+    {
+        "message": "She speaks to me just like the usual Setsugekka. There is none of that savagery present when she loses control."
+    },
+    {
+        "message": "And that is precisely why I understood—"
+    },
+    {
+        "name": "Asahi",
+        "message": "（Ah... this is bad...！）"
+    },
+    {
+        "message": "My skin crawls. My sixth sense is blaring its maximum alarm."
+    },
+    {
+        "message": "The person standing before me is a completely different being from a moment ago. I must recognize this: she is a grave threat."
+    },
+    {
+        "name": "Asahi",
+        "message": "「...Oosode Myouga！」"
+    },
+    {
+        "message": "I deploy my Barrier Jacket, making it hard and thick, donning an invisible suit of armor—"
+    },
+    {
+        "message": "This is a defensive technique I devised with Iori-sensei previously."
+    },
+    {
+        "message": "I drastically shift the allocation of my Tenju, pouring everything into defense and speed. This makes the Oosode Myouga even more robust."
+    },
+    {
+        "message": "A thorough, absolute defensive posture. My offensive power is sacrificed, but that doesn't matter."
+    },
+    {
+        "message": "If I don't, there's no way I can possibly stand against her—"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Here I come, Asahi-chan.」"
+    },
+    {
+        "message": "She lunges at me with a speed that is utterly unbelievable, completely unlike her tone, which has remained unchanged."
+    },
+    {
+        "message": "It's not just like a bullet; it’s like a flash of lightning. If I were acting normally, it would have been difficult even to follow her with my eyes—but."
+    },
+    {
+        "name": "Asahi",
+        "message": "「Now, I can follow you！」"
+    },
+    {
+        "message": "I unleash a draw-cut aiming for a counter. But it is caught by Setsugekka's gauntlet."
+    },
+    {
+        "message": "She stops dead from that speed and defends herself calmly. That alone is enough to leave me astonished, but—"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Haaah！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Ggh...!」"
+    },
+    {
+        "message": "After a momentary deadlock, Setsugekka twists her body to parry my blade, then immediately delivers a roundhouse kick."
+    },
+    {
+        "message": "Though I manage to block it thanks to the deployed Oosode Myouga, the impact makes my body slide backward."
+    },
+    {
+        "message": "Setsugekka closes in on me again."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Pushing through！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I won't let you...！」"
+    },
+    {
+        "message": "For the first strike, Setsugekka parried my counter; for the next, I blocked Setsugekka's slash."
+    },
+    {
+        "message": "However, both times, I was pushed back by Setsugekka's blade."
+    },
+    {
+        "message": "Perhaps because I've completely abandoned my offense, I'm losing the clash of strength. It is unbearably frustrating."
+    },
+    {
+        "name": "Asahi",
+        "message": "（At this rate, eventually...！）"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Still, we're just getting started！」"
+    },
+    {
+        "message": "Setsugekka increases her speed further and closes the distance."
+    },
+    {
+        "message": "She’s forced her way into a distance where a striking battle is unavoidable, with no room to draw my sword, so I hastily assume a defensive posture."
+    },
+    {
+        "message": "A slash aimed at me just as I try to pull away from the close―quarters strikes―"
+    },
+    {
+        "message": "It’s a sequence of attacks I’m familiar with, yet in the face of Setsugekka-san’s current speed and power, it becomes an unsettlingly massive threat."
+    },
+    {
+        "message": "Whether I evade or parry, the next attack comes flying in immediately, and I’m forced to keep closing the distance without a single opening to counterattack."
+    },
+    {
+        "message": "For the attacks I can't fully avoid, I have no choice but to block them with Oosode Myouga, but that won't last long."
+    },
+    {
+        "name": "Asahi",
+        "message": "（Changing the allocation of my Tenju was the right call... If I didn't have the speed, I couldn't keep up; if I didn't have the defense, I couldn't block.）"
+    },
+    {
+        "message": "Though, even specializing in those, it’s a stalemate at best—or perhaps Setsugekka-san still has the upper hand."
+    },
+    {
+        "message": "I went from being the one pursued to the one doing the pursuing in the blink of an eye."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Haaah…！ Mishima-ryuu Type Kou: Edanagi！！！」"
+    },
+    {
+        "message": "I dodge the strike and take her side-kick aimed at my torso. The impact reverberates even through my Oosode Myouga, and my face contorts involuntarily."
+    },
+    {
+        "message": "Can I actually beat an opponent like this...？"
+    },
+    {
+        "message": "Even if I give my all and exhaust every strategy, I’m nowhere near a guaranteed victory. That is how much of a threat Setsugekka-san is right now."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Haaaaaaah！」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「That doesn’t mean… I have any intention of losing！」"
+    },
+    {
+        "message": "A full-power blow connects, and it’s—Setsugekka-san who is sent staggering back."
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Ow… Asahi-chan, you could strike too！？」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Unlike with a drawn blade, Iai leaves both my hands free. It’s my secret weapon for when I can’t perform a draw-cut.」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「I see. So then… I guess it’s a striking battle now？」"
+    },
+    {
+        "message": "Setsugekka-san smiles as if she’s having fun. Meanwhile, I return a self-deprecating, bitter smile."
+    },
+    {
+        "name": "Asahi",
+        "message": "「If you ask why it’s a secret weapon, it’s because it’s nothing more than a one-trick pony, just punching with raw strength.」"
+    },
+    {
+        "name": "Asahi",
+        "message": "「I don’t expect something like this to work twice on Setsugekka-san, who has truly mastered martial arts.」"
+    },
+    {
+        "message": "As I say that, I fix my gaze on Setsugekka-san once more."
+    },
+    {
+        "message": "If I don't prioritize defense, I can't endure it. But conversely, even if I do, I still can't endure it."
+    },
+    {
+        "message": "Then, the only thing I must do to win is."
+    },
+    {
+        "name": "Asahi",
+        "message": "「...This is the only thing that will work on you now, Setsugekka-san.」"
+    },
+    {
+        "message": "I take my stance. Deeper, and stronger than ever before."
+    },
+    {
+        "message": "I shift the Tenju I had allocated to defense and speed back into attack. No, more than that—I am using everything for the sake of an attack now."
+    },
+    {
+        "message": "I pour all my power into the Origami, charging it up—！"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「In that case—I’m going all out too.」"
+    },
+    {
+        "message": "Setsugekka-san begins gathering her power as well."
+    },
+    {
+        "message": "I know that stance. A finishing move that once even destroyed the arena wall."
+    },
+    {
+        "message": "Yet right now, the pressure I feel surpasses even that. Its power has probably grown even greater than back then—"
+    },
+    {
+        "name": "Asahi",
+        "message": "（Who cares！ I'll settle this right here！）"
+    },
+    {
+        "message": "Setsugekka-san makes her move. I immediately respond in kind."
+    },
+    {
+        "message": "A single flash, infused with all of my spiritual power."
+    },
+    {
+        "message": "I drive that flash home！！"
+    },
+    {
+        "name": "Asahi",
+        "message": "「Secret Technique: Raitei Issen！！！！」"
+    },
+    {
+        "name": "Setsugekka",
+        "message": "「Mishima-ryuu Type Mizunoto: Banzetsu！！！！」"
+    },
+    {
+        "message": "—I felt a flash of lightning and an impact strong enough to turn the world upside down."
+    },
+    {
+        "message": "Was I standing or had I fallen? Which way was I even facing? I completely lost track of what state I was in."
+    },
+    {
+        "message": "After a while, though, once it finally subsided, the sensation of pain returned to my body."
+    },
+    {
+        "name": "Umpire",
+        "message": "「That's enough！！」"
+    },
+    {
+        "message": "My hearing must have come back too, because I started to hear cheers."
+    },
+    {
+        "message": "At the same time, a loud, booming voice rang out—"
+    },
+    {
+        "name": "Umpire",
+        "message": "「...Winner, Kazamine Setsugekka！！！」"
+    }
+]
