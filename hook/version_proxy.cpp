@@ -484,24 +484,15 @@ static int __cdecl hook_PalFontSetFontSize(int size) {
 
 static int __cdecl hook_PalFontGetSize(LPCSTR str, SIZE* out_sz) {
     int ret = g_orig_PalFontGetSize(str, out_sz);
-    if (ret && str && out_sz && str[0] != '\0') {
-        unsigned char c0 = static_cast<unsigned char>(str[0]);
-        if (str[1] == '\0') {
-            if (c0 == ' ') {
-                int sp = (g_cur_font_height * g_cfg.space_width_percent + 50) / 100;
-                if (sp < 4) sp = 4;
-                out_sz->cx = sp;
-            } else if (c0 >= 0x21 && c0 <= 0x7E) {
-                long adj = out_sz->cx + g_cfg.char_spacing_delta;
-                out_sz->cx = adj > 1 ? adj : 1;
-            }
-        } else if (str[2] == '\0' && c0 == 0x81) {
-            unsigned char c1 = static_cast<unsigned char>(str[1]);
-            // Apply same compact spacing to CP932 curly double quotes “ (0x8167) and ” (0x8168)
-            if (c1 == 0x67 || c1 == 0x68) {
-                long adj = out_sz->cx + g_cfg.char_spacing_delta;
-                out_sz->cx = adj > 1 ? adj : 1;
-            }
+    if (ret && str && out_sz && str[0] != '\0' && str[1] == '\0') {
+        unsigned char c = static_cast<unsigned char>(str[0]);
+        if (c == ' ') {
+            int sp = (g_cur_font_height * g_cfg.space_width_percent + 50) / 100;
+            if (sp < 4) sp = 4;
+            out_sz->cx = sp;
+        } else if (c >= 0x21 && c <= 0x7E) {
+            long adj = out_sz->cx + g_cfg.char_spacing_delta;
+            out_sz->cx = adj > 1 ? adj : 1;
         }
     }
     return ret;
@@ -648,13 +639,29 @@ static void sanitize_favoice_dat() {
         }
         if (f5_start + 2 <= content_end && buf[f5_start] == '"' && buf[content_end - 1] == '"') {
             out.insert(out.end(), buf.begin() + line_start, buf.begin() + f5_start + 1);
-            bool open_q = true;
-            for (size_t j = f5_start + 1; j < content_end - 1; ++j) {
+            size_t inner_start = f5_start + 1;
+            size_t inner_end = content_end - 1;
+            // Strip redundant outer dialogue quotes (""text"" or 0x8167..0x8168) cleanly,
+            // and replace any remaining inner '"' with ASCII '\'' so CSV parsing never breaks
+            // and text renders cleanly on any Windows locale.
+            if (inner_start + 2 <= inner_end && buf[inner_start] == '"' && buf[inner_end - 1] == '"') {
+                ++inner_start;
+                --inner_end;
+                modified = true;
+            }
+            for (size_t j = inner_start; j < inner_end; ++j) {
                 if (buf[j] == '"') {
-                    // Replace nested ASCII '"' with CP932 curly double quote (0x8167 / 0x8168)
-                    out.push_back(static_cast<char>(0x81));
-                    out.push_back(static_cast<char>(open_q ? 0x67 : 0x68));
-                    open_q = !open_q;
+                    out.push_back('\'');
+                    modified = true;
+                } else if (j + 1 < inner_end &&
+                           static_cast<unsigned char>(buf[j]) == 0x81 &&
+                           (static_cast<unsigned char>(buf[j + 1]) == 0x67 ||
+                            static_cast<unsigned char>(buf[j + 1]) == 0x68)) {
+                    // Also clean any 0x8167/0x8168 written by an earlier sanitizer build
+                    if (j > inner_start && j + 2 < inner_end) {
+                        out.push_back('\'');
+                    }
+                    ++j;
                     modified = true;
                 } else {
                     out.push_back(buf[j]);
